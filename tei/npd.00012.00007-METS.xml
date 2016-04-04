@@ -1,0 +1,4695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00012.00007">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title>Nebraska Public Documents Project</title>
+				        <author/>
+			      </titleStmt>
+			      <publicationStmt>
+				        <publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+				        <pubPlace>Lincoln, NE</pubPlace>
+				        <idno>00012.00007</idno>
+				        <availability>
+					          <p/>
+				        </availability>
+				        <date>2007</date>
+			      </publicationStmt>
+		       <sourceDesc>
+		          <bibl>
+		             <title>SEVENTEENTH BIENNIAL REPORT OF THE SUPERINTENDENT OF THE Nebraska Hospital for the Insane TO THE GOVERNOR For the Period Ending November 30, 1904</title>
+		             <date value="1904">1904</date>
+		          </bibl>
+		       </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change>
+			         <date>2007-07-20</date>
+			         <respStmt>
+			            <name>Laura Weakly</name>
+			         </respStmt>
+			         <item>Validation</item>
+			      </change>
+			      <change>
+			         <date>2007-06-28</date>
+			         <respStmt>
+			            <name>Katherine M. Heupel</name>
+			         </respStmt>
+			         <item>Enrichment</item>
+			      </change>
+			      <change>
+				        <date>2006-11-29-05:00</date>
+				        <respStmt>
+					          <name>OCLC Online Computer Library Center Inc.</name>
+				        </respStmt>
+				        <item>Initial Creation</item>
+			      </change>
+		    </revisionDesc>
+	  </teiHeader>
+	  <text>
+		    <body>
+         <p>
+            <seg id="p001">
+SEVENTEENTH BIENNIAL REPORT 
+
+OF IBM 
+
+SUPEEINTENDENT 
+
+or thb 
+
+Nebraska Hospital for the Insane 
+
+TO THB 
+
+GOVERNOR 
+
+For the Period Ending November 30, 1904 
+
+BT 
+
+JAMES L. GREENE, M.D., Superintendent </seg>
+
+
+            <seg id="p002">
+Hon. Geo. D. Follmer, Commissioner Public Lands 
+and Buildings President 
+
+Hon. Geo. W. Marsh, Secretary of State Secretary 
+
+Hon. Prank N. Prout Attorney General 
+
+Hon. Peter Mortensen State Treasurer 
+
+RESIDENT OFFICERS. 
+
+James L. Greene, M. D Superintendent 
+
+John T. Hay, M. D First Assistant Physician 
+
+Mabel Dunn, M. D Second Assistant Physician 
+
+George A. Young, M. D Pathologist 
+
+Albert D. Gilmore, Esq Steward 
+
+Miss Cora L. Damrow Matron 
+
+NON-EESIDENT. </seg>
+
+
+            <seg id="p003">
+REPORT. 
+
+Bon. John H. Mickey, Governor: 
+
+Sir — The seventeenth biennial report of the Nebraska Hospital 
+for the Insane, at Lincoln, for the period beginning December 
+1, 1902, and ending November 30, 1904, as provided 
+for by law, is herein submitted. 
+
+MANAGEMENT. 
+
+The official staff has continued in service since the last report, 
+without change. 
+
+NUMBER OF PATIENTS TREATED. 
+
+At the beginning of the biennial period there were present 
+516 patients (194 males and 322 females). There have been 
+admitted and returned from parole during the period 1,087 
+patients (649 males and 438 females), making a total of 1,603 
+patients under treatment for the two years. At the close of 
+business, November 30, 1904, there were present 588 (214 
+males and 374 females). The greatest number present on 
+any particular day was 629, on June 17, 1903. 
+
+During the entire biennial period just closed this hospital 
+has received and cared for all patients offered from the entire 
+state, and there has not been delay in a single case when the 
+law has been complied with. This course of procedure has 
+crowded the house far beyond its capacity, and rendered the 
+burden of all concerned much greater than it would have been 
+had a normal number been under treatment. This crowded 
+condition was directly responsible for an accident, in which 
+one patient, a male, lost his life. 
+
+GENERAL HEALTH. 
+
+There has been no epidemic disease present here during the 
+past two years. An occasional case of erysipelas has oc- </seg>
+
+            <seg id="p004">
+70 
+
+LAND COMMISSIONER'S REPORT. 
+
+curred, generally during the winter months. There were 
+seven cases of enteric fever this fall, all of them occurring in 
+patients who had more or less freedom of the grounds, and, 
+consequently, opportunity to partake of food and drink without 
+suitable observation and supervision. In the main the 
+ailment was mild, and all save one patient recovered. One 
+of the oldest employees in point of time of service became infected 
+and lost his life, after an illness of three weeks. 
+
+With the foregoing exceptions, the health of all detained 
+here has been better than could reasonably have been expected, 
+considering the crowded condition. 
+
+REPAIRS AND IMPROVEMENTS. 
+
+The plan formulated at the beginning of the previous biennium, 
+when the present management took charge here, viz., 
+to put the entire plant in first-class order, has been followed 
+most assiduously, and results are now apparent. 
+
+The surgical operating room mentioned in the last report 
+as being under way has been finished, furnished and equipped 
+with every material thing required for modern surgery in all 
+its branches. Visiting physicians and surgeons have commended 
+and pronounced it the best in the state. Operations 
+of all grades of importance have been performed, some of 
+tkem to relieve conditions of pain and suffering that had existed 
+for years. 
+
+The pathologic laboratory has been furnished and equipped 
+with all of the instruments of precision needed in modern 
+medicine. This addition to the hospital's armamentarium 
+does more than all else toward modernizing its methods. 
+
+E? last legislature increased the appropriation for wages, 
+the distinct understanding that night nurses would be 
+ded in all departments of the hospital. This has been 
+done, and has contributed more than all else to the comfort 
+of the patients. It enables us to care for them in unlocked 
+rooms, and is another advancement in modern care of the </seg>
+
+
+            <seg id="p005">
+71 
+
+
+lature for new plumbing. The amount has been expei 
+under the direction of the Board of Public Lands and Build 
+ings, and the entire hospital plant now has new plumbing of 
+a modern type. 
+
+Two vertical water tube boilers, of 100 horse-power capacity 
+each, have been purchased and installed. All the work 
+of removing the old boilers and erecting the new ones was 
+performed by the hospital's regularly employed force, under 
+the direction of the chief engineer, Mr. George Blakely. 
+
+The funds for rebuilding the barn, which was destroyed by 
+fire more than two years ago, have been expended, and the 
+barn has just been finished. It is a very satisfactory structure 
+and will meet the requirements for many years. 
+
+The greenhouse has been repaired and enlarged in such a 
+way as to render it better suited to the needs of the institu- 
+
+tion. 
+
+The work of general repairs has been carried on constantly. 
+A painter, with two or three patients, has worked constantly 
+for two years. The institution's carpenter, with patients for 
+helpers, has been steadily employed. An item of repair that 
+deserves special mention is steel ceiling. These have been 
+placed in all the bathrooms of the main building and upon 
+two of the wards. They are both ornamental and durable, 
+and will stop a constant expense of repairing plaster. 
+
+The grounds about the hospital, in both front and rear, 
+have had constant attention. New curbing along drives has 
+been provided in many places, making an ornamental and 
+permanent improvement. 
+
+Several hundred fruit and shade trees have been planted, 
+given good care, and are doing well. 
+
+THE FABM, GARDEN AND STOCK. 
+
+The yield from the farm and garden has been quite satisfactory 
+for both years covered by this report, and has contributed 
+more than at any like period in the past toward the 
+maintaining of the patients. The policy of keeping all of the </seg>
+
+            <seg id="p006">
+72 
+
+LAND COMMISSIONER'S REPORT. 
+
+place. This year the farm has furnished beef for the entire 
+institution for about thirty weeks, and we have left 242 cattle 
+of all ages on the place, with an abundant supply of feed to 
+carry them through the winter. 
+
+The hogs have been carefully managed, and the breeding 
+brought to a higher standard. The farm now produces both 
+Poland China and large English Berkshires of pure blood, 
+and these herds are drawn upon by many farmers in this and 
+adjoining counties for the purpose of improving their herds. 
+There has been no sickness among our swine during the past 
+two years. It is thought that this result has been obtained 
+by careful sanitation. There is now being slaughtered from 
+day to day hogs eleven months old, weighing 320 pounds each. 
+This meat will be cured upon the place and will aid materially 
+in reducing the expense during the coming year. 
+
+FINANCIAL STATEMENT. 
+
+The legislature of 1903 appropriated |172,600 to pay salaries 
+and maintain and improve this hospital for the period 
+beginning April 1, 1903, and ending March 31, 1905. The 
+amounts thus appropriated for this period were estimated 
+upon the number of patients likely to be present. At the time 
+the matter had final consideration it was thought by the committees 
+in charge of the appropriations that the Norfolk Hospital 
+would be open and care for patients from that district 
+for at least ten months of the period. As it has terminated, 
+that institution will not be occupied before May 1, 1905. This 
+hospital has continued to receive all of the patients offered 
+from the entire state, with the result that expenditures from 
+several of our funds, that depend entirely upon the number 
+of patients present, have been unusually large, and deficiencies 
+in board and clothing, drugs and postage have occurred. 
+
+The following table shows the condition of the various 
+funds at the close of business, November 30, 1904. The balance 
+in these funds is supposed to pay expenses to April 1, 
+1905. That it is inadequate is obvious. I suggest that you </seg>
+
+            <seg id="p007">
+73 
+
+STATE HOSPITAL FOR INSANE. 
+
+request that they do as they did two years ago, viz., by special 
+
+act, passed early in the session, transfer from the funds ap- 
+
+propriated for Norfolk two years ago, or appropriate outright 
+
+by special act at least $18,000 for a general deficiency fund, 
+
+to carry these current expenses to April 1, 1905. 
+
+Appropriated Bal. Nov. 5», 1904 
+
+Employees' wages $ 48,000 00 97,711 r&gt;4 
+
+Services chaplain 300 00 75 00 
+
+Board and clothing 70,000 00 764 64 
+
+Fuel and lights 15,000 00 465 26 
+
+General repairs 4,000 00 16 54 
+
+Paints and oils ,. 1,200 00 84 2 7 
+
+Horses, harness, garden and 
+
+farming implements 1,000 00 8 82 
+
+New range and kitchen furni- 
+
+ture 1,000 00 92 93 
+
+Returning patients and burial 
+
+expenses 1,250 00 5 48 
+
+Drugs, books and instruments 3,000 00 4 74 
+
+Postage, stationery, freight 
+
+and express 1,250 00 74 64 
+
+Building barn 5,000 00 218 97 
+
+New plumbing 3,000 00 90 
+
+Repairing and improvements 
+
+on greenhouse 1,000 00 107 26 
+
+Totals fl55,000 00 f 9,645 99 
+
+PEB CAPITA COST. 
+
+The per capita cost of this biennial period has been as fol- 
+
+lows: 
+
+First semi-annual period, December 1, 1902, to May 
+31, 1903 $ 76 76 
+
+Second semi-annual period, June 1, 1903, to November 
+30, 1903 90 06 
+
+Third semi annual period, December 1, 1903, to May </seg>
+
+            <seg id="p008">
+74 
+
+
+The above statement represents the cost from funds appro- 
+
+priated by the legislature, and does not include the value of 
+farm products consumed or expenditures from our cash fund, 
+which fund comes largely from the sale of the products of the 
+farm. It does, however, include the expenditure of $17,000 
+for permanent improvements, such as barn, boilers and en- 
+
+gine, greenhouse, etc. 
+
+IMPROVEMENTS NEEDED. 
+
+Fire Protection. 
+
+The reservoir, on top of the hill south of the hospital, is of 
+
+Ky solid masonry, but inadequate in capacity. It can have 
+addition of eight feet built on its present wall with safety, 
+1 thus increase not only its capacity, but the pressure in 
+
+the mains. 
+
+Neic Boiler 8 and Dynamos. 
+
+Two additional boilers will be required. When these are 
+
+installed, in addition to the two provided for by the last legislature, 
+this item of repairs will be finished, and nothing in 
+
+the same line will be required for at least fifteen years. 
+The dynamos having been in use for sixteen years, the 
+
+greater part of which time they have carried an overload beyond 
+their rated capacity, as a consequence are worn out and 
+
+must be replaced. 
+
+Neic Building. 
+
+Your attention is called to the fact that the arrangement 
+
+of this hospital provides for more women than men. There 
+are present to-day 374 women and 214 men. This hospital 
+owns the largest and best tract of farm land belonging to any 
+state institution ; yet, owing to the small number of male patients 
+kept here, it is always difficult to find enough help to 
+carry on the work of the farm. An appropriation of f 50,000 
+would provide room for 175 more male patients, and provid- 
+
+Fourth semi-annual period, Juna.1, 1904, to Novem- 
+
+ber 30, 1904 79 0&lt; 
+
+Total |336 9 </seg>
+
+            <seg id="p009">
+75 
+
+
+ing for that number here, would lessen the annual per capita 
+tost of maintenance at the hospital, besides, before this building 
+could possibly be erected, there will be a pressing need 
+for room. 
+
+Conclusion. 
+
+A report from the pathologist and a series of tables of interest 
+to those who wish to compare this with former periods 
+follows. The steward's report contains a statement in detail 
+of all the funds received and expended during the period covered 
+by this report. Vouchers, properly executed and approved, 
+for each item of expenditure, are on file at the hospital. 
+
+
+The lasting gratitude of all the officers of this hospital is 
+due your Excellency and the Board of Public Lands and 
+Buildings for valuable advice and aid at all times, and for 
+the constant evidence of confidence yon have shown the management 
+; also for the privilege of having administered its affairs 
+untrammeled by the spoils system of politics. 
+
+Kespectfully submitted, 
+
+Jamks L. Greene, 
+
+Superintendent. 
+
+Asylum, Neb., November 30, 1904. 
+
+REPORT OF PATHOLOGIST. 
+
+To the Superintendent : 
+
+The laboratory, as at present equipped, has been in existence 
+since November, 1903, and has proved its purpose of 
+practical utility. While there are yet improvements to be 
+made, and while the work is still rather unsystematic, it 
+is to be hoped that, with the coming biennium, the pathological 
+department will be fully organized and its work will be 
+carried on in close co-operation with that of the clinical side 
+of the hospital. 
+
+At the disposal of the worker here can be found the necea- </seg>
+
+            <seg id="p010">
+76 
+
+
+urine, and gastric analysis, bacteriology, and for the demonstration 
+of pathological anatomy and histology. 
+
+This apparatus has been constantly employed by the pathologist, 
+blood examinations and gastric analyses being made 
+when called for; urinalysis, as a routine measure with every 
+patient admitted; bacteriological examinations of the blood, 
+urine, and feces in cases of typhoid fever, acute delirium, and 
+such other cases as present the clinical picture of an acute 
+infection; microscopical examination of the sputum when 
+pulmonary tuberculosis is suspected, and of the membrane 
+in cases of suspected diphtheretic sore throat Airtight, 
+sealed tubes of the different culture media are kept on hand 
+to be used for emergencies. Whenever autopsies have been 
+allowed, the same have been performed by the pathologist, 
+and the findings recorded. The different viscera and cranial 
+contents, when affording specimens of interest, have been preserved 
+to form the nucleus of a hospital museum. In every 
+autopsy sections of the central nervous system have been 
+made for microscopical examination, and further examinations 
+have been made more or less exhaustively, according to 
+the findings as shown by the result of the routine procedure. 
+
+A useful measure of importance in a hospital for the insane 
+is lumbar puncture and a careful examination of the cerebrospinal 
+fluid, according to a prescribed technic. It affords a 
+means of differential diagnosis between functional and organic 
+nervous disease, and at times is of a distinct therapeutic 
+efficiency. It is of especial utility in distinguishing between 
+the early stages of paresis and the acute so-called functional 
+psychoses. Lumbar puncture has been introduced here with 
+satisfactory results, and will doubtless remain as a recognized 
+aid in the hospital work. There have come to autopsy during 
+the past eighteen months ten cases, of which two were 
+complete, including the thoracic and abdominal viscera, as 
+well as the central nervous system. The rest were partial, 
+the cranial contents only being examined. When possible, 
+it is to be desired that the autopsies be complete, more comprehensive 
+and reliable statistics thereby being obtained. </seg>
+
+            <seg id="p011">
+STATE HOSPITAL FOR INSANE. 
+
+77 
+
+In this series there were several instructive cases, one of 
+which deserves mention. The patient was a man of 68, a case 
+of mild alcoholic delirium, who rapidly became convalescent 
+and, to all appearances, healthy. A month after his admission 
+he developed stupor and a left hemiplegia, and, passing 
+into, coma, died, seven days after failure in health was first 
+noted. The clinical diagnosis was cerebral thrombosis. The 
+anatomical and microscopical diagnosis was a gelatinoform, 
+small-celled sarcoma, infiltrating in character, involving the 
+right frontal lobe, and extending from the pre-frontal pole to 
+the anterior extremity of the central ganglia, and laterally 
+to the cortex of the Rolandic area. The absence of clinical 
+symptoms, indicating destruction of brain tissue, in the presence 
+of so large a growth, is certainly indicative of the latent 
+character of the frontal lobe. 
+
+Needed improvements in the pathological department include 
+a special record book for inscribing the results of all 
+examinations and analyses made in the laboratory, together 
+with the name and case number of the patient examined. 
+This will provide data for future statistics, and a means of 
+comparison with clinical records of the physicians' office. 
+
+A new morgue is urgently needed along with the necessary 
+post-mortem table and other facilities appertaining thereto. 
+An ice cabinet, for preserving the cadaver, is of the utmost 
+importance to preserve the integrity of the finer structures 
+of the nerve cells from post-mortem change. The importance 
+of an active co-operation between the clinical and laboratory 
+departments of the hospital can not be too strongly emphasized. 
+
+
+The pathologist wishes to express his sincere thanks to the 
+superintendent for the encouragement he has given the work 
+in this department, and for the material way in which he has 
+added to the equipment of the laboratory. 
+
+Respectfully submitted, 
+
+G. A. Young, </seg>
+
+
+            <seg id="p012">
+78 
+
+
+n\j. v. 
+
+eneral Statement for the Thi: 
+
+ity-foto Years Fnding November 
+
+30,: 
+
+904. 
+
+p 
+
+! 
+1 
+&lt; 
+
+1 
+I 
+
+-a 
+1 
+I 
+I 
+
+¦3 
+I 
+
+•a 
+i 
+S 
+'a 
+
+§ 
+s 
+w 
+o 
+
+1 
+i 
+z 
+
+•o 
+§ 
+I 
+
+1 
+¦ 
+1 
+2 
+
+I 
+
+1 
+o 
+
+.1 
+Q 
+
+L871 
+L872 
+L873 
+L874 
+L875 
+L8TO 
+877 
+.878 
+879 
+.880 
+
+8H4 
+.885 
+8*; 
+887 
+1888 
+.889 
+X90 
+891 
+H92 
+893 
+.894 
+895 
+K96 
+.897 
+.898 
+.899 
+.900 
+1901 
+L902 
+1903 
+
+56 
+49 
+56 
+46 
+61 
+93 
+99 
+120 
+160 
+193 
+230 
+273 
+282 
+360 
+358 
+374 
+400 
+392 
+309 
+326 
+346 
+273 
+317 
+341 
+348 
+351 
+360 
+330 
+369 
+365 
+531 
+516 
+513 
+
+87 
+29 
+38 
+17 
+46 
+72 
+52 
+83 
+117 
+114 
+124 
+161 
+206 
+204 
+185 
+202 
+202 
+219 
+194 
+201 
+189 
+200 
+242 
+269 
+255 
+225 
+216 
+226 
+253 
+250 
+968 
+476 
+530 
+524 
+
+87 
+85 
+87 
+73 
+92 
+133 
+145 
+182 
+237 
+274 
+317 
+394 
+479 
+486 
+545 
+560 
+576 
+619 
+586 
+513 
+519 
+550 
+518 
+587 
+598 
+573 
+572 
+586 
+589 
+619 
+732 
+1012 
+1062 
+1064 
+
+8 
+20 
+14 
+15 
+20 
+30 
+24 
+38 
+42 
+44 
+48 
+71 
+74 
+74 
+81 
+97 
+96 
+72 
+72 
+83 
+81 
+67 
+92 
+90 
+115 
+101 
+93 
+73 
+106 
+90 
+80 
+106 
+166 
+113 
+
+3 
+5 
+10 
+6 
+4 
+5 
+6 
+11 
+18 
+11 
+16 
+18 
+47 
+22 
+33 
+46 
+19 
+21 
+30 
+a 
+19 
+21 
+:i9 
+41 
+128 
+22 
+27 
+14 
+14 
+17 
+47 
+60 
+91 
+79 
+
+1 
+4 
+2 
+
+5 
+1 
+2 
+1 
+2 
+7 
+6 
+6 
+52 
+19 
+37 
+19 
+22 
+8 
+5 
+2 
+41 
+40 
+16 
+26 
+28 
+22 
+8 
+8 
+4 
+9 
+7 
+20 
+23 
+20 
+
+1 
+2 
+1 
+
+i 
+4 
+
+1 
+4 
+2 
+6 
+2 
+1 
+2 
+4 
+4 
+2 
+3 
+3 
+3 
+2 
+2 
+3 
+7 
+4 
+7 
+
+12 
+
+"i" 
+
+5 
+
+1 
+1 
+1 
+1 
+1 
+1 
+
+i' 
+l 
+
+2 
+4 
+2 
+2 
+1 
+
+1 
+5 
+2 
+5 
+2 
+3 
+13 
+11 
+14 
+15 
+17 
+25 
+23 
+20 
+36 
+21 
+31 
+25 
+19 
+32 
+27 
+31 
+21 
+24 
+30 
+19 
+23 
+30 
+36 
+28 
+27 
+52 
+61 
+54 
+
+I 
+
+! 
+
+97 
+131 
+86 
+
+56 
+49 
+56 
+46 
+61 
+93 
+99 
+120 
+160 
+193 
+230 
+273 
+282 
+330 
+358 
+374 
+400 
+392 
+309 
+326 
+346 
+273 
+317 
+341 
+348 
+351 
+360 
+
+3 
+4 
+4 
+3 
+1 
+2 
+
+2 
+2 
+2 
+1 
+1 
+1 
+2 
+2 
+3 
+1 
+4 
+1 
+4 
+
+12 
+41 
+4 
+14 
+1 
+17 
+
+100 
+26 
+42 
+61 
+30 
+57 
+107 
+54 
+89 
+32 
+182 
+186 
+109 
+
+5' 
+
+34' 
+
+6 
+
+9 
+5 
+16 
+17 
+
+19 
+2 
+16 
+4 
+66 
+17 
+80 
+
+365 
+531 
+516 
+513 </seg>
+
+            <seg id="p013">
+STATB HOSPITAL FOR INSANR 
+
+79 
+
+TABLE NO. 1. 
+
+Melancholia — 
+
+Acute 136 86 222 
+
+Sub-acute 15 33 48 
+
+Chronic 9 17 26 
+
+
+OVEMENT OF 
+
+'OPULATION. 
+
+1903 
+
+1904 
+
+Tou: 
+
+for 
+
+'ears 
+
+m 
+
+I 
+"3 
+§ 
+ft. 
+
+I 
+
+1 
+3 
+
+8 
+I 
+
+I 
+
+I 
+S3 
+
+v 
+"3 
+
+1 
+
+n hospital at beginning 
+of year 
+Returned from parole . . . 
+Vdmitted 
+
+— 
+
+194 
+7 
+308 
+
+322 
+9 
+222 
+
+— 
+
+516 
+16 
+
+330 
+Q 
+
+M 
+
+513 
+17 
+524 
+
+d 
+
+— 
+
+322 
+18 
+420 
+
+516 
+33 
+.054 
+
+183 
+
+8 
+3:6 
+
+Under treatment 
+
+509 
+
+553 
+
+1062 
+
+517 
+
+537 
+
+1054 
+
+843 
+
+7ed 
+
+I 1603 
+
+Discharged recovered . . . 
+Discharged improved... 
+Discharged unimproved. 
+Discharged not insane. . . 
+transferred to Hastings. 
+absent on parole 
+Sloped 
+Died 
+
+98 
+48 
+12 
+4 
+127 
+8 
+] 
+28 
+
+68 
+43 
+11 
+
+166 
+91 
+23 
+4 
+186 
+17 
+1 
+61 
+
+77 
+44 
+15 
+4 
+99 
+35 
+4 
+25 
+
+% 
+
+113 
+79 
+20 
+7 
+109 
+80 
+4 
+54 
+
+175 
+92 
+27 
+8 
+226 
+
+104 
+78 
+16 
+a 
+
+279 
+170 
+43 
+11 
+295 
+97 
+5 
+115 
+
+' '59 
+9 
+
+A 
+
+54 
+
+33 
+
+-id 
+
+A 
+
+¦&gt; 
+
+Total removed 
+
+326 
+
+223 
+
+549 
+
+303 
+
+466 
+
+629 
+
+1015 
+
+163 
+
+Remaining Nov. 30. . . 
+
+183 
+
+330 
+
+513 
+
+214 
+
+374 
+
+588 
+
+214 
+
+374 
+
+« 
+
+Av. number treated 
+
+227.7 
+
+360.9 
+
+588.7 
+
+365.5 
+
+575.8 
+
+215.2 
+
+TABL] 
+
+B NO. 2. 
+
+HType of Disease o\ 
+r- 
+
+1 Patients Admitted. 
+
+Males. Females. 
+
+Total. 
+
+Acute 
+
+91 44 
+
+135 
+
+Sub-acute 
+
+68 18 
+
+86 
+
+Chronic 
+
+46 39 
+
+85 
+
+Recurrent 
+
+19 19 
+
+38 
+
+Puerperal 
+
+3 
+
+3 </seg>
+
+            <seg id="p014">
+80 
+
+
+Dementia — 
+
+Primary 4 1 5 
+
+Secondary 20 43 63 
+
+Senile 35 23 58 
+
+Organic 24 7 31 
+
+Acute delirium 5 5 
+
+Circular insanity 3 3 
+
+Paranoia 15 22 37 
+
+Paresis 32 8 40 
+
+Epileptic insanity 51 22 73 
+
+Alcoholic insanity 24 1 25 
+
+Drug habit 8 9 17 
+
+Imbecility 18 6 24 
+
+Not insane 11 3 14 
+
+Totals 634 420 1,054 
+
+TABLE NO. 3. 
+
+Counties From Which Patients Were Admitted, 
+
+Males. Females. Total. 
+
+Adams 13 10 23 
+
+Antelope. 8 2 10 
+
+Boone 4 . . 4 
+
+3 9 
+
+2 10 
+
+4 18 
+
+2 16 
+
+2 6 
+
+5 12 
+
+13 24 
+
+1 3 
+
+2 8 
+
+Cheyenne 2 . . 2 
+
+Clay 3 4 7 
+
+n 
+
+Colfax 2 7 9 
+
+
+BoxButte 6 
+
+Brown 8 
+
+Buffalo 14 
+
+Butler 14 
+
+Boyd 4 
+
+¦** » 
+
+°- » 
+
+Chase 2 
+
+Cherry 6 </seg>
+
+
+            <seg id="p015">
+81 
+
+Caster 12 5 17 
+
+Cedar , , 7 5 12 
+
+1 • 
+
+Dakota » 3 . . 3 
+Dawes 5 16 
+
+4 8 
+
+1 
+
+
+9 19 
+
+49 132 
+
+Dundy 3 . . 3 
+
+Fillmore 7 6 13 
+
+Franklin 10 1 H 
+
+Frontier 4 . . 4 
+
+Fumas 6 4 10 
+
+Gage 12 12 24 
+
+Eeld 
+
+2 .. 2 
+
+Greeley 3 14 
+
+** 3 » * 
+
+er 4 . . 4 
+
+
+Hall 10 8 18 
+
+Hamilton 5 6 11 
+
+Harlan 4 5 9 
+
+Hayes 3 . . 3 
+
+Hitchcock 3 2 5 
+
+Howard 3 6 9 
+
+Holt 6 6 12 
+
+Jefferson 9 10 19 
+
+Johnson 5 3 8 
+
+Keith 1 1 2 
+
+Kearney 7 6 13 
+
+KeyaPaha 2 .. 2 
+
+Kimball 1 .. 1 
+
+Knox. 10 6 16 
+
+Lancaster 90 66 156 
+
+Lincoln 3 . . 3 
+
+
+ftTflQI8OTl ••••••••••••• • 1 5 
+
+?awson ,. 4 
+
+*nel 1 
+
+ixon 3 
+
+ouglaa 83 </seg>
+
+            <seg id="p016">
+82 
+
+LAND COMMISSIONER'S REPORT. 
+
+Merrick 7 4 11 
+
+Nance 5 2 7 
+
+Nemaha 12 5 17 
+
+Nuckolls 7 5 12 
+
+T 
+
+Otoe 16 11 27 
+
+Pawnee 7 4 11 
+
+Perkins 1 . . • 1 
+
+Phelps 3 . . 3 
+
+Pierce 6 4 10 
+
+Platte 7 5 12 
+
+
+Polk 8 3 11 
+
+Red Willow 1 1 2 
+
+2 
+
+7 18 
+
+1 2 
+
+11 15 
+
+2 3 
+
+13 24 
+
+Seward 6 5 11 
+
+Sheridan 4 . . 4 
+
+Sherman 2 2 4 
+
+_ 
+
+Sioux 1 1 2 
+
+Stanton 4 8 12 
+
+Scotts Bluff 1 1 2 
+
+Thaver 12 5 17 
+
+Vallev 6 4 10 
+
+Washington 9 5 14 
+
+Wayne 9 3 12 
+
+Webster 5 8 13 
+
+Wheeler 1 1 
+
+York 8 7 15 
+
+TABLE NO. 4. 
+'Ages of Patients Admitted. 
+
+Age— Males. Females. Total. 
+
+15 to 20 28 20 48 
+
+20 to 25 64 35 99 
+
+25 to 30 74 47 121 
+
+Richardson 
+
+Kock 
+
+1 
+
+Saline 
+
+4 
+
+Sarpy 
+
+1 
+
+Saunders 
+
+11 </seg>
+
+            <seg id="p017">
+STATE HOSPITAL FOR INSANE. 
+
+83 
+
+30 to 35 81 55 136 
+
+35 to 40 74 62 136 
+
+40 to 45. . . , 72 46 118 
+
+45 to 50 61 39 100 
+
+50 to 55 47 37 g4 
+
+55 to 60 39 21 60 
+
+60 to 65 24 20 44 
+
+65 to 70 23 11 34 
+
+70 to 75 23 10 33 
+
+75 to 80 12 8 20 
+
+80 to 85 9 5 u 
+
+85 to 90 2 1 3 
+
+Unknown 1 3 4 
+
+Totals 634 420 1,054 
+
+TABLE NO. 5. 
+
+Civil Condition of Patients Admitted. 
+
+Males. Females. Total. 
+
+Married 235 238 473 
+
+Single 323 98 421 
+
+Widowed 57 62 119 
+
+Divorced 14 21 35 
+
+Unknown 5 1 6 
+
+Totals 634 420 1,054 
+
+TABLE NO. 6. 
+Nativity of Patients Admitted. 
+
+Males. Females. Total. 
+
+Austria 8 5 13 
+
+Bohemia 12 13 25 
+
+1 13 
+
+
+4 16 
+
+1 
+
+47 123 
+
+Canada 1 
+
+Denmark li 
+
+England 1 
+
+France </seg>
+
+            <seg id="p018">
+84 
+
+LAND COMMISSIONER'S REPORT. 
+
+Holland 1 l 2 
+
+Italy 1 . . i 
+
+Ireland 20 4 24 
+
+Iceland 1 i 
+
+Moravia 2 4 C 
+
+Norway 4 4 8 
+
+Poland 3 2 5 
+
+Prince Edward Isle 1 1 
+
+Rumania 1 . . l 
+
+Bmnsi 4 9 13 
+
+Scotland 1 .. l 
+
+Sweden 36 23 59 
+
+Switzerland 1 2 3 
+
+* * dlCS •¦••¦••••••••¦••••••¦••»••.. £ o 
+
+K 
+
+i&gt; 
+
+United States 423 277 700 
+
+Unknown 4 6 10 
+
+Totals 634 420 1,054 
+
+TABLE NO. 7. 
+
+Occupations of Patients Admitted. 
+
+Males. Females. Total. 
+
+Agents 7 1 8 
+
+Bartenders 3 . . 3 
+
+Blacksmiths 7 
+
+•7 
+
+7 
+
+
+Barbers 6 . . 6 
+
+Boarding housekeepers 1 1 
+
+Bookkeepers 1 1 
+
+Bookbinder 1 1 
+
+Boilermaker 1 . . 1 
+
+Broker 1 . . 1 
+
+Batchers 2 .. 2 
+
+_ 
+
+Carpenters 22 . . 22 
+
+Canvasser 1 . . 1 
+
+Clerks • 7 7 </seg>
+
+
+            <seg id="p019">
+¦ 
+
+STATE HOSPITAL FOE INSANE. 
+
+Contractor 1 . . 1 
+
+Collectors 1 . . 1 
+
+Cooks 3 . . 3 
+
+Domestics * 23 23 
+
+Dentist 1 . . 1 
+
+Dressmakers 8 8 
+
+Draymen 2 . . 2 
+
+_ 
+
+Druggists 3 . . 3 
+
+Electrician 1 . . 1 
+
+Engineers, stationary 3 .. 3 
+
+Engineers, locomotive. 3 . . 3 
+
+Farmers 239 . . 23H 
+
+Farm laborers 66 . . 66 
+
+Fireman, stationary 1 . . 1 
+
+Firemen, locomotive 2 . . 2 
+
+Gardener 1 . . 1 
+
+Hack driver 1 . . 1 
+
+Horse trainers 2 . . 3 
+
+Housekeepers 309 309 
+
+Laborers 118 2 120 
+
+Lather 1 . • 1 
+
+Lawyers 4 . . 4 
+
+Masons 6 . . 6 
+
+Matron 1 1 
+
+Merchants 8 . . 8 
+
+Musicians 3 . . 3 
+
+Music teacher 1 1 
+
+Miller 1 . . 1 
+
+Machinist 1 . . 1 
+
+Miners 2 . . 2 
+
+Missionary 1 . . 1 
+
+Painters 7 . . 7 
+
+Peddlers 2 .. 2 
+
+Physicians 7 
+
+Plasterers 2 . . 2 
+
+Policeman 1 . . 1 </seg>
+
+            <seg id="p020">
+86 
+
+LAND COMMISSIONER'S REPORT. 
+
+Porters 2 
+
+1 
+
+
+Printers. 8 . . 8 
+
+Postal clerk 1 .. 1 
+
+Railroad conductors 2 . . 2 
+
+Railroad laborers •. 6 . . 6 
+
+Sheep herders 2 . . 2 
+
+Shoemaker 1 . . 1 
+
+Steamfitter 1 . . 1 
+
+Street car conductor 1 . . 1 
+
+
+Stenographer 1 1 
+
+Teachers 15 6 
+
+Telegrapher 1 . . 1 
+
+Trapper 1 . . 1 
+
+Traveling salesmen 6 .. 6 
+
+Tinners 2 . . 2 
+
+- 
+
+Tailors 3 . . 3 
+
+Veterinary surgeon 1 . . 1 
+
+Waiters 2 . . 2 
+
+Wagonmaker 1 . . 1 
+
+Well digger. 1 . . 1 
+
+Washwomen 2 2 
+
+No occupation 34 56 90 
+
+Unknown 3 . . S 
+
+Totals 634 420 1,054 
+
+TABLE NO. 8. 
+
+Causes of Death. 
+
+Males. Females. Total. 
+
+
+Anaemia 2 2 
+
+Cerebral apoplexy 2 5 7 
+
+Brain tumors. . 2 . . 2 
+
+Carcinoma of intestines 2 2 
+
+Acute delirium 4 1 </seg>
+
+            <seg id="p021">
+STATE HOSPITAL FOR INSANE. 
+
+87 
+
+Diabetes millitis 1 1 2 
+
+Dysentery 2 '2 
+
+Erysipelas 1 3 4 
+
+Epilepsy 2 1 3 
+
+Exhaustion of acute mania 8 1 9 
+
+Exhaustion of chronic mania 1 1 
+
+Exhaustion of acute melancholia 4 4 8 
+
+Exhaustion of senile dementia 5 2 7 
+
+Epithelioma of face 1 . . 1 
+
+Enteritis 1 1 
+
+Enteric fever 2 2 
+
+Meningitis cerebro spinal 1 1 
+
+Organic brain disease 13 2 15 
+
+Organic heart disease 1 2 3 
+
+Pneumonia. 1 14 15 
+
+Pleuritis 1 . . 1 
+
+Paralysis of the heart 2 2 
+
+Pachymeningitis 1 . . 1 
+
+Paresis 7 4 11 
+
+Pulmonary tuberculosis 3 3 
+
+Senile gangrene 1 1 
+
+Inanition 1 1 
+
+Suicide 1 . . 1 
+Tuberculosis meningitis 1 ... 1 
+
+Totals 43 62 115 
+
+REPORT OP STEWARD. 
+
+STATEMENT OP INCOME AND EXPENSES OF FARM, QABDEN AND 
+PIGGERY FOB TWO YEARS ENDING NOVEMBER 30, 1904. 
+
+FARM. 
+Expense. 
+
+Inventory : Live stock, implements, etc., December 
+
+1, 1902 | 4,000 00 
+
+Wages and board 3,240 00 </seg>
+
+
+            <seg id="p022">
+88 
+
+
+Seed $ 387 09 
+
+Repairs, horseshoeing, blacksmith ing, etc 866 51 
+
+Threshing, shredding, bailing, binding twine, etc. . 386 46 
+
+Machinery 533 82 
+
+Veterinary 43 50 
+
+Stock purchased 1,365 40 
+
+Miscellaneous 30 00 
+
+Kent 1,122 00 
+
+Total 115,150 08 
+
+Income. 
+
+Millet, 100 tons f 600 00 
+
+Hay, alfalfa, 100 tons 700 00 
+
+Hay, prairie, 150 tons 900 00 
+
+Cane, 100 tons 300 00 
+
+Corn fodder, 100 tons 300 00 
+
+Com, in ear, 5,725 bushels 2,003 75 
+
+Sugar beets 457 24 
+
+Wheat, 1,872 bushels 1,569 99 
+
+Potatoes, 4,011 bushels 1,002 75 
+
+Milk, 56,708 gallons 6,804 96 
+
+Rye, 200 bushels 80 00 
+
+Oats, 3,046 bushels 761 50 
+
+Sundry sales, rents, hides, etc 1,285 40 
+
+Beef, butchered and delivered to kitchen, 22,870 
+
+lbs 1,600 90 
+
+Use of men and teams 4,608 00 
+
+Inventory, December 1, 1904 6,898 00 
+
+Total |29,872 49 
+
+Total income |29,872 49 
+
+Total expemw 15,150 08 </seg>
+
+
+            <seg id="p023">
+89 
+
+
+PIGGERY. 
+
+Expense. 
+
+Stock on hand December 1, 1902 f 906 00 
+
+Wages and board 1,224 00 
+
+Feed 1,255 00 
+
+Repairs 340 40 
+
+Building fence. 365 75 
+
+Miscellaneous. 6 00 
+
+Stock purchased 142 50 
+
+Total $4,239 65 
+
+Income. 
+
+Sale of hogs $2,033 28 
+
+Sale of stock hogs 310 00 
+
+Hogs butchered and delivered to kitchen, 7,495 lbs. . 524 65 
+
+Stock on hand December 1, 1904 2,426 00 
+
+Total |5,293 93 
+
+Total income |5,293 93 
+
+Total expenses 4,239 65 
+
+Gain |l,054 28 
+
+GARDEN. 
+Expense. 
+
+Wages and board $2,688 00 
+
+Seed i 379 42 
+
+Implements 22 00 
+
+Feed. 150 00 
+
+Repairs 10 00 
+
+Total 13^49 42 
+
+Income. 
+
+Apples, 930 bushels f 639 00 
+
+Asparagus, 72£ bushels 298 25 
+
+Beans, 333 bushels 353 60 </seg>
+
+            <seg id="p024">
+90 
+
+LAND COMMISSIONERS REPORT. 
+
+.Beets, 180 bushels $ 128 8 &lt; 
+
+Cabbage, 9,698 head 335 88 
+
+Carrote, 272$ bushels 67 93 
+
+Cauliflower, 16£ bushels 12 75 
+
+Celery, 1,020 bunches 59 12 
+
+Corn, sweet, 451 bushels 391 25 
+
+Cucumbers, 533 bushels 177 00 
+
+Egg plant, 21 bu 5 25 
+
+Grapes, i bushel 2 00 
+
+Green pepper, 1£ bushels 1 50 
+
+Hubbard squash, 545 head 38 30 
+
+Mangoes, 17 bushels 12 75 
+
+Oyster plant, If bushels 1 75 
+
+Parsnips, 308 bushels 74 75 
+
+Peas, 311 bushels 467 00 
+
+Pie plant, 242 bushels 121 50 
+
+Potatoes, 3,844f bushels 1,604 47 
+
+Pumpkin, 7 head 70 
+
+Radishes, 121J bushels 45 06 
+
+Rutabagas, 124£ bushels 31 00 
+
+Salsify, 8$ bushels 2 88 
+
+Spinach, 40 bushels 10 00 
+
+Tomatoes, 1,009 bushels 620 37 
+
+Turnips, 189J bushels 40 29 
+
+Summer squash, 3 head 15 
+
+Sweet potatoes, 113£ bushels 217 15 
+
+Total $5,760 52 
+
+Total income |5,760 52 
+
+Total expense 3,249 42 
+
+Gain. $2,511 10 </seg>
+
+            <seg id="p025">
+STATE HOSPITAL FOR INSANH. 
+
+91 
+
+RECAPITULATION. 
+
+Income. 
+
+Farm $29,872 49 
+
+Piggery 5,293 93 
+
+Garden 5,760 52 $40,926 94 
+
+Expense. 
+
+Farm |15,150 08 
+
+Piggery 4,239 65 
+
+Garden 3,249 42 22,639 15 
+
+Gain $18,287 79 
+
+CASH FUND. 
+
+STEWARD'S REPORT — A. D. GILMORE, STEWARD. 
+
+Receipts — 1902. 
+
+Dec. 1, Balance on hand $1,925 87 
+
+Dec. 3, Mr. Box, services of bull 1 00 
+
+Dec. 3, Sale of one boar pig 10 00 
+
+Dec. 3, Harman, sale two syrup barrels at 50c. . . 1 00 
+
+Dec. 4, G. W. Dishong, time lost after pay roll 
+
+was sent to Secretary of State 3 00 
+
+Dec. 4, Geo. Underwood, same as Dishong 3 33 
+
+Dec. 4, Maude Williams, same as Dishong 1 13 
+
+Dec. 4, Zenobia Doty, same as Dishong 2 67 
+
+Dec. 4, T. H. Slattery, sale of coal 4 98 
+
+Dec. 20« A. H. Merkel, sale one boar pig 10 00 
+
+Dec. 20, B. R. Harrison, sale one boar pig 10 00 
+
+Dec. 22, John Shea, sale one boar pig 10 00 
+
+Dec. 27, John Luckhardt, weighing load of hay. . . 10 
+
+Dec. 27, C. W. Jester, services of bull 1 00 
+
+1903. 
+
+Jan. 10, J. C. Cherry, time lost after pay roll was 
+
+sent to Secretary of State 22 
+
+Jan. 10, G. F. Ellis, same as Cherry 20 </seg>
+
+
+            <seg id="p026">
+92 
+
+
+Jan. 10, Zenobia Doty, same as Cherry $ 32 
+
+Jan. 10, E. Tyrer, sale one load cobs 50 
+
+Jan. 10, Robt. Bear, sale one load cobs 50 
+
+Jan. 10, Robt. Bear, coal 10 30 
+
+10 88 
+
+5 80 
+
+1 00 
+
+100 
+
+8 00 
+
+10 
+
+43 50 
+
+15 00 
+
+
+24 00 
+
+Jan. 29, E. S, Davis, warden penitentiary, hauling 
+
+175 loads ice at 10c 17 50 
+
+Jan. 30, Standard Oil Co., sale 5 empty bbls. at 95c 4 75 
+
+Jan. 30, Standard Oil Co., 1 empty linseed and 2 
+
+lubricating bbls. at 75c 2 25 
+
+Jan. 30, Weighing 2 loads hay 10 
+
+Jan. 31, O. D. Rosencran, sale 2 bu. wheat at 50c. . 1 00 
+
+Feb. 2, Weighing 2 loads hay 10 
+
+Feb. 5, N. R. Poole, time lost after pay roll was 
+
+sent to Secretary of State 22 
+
+9,o 
+
+Feb. 5, Bertha Ludwig, same as Poole 3 63 
+
+Feb. 5, Minnie Meneese, same as Poole 1 29 
+
+Feb. 10, Geo. Barber Co., sale 38 hogs, 8,330 lbs., 
+
+80 lbs. dockage, at |6.25 per cwt 515 62 
+
+Feb. 10, 2 dead hogs, 370 lbs., at fl less freight 
+
+charges, 40c 3 30 
+
+Feb. 19, Walter 8. Duncan, services of bull 1 00 
+
+Feb. 20, Walter Seidell, weighing load hay 10 
+
+tlO, Geo. Rheinschield, sale coal 
+10, J. H. Weart, sale coal 
+
+an. 12, Clara Wells, sale medicine 
+an. 22, Geo. Reed, five loads ice at 20c each 
+an. 24, Yankee Hill Brick Yard, sale 40 loads ice 
+
+at 20c each 
+
+Weighing 2 loads hay 
+24, Lincoln Hide &amp; Fur Co., 7 No. 1 green 
+
+hides and 5 calf, 600 lbs., at 7£c per lb. 
+(an. 24, Lincoln Hide &amp; Fur Co., 3 No. 2 green 
+
+Chides, 240 lbs., at 6£c per lb 
+26, J. J. Peterson, sale 3 empty coffee boxes 
+
+at 10c 
+
+fan. 29, E. 8. Davis, warden penitentiary, hauling 
+
+1ft irtQrla ino 
+
+it&gt; loaas ice </seg>
+
+            <seg id="p027">
+93 
+
+
+Feb. 20, Wilber Mills, 150 bran sacks at 4c each. .| 6 00 
+
+Feb. 23, Clarence Chittenden, weighing load hay. . 10 
+
+Feb. 25, Cash sale 1 pork barrel 1 00 
+
+Feb. 28, Jas. Read, sale 2 empty syrup bbls 1 00 
+
+Mar. 1, Wm. Vogt, services of bull 1 00 
+
+Mar. 1, Lincoln Hide &amp; Fur Co., sale 8 syrup bbls. 
+
+at 50c 4 00 
+
+t. 5, Jas. HarlaD, time lost after pay roll was 
+sent to Secretary of State 1 07 
+
+Mar. 5, Geo. Rheinschield, 2,920 lbs. coal at $4.65. 6 79 
+
+Mar. 5, J. A. Weart, 3,360 lbs. coal at |4.65 7 81 
+
+Mar. 5, E. Tyrer, 1 load cobs 50 
+
+Mar. 5, Kobt. Bear, 1 load cobs 50 
+
+Mar. 5, D. A. Campbell, pasture 3 months, 1902. . 3 00 
+
+Mar. 11, Weighing 1 load hay 10 
+
+Mar. 21, One ton millet hay to Nelson 4 00 
+
+Mar. 26, One load cobs 60 
+
+t. 26, Lincoln Hide &amp; Fur Co., 8 hides, including 
+3 calf, 343 lbs., at 6£c, No. 1 22 29 
+
+Mar. 26, Lincoln Hide &amp; Fur Co., 8 hides, includ- 
+
+ing 1 calf, 485 lbs., at 5*c, No. 2 26 67 
+
+Mar. 30, Sale 2 bu. oats at 35c 70 
+
+Mar. 30, Two bales hay at 30c 60 
+
+Mar. 30, One pair young rabbits 1 00 
+
+Apr. 8, Maud Williams, time lost after pay roll 
+
+was sent to Secretary of State 4 39 
+
+Apr. 8, Jas. Harlan, same as Miss Williams 24 
+
+Apr. 8, J. R. Burroughs, same as Miss Williams. . 5 32 
+
+Apr. 8, Alma Peterson, same as Miss Williams. . 1 29 
+
+Apr. 8, Kate Wilterding, same as Miss Williams. 65 
+
+Apr. 8, Robt Bear, same as Miss Williams 89 
+
+Apr. 8, Zenobia Doty, same as Miss Williams ... 32 
+
+Apr. 8, Mr. Sullivan, weighing 2 loads hogs 20 
+
+Apr. 8, Sale 1 cow and 1 calf skin, 45 lbs., at 6$c. 2 92 
+
+Apr. 18, Error made in duplicating act. H. E. Gra- 
+
+ham. (See vouchers 11382 and 84) ... 8 78 </seg>
+
+
+            <seg id="p028">
+94 
+
+
+Apr. 18, Chittenden, weighing load corn I 10 
+
+Apr. 24, Lincoln Hide &amp; Fur Co., 1 cow and calf 
+
+hide, 67 lbs., at 6£c. 4 35 
+
+Apr. 21, Harriet Crabtree, 8$ weeks' board at $3. . 25 00 
+
+Apr. 21, Humphrey Hdw. Co., rebate on listers 2 00 
+
+Apr. 21, Humphrey Hdw. Co., rebate on farm 
+
+wagon 5 00 
+
+May 4, Mrs. Robinson, cash for 1 bottle medicine. 2 00 
+
+May 6, B. &amp; M. Ry., rent on land for sheep barns. 250 00 
+
+May 8, Julia Christianson, time lost after pay roll 
+
+was sent to Secretary of State 1 67 
+
+May 8, Harriet Crabtree, time lost after pay roll 
+
+was sent to Secretary of State. 3 00 
+
+May 8, Alma Peterson, same as Miss Crabtree. . . 1 47 
+
+May 8, Eva Harnish, same as Miss Crabtree 73 
+
+May 10, Lincoln Hide &amp; Fur Co., sale 6 syrup bbls. 
+
+at 50c 3 00 
+
+tlO, Lincoln Hide &amp; Fur Co., No. 1 Q. S. cow 
+hide, 29 lbs., at 7c 2 03 
+
+May 12, T. H. Williams, sale 1 pig 4 00 
+
+May 14, J. P. Higgins, sale 12 hogs, 3,500 lbs., at f 6 210 00 
+
+May 16, D. Morland, pasture cow and colt, season 
+
+1902 6 50 
+
+May 19, Dr. Wente, sale 2 brood sows 30 00 
+
+May 27, Lincoln Hide &amp; Fur Co., sale 7 bbls. at 50c 3 50 
+
+May 30, D. Moreland, sale 4 loaves bread 20 
+
+June 5, Alma Peterson, time lost after pay roll 
+
+was sent to Secretary of State 35 
+
+June 5, Eva Harnish, same as Miss Peterson. ... 5 68 
+
+June 20, Payment services of bull 1 00 
+
+June 23, L. H. Lawton, payment 1 month's main- 
+
+tenance Ralph Lawton 12 50 
+
+June 25, Geo. Hoburt, payment 1 month's pasture. 1 50 
+
+July 3, Thompson, pasture 1 cow 1 month 1 50 
+
+July 10, T. P. Currie, time lost after pay roll was 
+
+sent to Secretary of State 25 
+
+July 10, Celia Dempsey, same as Mr. Currie 83 </seg>
+
+            <seg id="p029">
+95 
+
+
+July 10, Alma Peterson, same as Mr. Currie f 37 
+
+July 10, Mabel Houck, same as Mr. Currie 2 50 
+
+July 10, Annis Wilterding, same as Mr. Currie. . . 42 
+
+July 10, Sturdivant, same as Mr. Currie 3 75 
+
+July 10, T. H. Williams, sale 1 pig 4 00 
+
+July 10, Geo. Blakeley, 1 piece lumber 2x4x16. ... 25 
+
+July 10, T. H. Williams, sale 840 lbs. damaged com 
+
+at 15c 1 80 
+
+July 10, May E. Jester, pasture cow May and June 3 00 
+
+JuJy 17, Wilson Steam Boiler Co., payment for 2 
+
+second-hand boilers 200 00 
+
+July 22, C. W. Huyck, sale old lumber 15 00 
+
+July 22, L. H. Lawton, 1 month's maintenance 
+
+Ralph Lawton 12 50 
+
+July 28, J. L. Greene, sale 10 lbs. butter (fl.60), 
+
+cabbage (f 1) 2 60 
+
+July 28, Mr. Dutton, cash for services of bull 1 00 
+
+Aug. 1, B. Hawkins, pasture season 1902 9 00 
+
+Aug. 11, G. F. Ellis, sale 2 sow pigs 15 00 
+
+Aug. 11, Geo. Blakeley, sale 11.4 bu. corn at 35c. . 4 00 
+
+Aug. 11, Mabel Houck, time lost after pay roll was 
+
+sent to Secretary of State 2 42 
+
+Aug. 11, E. Tyrer, sale 6,504 hay 2 27 
+
+Aug. 11, Mr. Hood, pasture 2 cows May 11 to Aug. 
+
+11, 1903 9 00 
+
+Aug. 11, E. Longacre, time lost after pay roll was 
+
+sent to Secretary of State 6 45 
+
+Aug. 12, Geo. Underwood, sale 4 bu. cane seed at 
+
+50c 2 00 
+
+Aug. 17, J. Hoffman, sale 2 bu. seed rye at 75c .... 1 50 
+
+Aug. 20, Obed Stettler, sale 3 boar pigs at $15 45 00 
+
+Aug. 20, M. Bettes, 2 months' pasture 1 cow 3 00 
+
+Aug. 26, L. H. Lawton, 1 month's maintenance of 
+
+Ralph Lawton 12 50 
+
+Aug. 27, Mrs. Person, 7 meals at 25c . 1 75 
+
+Aug. 29, W. S. Dutton, rent of pasture Farnam 
+
+land 15 00 </seg>
+
+            <seg id="p030">
+96 
+
+
+Sept. 1, Nannie Taft, sale 1 ba. tomatoes f 50 
+
+Sept 7, Wilson Steam Boiler Co., bal. on boilers. 100 00 
+
+Sept. 11, Dr. A. P. Ferguson, sale 1 bu. cucumbers. 40 
+
+Sept 12, K. Tyrer, sale 2 runt pigs 2 00 
+
+Sept 12, T. H. Williams, sale hay 4 60 
+
+Sept. 12, Robt. Bear, time lost after pay roll was 
+sent to Secretary of State 44 
+
+Sept 12, G. H. Walker, same as Mr. Bear 1 21 
+
+Sept 12, T. P. Currie, same as Mr. Bear 48 
+
+Sept. 12, Henrietta Hammond, same as Mr. Bear. . 1 42 
+
+Sept 12, Duncan Campbell, 1 month's pasture of 
+
+cow 2 00 
+
+Sept 16, Nannie Taft, sale 3 bu. tomatoes, 1 bu. cu- 
+
+cumbers 1 90 
+
+Sept. 16, Cash for services of bull 95 
+
+Sept 21, John Ulcek, sale 1 boar pig 15 00 
+
+Sept 22, L. H. Lawton, 1 month's maintenance of 
+
+Ralph Lawton 12 50 
+
+Oct 1, W. J. Hampton, sale of hay and oats. ... 60 
+
+Oct. 9, W. Critchfield, pasture 1 cow 2 month*. . 3 00 
+
+Oct 9, P. O. Wilson, 1 bu. seed rye 75 
+
+Oct. 10, Earl Longacre, time lost after pay roll was 
+sent to Secretary of State 3 00 
+
+Oct. 10, Sadie Striker, same as Mr. Longacre 2 20 
+
+Oct. 10, Bessie Reed, same as Mr. Longacre 73 
+
+Oct. 10, Lukhart, sale 1 boar pig 15 00 
+
+Oct. 10, Cash, services of bull, balance 05 
+
+Oct 12, Mr. Wiers, sale 1 bu. rye 75 
+
+Oct. 18, Mrs. Person, for meals 1 60 
+
+Oct 21, Mr. Bobbie, sale 2 bu. rye 1 50 
+
+Oct. 24, L. H. Lawton, 1 month's maintenance of 
+
+Ralph Lawton 12 50 
+
+Oct. 29, W. Critchfield, pasture 1 cow 2 months. ... 3 00 
+
+Nov. 7, David Barry, sale 10 young bogs 55 50 
+
+Nov. 10, R. L. Hood, 2 cows 2 months' pasture 6 50 
+
+Nov. 10, E. L. Snyder, time lost after pay roll was </seg>
+
+
+            <seg id="p031">
+97 
+
+
+Not. 10, L. H. Richards, same as Mr. Snyder $ 1 61 
+
+Nov. 10, Mabel McGaw, same as Mr. Snyder 4 03 
+
+Nov. 10, C. N. Skoglund, same as Mr. Snyder 4 64 
+
+Nov. 13, T. H. Williams, sale 3 shoats at $4 12 00 
+
+Nov. 15, Lincoln Hide &amp; Fur Co., sale 5 No. 1 
+
+hides, 66 lbs., at 7c 4 62 
+
+Nov. 15, Lincoln Hide &amp; Fur Co., sale 5 No. 2 
+
+hides, 86 lbs., at 6c 5 16 
+
+Nov. 16, American Beet Sugar Co., sale 48,639 lbs. 
+
+beets at $4 per ton and 108,036 lbs. 
+beets at $4.25 per ton, less seed $30, and 
+
+rent implements $6 290 86 
+
+Nov. 20, F. Stafford, weighing 1 load hogs 05 
+
+Nov. 23, John Bard, weighing one load of corn. . . (»."» 
+
+Nov. 26, L. H. Lawton, for maintenance of Ralph 
+
+Lawton 1 month 12 50 
+
+Dec. 1, Otto Anderson, sale cracked kettle 1 00 
+
+Dec. 4, Lincoln Mill Co., 612.50 bu. wheat at 62c, 
+
+$379.70; less freight on car, $5 374 70 
+
+Dec. 5, Griswold Seed Co., sale 2,879 lbs. seed 
+
+sweet corn, 64 lbs. per bu., at 75c 33 89 
+
+Dec. 5, Humphrey Hdw. Co., sale 27 6-7 bu. seed 
+corn at 75c 20 88 
+
+Dec. 5, Sale 3,000 lbs. rags at lc 30 00 
+
+Dec. 10, E. Ramey, time lost after pay roll was 
+
+sent to Secretary of State 3 00 
+
+Dec. 10, Harriet Crabtree, same as Ramey 1 00 
+
+Dec. 10, W. P. Ramey, same as E. Ramey 67 
+
+Dec. 10, Lonetta Wanser, same as Ramey 1 33 
+
+Dec. 10, H. G. Schmidt, same as Ramey 42 
+
+Dec. 10, H. E. Austin, same as Ramey 21 
+
+Dec. 10, Annis Wilterding, same as Ramey 38 
+
+Dec. 10, Bessie Reed, same as Ramey 73 
+
+Dec. 10, Lou Crooks, same as Ramey 5 13 
+
+Dec. 10, Maud Williams, same as Ramey 37 
+
+Dec. 10, H. F. Railsbach, sale 6 lbs. fresh pork 
+
+at 10c. . 60 </seg>
+
+            <seg id="p032">
+98 
+
+
+Dec. 10, Robt. Bear, sale 4 bu. oats at 30c $ 1 20 
+
+Dec. 10, Robt. Bear, sale 5 bu. corn at 30c 1 50 
+
+Dec. 10, E. Tyrer, sale 40 lbs. tallow at 3£c 1 40 
+
+Dec. 10, E. Tyrer, sale 5 bu. oats at 30c 1 50 
+
+Dec. 10, Jas. Coen, sale 39 qts. milk at 5c 1 95 
+
+Dec. 10, Jas. Coen, sale 28 loaves bread at 6£c .... 1 75 
+
+Dec. 10, Jas. Coen, sale 1 bu. corn 30 
+
+Dec. 14, W. Critchfield, 2 months' pasture 1 cow. . 3 00 
+
+Dec. 14, E. R. Slawson, 2,905 lbs. old iron at 25c. . 7 35 
+
+1 tec. 14, E. R. Slawson, 30 lbs. old iron at lc 30 
+
+Dec. 18, E. R. Slawson, 2,300 lbs. old iron at 25c. . 5 75 
+
+Dec. 18, E. R. Slawson, 3,840 lbs. old iron at 20c. . 7 68 
+
+Dec. 18, J. R. Burroughs, sale 1 hog for J. A. 
+
+Weart 4 00 
+
+Dec. 19, P. T. Wilson, for pasture 10 25 
+
+Dec. 19, Cash for services of bull 1 00 
+
+Dec. 31, L. H. Lawton, maintenance of Ralph 
+
+Lawton 12 50 
+
+Dec. 31, Mr. Nelson, sale of field of cornstalk 10 00 
+
+190J,. 
+
+Jan. 8, Dess Hoffman, time lost after pay roll was 
+
+sent to Secretary of State 5 64 
+
+Jan. 8, Lonetta Wanser, same as Dess Hoffman . . 81 
+
+Jan. 8, Anna Elliott, same as Dess Hoffman 30 
+
+Jan. 8, Carrie Storkan, same as Dess Hoffman ... 27 
+
+Jan. 8, Jeanette Misener, same as Dess Hoffman . 32 
+
+Jan. 8, Cecelia Murphy, same as Dess Hoffman. . 24 
+
+Jan. 8, Hattie McKelvey, same as Dess Hoffman. 48 
+
+Jan. 8, James Harlan, same as Dess Hoffman. ... 48 
+
+Jan. 8, J. E. Williams, same as Dess Hoffman. . . 24 
+
+Jan. 8, M. E. Higgins, same as Dess Hoffman. ... 87 
+
+Jan. 8, Dora Packwood, same as Dess Hoffman . . 40 
+
+Jan. 8, Nannie Taft, same as Dess Hoffman 4 84 
+
+Jan. 8, Bessie Reed, same as Dess Hoffman 52 
+
+Jan. 8, Maud Williams, same as Doss Hoffman. . 1 60 
+
+.Tan, 8 Ethel Campbell same as Dess Hoffman . . 1 48 </seg>
+
+
+            <seg id="p033">
+99 
+
+Jan. 9, Jag. Coen, sale 2 bu. corn at 30c f &lt;&gt;() 
+
+Jan. 9, Jas. Coen, sale 28 qts. milk at 5c 1 40 
+
+Jan. 9, Jas. Coen, sale 14 loaves bread at G^e. ... 87 
+
+Jan. 11, lbs. Bpirey, sale of medicine 1 00 
+
+Jan. 23, E. S. Mickey, sale 1,800 lbs. millet and 
+
+cane hay 6 75 
+
+Jan. 27, Sale 65 head hogs, 13,580 lbs., at 
+
+$4.80 f651 84 
+
+Freight charges 18 40 
+
+Yardage 5 20 
+
+Corn 2 00 
+
+Inspection charges 15 
+
+Commission 6 00 620 09 
+
+Jan. 30, Mr. Clause, sale 9 loads from ice pond 
+at 10c 90 
+
+Jan. 30, Mr. Deal, sale 5 loads from ice pond at 10c 50 
+
+Jan. 30, Mr. Wins, sale 1 hog, 90 lbs., at 5c 4 50 
+
+Jan. 30, L. H. L&lt;awton, for maintenance of Ilalph 
+
+Lawton 1 month 12 50 
+
+Feb. 2, E. Walworth, cash for services of boar. . . 1 00 
+
+Feb. 3, Carrie Storkan, time lost after pay roll 
+
+was sent to Secretary of State 1 37 
+
+Feb. 3, A.. C. Pentico, same as Miss Storkan 97 
+
+Feb. 3, Jeanette Misener, same as Miss Storkan. . 65 
+
+Feb. 3, Bertha Berryman, same as Miss Storkan. 2 54 
+
+Feb. 3, Bertha I-udwig, same as Miss Storkan. . . 81 
+
+Feb. 3, Nannie Taft, same as Miss Storkan 1 21 
+
+Feb. 3, Liou Crooks, same as Miss Storkan 18 
+
+Feb. 3, Bessie Reed, same as Miss Storkan 18 
+
+Feb. 3, Nettie Shirey, same as Miss Storkan. ... 2 84 
+
+Feb. 3, Ellen Bowery, same as Miss Storkan. ... 2 65 
+
+Feb. 3, T. H. Williams, sale 1,220 lbs. ear com at 
+30c 5 10 
+
+Feb. 3, James Coen, sale 24 qts. milk at 5c 1 20 
+
+Feb. 21, Mr. Westover, cash for damage by stock. . 1 00 
+
+Feb. 21, L. H. Lawton, for maintenance of Ralph 
+
+Lawton • 12 50 </seg>
+
+            <seg id="p034">
+100 
+
+. LAND COMMISSIONERS REPORT. 
+
+Mar. 1, Lincoln Hide &amp; Fur Co., sale 3 hides, No. 
+1, 94 lbs., at 7±c $ 6 81 
+
+Mar. 1, Lincoln Hide &amp; Fur Co., sale 7 hides, No. 
+
+2, 432 lbs., at 6*c 27 00 
+
+Mar. 1, Lincoln Hide &amp; Fur Co., sale 2 No. 1 green 
+
+hides, 38 lbs., at 6|c! 2 37 
+
+Mar. 1, Lincoln Hide &amp; Fur Co., sale 9 No. 2 green 
+
+hides, branded, 576 lbs., at 5Jc 30 24 
+
+Mar. 7, Lincoln Hide &amp; Fur Co., sale 3 No. 1 G. 8. 
+
+hides, 91 lbs., at 7£c 6 59 
+
+Mar. 7, Lincoln Hide &amp; Fur Co., sale 6 No. 2 G. S. 
+
+hides, 408 lbs., at 6£c 25 50 
+
+Mar. 7, Lincoln Hide &amp; Fur Co., sale 2 No. 2 G. S. 
+
+hides, 103 lbs., at 5-Jc. 5 41 
+
+r. 7, W. A. Campbell, time lost after pay roll 
+was sent to Secretary of State 1 25 
+
+Mar. 7, Bessie Heed, same as Campbell 35 
+
+Mar. 12, James Coen, 4 runt pigs 4 00 
+
+Mar. 12, James Coen, sale 40 qts. milk at 5c 2 00 
+
+Mar. 12, J. Clakerell, services of bull 1 00 
+
+Mar. 12, E. Tyrer, sale old stone 1 50 
+
+Mar. 12, E. Tyrer, sale 5 bu. oats at 35c 1 75 
+
+Mar. 16, Alex. Bramer, sale 4 cans fruit at 15c. ... 60 
+
+Mar. 16, Alex. Bramer, sale 1.000 lbs. old rags 10 00 
+
+Mar. 17, W. A. Campbell, sale 1 gal. vinegar 25 
+
+Mar. 17, John Hanggi, sale 21 lbs. candy left from 
+
+Christmas 3 15 
+
+Mar. 19, Geo. Underwood, sale 1 syrup bbl 50 
+
+Mar. 19, Geo. Underwood, sale 2 bu. rye at 75c. ... 1 50 
+
+Mar. 24, Mr. Derry (an attendant), sale 20 lbs. 
+
+sugar at 5c 1 00 
+
+Mar. 24, E. Hager, sale condemned tinners' tools. . 5 00 
+
+Mar. 26, Swan Aldeen, for maintenance of Alb. 
+
+Lindberg, from Jan. 17 to April 17, 
+
+1904, 3 months, at $12.50 37 50 
+
+Mar. 29, Mr. Derry (an attendant), sale of lemons. 19 </seg>
+
+            <seg id="p035">
+101 
+
+
+Mar 
+
+29, J. K. Perbaugh, sale 34 hogs, 6,230 lbs., at 
+
+
+Apr. 
+Apr. 
+Apr. 
+Apr. 
+Apr. 
+Apr. 
+Apr. 
+Apr. 
+Apr. 
+
+£ 
+
+Apr. 
+
+Apr. 
+
+May 1, G. R. Critchfield, pasture 1 cow 1 month. . 1 50 
+
+May 2, M. Langley, sale 2 bu. rye 1 00 
+
+May 4, E. Tyrer, time lost after pay roll was sent 
+
+to Secretary of State 23 
+
+May 4, W. W. Wash, same as Tyrer 92 
+
+May 4, T. B. Barnes, same as Tyrer 2 29 
+
+May 4, Ellen Bowery, same as Tyrer 2 28 
+
+May 4, Annis Wilterding, same as Tyrer 41 
+
+May 4, Marguerite McClung, same as Tyrer 92 
+
+May 4, Josephine Kelly, same as Tyrer 77 
+
+-- 
+
+May 4, Bessie Reed, same as Tyrer 83 
+
+May 4, T. H. Williams, sale 5 runt pigs at 1.50. . 7 50 
+
+May 4, E. Tyrer, sale of wood 5 63 
+
+14.35 f 
+
+1, Lonetta Wanser, time lost after pay roll 
+
+was sent to Secretary of State 
+9, Anna Elliott, same as Miss Wanser 
+
+40 
+60 
+
+9, H. W. Keith, same as Miss Wanser 
+9, H. G. Schmidt, same as Miss Wanser. . . . 
+
+89 
+
+9, W. W. Wash, same as Miss Wanser 
+
+2 66 
+
+9, Sadie Striker, same as Miss Wanser 
+
+37 
+
+9, Ethel Campbell, same as Miss Wanser. . . 
+9, Jas. Coen, sale 7£ lbs. stock food at 8c ... 
+9, Jas. Coen, sale 28 qts. milk at 5c 
+
+5 19 
+60 
+1 40 
+
+9, E. Tyrer, sale 10 bu. oats at 40c 
+9, L. H. Lawton, for maintenance of Ralph 
+
+Lawton 
+
+12 50 
+
+9, Cash for service of bull 
+
+1 00 
+
+9, Cash for sale of 2 valves 
+
+H 
+
+!3, B. &amp; M. It. R., rental on land leased for 
+
+sheep sheds 
+
+52, Lincoln Hide &amp; Fur Co., sale 14 No. 2 
+
+hides, 820 lbs., at 6£c 
+!5, L. H. Lawton for maintenance of Ralph 
+
+Lawton 
+
+12 50 </seg>
+
+            <seg id="p036">
+102 
+
+LAND COMMISSIONER'S REPORT. 
+
+9, Jas. Coen, sale 20 qts. milk at 5c $ 1 00 
+
+May 16, Geo. Blakeley, sale 108 lbs. pork at 4£c. . . 4 86 
+
+May 19, L. H. Lawton, maintenance Ralph Lawton 
+
+22 days 8 87 
+
+May 21, Alb. Lindberg, ] month's maintenance. . . 12 50 
+
+June 3, Lincoln Hide &amp; Fur Co., 1 G. S. bull hide. 
+
+&gt; 
+
+96 lbs., at 6c 5 76 
+
+June 6, B. Hawkins, sale 3 bu. rye at 40c 1 20 
+
+June 9, Lena Dishong, time lost after pay roll was 
+
+sent to Secretary of State 3 71 
+June 9, Sadie Striker, same as Miss Dishong 40 
+June 9, J. W. Riggs, same as Miss Dishong 2 51 
+June 9, W. A. Campbell, sale 2 bu. rye at 50c 1 00 
+June 9, W. A. Campbell, sale 10 lbs. meat at 5c. . . 50 
+
+June 9, T. H. Williams, sale 2 bu. corn at 44c 88 
+
+June 9, T. H. Williams, sale 100 lbs. bran at 63c. . 63 
+
+June 9, J. A. Weart, error in wages on pay roll. . 5 00 
+
+June 11, Jas. Coen, sale 4£ lbs. lard at |7.35 30 
+
+June 22, Lincoln Hide &amp; Fur Co., sale 3 G. S. hides, 
+
+176 lbs., at lie 13 20 
+June 22, Lincoln Hide &amp; Fur Co., sale 1 calf skin. . 40 
+
+June 24, J. A. Weart, first payment on sale 1 cow 
+
+at |25 5 oo 
+
+July 1, Sale piece of ice 10 
+
+t2, Sale to Mrs. Young and Mrs. Gilmore 8-lb. 
+spring chicken 1 60 
+
+July 2, Mrs. C. W. Jester, 2 months' pasture 1 cow 3 00 
+
+July 8, J. A. Weart, second monthly payment on 
+cow 5 00 
+
+July 8, Margaret Hankins, time lost after pay roll 
+
+was sent to Secretary of State 1 90 
+July 8, Jas. Coen, sale 6 lbs. bacon at 12c 72 
+
+July 8, Jas. Coen, sale 500 lbs. coal at $4 1 00 
+
+July 8, Jas. Coen, 1 months' pasture of cow. .... 1 50 
+
+July 9, Lincoln Hide &amp; Fur Co., 1 G. S. hide bull, 
+
+85 lbs., at 6£c 5 52 </seg>
+
+            <seg id="p037">
+103 
+
+STATE HOSPITAL FOR INSANE. 
+
+July 9, P. Slatts, sale 50 lbs. ice I 10 
+
+July 17, F. Slatts, sale 50 lbs. ice 10 
+
+July 22, F. Slatts, sale 50 lbs. ice 10 
+
+July 26, Sale 1,380 lbs. old rags 13 80 
+
+July 26, Cash for long distance telephone 2 05 
+
+July 27, F. Slatts, 50 lbs. ice 10 
+
+July 29, R. F. Bruce, maintenance from April 30 
+
+to July 29 36 29 
+
+July 31, F. Slatts, sale 50 lbs. ice 10 
+
+Aug. 1, Edgar Ramey, sale 1 bu. oats 40 
+
+Aug. 1, Win. Haas, his share of expense of sur- 
+
+veying for line on sec. 9-9-6 7 00 
+
+Aug. 3, T. H. Williams, sale 2 bu. corn at 45c 90 
+
+Aug. 3, Susie Castle, time lost after pay roll was 
+sent to Secretory of State 2 90 
+
+Aug. 3, P. A. Henry, same as Miss Castle 3 27 
+
+Aug. 3, J. E. Williams, same as Miss Castle 4 03 
+
+Aug. 3, L. Gentile, time lost after pay roll was 
+
+sent to Secretary of State 4 03 
+
+Aug. 3, Ellen Bowery, same as ( lentile 40 
+
+Aug. 3, Nora Weart, same as Gentile 81 
+
+Aug. 3, Henrietta Hammond, same as Gentile. . . 2 42 
+
+Aug. 3, Sadie Striker, same as Gentile 5 64 
+
+Aug. 3, Ethel Campbell, same as Gentile 5 94 
+
+Aug. 3, James Harlan, same as Gentile 4 03 
+
+Aug. 3, F. Stoats, sale piece of ice 10 
+
+Aug. 5, J. A. Weart, third payment on cow 5 00 
+
+Aug. 5, F. Stoats, sale of ice 10 
+
+Aug. 5, E. Ramey, sale 1 bu. oats 40 
+
+K 
+
+Aug. 9, E. Wolworth, sale of cinders 2 30 
+
+Aug. 9, F. Stoats, sale piece of ice 10 
+
+Aug. 9, James Coen, pasture of 1 cow 1 month ... 1-50 
+
+Aug. 9, Mrs. C. W. Jester, pasture 1 cow 1 month 1 50 
+
+Aug. 11, Lincoln Hide &amp; Fur Co., sale of hides — 
+
+3 No. 1 G. S. hides, 148 lbs., at 8c 11 84 
+
+3 No. 2 G. S. hides, 2 calf, 91 lbs., at 7c. 6 37 </seg>
+
+            <seg id="p038">
+104 
+
+LAND COMMISSIONER'S REPORT. 
+
+Aug. 11, 1 bull hide, 80 lbs., at 6c f 4 80 
+
+Aug. 19, 2 hides, No. 1 G. S., 100 lbs., at 7£c 7 50 
+
+2 hides No. 2 G. S., 102 lbs., at 6^c. . . . 6 73 
+
+Aug. 22, Mr. Sanfrancisco, sale 1 bu. corn 50 
+
+Aug. 27, J. H. Smythe, sale 2 shoats at fo.Of) 10 00 
+
+Sept, 5, H. K. Frantx, sale 15 hogs, 2,475 lbs., at 
+
+6J,c 160 87 
+
+Sept 5, Bartle McHugh, sale 4 hogs, 710 lbs., at 
+
+64c 46 l.'i 
+
+t. 5, Bartle McHugh, sale 1 boar pig 10 00 
+
+Sept. 5, John A. Stiller, sale 1 boar pig 10 00 
+
+Sept. 9, Celia Dempsey, time lost after pay roll 
+
+was sent to Secretary of State 81 
+
+Sept. 9, James Coen, 6 lbs. bacon at 12c 72 
+
+t. 9, J. A. Weart, fourth payment on cow 5 00 
+
+Sept. 9, Geo. Blakeley, sale 2 old sows, 750 lbs., 
+
+at 44c 33 75 
+
+Sept. 9, E. Tyrer, sale 2 yds. sand 2 00 
+
+Sept 9, W. A. Campl.pl!, sale 37 lbs. beef at 8c. . . 2 96 
+
+Sept. 9, W. A. Campbell, sale 29 loaves 
+
+bread at 4}c fl 30 
+
+Old lumber 2 00 3 30 
+
+Sept. 12, W. J. Miller, sale 3 boar pigs at $10 30 00 
+
+Sept. 15, C. Sbafer, sale 1 boar pig 10 00 
+
+Sept. 16, Alb. Lindberg, maintenance 50 00 
+
+Sept 16, Dr. A. S. Ferguson, water rent 1 year to 
+
+Aug. 1 4 50 
+
+Sept. 25, John Barratt, 1 month's maintenance. ... 12 50 
+
+Sept. 25, Lincoln Hide &amp; Fur Co., sale 3 No. 1 G. S. 
+
+hides, 146 lbs., at 74c 10 95 
+
+Sept. 25, Lincoln Hide &amp; Fur Co., sale 5 No. 2 G. S. 
+
+hides, branded, 288 lbs., at 64.C 18 72 
+
+Sept. 25, W. L. Seidell, sale 1 boar pig 10 00 
+
+Sept 25, Louis Stein, sale 500 lbs. old rags at f 1. . . 5 00 
+
+Sept. 26, C. E. Cunningham, sale 1 boar pig 10 00 </seg>
+
+
+            <seg id="p039">
+105 
+
+STATE HOSPITAL FOR INSANE. 
+
+Sept 29, Otto Elfelt, sale 1 boar pig I 10 00 
+
+Oct. 3, Vaclav Kastanak, sale 2 Berkshire boar 
+
+Pigs 60 00 
+
+t, Vaclav Kastanak. sale 1 
+, J. B. Harris, sale 17-lb. ham, 
+bacon, $1.25 
+
+Berkshire sow pig U."&gt; M 
+|2.55; 10-lb. 
+3 80 
+
+Oct. 3, J. B. Harris, sale 17-lb. ham, |2.55; 10-lb. 
+
+bacon, f 1 .25 3 80 
+
+Oct. 3, J. B. Harris, sale bu. onions, 25c ; 1 bu. 
+
+, J. B. Harris, sale bu. onions, 25c ; 1 bu. 
+sweet potatoes, 50c II 
+
+sweet potatoes, 50c II 
+
+&gt;, James Coen, sale 6£ lbs. bacon, 70c; 2 
+
+months' pasture of cow, $3 3 70 
+
+Oct. 5, Bertha Berryman, time lost after pay roll 
+
+was sent to Secretary of State 2 (to 
+
+Oct. 5, Harriet Crabtree, same as Miss Berryman 50 
+
+Oct. 5, Evalyn Bronelle, same as Miss Berryman 1 53 
+
+Oct 5, J. A. Weart, fifth and last payment on cow 5 00 
+
+Oct. 5, E. Tyrer, sale 2 bu. onions 1 00 
+
+Oct. 13, J. Langley, sale 3 bu. rye IH 
+
+Oct. 13, Lincoln Hide &amp; Fur Co., salo 4 syrup bbls. 2 00 
+
+Oct. 15, Mrs. Barratt, 2 weeks' maintenance of Mr. 
+Barratt 6 25 
+
+Oct 15, Lincoln Hide &amp; Fur Co., sale 7 No. 2 G. S. 
+
+hides, 368 lbs., at 6^c 23 !••_' 
+
+Oct. 18, W. L. Weekley, sale 4i yds. sand 4 50 
+
+Oct. 18, F. B. Cross, sale 1 rooster 50 
+
+Oct. 20, Lincoln Hide &amp; Fur Co., sale 6 No. 2 G. S. 
+
+hides, 322 lbs., at 6 : k 20 M 
+
+Oct. 20, Standard Oil Co., sale 2 bbls 2 20 
+
+Oct. 20, Standard Oil Co., sale 8 corn bbls B M 
+
+Oct. 24, Lincoln Hide &amp; Fur Co., sale 1 No. 1 G. S. 
+
+hide, 56 lbs., at 74c 4 20 
+
+Oct. 24, Lincoln Hide &amp; Fur Co., sale 1 No. 2 G. S. 
+
+hide, 61 lbs., at 6£c 3 96 
+
+Oct. 27, Lincoln Hide &amp; Fur Co., sale 2 No. 1 G. S. 
+
+hides, 96 lbs., at 7Jc 7 60 
+
+Oct 27, Lincoln Hide &amp; Fur Co., sale 2 No. 2 G. S. 
+
+hides, 107 lbs., at 6^c 6 95 </seg>
+
+            <seg id="p040">
+106 
+
+LAND COMMISSIONER'S REPORT. 
+
+Oct. 27, C. G. Finney, sale 2.18 yds. sand | 2 72 
+
+10 00 
+
+N&lt;&gt;\. 2, P. Fagan, sale 1 boar pig 
+
+Nov. 2, Mrs. Barratt, for maintenance of John 
+
+Barratt 12 50 
+
+Nov. 2, Sale 11-lb. turkey, dressed, at 12c 1 32 
+
+Nov. 3, Lincoln Hide &amp; Fur Co., sale 4 No. 2 G. 8. 
+
+hides, branded, 207 lbs., at 6£c 13 45 
+
+r3, Crete Mills, sale 1,260.20 bu. wheat at 96c, 
+11,209.92; less excess freight, f 14.63. . . 1,195 29 
+
+Nov. 9, Sale of old rags 100 
+
+Nov. 9, G. R. Critchfield, 5 months' pasture of cow 7 50 
+
+Nov. 14, Mabel McGaw, time lost after pay roll 
+
+was sent to Secretary of State 3 02 
+
+Nov. 14, James Coen, sale 2 lbs. lard at 10c 20 
+
+Nov. 14, James Coen, sale 10 lbs. bacon at 12£c. . . 1 25 
+
+Nov. 14, James Coen, sale 8£ lbs. bacon 99 
+
+Nov. 15, Preston Baker, for cash paid to W. C. 
+
+Gray for 4 days' special attendance. . . 3 42 
+
+Nov. 17, Lincoln Hide &amp; Fur Co., sale 2 No. 1 G. S. 
+
+hides, 109 lbs., at 8c 8 72 
+
+t. 17, Lincoln Hide &amp; Fur Co., sale 2 No. 2 
+branded G. S. hides, 165 lbs., at 7c 11 55 
+
+Nov. 19, Otto Anderson, sale 20 chickens at 25c ... 5 00 
+
+Nov. 20, G. A. McCandless, sale 1 boar pig 10 00 
+
+Nov. 20, American Beet Sugar 
+
+Co., sale 56.419 tons 
+
+sugar beets at $4.50 $253 88 
+
+Less seed $75 00 
+
+Less rent of drill 
+
+and cultivator. . . 12 50 87 50 166 38 
+
+Nov. 23, Lincoln Hide &amp; Fur Co., sale 2 No. 2 G. S 
+
+hides, 119 lbs., at 7ic 8 92 
+
+Nov. 23, P. M. Judge, sale 9 runt pigs at $3 27 00 </seg>
+
+            <seg id="p041">
+107 
+
+STATE HOSPITAL FOR INSANE. 
+
+Disbursements, 1902. 
+
+Voocher 
+
+
+l, 
+
+Nelson Taylor, plastering barn 
+
+Dec 
+
+19, 
+
+J. L. Greene, expense of transfer- 
+
+ring patients to Hastings 6 25 11214 
+
+Dec 
+
+22, 
+
+Chas. H. Plummer, instructions 
+
+for making soap 3 00 1121" 
+
+Dec. 23, Amer. Dist. Tel. Co., services 60 11216 
+
+Dec. 23, 
+
+J. T. Hay, expense of transferring 
+
+patients to Iowa 26 40 11217 
+
+office f 
+
+i 6 95 
+
+11198 
+
+Dec. 5, Marguerite Gates, services as 
+
+waitress 
+
+97 
+
+11.99 
+
+Dec. 5, Western Union Tel. Co., services. 
+Dec. 5, Ernest Taylor, furnishing music 
+for weekly dances 
+
+4 63 
+12 50 
+
+:::: 
+
+Dec. 5, Chapman Drug Store, drugs 
+
+1 00 
+
+115 
+
+Dec. 5, A. D. Gilmore, 16.1 doz. eggs from 
+J. W. Miller..". 
+
+3 30 
+
+Dec. 5, E. Karrer, services for 11 days as 
+
+baker 
+
+14 67 
+
+11204 
+
+Dec. 5, J. Holm, pay in addition to pay 
+
+roll 
+
+5 00 
+
+Dec. 5, Otto Anderson, laying cement 
+
+sidewalk 
+
+30 00 
+
+moe 
+
+Dec. 5, Jonas Ilolm, freight and express . 
+Dec. 5, Bausch &amp; Lomb Optical Co 
+W. A. Campbell, services as cook . 
+8, E. B. Kucker, services as carpen- 
+
+6 93 
+7 50 
+4 00 
+
+E 
+
+ter 
+
+25 50 
+
+11210 
+
+Dec. 16, Lincoln Hide &amp; Fur Co., robe 
+Dec. 16, E. L. Brown, 24 lbs. turkey at 12c 
+
+6 00 
+2 88 
+
+E£ 
+
+Dec. 19, J. L. Greene, recovering horse and 
+
+buggy 
+
+3 00 
+
+1121.1 </seg>
+
+            <seg id="p042">
+108 
+
+LAND COMMISSIONER'S REPORT. 
+
+Dec. 23, B. O. Kostka, drugs f 55 46 11218 
+
+Dec. 23, Frank Rawlins, part purchase 
+
+price of carryall 140 20 11219 
+
+Dec. 23, John Sullivan, turkeys 16 12 11220 
+
+Dec. 23, C. E. Weed, purchase of chickens 10 00 11221 
+
+Dec. 29, Otto Anderson, services as mason 18 00 11222 
+
+Dec. 29, B. &amp; M. R. JR., demurrage 3 00 1122 :', 
+
+Dec. 30, Melshans Mantel &amp; Tile Co., ma- 
+
+terial 9 48 11224 
+
+Dec. 30, R. H. Woodward, wages as fire- 
+
+man 3 50 1122r&gt; 
+
+Dec. 30, Western Union Tel. Co., services. 1 73 11270 
+
+J90S. 
+
+tl2, Q. W. Dishong, services as attendant 
+4 03 11271 
+
+Jan. 14, F. Thompson, hay 2 04 11272 
+
+•Jan. 19, J. Holm, freight and express. ... 12 45 1127.' 
+
+Dec. 19, J. Holm, extra pay for December 5 00 11274 
+
+Jan. 29, G. W. Felton, hominy 4 00 1127H 
+
+Jan. 30, H. S. Stoner, plastering 4 00 11276 
+
+Jan. 30, Western Union Tel. Co., services. 1 08 11277 
+
+Jan. 30, H. J. Penfold Co., drugs 3 63 1127&gt; 
+
+Jan. 30, Western Tel. Mfg. Co., 'phone for 
+
+barn and engine room 21 00 11279 
+
+Jan. 31, John A. Alhstrom, tile in operat- 
+
+ing room 40 00 11280 
+
+Jan. 31, Otto Anderson, laying tile in 
+
+operating room 36 00 11281 
+
+Feb. 5, G. F. Underwood, plumbing 52 00 11348 
+
+Feb. 9, J. Holm, extra pay for January. . 5 00 11349 
+
+Feb. 9, J. Holm, freight and express 4 85 11350 
+
+Feb. 13, Ethel Hoffman, time after pay 
+
+roll was made 2 90 11351 
+
+Feb. 13, Celia Denham, time after pay roll 
+
+xtraa mailo 1 AK 11'*V&gt; 
+W8U5 ilXuUC •¦¦•••¦•••*•¦••••• X tiO lluu« </seg>
+
+            <seg id="p043">
+109 
+
+STATE HOSPITAL FOR INSANE. 
+
+Feb. 13, E. O. Robb, time after pay roll 
+was made f 5 23 11353 
+
+Feb. 13, H. O. Folts, tuning two pianos. . 6 00 LUS4 
+
+Feb. 13, Miller &amp; Paine, carpets, etc 178 60 11 
+
+Feb. 15, Peter Spadt, purchase 3 roosters . 1 50 L13M 
+
+Feb. 20, Otto Anderson, laying cement. . . 9 00 ll.?."&gt;7 
+
+Feb. 20, E. G. Wigg, cornstalks 8 00 11 
+
+Feb. 24, L. V. Quick, corn hominy 34 82 lKJ.V.t 
+
+» 
+
+Mar. 9, J. Holm, extra pay for February. 5 00 114M 
+
+Mar. 9, J. Holm, freight and express 4 51 1 14.*7 
+
+Mar. 11, Lincoln Corn Food Co., hominy. . 18 75 1 14:*s 
+
+Mar. 11, Lincoln Corn Food Co., hominy. . 28 13 11439 
+
+Mar. 11, H. W. Stanley, services 89 11440 
+
+Mar. 11, E. B. Rucker, services 1 34 11441 
+
+Mar. 11, Will H. Green, papering 18 00 11442 
+
+Mar. 11, Western Union Tel. Co., services. 6 r&gt;0 11443 
+
+Mar. 11, Wm. N. Parka, upholstering 10 32 11444 
+
+Mar. 11, American Dist. Tel. Co 55 1144". 
+
+Mar. 13, F. G. Richards, repair sewing ma- 
+
+chine 3 25 1144i; 
+
+Mar. 17, J. R. Eddie, yardage and water. . 7 00 11447 
+
+Mar. 26, G. B. Simpson, game warden 5 00 114 1&gt; 
+
+Mar. 28, David Barry, turnips 3 60 11449 
+
+Mar. 30, Hoye's Directory Co 5 00 11460 
+
+Mar. 31, B. &amp; M. R. R. Co., rent of land. . . 10 00 114." 1 
+
+Mar. 31, Dess Hoffman, services 3 00 114.".2 
+
+Apr. 7, H. 8. Stoner, plastering 39 40 1 l.ioo 
+
+Apr. 7, Geo. Wright, plastering 39 40 11501 
+
+Apr. 7, J. Holm, pay in addition to pay 
+
+roll, March 5 00 11502 
+
+Apr. 7, J. Holm, freight and express. ... 4 29 11 
+
+Apr. 7, E. B. Rucker, pay in addition to 
+
+payroll 6 33 11504 
+
+Apr. 7, Dess Hoffman, pay in addition to 
+
+pay roll 3 00 11505 
+
+Apr. 7, Western Union Tel. Co., services. 30 11506 </seg>
+
+            <seg id="p044">
+110 
+
+LAND COMMISSIONER'S REPORT. 
+
+t. 14, Lorena Gqre, wages in addition to 
+pay roll * 40 11507 
+
+Apr. 16, Western Union Tel. Co., services. 4 11 11508 
+
+Apr. 25, H. E. Graham, feed 8 66 11509 
+
+Apr. 27, E. B. Dunlap, expense of buying 
+
+team of Wall 13 20 11510 
+
+Apr. 27, A. D. Gilmore, railroad fare to 
+
+Loup City and return 8 48 11511 
+
+Apr. 30, Dess Hoffman, wages in addition 
+
+to pay roll 120 11512 
+
+Apr. 30, Ethel Hoffman, wages in addition 
+
+to pay roll 1 70 11513 
+
+A. D. Gilmore, expense of patients 
+to see President 1 25 11572 
+
+May 1, Bertha Secrect, wages for labor in 
+
+May 75 11573 
+
+TK 
+
+May 4, J. Holm, extra wages for April. . 5 00 11574 
+
+.May 4, J. L. Greene, expense of stenog- 
+
+rapher and entertaining legis- 
+
+lative committee 9 75 11575 
+
+May 5, J. H. Gore, wages for labor in 
+
+Mav 3 48 11576 
+
+May 21, J. R. Burroughs, wages for labor 
+
+in April 10 80 11577 
+
+May 26, J. E. Miller, crop of ice from pond 25 00 11578 
+
+Mav 30, Peter Spadt, expense to Wilber 
+
+and return 1 86 11579 
+
+June 1, W. C. Davidson, for Poland China 
+
+boar 32 50 11660 
+
+June 8, Jeanette Misener, in addition to 
+
+payroll 3 00 11661 
+
+June 13, J. L. Greene, replacing patients' 
+
+clothing lost 7 08 11662 
+
+June 13, H. M. Brown, wages in addition 
+
+to pay roll 8 17 11663 
+
+June 13, W. L. Weekley, services 10 50 11664 </seg>
+
+            <seg id="p045">
+111 
+
+
+June 17, Evans Laundry Co., caustic soda. f 6 00 11' 
+
+June 20, Evans Laundry Co., caustic soda. 4 50 11 
+
+June 23, J. F. Swihart, for strawberries.. 1 00 lH.tiT 
+
+June 26, J. A. Weart, wages in addition to 
+
+payroll 5 00 11668 
+
+June 26, J. L. Greene, pay consulting phy- 
+
+sician 5 00 11 ¦ 
+
+June 24, Peter Spadt, services 1 17 11754 
+
+July 7, F. Thompson, purchase of hay. . 4 54 11753 
+
+July 7, B. &amp; U. B. R., demurrage 1 00 117M 
+
+July 7, L. Keller, team, work, etc 11 46 11757 
+
+July 7, Cora L. Damrow, services as rna- 
+
+Aug. 14, T. H. Slattery, same as Unger. . . 6 4" 11847 
+
+tron 
+
+75 34 
+
+11758 
+
+July 7, Benton &amp; Benton, printing 
+July 11, C. M. Wilson, hanging paper. . . . 
+July 14, Otto Anderson, services 
+
+9 50 
+2 65 
+1 40 
+
+11759 
+11760 
+11761 
+
+July 14, American Dist. Tel. Co., services 
+July 14, Julia Christianson, services.... 
+July 17, Western Union Tel. Co., services 
+
+2 10 
+5 00 
+
+11 
+
+April 
+
+1 85 
+
+11T6, 
+
+July 17, Western Union Tel. Co., services 
+
+May 
+
+4 75 
+
+July 17, Western Union Tel. Co., services 
+
+June 
+
+5 07 
+
+July 18, W. G. Houtz, fruit trees 
+July 22, W. G. Seidell, music for Fourth 
+
+7 00 
+
+- 
+
+of July 
+July 24, Lola Danforth, services 
+July 27, A. D. Gilmore, cash and circus 
+
+8 00 
+9 00 
+
+tickets for patients to Ringling 
+
+Bros.' circus 
+
+15 00 
+
+11771 
+
+July 27, A. D. Gilmore, chickens, etc., 
+
+bought 
+
+5 46 
+
+Aug. 13, Louie Unger, services after pay 
+roll was sent to Secretary of 
+
+State 
+
+3 55 
+
+11846 </seg>
+
+            <seg id="p046">
+112 
+
+
+t. 22, Western Union Tel. Co., services 
+July f 4 65 11848 
+
+Aug. 17, T. K. Wilson, cigars for patients 
+
+on trip to Hastings 2 50 11849 
+
+Aug. 17, Fischer Mach. Works Co., balance 
+
+on new engine 52 82 11850 
+
+Aug. 22, A. J. Charles, shelling 620 bu. of 
+
+corn at 10c 6 20 11851 
+
+Sept 3, E. E. Joyce, services as seam- 
+
+stress 1 33 11927 
+
+Sept 5, Woodruff-Collins Printing Co., 
+
+printing 1,000 attendants' re- 
+
+ports 6 00 11928 
+
+Sept 5, Nebraska Sanitarium Food Co., 
+
+breakfast foods 5 72 11929 
+
+Sept. 5, H. F. Safford, services stacking 
+
+oats 4 00 11930 
+
+Sept 5, F. E. Owen, 1 thoroughbred Eng- 
+
+lish Berkshire sow 35 00 11931 
+
+Sept. 5, Lonetta Wanser, services as cook 
+
+8 days at |25 per month 6 45 11932 
+
+Sept 5, O. C. Mastin, 100 lbs. hominy at 
+
+15c 15 00 11933 
+
+Sept 5, New York Bakery Co., 10 lbs. Al- 
+
+mond Paste at 29c 2 90 11934 
+
+Sept. 5, B. Hawkins, services 57 hours, 
+
+laying brick on new cave at 
+
+55c 31 35 11935 
+
+Sept. 5, Lola Danforth, services as physi- 
+
+cal culture teacher, 27 days ... 27 00 11936 
+
+Sept 5, Earl Longacre, services as super- 
+
+visor 3 39 11937 
+
+Oct 5, G. W. Burge, purchase 10 acres 
+
+shock corn 90 00 12013 
+
+Oct. 6, B. &amp; M. K. R., switching charges. 5 00 12014 
+
+Oct 13, Wohlenberg, P. J.. 63 lbs. tobacco 
+
+stems 1 26 12015 </seg>
+
+            <seg id="p047">
+113 
+
+STATE HOSPITAL FOR INSANE. 
+
+§13, Western Union Tel. Co., services 
+for August f 3 73 1201.; 
+
+t29, Woodruff-Collins Printing Co., 
+for printing laundry lists 3 50 19117 
+
+Oct. 29, Paul Herpolsheimer Imp. Co., 1 
+
+Columbus carriage 290 00 12018 
+
+Not. 16, Robt. Bear, services and expense 
+
+to State Fair 1 33 12W6 
+
+Nov. 16, H. E. Austin, services after pay 
+
+roll was sent to Secretary of 
+
+I State 
+. 23, C. J. Roman, painting 
+and blacksmithing 
+. 30, W. S. Scott, county 
+
+4 44 1209&lt;&gt; 
+carryall 
+94 00 12097 
+surveyor, sur- 
+
+Nov. 23, C. J. Roman, painting carryall 
+
+and blacksmithing 94 00 12097 
+
+veying 17 10 12098 
+
+Nov. 30, Woodruff-Collins Printing Co., 
+
+for 5 receipts for warrants. . . 5 00 12099 
+
+Nov. 30, Creighton Morris, payment com- 
+
+bination fund record 11 25 12100 
+
+Nov. 30, Nelle Anthony, extra pay as 
+
+charge of attendants 3 76 12101 
+
+Nov. 30, H. O. Folts, tuning 2 pianos 6 00 12102 
+
+Nov. 30, Geo. O. Loss, threshing 610 bu. 
+
+wheat at 3£c, 1,796 bu. oats 
+
+at lfc 52 78 12103 
+
+t. 3, A. D. Gilmore, expense of patients, 
+etc 7 55 12186 
+
+rl8, Schaffer Bros. &amp; Powell Mfg. Co., 
+I bbl. oil 15 33 12187 
+
+Dec. 21, Cudahy Packing Co., freight paid 
+
+by them 164 12188 
+
+Dec. 21, Esther Brown, services as stenog- 
+
+rapher 7 00 12189 
+
+Dec. 31, State Journal Co., printing blanks 18 00 12190 
+
+Dec. 31, J. Holm, glucose and crackers 
+
+bought 80 12191 </seg>
+
+            <seg id="p048">
+114 
+
+LAND COMMISSIONER'S REPORT. 
+
+Dec. 31, Woodruff-Collins Printing Co., 
+for printing blanks $ 19 00 12192 
+
+Dec. 31, May Wiles, services after pay roll 
+
+was sent to Secretary of State. 1 33 12193 
+
+Dec. 31, Nannie Tait, same as Mrs. Wiles 47 12194 
+
+Dec. 31, Josephine Kelly, same as Mrs. 
+
+Wiles 23 12195 
+
+Dec. 31, Nettie Shirey, same as Mrs. 
+
+Wiles 5 13 12196 
+
+Dec. 31, New York Bakery &amp; Coffee Co. . . 2 90 12197 
+
+19QJ,. 
+
+Jan. 2, W. B. Campbell, services 1 day as 
+
+attendant 81 12276 
+
+Jan. 2, J. H. Seid, purchase 1 thorough- 
+
+bred Poland China boar 25 00 12277 
+
+Jan. 9, J. B. Harris, services as painter. 26 13 122 7&gt; 
+
+Jan. 15, Dess Hoffman, services as cook. . 5 64 12279 
+
+Jan. 15, Will H. Green, wall paper, and 
+
+hanging same 83 22 12280 
+
+Jan. 26, W. A. Ozenbaugh, purchase 1 
+
+mare 110 00 12281 
+
+Jan. 27, Geo. Underwood, services as 
+
+plumber 92 00 12282 
+
+Jan. 30, Otto Anderson, services laying ce- 
+
+ment 35 00 12283 
+
+Jan. 30, Cooper &amp; Cole Bros., general re- 
+
+pairs 166 36 12284 
+
+Jan. 30, Cooper &amp; Cole Bros., general re- 
+
+pairs 151 03 12285 
+
+Jan. 30, Cooper &amp; Cole Bros., plumbing 
+
+supplies 39 38 12286 
+
+Jan. 30, Evans Laundry Co., 1 bbl. caustic 
+
+soda 20 98" 12287 
+
+Feb. 1, W. P. Ramey, services 1 day as 
+
+cook at S40 1 40 12361 </seg>
+
+            <seg id="p049">
+115 
+
+
+Feb. 3, P. Bartlett, plowing U days at f3. .? 10 50 12 
+
+Feb. 3, T. H. Williams, expense trip to 
+South Omaha with car of hogs 2 55 12; 
+
+Feb. 12, C, B. &amp; Q. R. R., for rent of land. 10 00 12 
+
+Mar. 2, J. E. Williams, services 24 124 40 
+
+Mar. 2, J. 8. Hammond, services 81 12441 
+
+Mar. 2, Gelia Murphy, services 1 03 124 12 
+
+Mar. 2, A. S. Williams, purchase of bull. 45 00 12 
+
+Mar. 7, J. S. Kahl, breeding thoroughbred 
+sow 15 00 12444 
+
+Mar. 7, Otto Anderson, purchase of tiling 
+
+for steward's office 69 85 124 US 
+
+Mar. 7, Hoye Directory Co., purchase 
+
+1904 directory 5 00 1244f, 
+
+Mar. 19, New York Bakery, purchase al- 
+
+mond paste 5 80 12447 
+
+Mar. 21, J. B. Trickey, purchase spectacles 
+
+for H. Fleshauer 2 00 12 
+
+Apr. 1, Everett Spencer, services 5 32 12 
+
+Apr. 4, W. L. Weekley, services 12 31 12500 
+
+Apr. 7, Western Union Tel. Co., services. 23 52 12510 
+
+Apr. 7, Western Union Tel. Co., services. 6 11 12," 11 
+
+Apr. 7, Woodruff -Collins Printing Co. . . 4 00 12512 
+
+Apr. 7, J. B. Harris, purchase of 2 barber 
+
+chairs 15 00 12513 
+
+Apr. 9, Max Storkan, services 2 90 12514 
+
+Apr. 9, Marguerite McClung, services. . . 12 77 
+
+Apr. 9, A. D. Gilmore, cash paid for haul- 
+
+ing ice 2 65 12." 1 «"&gt; 
+
+Apr. 9, W. A. Campbell, services 86 12. r &gt;17 
+
+Apr. 9, M. C. Shirey, services 2 82 12518 
+
+Apr. 15, Western Union Tel. Co., services. 2 15 12r&gt;l!t 
+
+Apr. 15, Harry Porter, stationery 4 85 12520 
+
+Apr. 15, Lola Danforth, services 10 00 12521 
+
+Apr. 15, John Armstrong, rent of land ... 65 00 12522 
+
+Apr. 15, American Berkshire Registry Co., 
+
+registering 6 pigs at f 1 6 00 12523 </seg>
+
+            <seg id="p050">
+116 
+
+LAND COMMISSIONER'S REPORT. 
+
+Apr. 15, Jas. Whalen, services f 5 00 12524 
+
+May 9, J. B. Harris, services more than 
+
+payroll 5 00 12617 
+
+May 9, J. A. Weart, same as Harris 5 00 12«ils 
+
+May 9, C. Wettlaufer, same as Harris. . . 5 00 12&lt;&gt;1 '.» 
+
+May 9, C. Wettlaufer, same as Harris. . . 5 00 1J619 
+
+May 9, E. M. Kurtz, same as Harris 1 21 12C&gt;L&gt;o 
+
+May 9, E. M. Kurtz, same as Harris 1 21 12820 
+
+May 9, E. L. Snyder, same as Harris 2 50 12«;i'l 
+
+May 10, J. B. Harris, for 60 ft. picture 
+
+moulding 3 60 12622 
+
+May 10, Saml. Hall, for crepe paper 80 12623 
+
+May 10, J. E. Miller, payment for ice 13 40 12624 
+
+May 14, Hall Bros., payment steel ceiling 
+
+wards 2, male and female 449 18 12»&gt;2.~&gt; 
+
+May 20, Geo. Underwood, services as 
+
+plumber 19 00 12626 
+
+May 20, American Dist. Tel. Co., services. 90 12627 
+
+May 24, Western Union Tel. Co., services. 6 95 12628 
+
+June 6, O. F. Lambertson, dental work 
+
+for patients 17 00 12708 
+
+June 6, G. F. Swihart, purchase 2 bu. seed 
+
+corn at fl 2 00 12709 
+
+June 10, Otto Anderson, services as mason 45 00 12710 
+
+June 11, Martha Headman, services as 
+
+waitress 65 1271 1 
+
+June 11, J. W. Riggs, services as barn man 3 10 12712 
+
+June 17, J. R. Megahan, purchase 7 crates 
+
+strawberries at f 1 7 00 12713 
+
+June 25, Ernest Tyrer, music and violin 
+
+strings 7 50 12714 
+
+June 25, C. H. Huyck, tuning piano in 
+
+chapel 2 00 12715 
+
+June 30, J. Holm, services 1 13 12716 
+
+July 6, Woodruff-Collins Printing Co., 
+
+for stationery 4 50 12801 
+
+July 6, G. H. Gray, extra pay as charge 
+
+of Ward 1 5 00 12802 </seg>
+
+            <seg id="p051">
+117 
+
+
+July 6, A. D. Gilniore, money advanced 
+patients f IS 1- 
+
+July 6, G. A. Young, purchase of b*ef tea 98 12n &gt;4 
+
+July 6, Union Dairy, cream for Fourth 
+
+of July 7 50 12805 
+
+July 6, T. H. Slattery, purchase oil can. . 50 12- 
+
+July 18, Dess Hoffman, extra services. ... 1 29 12807 
+
+July 18, C. E. Shirey, extra services 1 00 12808 
+
+July 18, P. A. Henry, extra services 3 00 12- 
+
+July 19, F. W. Quirin, purchase of shoe 
+
+shop tools 3 55 
+
+July 26, G. A. Crancer, purchase of pic- 
+
+ture moulding 9 72 12811 
+
+July 28, Eddie Williams, services 2 00 12M2 
+
+July 28, A. D. Gilmore, freight paid 71 12813 
+
+July 28, Dierks Lumber &amp; Coal Co., lum- 
+
+ber purchased 268 76 12M4 
+
+July 28, Dierks Lumber &amp; Coal Co., lumber 
+purchased 136 22 12- 
+
+July 28, Dierks Lumber &amp; Coal Co., lum- 
+
+ber purchased 74 95 12816 
+
+July 28, Dierks Lumber &amp; Coal Co., lum- 
+
+ber purchased 20 04 12817 
+
+July 28, Cooper &amp; Cole Bros., material. . . 187 M 12- 
+
+July 28, Cooper &amp; Cole Bros., material. . . 78 61 1- 
+
+July 28, Harry Porter, stationery 8 15 12820 
+
+July 28, Rudge &amp; Guenzel Co., desk for 
+
+steward's office 45 00 12- 
+
+July 28, J. A. Wiles, services in beet field. 11 00 12- 
+
+July 28, Esther Brown, services as stenog- 
+
+rapher 10 00 12823 
+
+A'ig. 6, Jas. Whalen, services stacking 
+
+B" 
+
+wheat 6 00 12906 
+
+Aug. 11, J. R. Megahan, purchase of 
+
+.-i 
+
+peaches 3 75 12907 
+
+Aug. 11, Jas. Harlan, services stacking </seg>
+
+
+            <seg id="p052">
+118 
+
+LAND COMMISSIONER'S REPORT. 
+
+Aug. 11, E. L. Cherry, services after pay 
+
+roll was completed $ 1 61 12909 
+
+Aug. 11, Bertha Heald, same as Cherry... 81 12910 
+
+Aug. 11, C. H. Gray, pay as charge Ward 1 5 00 12911 
+
+Aug. 11, W. C. Gray, services after pay 
+
+roll was completed 121 12912 
+
+Aug. 11, Anna Schmidt, same as Gray. ... 2 42 1291.5 
+
+Aug. 11, Zaida Brown, same as Gray. ... 5 94 12914 
+
+Aug. 11, Western Union Tel. Co., services. 7 80 1291.1 
+
+Sept. 2, E. L. Cherry, services 81 13004 
+
+Sept. 2, W. R. Holt, purchase of 1 thor- 
+
+oughbred Berkshire boar 35 00 13005 
+
+Sept 2, C. N. Noatz, purchase 3 head 
+
+thoroughbred shorthorn cattle 200 00 13006 
+
+Sept 2, W. L. Reynolds, 2 gross chair 
+
+fasteners 4 00 13007 
+
+Sept. 2, J. R. Megahan, purchase of 
+
+peaches 13 75 13008 
+
+Sept. 2, C. A. Schaaf, polished oak floor 
+
+in reception room 91 75 13009 
+
+Sept 9, W. W. Wash, purchase throwing 
+
+harness 7 50 13010 
+
+Sept 9, Earl Longacre, services 81 13011 
+
+8ept 9, G. H. Walker, services 80 13012 
+
+Sept 9, C. H. Gray, services 1 14 13013 
+
+Sept 9, Margaret Neely, services 2 42 13014 
+
+Sept 20, J. B. Harris, paper purchased. . . 14 90 13015 
+
+Sept 26, C. Schafer, butter purchased 2 55 13016 
+
+Sept 26, James Reed, purchase 1 Deering 
+
+corn binder 40 00 13017 
+
+Sept 26, Harley Drug Co., drugs purchased 65 70 13018 
+
+Sept 26, Geo. W. Reed, seed wheat pur- 
+
+chased 52 00 13019 
+
+Sept 26, Hall Bros.' Co., purchase and la- 
+
+bor on steel ceiling, reception 
+
+room 72 32 13020 </seg>
+
+            <seg id="p053">
+119 
+
+STATE HOSPITAL FOR INSANE. 
+
+r26, R. L. Smith Mach. Works, material 
+and labor, engine room, .f 97 77 13021 
+
+Sept 26, Q. A. Crancer, moulding for re- 
+
+ception room 6 72 13022 
+
+Sept. 26, Bauer &amp; Black, drugs purchased . 7 75 13023 
+
+Sept 26, H. O. Folts, tuning piano in 
+
+chapel 3 00 13024 
+
+Sept. 26, State Journal Co., stationery 15 50 13025 
+
+Sept 30, A. D. Gilmore, freight and ex- 
+
+press 7 01 13026 
+
+Oct. 1, W. F. Strong, purchase 18 chapel 
+
+chimes at 30c 5 40 13093 
+
+Oct 1, Louis Madeciki &amp; Co., purchase 3 
+sacred Orch. coll 1 20 13094 
+
+Oct 1, C J. Roman, repairing rockaway. 43 50 13095 
+
+Oct 5, D. Cushman, purchase 23£ bu. 
+
+seed rye at 70c 16 45 13096 
+
+Oct. 5, Otto Ranter, rent of corn planter 2 00 13W7 
+
+Oct 5, New York Bakery Co., purchase 
+
+10 lbs. almond paste at 28c. . . 2 80 13098 
+
+Oct 13, James Harlan, services after pay 
+
+roll was sent to Secretary of 
+
+State 5 50 13099 
+
+Oct 13, Marie Samuelson, same as Harlan 5 19 13100 
+
+Oct 18, Geo. O. Love, for threshing 77 44 13101 
+
+Oct 18, American Dist. Tel. Co., services. 65 13102 
+
+Oct. 24, Waterbury Chemical Co, 44 89 13103 
+
+Nov. 3, N. E. Spruck, purchase 4 bu. cher- 
+
+ries at |2 8 00 13147 
+
+Nov. 3, J. B. Harris, material for upholstering 
+3 chairs 2 77 13148 
+
+Nov. 3, C. E. Shirey, cash for repairs 1 20 13149 
+
+Nov. 3, E. L. Snyder, services in addition 
+
+to pay roll 5 00 13150 
+
+Nov. 3, Rudge &amp; Guenzel Co., carpet and 
+
+rockers for female Ward 2 147 98 13151 </seg>
+
+            <seg id="p054">
+120 
+
+
+Nov. 3, Nebraska Tel. Co., services $ 2 05 13152 
+
+Nov. 3, Sol A. Ksensky, purchase 2 gal. 
+
+whiskey 6 00 13153 
+
+Nov. 3, P. J. Wohlenberg, tobacco stems. 3 70 13154 
+
+Nov. 3, Wm. Krause, repairing soap tank 4 00 131. "&gt; 
+
+Nov. 25, Chas. Burns, purchase 43.07 bu. 
+
+corn at 36c 15 51 13156 
+
+Nov. 14, G. R. Critchfield, purchase 27.07 
+
+bu. corn at 35c 9 47 13157 
+
+Nov. 14, B. W. Hawkins, laying brick on 
+
+hog house 11 05 13158 
+
+Nov. 21, Alb. D. Gilmore, expenses of pa- 
+
+tients attending State Fair. . . 23 00 13159 
+
+Nov. 25, Peter M. Judge, purchase 8 doz. 
+
+brooms 27 00 13160 
+
+Nov. 18, 8. E. Stillman, purchase 2 steers 30 00 13161 
+
+Nov. 19, Otto Anderson, services laying ce- 
+
+ment 80 25 13162 
+
+Nov. 21, T. P. Hassler, purchase 6 door 
+
+stops 4 50 13163 
+
+Nov. 21, Bessie Reed, services 1 81 13164 
+
+Nov. 21, M. P. Sullivan, dehorning 134 
+
+cattle at 8c 10 72 13165 
+
+Nov. 26, Korsmeyer Co., purchase electric 
+
+supplies 29 10 13166 
+
+Nov. 26, Kny-Scheerer Co.. purchase mdse 2 00 13167 
+
+Nov. 26, Bercherdt Ext. Co., purchase 
+
+drugs 47 44 13168 
+
+Nov. 26, Troy Laundry Mach. Co., repairs 33 85 13169 
+
+Nov. 26, Remington Typewriter Co., pur- 
+
+chase typewriter 42 75 13170 
+
+Nov. 26, Bauer &amp; Black, purchase medical 
+
+supplies 47 18 13171 
+
+Nov. 26, Whitebreast Coal &amp; Lumber Co., 
+
+stone chips, etc 225 93 13172 
+
+Nov. 26, Rudge &amp; Guenzel Co., rugs and 
+
+chairs for reception room .... 212 64 13173 </seg>
+
+            <seg id="p055">
+121 
+
+
+Nov. 26, Harley Drug Co., medicine f 16 95 13174 
+
+Nov. 26, Lincoln Telephone Co., services. . 16 50 13175 
+
+Nov. 26, E. A. Pegler, purchase stock food 40 00 13176 
+
+Nov. 26, Rudge &amp; Guenzel Co., purchase 
+
+merchandise 15 04 13177 
+
+Nov. 26, J. K. Megahan, purchase 1 steer 
+
+calf. 6 00 13178 
+
+Nov. 26, Albert D. Gilmore, cash paid to 
+
+patients 12 50 13179 
+
+SUMMARY OF CASH FUND. 
+
+Total amount on hand December 1, 
+1902 $1,925 87 
+
+Total amount received from December 
+1, 1902, to May 31, 1903 1,402 70 
+
+Total amount received from June 1, 
+1903, to November 30, 1903 987 23 
+
+Total amount received from December 
+1, 1903, to May 31, 1904 2,089 90 
+
+Total amount received from June 1, 
+1904, to November 30, 1904 2,354 23 
+
+Total receipts $8,759 93 
+
+Amount disbursed from December 1, 
+1902, to May 31, 1903 f 1,195 35 
+
+Amount disbursed from June 1, 1903, to 
+November 30, 1903 1,056 50 
+
+Amount disbursed from December 1, 
+1903, to May 31, 1904 1,697 91 
+
+Amount disbursed from June 1, 1904, 
+to November 30, 1904. . ... 3,103 98 
+
+Total disbursed $7,053 74 
+
+Balance 1,706 19 
+
+$8,759 93 </seg>
+
+         </p>
+		    </body>
+	  </text>
+</TEI.2>

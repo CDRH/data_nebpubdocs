@@ -1,0 +1,1706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00010.00007">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title>Nebraska Public Documents Project</title>
+				        <author/>
+			      </titleStmt>
+			      <publicationStmt>
+				        <publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+				        <pubPlace>Lincoln, NE</pubPlace>
+				        <idno>00010.00007</idno>
+				        <availability>
+					          <p/>
+				        </availability>
+				        <date>2007</date>
+			      </publicationStmt>
+			      <sourceDesc>
+			         <bibl>
+			            <title>THE UNIVERSITY OF NEBRASKA BULLETIN OF THE AGRICULTURAL EXPERIMENT STATION OF NEBRASKA</title>
+			            <date value="1902">1902</date>
+			         </bibl>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change>
+			         <date>2007-07-18</date>
+			         <respStmt>
+			            <name>Laura Weakly</name>
+			         </respStmt>
+			         <item>Validation</item>
+			      </change>
+			      <change>
+			         <date>2007-06-15</date>
+			         <respStmt>
+			            <name>Katherine M. Heupel</name>
+			         </respStmt>
+			         <item>Enrichment</item>
+			      </change>
+			      <change>
+				        <date>2006-11-29-05:00</date>
+				        <respStmt>
+					          <name>OCLC Online Computer Library Center Inc.</name>
+				        </respStmt>
+				        <item>Initial Creation</item>
+			      </change>
+		    </revisionDesc>
+	  </teiHeader>
+	  <text>
+		    <body>
+         <p>
+            <seg id="p001">
+The University of Nebraska 
+
+BULLETIN 
+
+or thi 
+
+AGRICULTURAL EXPERIMENT STATION 
+
+or 
+
+NEBRASKA 
+
+VOL. XIV. AimcLB II. 
+
+T7u Adaptation and Improvement of Winter Wheat. 
+
+Br T. L. Lton. 
+
+Distributed April 4, 1902 
+
+LINCOLN, NEBRASKA </seg>
+
+
+            <seg id="p002">
+OF 
+
+NEBRASKA 
+
+THE GOVERNING BOARD 
+
+E. ?. FORELL, President, Kearney 
+GEO. F. KENOWEK, Wisner 
+
+tN C. RICH, Omaha 
+L. TEETERS, Lincoln 
+CALKINS, Kearney 
+ERNST, Lincoln 
+
+THE STATION OFFICERS 
+
+§ BURNETT, B. Sc., Director and Animal Husbandman 
+LYON, B. S. A., Associate Director and Agriculturist 
+DALES, M. Ph.. Financial Secretary 
+
+WM. W. MARSHALL, Executive Clerk 
+
+THE WORKING STAFF 
+
+A. T. Peters, D. V. M.. Animal Pathologist 
+Charles E. Bessey, Ph. D., Botanist 
+Hudson H. Nicholson, M. A., Chemist 
+A. L. Haecker. B. Sc., Dairy Husbandman 
+Lawrence Bkl'nek, B. Sc., Entomologist 
+Ebwin H. Bakbouk. Ph. D., Geologist 
+R. A. Emerson, B. Sc., Horticulturist 
+0. V. P. Stout, C. E., Irrigation Engineer 
+G. D. Swezet, M. A., Meteorologist 
+A. T. Wiancko, B. Sc., Assistant Agriculturist 
+H. R. Smith, B. Sc., Assistant Animal Husbandman 
+J. H. Gain, M. D. C, Assistant Animal Pathologist 
+Hknkt B. Slade, B. A , Assistant Chemist 
+S. W. Perin, Assistant in Agriculture and Foreman of Farm 
+
+(tm| MCCNTt OF THE UMIVEHSITt) </seg>
+
+            <seg id="p003">
+The Adaptation and Improvement of Winter Wheat. 
+
+By T. L. Lyon. 
+
+Ee present northern limit of winter wheat production in the 
+i-Missouri region lies in the State of Nebraska, thus limithe 
+output to a portion only of the arable land in the State, 
+spring wheat region protruding south from the Dakotas 
+laps the winter wheat region to some extent, and thus 
+?r wheat and spring wheat are raised side by side. 
+
+The chief condition that discourages winter wheat production 
+in northern Nebraska is the dry, cold, winter weather. 
+Spring wheat suffers from a number of adverse conditions, due 
+mainly to its late ripening. This habit increases the liability 
+to injury from chinch bug and grasshopper depredations, and 
+especially to injury from dry, hot weather. 
+
+Winter wheat as a crop for Nebraska has enormous possibilities. 
+Not only are the large yields of this wheat such as to 
+recommend its culture to the farmers of the State, but the quality 
+of Nebraska winter wheat gives it a high standing among 
+buyers and consumers. The conditions of climate that produce 
+a milling wheat of superior excellence are found in the region 
+of country bordering on the semi-arid. It is worthy of note 
+that the great spring wheat producing region borders on the 
+semi-arid belt in the north, while the region that is fast becoming 
+the center of winter wheat production occupies a similar 
+position' farther south. It is very noticeable that the quality 
+of hardness in wheat improves as its culture approaches the 
+semi-arid belt. Its advantage over spring wheat is evident in 
+its larger yield, when not winterkilled, in its comparative freedom 
+from insect depredations, and in the protection it affords 
+the soil during a considerable portion of the year. All these 
+considerations make it highly desirable to improve our winter 
+wheat in hardiness and quality, so as to extend its growth more 
+widely throughout the State and to increase its productiveness. 
+Improvement in hardiness may be looked for either by the in- 
+
+BULL. 72, AGR. EXP. STATION OF NEBR. VOL. XIV., ART. II. </seg>
+
+
+            <seg id="p004">
+4 
+
+troduction of hardy varieties, by rendering hardier by selection 
+varieties already grown, or by a combination of these processes. 
+Improvement in quality and productiveness is to besought 
+in careful culture, fertile soil and rational selection of 
+
+To these ends this Station has tested, during the last five 
+years, one hundred and eighteen varieties of winter wheat, 
+many of which are foreign varieties, chiefly from eastern Russia. 
+These tests have thus far resulted in selecting a few 
+American varieties as especially suited to Nebraska by reason 
+of their hardiness. Two of these, Turkish Red, a bearded 
+wheat, and Big Frame, a smooth wheat, have been pushed north 
+and west by distributing packages of twenty pounds of seed to 
+each of nearly four hundred persons living north of the Platte 
+river, or west of the 100th meridian. Reports from these attempts 
+have been very encouraging, the great majority of 
+trials having been successful. 
+
+A number of Russian varieties have shown themselves to be 
+very hardy, and it is possible that some of these will furnish 
+the foundation tor varieties adapted to the northern portion of 
+the State. These Russian wheats are generally late maturing 
+sorts, which is a considerable disadvantage in southern Nebraska, 
+but farther north this quality is less objectionable, and 
+when a variety is sufficiently hardy to endure the winters its 
+advantage over spring wheat is proportional lo the difference 
+in the time of ripening. 
+
+Wheats from different sections of the country have shown 
+decidedly different qualities when sown here from seed of the 
+same variety grown at the Experiment Station. Seed from 
+more humid regions, but from approximately the same latitude, 
+matured later and did not yield so well as native seed, while 
+seed from central Kansas matured earlier, and yielded slightly 
+better than native seed. The relative hardiness of these alien 
+wheats has not been thoroughly tested, there having been but 
+two severe winters since they have been grown here. In the 
+winter of 1896-97 and again in 1898-99, Turkey wheat from 
+Kansas winterkilled almost completely, while Turkish Red 
+RIowa and Nebraska survived the winter creditably. Judgrom 
+this it would not always be safe to use Kansas-grown </seg>
+
+
+            <seg id="p005">
+5 
+
+TEST OF VARIETIES. 
+
+S &gt;arge number of varieties of winter wheat have been tested 
+ig the past five years. Most of these varieties have been 
+n first in small amounts to test their hardiness, and later 
+ey showed unusual hardiness and if the seed available 
+ed they were tested on a larger scale. In all, 118 variebave 
+been tested, of which a very small number have 
+mstrated their ability to pass successfully through severe 
+?rs. Whatever may be the productiveness of a variety, its 
+ilness in the long run will depend upon its hardiness; con?ntly 
+it must demonstrate its ability to live through win)f 
+at least average severity to entitle it to a further tort. 
+
+TESTS DURING 1896-97 
+
+Table I. shows the record of the test for the winter of 1896-97. 
+All varieties were planted with a press drill September 
+
+22 or 23. 
+
+TABLE I. 
+
+VARIETY SEED GROWN IN EFFECT OF 
+WINTER 
+Turkey Bed Iowa Partly killed 
+Red May Kansas Entirely killed. . 
+White Track Kansas Entirely killed. . 
+Emporium Kansas Entirely killed .. 
+Bearded Monarch . . Kansas Entirely killed . . 
+Dallas Kansas Entirely killed. . 
+Extra Early Oakley Kansas Entirely killed. . 
+Disaell Kansas Entirely killed .. 
+Deitz Kansas Entirely killed. . 
+Democrat Kansas Entirely killed. . 
+Farquhar Kansas Entirely killed .. 
+Early Red Clawson. Kansas Entirely killed .. 
+Tbeias. Kansas Entirely killed. . 
+Lancaster Kansas Entirely killed .. 
+Gold Medal Kansas Entirely killed . 
+Rudy Kansas Entirely killed. . 
+Velvet Chaff Kansas Entirely killed. . 
+Ramsey Kansas Entirely killed. . 
+Fulcaster Kansas Entirely killed.. 
+Diehl Egyptian ... Kansas Entirely killed. . 
+Big English Kansas Entirely killed. . 
+Diehl Mediterranean Kansas Entirely killed . . 
+Tasmanian Red . . . . Kansas Entirely killed .. 
+
+HELD PI 
+ACRE 
+13 bushels </seg>
+
+            <seg id="p006">
+6 
+
+
+Boyer Kansas 
+
+Entirely killed. 
+Entirely killed. 
+Entirely killed. 
+
+Jones' Winter Fife. Kansas. 
+
+Fultz Kansas 
+
+Penquit's Velvet 
+Chaff Kansas 
+
+Entirely killed. 
+Entirely killed. 
+Entirely killed. 
+Entirely killed. 
+
+German Emperor. . Kansas. 
+
+Buckeye Kansas 
+
+Valley Kansas 
+
+Big Frame Kansas 
+
+Partly killed.. . . 18.5 bushels 
+Entirely killed 
+
+Turkey Kansas 
+
+Currell Kansas 
+
+Partly killed. ... 96 bushels 
+Entirely killed 
+
+Zimmerman Kansas 
+
+Andrews' So. 4. ... Kansas. 
+
+Entirely killed. 
+Entirely killed. 
+
+Seneca Chief Kansas 
+
+Dawson's Golden 
+
+Chaff Canada 
+
+Entirely killed. 
+
+The winter of 1896-97 was a 
+
+severe one on winter wheat. 
+
+The ground was bare of snow .most of the time, which produced 
+a condition too severe for even the Canadian wheat. Most of 
+the wheats had been grown in Kansas for at least one year before 
+this test, which would perhaps make them more susceptible 
+to the cold. It will be noticed that there was Turkish Red 
+or Turkey wheat from Iowa and Kansas, and that the Kansas 
+
+seed killed out entirely. 
+
+TESTS DURING 1897-98. 
+
+During the winter 1897-98, only Turkish Red, Big Frame and 
+
+Currell varieties were grown. They were drilled in September 
+
+14 and yielded as follows 
+
+TABLE II. 
+
+
+PER ACRB 
+
+Turkish Red 21.4 
+
+BigFrame 18J 
+
+Curivll 18.1 
+
+The wheats did not winterkill, but were badly infested with 
+chinch bugs, which occasioned the low yields. Owing to this 
+fact the significance of the test as far as yields are concerned 
+
+TESTS DURING 1898-99. 
+
+Re fall of 1898 a very considerable number of varieties of 
+wheat were sown. These wheats were supplied through 
+A. Carleton, Cefrealist of the U. S. Department of Agri- </seg>
+
+
+            <seg id="p007">
+7 
+
+culture. The seed planted had been grown for at least one year 
+
+in Kansas, but many of them were of Russian origin. In the 
+
+table of results, under the head of "origin", is given,so far as 
+
+known, the place where the seed was grown previous to its 
+
+life in Kansas. The amount of seed of each was too small to 
+
+permit of an accurate estimate of the rate of yield. The winter 
+
+was the most severe experienced in this region since records 
+
+have been kept by the U. S. Weather J3ureau. The seed was 
+
+drilled by hand on September 20. 
+
+TABLE III. 
+
+VARIETY ORIGIN EFFECT OT 
+
+ORIGIN 
+
+WINTER 
+
+Ghirka Winter Russia. Province of Kharkov. .. Partly killed. 
+
+harvested 
+
+No name ... Entirely killed 
+
+No name Jones, Newark, NY Entirely killed 
+
+Early Arcadian Jones, Newark, N. Y Entirely killed 
+
+Pedigree Early Gene- 
+
+see Giant Entirely killed 
+
+Jones' Winter Fife Jones, Newark. N. Y Entirely killed 
+
+Golden Cross Jones, Newark, N. Y Kntirely killed 
+
+Standard Jones, Newark, N. Y Kutirely killed 
+
+Eariy White Leader. . Jones, Newark, N. Y Entirely killed 
+
+Surprise Jones, Newark, N. Y Kntirely killed 
+
+Early Bed Clawson . . . Jones, Newark, N. Y • Entirely killed 
+
+Bearded Winter Southeast Russia. Entirely killed 
+
+Dattel America Entirely killed 
+
+Bordeaux France Entirely killed 
+
+Genealogic White Russia Entirely killed 
+
+Pulavka Russia Entirely killed 
+
+Champion Russia Entirely killed 
+
+Vyssoko-LitoTsk Poland Entiiely killed 
+
+Swedish Russia .. Entirely killed 
+
+Egyptian Russia Entirely killed 
+
+Theiss Orlora Entirely killed 
+
+Champlain Russia. Knt rely killed 
+
+Chiddam de Mars Russia. Entirely killed 
+
+h( D'Arblay's 1 
+\ Hungarian, }¦ Australia Entirely killed 
+( Improved Fife \ 
+
+Boyer Entirely killed 
+
+Clawson Entirely killed 
+
+¦D'Eautomne ] 
+Sdtt' Entire.ykn.ed 
+from Australia J 
+
+Early May Entirely killed </seg>
+
+            <seg id="p008">
+8 
+
+
+American New Mexico Entirely killed 
+
+Banatka Southwest Russia Entirely killed 
+
+Pringle's No. 5 New Mexico Entirely killed 
+
+Nigger Kansas Entirely killed 
+
+Walker Kansas Entirely killed 
+
+Russian Hard New Mexico Entirely killed 
+
+Gold Drop Entirely killed 
+
+Theiss Kursk, Russia Entirely killod 
+
+Budapest Hungary Entirely killed 
+
+Crimean Crimea Entirely killed 
+
+Triticam — American Entirely killed 
+
+Darnma Japan Entirely killed 
+
+Nashi India Entirely killed 
+
+Farquhar Entirely killed 
+
+Don Podolia, Russia Entirely killed 
+
+Arnold's Hybrid Kansas Entirely killed 
+
+Canadian Wonder. ... Kansas Entirely killed 
+
+Big English Entirely killed 
+
+Coryell Entirely killed 
+
+Buckeye Kansas Entirely killed 
+
+China Red New Mexico Entirely killed 
+
+Fuliz Kansas Entirely killed 
+
+White Kalinovka Entirely killed 
+
+Tangarotto Italy Entirely killed 
+
+California Walker Entirely killed 
+
+Quartz New Mexico Entirely killed 
+
+Red Bearded Russia. Entirely killed 
+
+Long Berry Kansas Entirely killed 
+
+Mennonite New Mexico Entirely killed 
+
+German Amber Entirely killed 
+
+Zimmerman Kansas Entirely killed 
+
+Early Ripe New Mexico Entirely killed 
+
+Earnhardt New Mexico Entirely killed 
+
+Daruma Entirely killed 
+
+Turkey Missouri Entirely killed 
+
+Red Winter Samara, Russia Entirely killed 
+
+Red Winter Poltava, Russia Entirely killed 
+
+Russian English America Entirely killed 
+
+Genealogic Red Russia... Entirely killed 
+
+Golden Premium New Mexico Entirely killed 
+
+China White New Mexico Entirely killed 
+
+Prolifero Italy..... Entirely killed 
+
+¦D'Arblay's T 
+Hungarian, 
+Improved Fife, V Entirely killed 
+on French 
+Early White J 
+
+Alsace Entirely killed 
+
+Vyssoko-Litovsk Russia Entirely killed </seg>
+
+
+            <seg id="p009">
+9 
+
+Gliirka Winter Russia Partly killed. 
+
+harvest.-.) 
+
+Xx Russia Partly killed. 
+
+harvested 
+
+Theiss Entirely killed 
+
+Crimean Entirely killed 
+
+Re. I Winter Entirely killed 
+
+Re. 1 Bearded Entirely killed 
+
+Turkish Red and Big Frame varieties were sown on a larger 
+
+scale. Chinch bug depredations cut down the yields of these 
+
+to a great extent, and the damage not being uniform entirely 
+
+destroyed the value of the test. 
+
+Drilled September 20. 
+
+VARIETY 
+
+BUSHELS PER 
+ACBE 
+
+Turkish Red 28 5 
+
+Big Frame 15 5 
+
+TEST DURING 1899-1900. 
+
+During the winter of 1899-1900 the test of varieties was con- 
+
+tinued. Many of those planted the preceding year were again 
+
+tested, seed from the same source being used, except the six 
+
+varieties that produced seed. Of these the new seed was used. 
+
+As only small quantities of seed were available it was not at- 
+
+tempted to determine the yield per acre. All varieties were 
+
+planted on September 8 
+
+TABLE IV. 
+
+VARIETY EFFECT OF RUST LODGED DATE OF 
+
+WINTER RIPENING 
+
+Egyptian Entirely killed 
+
+Theiss Entirely killed 
+
+Chaniplain Entirely killed 
+
+Chiddam de Mars Entirely killed 
+
+Pringle's No. 5 Partly killed. ... Much.. None.. July 8 
+
+Russian Hard Uninjured Much . None.. June 80 
+
+Crimean Uninjured Much.. None.. June X 
+
+Nashi. : Partly killed Little.. None.. June SB 
+
+Farquhar Entirely killed 
+
+Zimmerman Partly killed Little.. None.. June 88 
+
+(From) Jones, Newark, 
+NY Partly killed Little.. None.. July 8 
+
+GoldMedal Entirely killed 
+
+Seneca Chief Entirely killed 
+
+Big English Entirely killed </seg>
+
+            <seg id="p010">
+10 
+
+
+Jones' Winter Fife. ... Entirely killed. 
+
+Bed May Entirely killed 
+
+Early Genesee Giant.. Entirely killed. 
+
+Ghirka Winter Uninjured Little.. None.. July 7 
+
+Early Arcadia Entirely killed 
+
+Dattel Entirely killed 
+
+Bordeaux Entirely killed 
+
+Genealogic White Entirely killed 
+
+Pulavka Entirely killed 
+
+Champion Entirely killed 
+
+Vyitoko-Litovsk Entirely killed 
+
+Swedish Entirely killed 
+
+Ghirka Winter Partly killed. ... Little.. None.. July 
+
+Yx Uninjured Much.. None.. July 
+
+The U. S. Department of Agriculture sent to be tested four 
+
+varieties of Hungarian winter wheat. The followiner state- 
+
+ment regarding is^made* in Inventory No. S.^Section of 
+
+Seed and Plant Introduction. 
+
+"This shipment comprises four of the* best known of the 
+
+Hungarian hard winter wheats. These wheats are the quali- 
+
+from which the higher grades of flour are made at Buda- 
+
+pest. Hungary is about the only European country which ex- 
+
+ports flour, and therefore comes into competition with America 
+
+in this commodity. Experts on the stock exchange at Buda- 
+
+pest claim that some of the Hungarian hard winter wheats pro- 
+
+duce a better grade of flour than do the best American wheats. 
+
+This, however, is doubtful. These varieties are worthy of 
+
+careful trial wherever the winters are mild enough to permit 
+
+of the growth of winter wheats. Of the varieties included in 
+
+this shipment the Banat and Theim are the best known. Both 
+
+varieties have a large quantity of gluten of a high quality. It 
+
+is doubtful whether the names applied to Hungarian wheats, 
+
+such as Thews and Banat, really represent distinct varieties of 
+
+wheats. They are rather to be considered as indicating the lo- 
+
+cality from which the wheat was obtained, and these numbers 
+
+may consist of a mixture of varieties. They probably differ 
+
+somewhat in different localities." 
+
+These wheats were planted in the same way as the above, 
+
+but owing to their late arrival not until October 27, 
+
+TABLE v. 
+
+VARIETY ErrECT OF BUST LODGED DATE OF 
+
+WINTEK RIPENING 
+
+Weissenburg Nearly ail killed. Little.. Partly. July 
+
+Banat Nearly all killed. Little.. None.. July 7 
+
+Theiss Nearly all killed. Little.. None.. July 7 
+
+Pester Boden Entirely killed </seg>
+
+
+            <seg id="p011">
+11 
+
+The late planting placed these wheats at a disadvantage as 
+far as the effect of winter was concerned. 
+
+During the same winter several other varieties were tested 
+on a larger scale, among these being the Turkish Red, Big 
+Frame and Currell, which had proven so hardy in previous 
+years. Quite a large acreage of these was grown to furnish 
+seed for the co-operative tests by residents in the northern and 
+western portions of the State. A few varieties were received 
+from the U. S Department of Agriculture, which on account 
+of the fact that they had been successfully grown in Russia 
+under cttpatic conditions somewhat similar to those of this 
+region were considered deserving of a careful test here. They 
+were drilled in September 11. The results were as follows: 
+
+TABLE VI. 
+
+VARIETT 
+
+RUST 
+
+LODGED DATE OF HELD PER 
+
+RIPENING AI'RE 
+
+Turkish Red Little... 
+
+None June 27. 33 bushels 
+
+Big Frame . . . . , Little 
+
+None June 26. 34 bushels 
+
+Currell Little.. 
+
+None.... June 26. 25 bushel* 
+
+Yaro6l»T' Little.. 
+
+None July 2. 22 bushels 
+
+Yaroslar 2 Little 
+
+None.... July 2. 26 bushels 
+
+Banat* Killed out entirely during the winter. 
+
+Sandomir* Little None July 2. 18 bushels 
+
+i From the government of YaroalaT. 
+'From tbe government of St. Petersburg. 
+
+'From Russia, but Introduced there from Hungary. 
+• Winterkilled to some extent. 
+
+TESTS DURING 1900-1901 
+
+Ethe fall of 1900 only those varieties were planted that had 
+ved the winter of 1899-1900. The number was thus cut 
+very considerably, but no variety was discarded until 
+two years' trial. The quantity of seed was still too small 
+rmit of determining the yield per acre. All were planted 
+
+TABLE VII. 
+
+VARIETY 
+
+EFFECT OF 
+
+RUST LODGED DATE OF 
+
+RIPENING 
+
+WINTER 
+
+Pringle's No. 5 Uninjured Little.. None.. June J7 
+
+Russian Hard Uninjured Mueh.. Badly. June J» </seg>
+
+            <seg id="p012">
+12 
+
+The Adaptation and Improvement of Winter Wheat 
+
+Crimean Uninjured Much.. Badly. June 29 
+
+Nashi Uninjured Some.. Slightly Jane 37 
+
+Zimmerman Uninjured Little. . None. . Jane 27 
+
+¦ Jones, Newark, 
+V Uninjured Little.. None.. June 29 
+
+Ghirka Winter Uninjured Little.. None.. June 20 
+
+Gbirka Winter Uninjured Little.. None.. Jane 29 
+
+Tz Uninjured Little. None.. JomM 
+
+Some other winter wheats received from the U. S. Depart- 
+
+ment of Agriculture were tested. These were all of foreign 
+
+origin and had not been grown here before except three of the 
+
+Hungarian wheats, of which the home-grown seed was planted 
+
+at this time, but of the Pester Boden variety that killed out 
+
+completely during the winter of 1899-1900 the original seed 
+
+
+Extremely hot weather at time of ripening caused the wheats 
+
+harvested this year and especially the later ones to reach the 
+
+cutting stage prematurely. They have, therefore, not changed 
+
+as greatly in time of ripening as would be indicated by the rec- 
+
+ords. They were planted September 17. 
+
+TABLE VIII. 
+
+VARIETY EFFECT OF RD8T LODGED DATE OK 
+
+WINTER KIPEMNK 
+
+Weiaeenburg Uninjured Little.. Slightly June 29 
+
+Banat Uninjured Little.. Slightly June &gt;7 
+
+Theiss Uninjured Little.. None. . June 39 
+
+Pester Boden Uninjured Little.. None. . . Jane 29 
+
+Steinwedel Entirely killed 
+
+Budapest Uninjured None.. None... Jane 27 
+
+Early Baart Entirely killed 
+
+King'sEarly Entirely killed •. 
+
+Canning Downs Entirely killed 
+
+Pootung Uninjured None.. None... June 21 
+
+Other varieties were sown on larger plots and the yields as- 
+
+
+TABLE IX. 
+
+VARIETY RLST LODGED DATE OF . YIELD PER 
+
+RIPENING ACRE 
+
+Turkish Red Little None June 96 89 bushels 
+
+Big Frame Little None June 24 84 bushels 
+
+Currell Little None June 24 23 bushels 
+
+Yaroslav 1 Little None July 1 80 bushels 
+
+Yaroalav* Little... None July 1 28 bushels 
+
+B«ifrw ir Little None July 1 18 bushels 
+
+i From the government of Y»rosl»T. </seg>
+
+
+            <seg id="p013">
+13 
+
+A quite extensive and fairly accurate test of the comparative 
+merits of the Turkish Red and Big Frame varieties was made 
+for the northern and western portions of the State by the distribution 
+of seed of these two varieties in those regions. By 
+taking only those counties in which both varieties were grown 
+and comparing the total results for each variety we have a 
+comparatively fair method of comparison, the weak point being 
+the fact that each variety was tested by a different person and 
+hence there is no assurance that the conditions were the same, 
+but it is expected that the large number of tests will largely 
+counterbalance this source of error. 
+
+The subjoined table of results is made up from the results 
+of tests of each variety in the following counties : Antelope, 
+Boone, Buffalo, Burt, Cedar, Colfax, Cuming, Custer, Dawson, 
+Deuel, Dixon, Dodge, Garfield, Greeley, Holt, Howard. Merrick, 
+Pierce, Platte, Stanton, Valley. 
+
+table x. 
+
+NUMBER OF NUMBER PER CENT AVERAGE VIELP 
+
+VARIETT TE8TS WINTER- WINTE - PER ACRE 
+
+KILLED KILLED IN BUSHELS 
+
+Turkish Red 59 7 12.0 21.5 
+
+Big Frame 104 10 9.6 18.2 
+
+These figures would indicate that the Big Frame wheat was 
+somewhat hardier, but that the Turkish Red was more prolific. 
+
+A comparison of these results with those obtained at the Station 
+through a period of five years shows a pretty close agreement 
+as far as yield is concerned. 
+
+TABLE XI. 
+
+VARIETY YIELD IN BUSHELS PER ACRE 
+
+1897 1808 1899 1900 1901 Avenge 
+
+Turkish Red 12 31.4 88.8 88 80 »l 
+
+Big Frame 18.5 13.5 15.5 84 84 .'8 1 
+
+Currell »6 16.1 .... 95 38 184 
+
+TESTS OF WHEATS IN NORTHERN AND WESTERN NEBRASKA. 
+
+In the fall of 1900, three hundred and sixty-seven samples of 
+wheats of the Big Frame and Turkish Red varieties were sent </seg>
+
+            <seg id="p014">
+14 
+
+The Adaptation and Improvement of Winter Wheat. 
+
+Sies living north of the Platte river or west of the 100th 
+in. Each experimenter received twenty pounds of 
+and agreed to plant and care for it, threshing it sepafrom 
+his other grain, and to report upon the following 
+connected with its growth. 
+
+¦ Sown on upland or bottom land? 
+Depth to water? 
+
+3. Nature of soil, i. e., clay, gumbo, loam, sandy loam, or 
+
+4. Nature of subsoil? 
+
+¦ Is there any alkali present? 
+Is the soil light or heavy? 
+
+¦ Method of preparing the soil for this crop? 
+Depth of plowing (if plowed)? 
+
+¦ Previous crop? 
+Date of sowing? 
+
+I Amount of seed per acre? 
+Good or poor stand in fall? 
+
+¦ Protection by windbreak or snow during winter? 
+Condition in spring? 
+
+15. Date of ripening? 
+
+¦ Did it rust, smut, or lodge? 
+Date of cutting? 
+
+18. Yield of threshed grain per acre? 
+
+P Comparison with other varieties raised by you or in 
+vicinity? 
+
+20. Remarks. 
+
+The nuinber of reports available for use in computing results 
+from these tests was 194. The accompanying table shows the 
+number of tests, the number of cases in which the wheat was 
+destroyed by winterkilling, and the average yield per acre for 
+each variety in each county in which the tests were made. 
+Plantings later than October 1 were not included among the 
+list of losses by winterkilling, but the omissions from^this 
+cause were very few. Average yieldsjper acre were found'by 
+dividing the sum of all yields reported for any variety^in a 
+county by the n amber of such reports. </seg>
+
+
+            <seg id="p015">
+15 
+
+TABLE 
+
+XII 
+
+
+COUNTY VARIETY OF WINTER- TIBLD PEB 
+
+TESTS KILLED ACRB 
+
+Antelope Turkish Red I 1 24 
+
+&gt; 
+
+Big Frame 6 1 17 
+
+Boone Turkish Red 8 0 2» 
+
+Big Frame 3 0 » 
+
+Boyd Big Frame 1 0 
+
+Brown Big Frame 1 0 
+
+Buffalo Turkish Red 3 1 
+
+Big Frame 18 0 14 
+
+Bort Turkish Red I 0 ¦ 
+Big Frame 1 0 * 
+
+Big Frame 1 0 *J 
+
+Cedar Turkish Red 3 1 9 
+
+Cedar Turkish Red 3 1 9 
+
+Big Frame 2 0 1 
+
+Big Frame 2 0 18 
+
+Cheyenne Big Frame 1 0 -&gt;&lt;) 
+
+Cheyenne Big Frame 1 0 -» 
+
+Colfax Turkish Red 3 0 
+Big Frame 7 0 3 
+
+Colfax Turkish Red 3 0 ¦ 
+
+Big Frame 7 0 37 
+
+Cuming Turkish Red 1 0 
+Big Frame 3 0 I 
+
+Cuming Turkish Red 1 0 
+
+Big Frame 3 0 J"&gt; 
+
+Caster . . Turkish Red 6 1 87 
+
+Caster . . Turkish Red 6 1 -'7 
+
+Big Frame 18 4 8 
+
+Big Frame 18 4 81 
+
+Dawson Turkish Red 9 1 87 
+
+Dawson Turkish Red 9 1 87 
+
+Big Frame 11 0 .' 
+
+Big Frame 11 0 .&gt;.' 
+
+Deuel Turkish Red 1 0 
+Big Frame 1 0 
+
+Big Frame 1 0 
+
+Dixon Turkish Red 1 0 87 
+
+Dixon Turkish Red 1 0 27 
+
+Big Frame 1 0 
+
+Big Frame 1 0 8 
+
+Dodge Turkish Red 4 0 1» 
+Big Frame I 3 I 
+
+Dodge Turkish Red 4 0 1» 
+
+Big Frame I 2 *2 
+
+Douglas Big Frame 4 1 84 
+
+Douglas Big Frame 4 1 24 
+
+Dandy Big Frame 1 0 
+
+Dandy Big Frame 1 0 4 
+
+Furnas Big Frame '-' 0 
+
+Garfield Turkish Red 3 1 • 
+
+Big Frame 3 0 10 
+
+Greeley Turkish Red 1 0 -»0 
+
+Big Frame S 2 18 
+
+Hall Big Frame 8 0 18 
+
+Hayes Big Frame 1 o 
+
+Hitchcock Big Frame 2 0 
+
+Holt Turkish Red 1 0 
+
+Big Frame 4 0 10 
+
+Howard Turkish Red 5 0 .'4 
+
+Big Frame 4 0 IS 
+
+Knox Bisr Frame 8 0 18 
+
+Loup Big Frame 1 0 20 
+
+Madison Big Frame 1 0 ¦ </seg>
+
+            <seg id="p016">
+16 
+
+
+Merrick Turkish Red 
+
+I 
+
+M 
+
+0 
+
+Big Frame 8 0 18 
+
+Pierce Turkish Red 1 0 16 
+
+Big Frame. . . . 
+
+¦&gt; 
+
+0 
+
+U 
+
+Plstte Turkish Red 4 0 27 
+
+Big Frame. 
+
+H 
+
+0 
+
+M 
+
+Redwillow Big Frame 
+
+1 
+
+1 
+
+Sheridan Big Frame 1 0 
+
+Sherman Big Frame 
+
+I 
+
+0 
+
+I 
+
+Sioux Big Frame. 
+
+1 
+
+0 
+
+N 
+
+Stanton Turkish Red 1 0 
+
+Big Frame . . 1 0 
+
+Vallev Turkish Red. . 
+
+I 
+
+1 
+
+U 
+
+Big Frame. 
+
+I 
+
+1 
+
+in 
+
+Washington Big Frame 1 0 
+
+Total 1M 19 
+
+The distribution of winter wheat was made with two objects 
+in view, namely, to help ascertain the possibilities of winter 
+wheat culture in thut portion of the State lying north of the 
+Platte river and that lying west of the 100th meridian, and also 
+to encourage experimental attempts to raise winter wheat in 
+those regions. 
+
+The latter object is being attained in a very marked degree, 
+as practically all those who made the test are planting the seed 
+again this year. In addition, large numbers of farmers have 
+planted wheat this year for the first time. There is great danger 
+that the industry will receive a setback should the winter 
+prove a severe one resulting in the loss of large areas of wheat. 
+The adaptation of winter wheat to parts of that region cannot 
+&amp; accomplished at once and should not be attempted on a 
+;e scale by single individuals with the belief that they have 
+id a sure crop for all seasons. 
+
+As far as the attempt to gauge the possibilities of winter 
+wheat growing is concerned, that cannot be determined by one 
+year's test, but something has been learned, and a beginning 
+has been made by furnishing the Station with a corps of competent 
+volunteer experimenters who are provided with winter 
+wheat of known origin, and who are disposed to continue its 
+culture. In time, the results obtained by these persons will 
+throw much light on the subject. 
+
+The results of the first winter, as shown in the table, are </seg>
+
+
+            <seg id="p017">
+17 
+
+very encouraging. Of the 194 tests reported, there were only 
+nineteen cases of complete loss by winterkilling. Some of 
+these were doubtless due to lack of moisture in the fall. Tests 
+were made in thirty-eight counties north of the Platte river or 
+west of the 100th meridian. In only one county was there a 
+complete failure, and in that county only one trial was made. 
+
+IMPROVEMENT BY ADAPTATION. 
+
+Undoubtedly the ideal winter wheat for Nebraska is yet to be 
+developed. Whether some of the varieties now in use, like the 
+"Turkish Red", will form the basis for the improved wheat 
+or whether some of the Russian wheats will be found best 
+adapted to this region cannot be foretold. It seems probable 
+that varieties of somewhat different characteristics will be required 
+in different portions of the State. The northern portion 
+will require a hardier variety than the southern, and the 
+western a more strongly drought-resistant variety than the 
+eastern. Early maturity is a desirable characteristic everywhere, 
+but becomes of more importance as wheat culture proceeds 
+southward and westward. 
+
+That much can be done towards adapting some of the commonly-grown 
+varieties to portions of the State not generally 
+considered in the winter wheat area has already been demonstrated. 
+One of the most promising varieties for this purpose 
+is the so-called Turkey Red or Turkish Red or Turkey. The 
+three names doubtless represent a wheat of the same local origin, 
+namely, the Crimea. It is grown extensively in Iowa, 
+Kansas and Nebraska, and even farther east. As its original 
+habitat resembles in some climatic conditions the trans-Missouri 
+country, the characteristics that favored it in the Crimea 
+have made it useful here. It has, however, exhibited ouite a 
+tendency towards variation, and in the different regions in 
+which it has been cultivated shows markedly different habits 
+of growth. An experiment designed to show the difference between 
+representative samples of this variety from different sections 
+of the country was carried on at this Station in 1899-1900 
+and in 1900-01. Turkish Red seed wheat was obtained from the 
+Ohio Experiment Station in eastern Ohio, the Iowa Station in 
+central Iowa, and through the Kansas Station there was obtain- </seg>
+
+            <seg id="p018">
+18 
+
+
+ed a sample from central Kansas. These samples and one of 
+Turkish Red wheat that had been grown at this Station for 
+three years vrere sown on contiguous plots of land. The record 
+of growth shows a great difference in the habits of these 
+four strains of what was without doubt originally the same variety 
+of wheat. That the Nebraska and Iowa seed were originally 
+the same is certain, for the Nebraska seed had been obtained 
+from the Iowa Station three years before. 
+
+TABLE XIII. 
+
+Kansas Nebraska Iowa Ohio 
+
+Yield of grain per acre.. 29.1 bu. 27.5 bu. 
+Weight of grain per bu.. 64.2 lbs. 62.2 lbs. 
+
+22.8 bu. 23 1l.il 
+56.91bs. 58.91bs 
+
+Ee winter of 1899-1900 was a very favorable one here for 
+&gt;r wheat and a comparison of the stand in fall and spring 
+ed that there was no appreciable loss from winterkilling. 
+
+The Iowa and Ohio wheats rusted and lodged badly, while 
+the Nebraska and Kansas wheats did not suffer in this way. 
+The Kansas wheat ripened a little earlier than the Nebraska 
+and both of these before the Iowa and Ohio wheats. There 
+was eight days difference between the earliest and latest ripening 
+grain. The yield and weight of grain seemed to depend 
+upon early ripening. 
+
+All of these differences in growth of wheat from different 
+States, but of the same variety, denote a ready tendency towards 
+variation which enables the plant to adapt itself to its 
+new environment. 
+
+The possibility of adapting a variety of winter wheat to regions 
+of more severe winters is thus indicated. Such adaptation 
+has actually been going on for a number of years, which 
+may in some measure account for the fact that winter wheat is 
+now being grown in portions of Nebraska where twenty years 
+ago it was considered an impossible crop. Wheat planted in 
+a locality where the winter weather is more severe than that 
+
+Date of sowing 
+Stand in fall 
+Stand in spring 
+Date of ripening 
+
+SKED 
+Sept. 9 
+Good 
+Good 
+None 
+Very little 
+June 25 
+
+Sept. 9 
+Good 
+Good 
+None 
+Very little 
+June 27 
+
+SKEIl 
+Sept. 9 
+Good 
+Good 
+Badly 
+Much 
+July 2 
+
+Milch </seg>
+
+
+            <seg id="p019">
+19 
+
+to which it has been accustomed will ordinarily winterkill 
+more or less. This may be enough to produce a practical failure 
+of the crop or it may not, but the plants that do survive 
+may become the basis of a hardier strain of wheat and the more 
+severe the season the more valuable for seed are the plants 
+that are left. This should be borne in mind when one is in the 
+act of deciding whether to plow up in the sprinsr a field of 
+winter wheat that has been badly winterkilled. Consider 
+whether you can get seed that has survived such weather when 
+you come to sow next fall. 
+
+THE SOURCE OF SEED SUPPLY 
+
+Eher point brought out by this experiment is the fact 
+e locality from which seed is brought will make a very 
+lifference in the success of the crop the first year. The 
+ice in the latitude of the various localities from which 
+the wheats were brought was not great, but there was considerable 
+difference in the amount of annual rainfall in these regions. 
+
+
+Etie winter hardiness of the plants cannot be said to have 
+1 tested, as the winter was a very favorable one and all 
+e through successfully. The characteristics that produced 
+differences in yield were, time of ripening, ability to withid 
+rust, to r«main erect, and possibility to utilize economicthe 
+available moisture in the soil. 
+
+The wheats from more humid regions were obviously at a 
+disadvantage, and this is undoubtedly worth considering when 
+purchasing seed wheat. Whether on the other hand there is 
+an advantage in bringing seed from regions of less rainfall has 
+not been demonstrated. 
+
+rOVEMENT OF WHEAT BY SELECTING LARGE, HEAVY 
+KERNELS FOR SEED. 
+
+In 1896 the Nebraska Experiment Station began an attempt 
+to improve the quality and yield of wheat by selecting for seed 
+kernels of more than average specific gravity. To select these 
+kernels and separate them from the lighter ones a solution of 
+calcium chloride in water was used. The solution was suffi- </seg>
+
+            <seg id="p020">
+20 
+
+
+ciently dense so that when the grain was thrown upon it about 
+half of the kernels floated and the other half sank. Those 
+that floated were, of course, the light kernels and those that 
+sank were the heavy. This method of separation accomplished 
+the desired object, but was slow and cumbersome. An attempt 
+was then made to use an ordinary seed fanning mill for the 
+purpose, but it was found difficult to get a sufficient wind velocity 
+to make an equal separation of the grain. After repeated 
+attempts to get the plan on a practical basis a machine was discovered 
+that was originally intended for a different purpose 
+but which accomplished the separation satisfactorily and rapidly 
+and which after undergoing some modifications is now being 
+manufactured especially for this purpose. Another machine 
+is now manufactured that is claimed to accomplish the 
+same end. 
+
+The machine operates by directing upwards a current of air, 
+the velocity of which can be regulated. Into this current the 
+grain is directed. The result is that the heavy kernels and the 
+large kernels fall, and the light and small kernels are driven 
+out. The separation thus accomplished is somewhat different 
+from that effected by a solution, the difference being that the 
+latter separates the kernels entirely according to their specific 
+gravity while with the air blast a large kernel of a certain 
+specific gravity might descend with the heavy kernels, when 
+if it were smaller although of the same specific gravity it would 
+be blown out. 
+
+The number of light kernels that descend on account of their 
+large size is relatively small owing to the fact that large kernels 
+are as a rule of higher specific gravity than small. The 
+following test was made to determine the relation between the 
+size of wheat kernels and their specific gravity. An average 
+lot of wheat was nearly equally divided by means of two sieves 
+into three portions representing medium, small and large kernels. 
+Each of these portions was then thrown upon solutions 
+of the same specific gravity, and the proportion by weight 
+that floated, or light seed, and the proportion that sank, or 
+heavy seed, was determined. </seg>
+
+
+            <seg id="p021">
+21 
+
+TABLE 
+
+XIV. 
+
+LKiHT, KATIil 
+
+CKAMS , HEAVY: 1MB 
+I1.M 1 : 1.29 
+
+Smmll 
+
+Medium 9.62. 
+
+10.7N 1 : 1.1* 
+
+Large 11.96. 
+
+8.04 1 : 0.87 
+
+The weight of light kernels 
+
+among the small was nearly 
+
+twice that of light kernels among the large seeds 
+
+¦ring the last two years a number of experiments have 
+made to ascertain the effect of this practical selection of 
+, heavy seed upon the yield and quality. 
+
+In the fall of 1899 a quantity of Turkish Red winter wheat 
+grown at the Station and cleaned in the fanning mill was separated 
+by the air current into two approximately equal portions. 
+Each of these oortions was again run through the air 
+current. Of the heavy portion the heavy kernels obtained on 
+second treatment were retained and designated ''Heavy 
+wheat". Of the light portion the light kernels obtained on 
+second treatment were retained and designated "Light 
+wheat". These were planted on adjacant plots of land and beside 
+them was planted the same variety of wheat but not treated 
+otherwise than being cleaned in the fanning mill. The 
+yields were as follows : 
+
+TABLE XV 
+
+YIELD 1-EK ACBE 
+
+KIND OF SEED 
+
+Heavy 29.5 bushels 
+
+27. 5 bushels 
+
+
+Light 28.0 bushels 
+
+In the fall of 1900 a sample of the crop grown as "Heavy 
+wheat" was separated into approximately equal parts by the 
+air current, and th« heavier portion again separated, the 
+heavier portion being retained and called "Heavy wheat." 
+The crop grown as "Light wheat" was similarly separated, 
+but the lighter portion was retained in each case. This was 
+called "Light wheat". The two portions thus secured were 
+planted on adjacant plots of land, as was also some of the 
+wheat grown from the "Ordinary wheat" which seed was not 
+treated except to clean with the fanning mill. The yields in 
+1901 were as follows : 
+
+KIND OF SKED HEAVY, 
+UK A MS </seg>
+
+            <seg id="p022">
+22 
+
+
+TABLE XVI. 
+
+KIND Or 8EED 
+
+TIELD PER ACRE 
+
+Heavy 29.3 bushels 
+
+Ordinary 26.0 bushels 
+
+
+26.7 bushels 
+
+In order to verify the experiment with Turkish Red wheat a 
+
+similar test was made both years with the variety known as 
+
+Big Frame. The method of procedure was exactly the same 
+
+as that above recorded. The yields in 1900 were as follows : 
+
+TABLE 
+
+XVII. 
+
+KIM&gt; OK HD 
+
+YIELD PER ACRE 
+
+H.-avv 
+
+25.1 bushels 
+
+
+23.8 bushels 
+
+Light 20.5 bushels 
+
+The yields in 1901 were: 
+
+TABLE XVIII 
+
+KIND OF SEED YIELD PEK ACRE 
+
+Heavy 27.7 bi; 
+Ordinary 25.8 bushels 
+
+Light 21.2 bushels 
+
+The average yields for both varieties for each of the two 
+
+years is as follows : 
+
+TABLE XIX. 
+
+YIELD IN TIELD IN 
+
+1900 1901 
+
+Heavy 27 3 bushels 28.5 bushels 
+
+Ordinary 26.7 bushels 25.9 bushels 
+
+Light- 21.8 bushels 23.9 bushels 
+
+This shows an actual improvement from one year to the 
+
+other in the yield of wheat and a still larger relative increase 
+
+as compared with the ordinary seed. 
+
+This is a rational method for improving the yield and quality 
+
+of wheat, especially when used as auxiliary to selection and 
+
+breeding of individual plants. It offers the farmer a simple 
+
+and practical method for improving his seed. It will be givnn 
+
+a continued trial at this Station, and an attempt will be made 
+
+to determine what proportion of the wheat it is desirable to 
+
+discard on account of lightness and smallness of kernel. </seg>
+
+            <seg id="p023">
+The Adaptation and Improvement of Winter Wheat 
+
+23 
+
+Summary. 
+
+Ejthe'l 18^ varieties of winter wheat tested during the last 
+years, Turkish Red and Big Frame have — hardiness and 
+I considered — been the best. 
+
+In 194 tests of these two varieties during 1900-1901 in counties 
+north of the Platte river or west of the 100th meridian, Turkish 
+Bed yielded better, but Big Frame proved to be somewhat 
+
+Of the 194 tests in the region above described, there were 
+nineteen cases of complete loss by winterkilline. 
+
+Eae Russian varieties of wheat tested indicate great hardiand 
+promise well for fche northern portion of the State, 
+ially if they can be made to mature earlier. 
+
+Ee selection of large, heavy kernels for seed resulted, on 
+whole, in increasing substantially the yield over seed 
+.t not so selected. 
+
+Wheats of the same variety, but grown in different portions 
+of the country, when grown side by side showed much difference 
+in their habits of growth, which were greatly to the disadvantage 
+of the seed grown east of the Missouri river. 
+
+Bi tendency shown by these alien wheats to adapt themi 
+to local conditions when grown here for a number of 
+encourages the hope that Nebraska-grown seed may beadapted 
+to all arable portions of the State. 
+
+The yields of these wheats were nearly proportional to their 
+tendency to early maturity. 
+
+Ksas-grown seed matured earliest and yielded best, but 
+y winterkilled when Nebraska- and Iowa-grown seed of 
+ne variety passed the winter successfully. 
+
+Accepted for publication February 12, 1902. 
+
+Errata 
+
+Yx should read Red Winter on pp. 9, 10, 12. 
+Red Winter should read Yx on p. 9. </seg>
+
+
+         </p>
+		    </body>
+	  </text>
+</TEI.2>

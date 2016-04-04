@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00034.00037">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the
+                            Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno>00034.00037</idno>
+            <availability>
+               <p> </p>
+            </availability>
+            <date>2007</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>THE UNIVERSITY OF NEBRASKA LINCOLN, NEBRASKA, U. S. A.  SAVING THE CORN CROP</title>
+               <date value="1913">1913</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+	        <change>
+	           <date>2007-09-13</date>
+	           <respStmt>
+	              <name>Katherine M. Heupel</name>
+	           </respStmt>
+	           <item>Enrichment</item>
+	        </change> 
+        <change>
+            <date>2006-11-28-05:00</date>
+            <respStmt>
+               <name>OCLC Online Computer Library Center Inc.</name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <seg id="p001">Extension Bulletin No. 20 Distributed August 14, 1913. THE UNIVERSITY OF NEBRASKA Lincoln, Nebraska, U. S. A. SAVING THE CORN CROP BY C. B. LEE. v </seg>
+            <seg id="p002">CROP. There are three general ways in which corn stalks may be fed. &lt; )ne of these, and perhaps the most common one, is the practice of pasturing the stalks in the fields. This is a very easy method and necessitates neither labor nor expense in harvesting and feeding. Its great objection is its extravagance in the matter of feed. Stalks left standing in the field lose much of their feeding value by having the lighter portions blown away. Again, live stock running through such a field knock down many of the stalks and trample them in the ground. From one such cause or another much of the food material in corn stalks is not utilized when they are fed in this manner. Inother method of making use of corn stalks is to feed them odder or stover. This requires considerable labor, but corn :s put up in this way make excellent feed and it is possible by means to provide food for nearly twice the number of cattle could be kept on the same stalks if left standing in the field. The silo furnishes still another way for making use of the corn stalks. By its use it is possible to prepare this kind of material in such a manner that there is very little waste. All kinds of live stock eat silage very readily. The silo allows a compact storage of food material in a convenient place. Its greatest benefit, how - ever, lies in its ability to conserve food substances that otherwise would be at least partly lost. It represents the most up to date method of caring for the corn crop because it represents the most economical method. By its use the Nebraska farmer can keep about half again as many cattle on the same acreage of corn stalks as if these stalks were in the shock, and about three times as many as if he pastured the stalks. </seg>
+            <seg id="p003">Will it keep? There is absolutely no reason why silage put up in August should not keep. Properly put in the silo corn cut at this time will not mold any more than that which is put in later. Molding in silage is caused by the presence of air and is not gov - erned by the maturity of the material used. Consequently, care should be taken that the silage material is well packed in the silo. In order to do this, in case the corn is dry, it will be necessary to put water in with the corn. The best way to get the water in the silo is to run it into the blower pipe or carrier with a hose. This insures an even mixture with the cut corn. It must always be remembered that spoiled silage is invariably caused by either a poor silo or carelessness in preparing or putting in of the silage Does it make good feed? In discussing the preparation of corn for the silo, great emphasis is usually laid upon the proper time for cutting. As a result in many cases men have been led to be - lieve that corn cut before or after the normal time is of very little value. Nothing could be farther from the truth. Rules applica - ble for normal conditions of things must naturally be altered to govern abnormal conditions. Oftentimes the corn grower is con - fronted with abnormal conditions in the growth of his corn crop. Obviously, it would be worse than foolish to advise anyone to cut a 1913 drouth-stricken field of corn when the grain becomes well dented. The rule which must be followed in such a season is — cut your corn before it dries up but do not cut until there is no longer any chance for harvesting a crop of grain. As would be expected, corn cut before the normal time makes much less feed than if it were cut later. This is due to the fact that the corn plant has as yet formed but little dry matter. Such a condition may not look very encouraging for harvesting an imma - ture crop of corn, yet if this corn is in danger of being totally lost it will, if well cared for, oftentimes go a long ways towards paying the expense of putting in and caring for the crop and, furthermore, may prove to be of great value in maintaining the cattle industry of Nebraska. </seg>
+            <seg id="p004">course immature corn will have little or no grain and the grain is made up largely of starch which is a highly digestible food. Again young corn will have a higher sugar content than it will when it is more mature. As the corn plant approaches maturity practically all of the sugar used earlier by the plant to build up its structure and seed is changed into starch. During the growing season the corn stalk contains a considerable amount of sugar. Owing to the presence of this sugar, early cut corn makes more sour silage than corn which is cut at a later time. Sour silage is good silage, however, provided there is nothing else wrong with it and live stock will eat it very readily. Where too much acid is present animals will scour more freely than with normal silage. This can be largely prevented by cutting down the silage allowance and feeding more dry roughage. In most sections of Nebraska a considerable amount of hay is usually on hand. With a ration of alfalfa and silage stock cattle and sheep can be brought through the winter in excellent condition. Two tons of silage with a little dry hay will be suffi - cient to carry a stocker six months. Even if a corn field yielded but two tons of silage per acre this would mean a stocker for every acre. With this support the state of Nebraska would have no cause for marketing her breeding herds of cattle. I it is impossible to erect a silo, the corn may be cut and ked or, if dry enough, stacked. Either of these methods will ide good feed and can be made to supply a good share of the er ration for horses, cattle or sheep. However, whatever plan lopted for taking care of the dying corn haste may be impera - in many localities if any good is to be realized. Get a silo if ible. If you cannot get a silo then shock or stack. </seg>
+         </p>
+      </body>
+   </text>
+</TEI.2>

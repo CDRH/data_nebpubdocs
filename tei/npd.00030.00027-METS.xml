@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00030.00027">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the
+                            Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno>00030.00027</idno>
+            <availability>
+               <p> </p>
+            </availability>
+            <date>2007</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>THE UNIVERSITY OF NEBRASKA AGRICULTURAL EXPERIMENT STATION LINCOLN, NEBRASKA, U. S. A.  PASTEURIZATION OF MILK AND CREAM IN THE HOME</title>
+               <date value="1913">1913</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+	        <change>
+	           <date>2007-09-13</date>
+	           <respStmt>
+	              <name>Katherine M. Heupel</name>
+	           </respStmt>
+	           <item>Enrichment</item>
+	        </change>   
+         <change>
+            <date>2006-11-28-05:00</date>
+            <respStmt>
+               <name>OCLC Online Computer Library Center Inc.</name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <seg id="p001">Agricultural Experiment Station LINCOLN'. NEBRASKA. U. S. A. PRESS BULLETIN NO. 39 Distributed February 14. 191.1 PASTEURIZATION OF MILK AND CREAM IN THE HOM By J. H. Frandsen DEPARTMENT OF DAIRY HUSBANDRY. NECESSITY FOR PASTEURIZATION. in milk from a source absolutely above suspicion hould be carefully pasteurized (that is. heated to a leraperati om IE degrees P. for at least 20 minutes) before be .oil pu rticularly if it is to be used for children. Much of the m E|« cities frequently contains large numbers of bacteria. While it is ti most of the germs in milk are harmless, it is a fact that dangerous disease ger etimes gain access to the milk supply. .Mils may contain germs of typhoid, diphtheria, tuberculosis, and other diseas especially if either the cows or any of the people handling the milk are suffering fn these diseases. These germs do not in any way change the appearance or composir of the milk, hence their presence can not be detected by any of the ordinary methc of inspection, yet when such milk is introduced into the system of a susceptible pers they may multiply very rapidly and in this way seriously affect the health of the p son consuming the milk </seg>
+            <seg id="p002">As is the case with the other outfits, the bottles holding the milk should be thoroly cleaned and filled to the neck with fresh, cold milk and loosely stoppered Then place in tray A. The can B is now placed on a wooden table or floor and filled with boiling water to the supports marked Vow place tray A with filled bottles in can B so that the bottom of tray A rests on supports C and put cover D on quickly. After the bottles have been warmed by the steam for five or six minutes, remove the quickly, turn the tray so that it drops he water, and replace the cover immedi- This manipulation is done as quickly as possible to avoid loss of heat The bot - tles should be left in this hot water for 25 minutes. Now take the tray out of the water, cool the bottles with cold water, and ice as quickly as possible. Kee] Fig 3. — The Strauss Pasteurizer readv for use SIMPLEST METHOD OF PASTEURIZING lightly the process (heating the need not be so ca All that is necessary the milk or cream double boiler and the scalding point, and ely cool This cess will kill germ* present fully as effectively as other methods described. The only objection is the fact that sorae physicians believe that milk that has been heated to the scalded point is rendered slightly less digestible than if carefully pasteurized at a lower temperature and for a longer period of time, as pre fig. 4. — An ordinary double boiler may be used for pasteurizing milk or cream viouslv suggested distance of top of bracket from bottom of pan 6V» inchei .mount of water 9 quarts </seg>
+         </p>
+      </body>
+   </text>
+</TEI.2>

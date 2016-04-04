@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00010.00012">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title>Nebraska Public Documents Project</title>
+				        <author/>
+			      </titleStmt>
+			      <publicationStmt>
+				        <publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+				        <pubPlace>Lincoln, NE</pubPlace>
+				        <idno>00010.00012</idno>
+				        <availability>
+					          <p/>
+				        </availability>
+				        <date>2007</date>
+			      </publicationStmt>
+			      <sourceDesc>
+			         <bibl>
+			            <title>THE UNIVERSITY OF NEBRASKA BULLETIN OF THE AGRICULTURAL EXPERIMENT STATION OF NEBRASKA</title>
+			            <date value="1903">1903</date>
+			         </bibl>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change>
+			         <date>2007-07-18</date>
+			         <respStmt>
+			            <name>Laura Weakly</name>
+			         </respStmt>
+			         <item>Validation</item>
+			      </change>
+			      <change>
+			         <date>2007-06-15</date>
+			         <respStmt>
+			            <name>Katherine M. Heupel</name>
+			         </respStmt>
+			         <item>Enrichment</item>
+			      </change>
+			      <change>
+				        <date>2006-11-29-05:00</date>
+				        <respStmt>
+					          <name>OCLC Online Computer Library Center Inc.</name>
+				        </respStmt>
+				        <item>Initial Creation</item>
+			      </change>
+		    </revisionDesc>
+	  </teiHeader>
+	  <text>
+		    <body>
+         <p>
+            <seg id="p001">
+The University of Nebraska. 
+
+BULLETIN 
+
+OP THH 
+
+AGRICULTURAL EXPERIMENT STATION 
+
+OK 
+
+NEBRASKA. 
+
+Vol. XV, Article in. 
+
+POISONING OF CATTLE BY COMMON SORGHUM AND 
+KAFIR CORN. 
+
+{Sorghum vulgare.) 
+
+Distributed Jahuikt 25, 1908. 
+
+LINCOLN, NEBRASKA. 
+
+U. S. A. 
+
+A. T. Peters. H. B. Slade. Samuel Avery. </seg>
+
+            <seg id="p002">
+AuRICLLTLRAL EXPERIMENT STATION 
+
+OF 
+
+NEBRASKA 
+
+THE GOVERNING BOARD 
+
+
+GEO F. KENOWER. icsidtnt, Wisner 
+E. v. FORELL, Kearney 
+
+EDSON G. RICH. Omaha 
+JOHN L. TEETERS, Lincoln 
+E. C. CALKINS, Kearney 
+C. J. EKNST, Lincoln 
+
+THE STATION OFFICERS 
+
+E. A. BURNETT, B. Sc., Directorand Animal Husbandman 
+T. L. LYON, B. S. A., Associate Director and Agriculturist 
+J. S. DALES, M. Ph., Financial Secretary 
+
+WM. W. MARSHALL, Executive Clerk 
+
+THE WORKING STAFF 
+
+A. T. PETERS, D. V. M., Animal Pathologist 
+Charles E. Bessey, Ph. D., Botanist 
+
+S. Avery, PH D., Chemist 
+
+A. L. Haeceer, B. Sc. A., Dairy Husbandman 
+Lawrence Bruner, B. Sc., Entomologist 
+Erwin H. Barbour, Ph. D., Geologist 
+R. A. Emerson, B. Sc., Horticulturist 
+O. V. P. Stout, C. E., Irrigation Engineer 
+O. D. SwBZEY, M. A., Meteorologist 
+
+H. R. Smith, B. Sc., Associate Animal Husbandman 
+3. H. Gaiw, M. D. C, Assistant Animal Pathologist 
+S, W. PlUUX. Assistant to A*, vulture and Foreman o/Fann </seg>
+
+
+            <seg id="p003">
+{Sorghum vulgare.") 
+
+Part I. 
+
+FIELD OBSERVATIONS AND REPORTS. 1 
+
+BY A. T. PBTEHS. 
+
+kThe Nebraska Experiment Station has for a number of 
+are collected reports of cases of loss of animals from eat 
+I green sorghum. 
+
+I Special experiments to determine the cause of death from 
+ttle running in sorghum fields were undertaken by the 
+epartment of Animal Pathology during the summer of 
+01, as the result of numerous inquiries which came to the 
+ation asking for remedies and reporting deaths of animals 
+at had been pastured on sorghum or had broken into 
+rghum fields. In most cases these animals did not regurly 
+pasture upon sorghum, but broke into the fields from 
+jacent pastures or as they were being driven past fields 
+sorghum. Investigation proved that the animals did not 
+b from bloat as has been reported by many agricultural 
+pers. Many cases were reported where death occurred 
+thout bloat and in so short a time that no other theory 
+cept that of poison seemed tenable. In most instances 
+iere' losses of this kind were reported, the sorghum had 
+en stunted in its growth and was not entirely healthy and 
+jorous in its appearance. 
+
+tWe visited many fields where animals had died, but genally 
+found these animals in so advanced a stage of decom- 
+
+tPart of the material here presented is from the 15th Annual Report 
+this Station. 
+
+BULL. 77, AGR. EXP. STATION OF NEBR. VOL. XV, ART. III. </seg>
+
+            <seg id="p004">
+* A(/l$€/rti-7lg Oj I .dlllc Oy tSOrgflmrrl iZflCZ _/\ djlr {^.(/fft* 
+
+position that satisfactory post mortems could not be held. 
+Often the animals had been buried, and when other animals 
+were turned into these fields they refused to eat the sorghum 
+and no information could be secured. 
+
+In the spring of 1901, special effort was made to further 
+the investigation of sorghum poisoning. A notice was placed 
+in the leading State papers to the effect that the Experiment 
+Station would send a veterinarian to investigate all cases 
+of so-called sorghum poisoning, if notified in time to be of 
+assistance or to secure any information. We responded to 
+numerous calls of this kind, but in most instances where 
+animals were turned upon the sorghum for the express purpose 
+of poisoning them they refused to eat, and no data could 
+be secured. 
+
+In response to one of these calls, I reached the farm of Mr. 
+Bert Foss, near Aurora, at 7 :30 a.m., on August 3, 1901. 
+Two days previous, fifteen head of his cattle had broken 
+into a sorghum field, where they had remained twenty minutes. 
+They were then driven into another field and were 
+not seen again for several hours. When seen, three were 
+sick, all of which died within a few hours. Th&lt;&gt; symptoms 
+were drowsiness, running at the eyes, twitching of the nius 
+cles, numbness of the limbs, staggering gait, inability to 
+stand, involuntary passing of urine. On August 2, two MR 
+cows broke through the fence and were on the sorghum ftdd 
+five minutes. One hour later, one of these animals, a fouryear-old 
+cow, was very sick, but finally recovered. 
+
+We turned a small yearling steer on the sorghum at 8:30 
+a.m., August 3, but he refused to eat any sorghum, and after 
+thirty-five minutes two more were turned into the sorghum, 
+where they remained until 10:00 a.m., when only one. ¦ 
+small, red steer, had taken any sorghum, and he had eaten 
+only a few leaves. They were then turned back with the 
+herd. At 10:35 a.m. the small, red steer acted somewhat 
+drowsy, but soon recovered. 
+
+At 11:00 a.m. we turned one red heifer and one yearling 
+steer on the sorghum. The heifer was the only animal that 
+ate any quantity, and, as subsequent examination showed, 
+she ate only one and one-half pounds of green sorghum. At 
+11:10 a.m. this animal dropped to the ground. Upon ex- </seg>
+
+            <seg id="p005">
+
+5 
+
+
+amination it was found that she had stopped chewing her 
+cud and there was a peculiar twitching of the muscles of 
+the nose and head and also of the body. The animal was 
+very dull. At 11 :15 a.m. she was taken out of the sorghum 
+field and allowed to lie in a stubble field. When lying dowu 
+her head was turned toward the abdomen, presenting the 
+symptoms shown by a horse having the colic. The eyes 
+seemed dull and gave off a watery discharge. There was a 
+partial paralysis of the tongue and great quantities of saliva 
+ran from the mouth. The limbs and ears were cold. The 
+pupils of the eyes dilated, pulse not perceptible, mucous 
+membrane of the rectum protruding, involuntary discharge 
+of urine and faeces. Upon pricking the animal with a knife 
+on the lower limbs it showed no feeling. This animal was 
+closely watched in the field by Mr. Foss and myself and we 
+observed that she did not take any weeds, but simply a small 
+amount of sorghum, eating only the tops of the leaves. At 
+1 :30 p.m. the animal was still lying on its right side; all the 
+muscles of the head were contracted and showed involuntary 
+twitching. The limbs were paralyzed and the animal 
+was unconscious; the mucous membrane of the mouth was 
+of a salmon color. At 2 :35 p.m. the animal was in great 
+pain, and it was apparent that she would not recover. At 
+the suggestion of Mr. Foss the animal was killed in order to 
+hold a post-mortem examination. 
+
+Post-Moutem Examination. — Animal still warm. The 
+bowels were opened and contents of paunch carefully noted ; 
+there was in all one pound and a half of sorghum leaves to 
+be found in the paunch. No sourness of the contents. The 
+same was immediately put up in Mason fruit jars with clean 
+water and brought to the laboratory. The mucous membrane 
+of the intestines normal, all other conditions of the 
+animal normal. Made particular examination of the pharynx 
+(throat), epiglottis, and esophagus, and found that there 
+were no leaves lodged over the same. If this had occurred 
+the animal would have died instantly and not within three 
+or more hours as our record shows, and would have died in 
+the state of asphyxia and not presenting the symptoms of 
+acute poisoning. In eleven post mortems that we conducted, 
+careful search has always failed to reveal any leaves ob- </seg>
+
+            <seg id="p006">
+6 
+
+
+structing the pharynx, epiglottis, or esophagus, which would 
+have caused death by asphyxia or strangulation. 
+
+I One case of sorghum poisoning is reported from sorghum 
+at had been cut several hours before feeding. Mr. E. F. 
+oner, of Chester, cut sorghum at 8 K)0 o'clock p.m., August 
+which was fed to three milch cows at 8:00 a.m., August 3. 
+&gt;out 9:00 o'clock a.m. these animals were first noticed to 
+sick. One died within an hour and fifteen minutes. The 
+lier two recovered within twelve hours. On August 6 I 
+tited this sorghum field and made an examination of the 
+rghum, which was not fully matured. It was comparaely 
+free from weeds. At 5:45 p.m. we placed a cow in 
+is sorghum field and allowed her to eat as much cut 
+rghum as she would, up to 8:00 p.m., when she had conmed 
+about twenty pounds. At 7 :00 a.m., on August 7, the 
+imal showed no effects of sorghum poisoning, and no bad 
+ects followed. 
+
+I The season of 1902 was unusually wet in most sections of 
+e State. As a result of the vigorous growth of sorghum, 
+iv cases of poisoning have been reported. On July 24, Mr. 
+illiam J. Smith, of Cambridge, lost two cows as the result 
+feeding green sorghum. On the 30th of July, Mr. H. B. 
+ade and 1 visited the farm of Mr. Smith and made a physiojical 
+test of the effect upon a cow of the sorghum growing 
+the field. A full-sized Jersey cow was turned into the 
+rghum patch shortly after 9 :00 o'clock. At 9 :10 the aniil 
+began to eat the sorghum and kept quite steadily at it 
+p the next few minutes. She soon ceased, became uneasy, 
+d in ten minutes after she had taken the first mouthful of 
+rghum she was seen to lurch suddenly as if she had lost her 
+lance. From that time on the symptoms of poisoning 
+pidly developed, and the cow passed into a semi-comatose 
+ndition. After five hours the effect of the poison appeared 
+isened and the cow recovered. 
+
+Pe fresh air acted to some extent as an antidote, and by 
+o'clock the animal was able to rejoin the herd. Samples 
+rghum taken from the locality where the cow had eaten 
+examined in the laboratory and found to produce pruscid. 
+The symptoms and the presence of prussic acid in 
+sorghum afford unmistakable evidence of the cause of </seg>
+
+
+            <seg id="p007">
+7 
+
+the poisoning. The action upon the heart, respiration, and 
+nervous centers as well as the incipient diarrhoea are all 
+characteristic symptoms of prussic acid poisoning, and tho 
+smell of the acid about the mouth was sufficient by itself to 
+identify the poison. 
+
+The sorghum from this field gave chemical tests for prussic 
+acid. 
+
+[While no later reports of poisoning in the State have been 
+ceived, the Chemical Department continued the study of 
+e occurrence in plants of compounds capable of liberating 
+ussic acid. Prussic acid had just been obtained from 
+ifir corn growing on the University farm when the folding 
+letter was received : 
+
+"State Agricultural College and Experiment Station, i 
+"Department of Veterinary Science. Geo. H. Glover. \ 
+"Fort Collins, Colorado, September 17, 1902. ) 
+"Director Experiment Station, IAncoln, Nebr.: 
+
+"Dear Sir — We have recently experienced a fearful loss 
+of cattle in this State from eating Kafir corn; twenty-one 
+head of dairy cows out of thirty-two dying within an hour 
+after first being placed upon the feed. This corn was a 
+stunted growth being above the ditch. Will you kindly inform 
+me if you experienced any such difficulty in Nebraska 
+or give any further information bearing on the subject? 
+
+"Yours respectfully, 
+
+(Signed) "Geo. H. Glover." 
+
+[As the result of the correspondence with the Department 
+Veterinary Science of the Colorado Agricultural College, 
+was arranged that this Station should co-operate in instigating 
+the outbreak. Accordingly Dr. S. Avery visited 
+e Colorado Station for this purpose. The cattle belonged 
+Eugene F. Pitman and his mother, Mrs. Susan R. Pitman, 
+Brighton, Colo. Mr. Pitman kindly furnished the followg 
+information : 
+
+("The cattle died on August 20 last. We lost 21 head out 
+32 head which had been turned on the corn. Eleven head 
+ed, but 4 of the 11 head had violent spasms, but recovered. 
+te other 7 head were not affected. They were only on the 
+rn 5 or 6 minutes. The first cow died in 15 minutes; </seg>
+
+            <seg id="p008">
+8 
+
+Poisoning of Cattle by Sorghum and Kafir Corn. 
+
+nearly all within an hour. One yearling lived over 6 hours. 
+I gave it several doses of aconite, thinking possibly one 
+poison would counteract the other, but it died in great 
+agony. The cattle seemed to all go crazy at once, then stagger 
+like a person intoxicated, fall in all directions, and die 
+where they fell. I stuck all of them with a knife, the same 
+as in alfalfa bloat, but there wasn't any gas in them. The 
+Kafir corn was planted on sod ground above irrigation. It 
+was from 6 to 15 inches high and was burnt brown from the 
+
+Shortly after the poisoning, Dr. Glover visited the field 
+and collected samples, which he generously placed at our 
+disposal. These samples yielded prussic acid in greater 
+amounts than any yet examined in Nebraska. 
+
+More definite information in regard to the conclusions 
+drawn from the chemical investigations, as well as observations 
+in regard to the conditions under which sorghum 
+becomes dangerous, will be given in Part II of this bulletin. </seg>
+
+
+            <seg id="p009">
+9 
+
+Part II. 
+
+CHEMICAL INVESTIGATIONS.' 
+
+BY S. AVERT. 
+
+The investigations of the Department of Animal Pathology 
+have been given in Part I of this bulletin. That work 
+furnished the basis of chemical investigation. 
+
+Some three years ago Dr. A. T. Peters arrived at the following 
+conclusions regarding the loss of cattle from eating 
+green sorghum : 
+
+1. Animals do not die from bloat or indigestion. 
+
+2. They do not choke to death. 
+
+The deaths result from a violent poison in sorghum of 
+inted growth. 
+
+4. The symptoms are those of prussic acid poisoning. 
+
+tThe chemical investigations on the subject here recorded 
+plain and confirm the conclusions drawn by the veteririan 
+from his field work. 
+
+Definite knowledge of the poisonous principle in these 
+plants was wanting till very recently. As late a publication 
+as the Yearbook of the Department of Agriculture for 1900 
+contains the suggestion that in many cases death may result 
+from choking. In 1886 Berthelot and Andre* ascribed the 
+cause to excessive amounts of potassium nitrate (saltpeter). 
+Williams 4 of the U. S. Department of Agriculture also suggests 
+saltpeter as a cause of the trouble. Hiltner 5 has shown 
+
+'The chemical work on prussic acid in Sorghum vulgare (common 
+sorghum and Kafir corn) was begun by Mr. Henry B. Slade and has been 
+continued by the writer. Mr. Slade, who is no longer connected with 
+this Station, has fully authorized the writer to present his part of the 
+work. In view of the pioneer work of Mr. Slade his name is published 
+on the title page as one of the joint authors. The writer is, however, 
+responsible for the form of presentation of all of Part II. It should be 
+added, also, that part of the work here given is due to the labor of Dr. 
+Peters and is presented in the chemical part for the sake of convenience. 
+
+•Abstract in Biedermann's Centralblatt f. Agrikultur-Chemie, Bd. M, 
+1886, p. 473. 
+
+'Farmers' Bulletin No. 50. 
+
+•N«br. Exp. SUUoa Bulletin No. 18, p. 75. </seg>
+
+            <seg id="p010">
+6 J • 6 J 
+
+iat the amount of nitrate in Nebraska fields was too small 
+o produce fatal results. This writer suggests that the plant 
+nder certain conditions develops a highly poisonous chemial 
+compound. Slade* in the Annual Report of the Station 
+or the present year put forward the theory that such a com- 
+K)und might be produced by the action of an enzym upon a 
+ucoside found in the plant through a process of abnormal 
+growth. On June 27 of the present year the Chemical News 
+' London contained an article on Cyanogenesis in -Plants 
+&gt;y Dunstan and Henry. This article, which fully confirms 
+lade's prediction, was not known to Mr. Slade or to the 
+riter till October 10. In brief, the England Chemists isoated 
+from Egyptian Sorghum vuJgare a glucoside capable 
+! liberating prussic acid. In the meantime Mr. Slade had 
+etected prussic acid in fatal sorghum grown in western 
+Nebraska, determined the per cent, and secured strong evience 
+in favor of the glucoside theory. 
+
+I On July 26, Mr. William J. Smith, of Cambridge, Nebr., 
+I sorghum to a herd of cattle with the result that two died, 
+le sample, received by Mr. Slade on the fourth day after 
+tting, was weighed, ground up in a vegetable cutter, mixed 
+th water, and distilled as long as prussic acid was evolved, 
+le prussic acid found in the distillate amounted to .014 
+r cent of the weight of the sorghum taken. As later re- 
+Its show that most of the acid is in the leaves, it is proble 
+that the entire stalk here submitted to analysis conined 
+a lower per cent of prussic acid than the part which 
+e animal actually consumed. At this per cent, seven or 
+fht pounds of sorghum might cause death. 
+
+[During the first two weeks in September, the writer disrered 
+that prussic acid could be obtained from leaves of 
+althy sorghum in the fields about the Station. As the 
+st season was abnormally wet, nearly all of the fields had 
+ide a vigorous growth. By distilling water from a suffisnt 
+quantity of leaves, determinable amounts of prussic 
+id were evolved in all cases, though the amount was well 
+low the danger line. Of the common Nebraska forage 
+mts, sorghum and Kafir corn alone yield prussic acid. 
+
+•A Study of the Enzyms of Green Sorghum, 15th Annual Report, Nebr. 
+Exp. Station, 1902, p. 55. </seg>
+
+
+            <seg id="p011">
+I On the 7th of October the writer visited Colorado to instigate 
+the outbreak of poisoning from Kafir corn described 
+page 7 of this bulletin. By the courtesy of Dr. Head 
+n, Chemist of the Colorado Station, leaves from the fatal 
+Id were tested for prussic acid. The large amount obined 
+was in keeping with the deadly character of the plant 
+the field. Parts of the dried sample were found, on dialing, 
+to yield as much as .1 per cent of prussic acid. At 
+is rate, one pound might contain the fatal amount. 
+
+As both sorghum and Kafir corn are important forage 
+plants, and as the investigations of the writer show that they 
+contain as normal constituents compounds yielding prussic 
+acid, the important question naturally arises, In what conditions 
+of growth are these plants dangerous? The following 
+have been suggested: 
+
+1. Young plants. 
+
+2. Second growth. 
+
+3. Frosted plants. 
+
+4. Stunted plants. 
+
+Unfortunately sufficient data have not been secured to 
+enable the writer to give a final opinion on all of these 
+points. They will, however, be discussed in the light of the 
+facts at hand. 
+
+Young plants of vigorous growth contain a higher per 
+cent of prussic acid than the bright, green leaves of plants 
+reaching maturity. As the stalks and seeds contain no prussic 
+acid, the young plants contain a much greater per cent 
+of acid than the mature plants considered as a whole. 
+
+Second growth is not more deadly than first growth, although, 
+as falls in the West are often bright and dry, conditions 
+may be favorable for the elaboration of excessive 
+amounts of poison during the second growth. 
+
+Frost is without influence except as the forerunner of a 
+riod of bright, dry weather. 
+
+Growth arrested by dry weather before the plant begins 
+to mature presents a condition very favorable for the elaboration 
+of the poison. Growth stunted by too much water, 
+sterile soil, shade of trees, or hardness of ground does not 
+result in the formation of dangerous quantities of poison. 
+
+A study of the data at hand, field observations, and chem- </seg>
+
+
+            <seg id="p012">
+ical analyses, indicates that the poisoning is most deadly in 
+Missouri, Nebraska, Kansas, and Colorado, and that it is 
+rare east, north, and south of these states. The danger increases 
+in Nebraska as one proceeds from the Missouri river 
+westward. This cannot be attributed entirely to a dryer soil, 
+as some irrigated fields have proven fatal. In general, however, 
+we can say that the analyses of numerous samples show 
+that dry, clear weather, T&gt;y arresting the normal development 
+of the plant, is the chief cause of the formation of abnormal 
+quantities of poison. 
+
+The following table gives some of the analytical data on 
+which the conclusions above given are based. The figures 
+K represent the amount of prussic acid obtained by diswith 
+water 100 grams of the sample. The dates repthe 
+time of cutting the plant </seg>
+
+
+            <seg id="p013">
+Cattle by Sorghum and Kafir Corn. 13 
+
+* 
+
+j »— t r- t^ r- c? 2C — ' " 
+oS"S © oooio SO © 
+
+o. 
+
+« 
+
+7. 
+
+R ' ' S 
+
+"V. 
+
+i iii.j 
+
+•3 
+
+
+t- 
+
+5 
+
+-3 
+
+
+I :i %%il 11:28 
+
+-^ 
+
+*&amp;'. §§ :S&amp; 
+
+«&gt; 
+
+"o 
+
+I J 
+
+C 
+
+I * 
+
+r ¦ s 
+
+s ¦«! S^S^S 0B-SS3 : 
+
+v w ; : : : : ; 
+f i'A s:s: : 
+E % Is = - -' - 
+
+
+u .-I.-I&amp;5SJ « u 
+it 1 1 
+5. &amp; o z </seg>
+
+
+            <seg id="p014">
+The investigations made at this Station show that the 
+&gt;russic acid is not present as such, but that it is liberated 
+rom a glucoside, (1) by an enzyin in the plant as in the 
+ase of sorghum poisoning, and (2) by the action of boiling 
+ater on the plant Glucosides of this sort are in themselves 
+harmless and are dangerous only when they liberate 
+&gt;russic acid. Now the above table shows that even dried 
+•lants may contain a very large amount of combined prussic 
+cid. We should expect that such a fodder would be as fatal 
+o stock after curing as when standing in the field. Experiuce, 
+however, seems to prove the contrary. Enzynis rapidly 
+become inactive when dried in the presence of proteid subances, 
+as Mr. A. F. Woods, Chief of Division of Plant 
+athology, informs the writer. In other words, the subtance 
+capable of breaking up the glucoside into prussic acid 
+nd other compounds is no longer active. This, now, is conirmed 
+by the following experiment. 100 grains of Kafir 
+orn were ground in the vegetable cutter; of this, one half 
+as mixed with 200 cc of water and allowed to dry. The 
+ther half was mixed with 200 cc of water extract of green 
+sorghum leaves. After drying, this sample yielded on analys 
+only one-half as much prussic acid as the sample that 
+lad been treated with water only. This signifies that the 
+nzym from the fresh leaves had liberated a considerable 
+mount of acid. In this case the acid had escaped in the 
+:mosphere; in cases of poisoning the enzym allows the poison 
+to enter the system of the animal. 
+
+I Well-cured Kafir corn containing a large amount of prusz 
+acid was fed to several animals. In no case could any 
+mptoms of prussic acid poisoning be observed, although 
+ie animal consumed material representing 1.2 grams of 
+mbined prussic acid. One-third of this amount of free 
+id is highly dangerous. In concluding this phase of the 
+bject we do not wish to put ourselves on record as stating 
+at plants become harmless on drying. We can, however, 
+ate that there is at hand strong evidence pointing to such 
+conclusion. 
+
+t There is a general opinion among stockmen that cattle 
+ttening on corn may be allowed the range of fields of 
+inted sorghum without danger of loss. During the sum- </seg>
+
+
+            <seg id="p015">
+mer of 1901 when instances of poisoning were very numerous, 
+the writer watched for a number of days forty head of 
+steers, on full feed of corn, that were allowed the range of a 
+sorghum field that to all appearances was highly dangerous. 
+No loss or symptoms of poisoning occurred. It is 
+doubtful if in the presence of more palatable food stunted 
+sorghum is consumed in any great quantity. At the same 
+time there is no doubt that partially digested grain acts to a 
+certain extent as an antidote for prussic acid. 
+
+The following series of experiments were carried out on a 
+barren heifer in order to determine the effect of carbohydrates 
+in lessening the poisonous action of prussic acid. 
+Sufficient time was allowed between the experiments for the 
+animal to reach a normal condition. 
+
+Result. 
+
+Prussic acid administered. 
+
+0.2 grams Slight symptoms 
+
+0 4 grams Animal very sick but recovered. 
+
+0.8 grains in 15 grams of glucose (se 
+
+[lected as a type of carbohydrate 
+6 grams in 30 grams of glucose. . . 
+
+Very slight symptoms. 
+
+Animal very sick, had severe convnl- 
+
+sions, but recovered. 
+
+ANTIDOTES. 
+
+I Prussic acid has a tendency to unite with certain carbohy¦ates, 
+forming additional products. These compounds are 
+uch less poisonous than the free acid. Both glucose and 
+ilk sugar unite with prussic acid to some extent even in dite 
+solutions. Aside from this action these carbohydrates 
+tard the action of the enzym in liberating prussic acid, 
+lese facts suggest that, in case the animal is not in such a 
+ndition as to render medical treatment out of the question, 
+e following may be effective: 
+
+I A strong solution of glucose, which nearly every farmer 
+a at hand in the form of "corn syrup" or inolass&lt;&gt;s, may be 
+ministered. 
+
+Large quantities of milk have in a number of instances 
+been administered apparently with good effect. 
+
+I In all cases the animal should have as much fresh air as 
+ssible. </seg>
+
+         </p>
+		    </body>
+	  </text>
+</TEI.2>

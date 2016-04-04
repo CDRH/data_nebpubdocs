@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00071.00034">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno/>
+            <availability>
+               <p/>
+            </availability>
+            <date>2010</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Seed Corn Treatments at the North Platte Substation</title>
+               <date value="1930-02">1930-02</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02-11</date>
+            <respStmt>
+               <name>Katherine Heupel</name>
+            </respStmt>
+            <item>Enrichment/Validation</item>
+         </change>
+         <change>
+            <date>2009-11-04</date>
+            <respStmt>
+               <name>ByteManagers, Inc. </name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <seg id="p001">Circular 38 February, 1930 Seed Corn Treatments at the North Platte Substation L. L. ZOOK AND N. E. JODON Circular 1 of the North Platte Substation W. P. Snyder. Sup't .• - - THE UNIVERSITY OP NEBRASKA COLLEGE OP AGRICULTURE EXPERIMENT STATION LINCOLN W. W. Both. Dnactos . ■ . j -.. t </seg>
+            <seg id="p002">Results of Seed Corn Treatments on Table Land at the Uni - versity of Nebraska Experimental Substation, North Platte, Nebraska, 1920 No. of Yields per acre Gain from Material used [ plats I Treated Untreated ! treatment 1 Bushels Bushels Bushels Semesan * 1™ «.g -1-| Semesan Junior : , 4 16.8 17.6 . -0.8 Dust Dip 4 17.3 17.6 -0.3 Sterocide 4 ".3 19.8 -^.| Plant Aide : , 4 18.0 .19.8 -1.3 Flowers of sulfur 3 14.6 14.0 0.6 Uspulun 4 18.2 17.7 0.5 Wntpr . -- 3 10.0 15.3 -O.d BrDsr;:::: 4 ie.B w.4 -i.e Av. of all treatments 34 16.9 ...... -"•» Av. of all untreated 1&lt; - - *••• 1 The minus aisn indicates a loss. </seg>
+            <seg id="p003">Seed Corn Treatments at the North Platte Substation 1929 L. L. ZOOK AND N. E. Jmiu.N For the past several years, much publicity has been given to the matter of seed corn treatments. Various commercial compounds have been widely and extravagantly advertised for general farm use as seed corn disinfectants. The effec - tiveness of many of these compounds in controlling certain seed-borne diseases has been demonstrated in some of the more humid areas of the corn belt. Very little is known of the distribution .of these diseases and the extent to which they affect the germination and productiveness of seed corn in the drier or semiarid sections. Tests to determine the effects of seed corn treatment have been under way at the Nebraska Experiment Station at Lin - coln for several years. The results of these tests for the years 1924, 1925, and 1926 were published as Nebraska Ex - periment Station Bulletin 218. That no benefits have resulted from the treatment of farm selected seed is shown by the following paragraph taken from the summary of this bulletin. " The organic mercury compounds, including Uspulun, Semesan, and Bayer Dust, applied to ordinary seed corn, had no significant effect upon the germination, field stand, rate of seedling growth, crop vigor, :per cent of smut, barrenness, lodging, yield per acre, or quality of product. The securing of equal field stands is direct evidence that the damage from worms was not reduced." These conclusions have been substantiated by further re - sults obtained in 1927 and 1928 which have been published in the Journal of Agricultural Research, Vol. 40, No. 2, 1930. To test the application of these results to conditions further west in the state, a series of tests were conducted at the North Platte Substation in 1929. . Nine treatments, consisting of the three compounds used in the tests at Lincoln, four additional commercial compounds, flowers of sulfur, and water, were applied to uniform lots of Substation White dent seed corn. These lots and check lots of untreated seed were planted on the table land in 2-row plats eight rods in length and 1/50 of an acre in area. The plats were arranged so that two treated lots came between each pair of checks. The series .was repeated so that each lot of treated seed was planted in four plats, except the flowers of sulfur and the water treated lots, which were repeated but three times. There were thus 34 plats planted with treated seed and 17 planted with un - treated seed. </seg>
+            <seg id="p004">Nebraska Experiment Station, Circular 38 All lots emerged at about the same time. Good stands were secured in all cases, from both treated and untreated seed. No differences in growth or vigor which might be attributed to any of the treatments were apparent during the growing season. The plants were in all cases severely injured by dry weather during the month of August, and yields were con - siderably reduced on this account. The average yield of the three or four plats planted with each lot of treated seed in comparison with the average yield of the same number of adjacent check plats planted with un - treated seed, and the gain or loss in each case are given in the accompanying table. The arrangement of treatments in the table follows the order of planting in the field except that the check plats are omitted from the first column and their yields listed under the heading, "Yields per acre, untreated." Yields from seven of the treated lots were below those of the corresponding untreated lots. Slight increases in yield were secured from the flowers of sulfur and Uspulun treat - ments. Differences in yield between the treated lots and the corresponding check lots and between the different treatments were no greater in amount than those between the different check lots of uniformly untreated seed. It therefore seems safe to conclude that the apparent gains or losses are due to soil variations and other factors influencing the tests, rather than to the effects of the seed treatments applied. The tests so far conducted in the state indicate that under Nebraska conditions, seed corn does not ordinarily carry dis - ease organisms which are detrimental to germination of the seed, or to the later development and yield of the plants. It is therefore not to be expected that with similar seed and under conditions similar to those at the stations where tests were conducted, any benefits would be derived from treatment of seed corn with any of the materials used. [2 M] </seg>
+         </p>
+      </body>
+   </text>
+</TEI.2>

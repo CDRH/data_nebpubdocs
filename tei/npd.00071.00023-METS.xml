@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00071.00023">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno/>
+            <availability>
+               <p/>
+            </availability>
+            <date>2010</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Pork Production at the North Platte Substation</title>
+               <date value="1930-04">1930-04</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02-11</date>
+            <respStmt>
+               <name>Katherine Heupel</name>
+            </respStmt>
+            <item>Enrichment/Validation</item>
+         </change>
+         <change>
+            <date>2009-11-04</date>
+            <respStmt>
+               <name>ByteManagers, Inc. </name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <seg id="p001"/>
+            <seg id="p002">Bulletin 243 . April, 1930 Pork Production at the North Platte Substation W. P. SNYDER Bulletin 29 of the North Platte Experiment Substation W. P. Snyder. Superintendent THE UNIVERSITY OF NEBRASKA COLLEGE OF AGRICULTURE EXPERIMENT STATION LINCOLN W. W. Burr, Director </seg>
+            <seg id="p003">CONTENTS Foreword : 3 Summary .; '. ; 3 Protein supplements for dry lot feeding... '..:. 5 Corn and tankage vs. corn and linseed meal 5 Tankage, cottonseed meal, and tankage and linseed meal as protein supplements 6 Adding cottonseed meal to a corn and tankage ration 7 Combinations of cottonseed meal and linseed meal with tankage 7 Protein supplements on alfalfa pasture. ; 10 Corn alone, corn and tankage, and corn and cottonseed meal 10 Adding linseed meal or cottonseed meal to a ration of corn and tankage XI Linseed meal and cottonseed meal mixtures with tankage 12 Alfalfa pasture vs. dry lot for fattening spring pigs 12 Spring vs. fall pigs 13 Triplicate check lots — two years 14 Appendix — complete original data 17 </seg>
+            <seg id="p004">FOREWORD Where conditions are not described specifically I.-: this bulletin, it may be presumed that all hogs used in an experiment were raised under conditions' as uniform as circumstances usually permit and that prior to being put on test all hogs had been fed in a like manner on a fairly well balanced ration. The hogs were purebred Duroc Jerseys, the product of a line of breeding followed for the past twenty-five years. Alfalfa was used extensively, and salt was always kept before the hogs. The usual precautions were taken to raise the pigs in clean quarters as far as possible. In all pasture experiments the fields have been from one and one-half acres to several acres in extent, giving a large surplus of pasture. In all tests unless otherwise stated, corn was self -fed. Each supple - ment was self-fed separately, unless definite proportions of two or more supplements were fed. In such cases the supplements were mixed and the mixture self -fed. While the protein supplements were self-fed, owing to the fact that they feed down slowly and unevenly, the pigs may not always have had all they cared to eat. The herdsman endeavored to have all kinds of feed available at all times. The measure that should be used to denote the relative value of various rations in reporting the results of feeding tests is still an un - settled problem. Bate of gain, feed per pound of gain, and cost of feed per pound of gain are important factors. However, in this high - speed age it is probable that the ration which gives the largest profit per pig per unit of time is the ration that will win the approval of the thinking pork producer. Due to variations in feed prices from year to year, it has been thought advisable not to submit figures showing the cost of gains, but rather to submit only average daily rations, gains, and feed requirements for 100 pounds of gain. The results of these tests may be calculated for any price condition and the desirability of the various feeding methods determined. SUMMARY DRY LOT RATION STUDIES 1. Without exception, the protein supplements and supplementary mixtures gave better results in dry lot than on pasture. 2. As a sole protein supplement with corn, tankage proved superior to linseed meal in both rate and economy of gain. 3. Cottonseed meal proved inferior to tankage as a protein supple - ment with corn. 4. Providing linseed meal with tankage, free choice, increased the feed consumption and the daily gain, but did not materially affect the number of pounds of feed required to produce 100 pounds of gain. 6. In five trials the addition of cottonseed meal to a ration of corn and tankage increased the daily gain. 6. The various combinations of cottonseed or linseed meal with tankage stimulated the rate of gain over that secured with tankage only. No appreciable increase in economy of gain was effected by any of the mixtures used. 7. For dry-lot feeding, a supplement comprised of 2 or 3 parts of cottonseed meal to 1 part of tankage gave the most efficient results. There are indications that the addition of a small amount of linseed meal may improve this ration, when fed in dry lot. Where pigs are grazing on alfalfa pasture the addition of linseed meal is likely to be unprofitable. </seg>
+            <seg id="p005">8. It appears that linseed meal and cottonseed meal in the role of "auxiliary" supplements may have their chief value in stimulating feed consumption and thereby increasing gains rather than by actually re - ducing the feed required to produce a given unit of gain. RATION STUDIES ON ALFALFA PASTURE 9. Adding tankage to a full feed of corn on alfalfa, pasture in - creased the rate of gain and reduced the feed required to produce 100 pounds of gain. 10. Cottonseed meal when fed as the sole protein supplement in - creased the rate and efficiency of gain slightly over that where corn alone was fed. 11. On alfalfa pasture, the addition of cottonseed meal or linseed meal fed either free choice or in combination with the tankage failed to improve in any way upon the old stand-by of corn and tankage. 12. Linseed meal and tankage free choice in conjunction with corn proved less efficient than cottonseed meal and tankage. MISCELLANEOUS STUDIES 13. As an average of seven trials in which 136 pigs were fed. in dry lot and an equal number on the same ration on pasture, it was found that pasture gains were consistently larger and more economical than dry-lot gains. Pasture reduced the cost of gains 12 per cent. 14. Comparing similar spring and fall pigs fed similar rations, no significant differences in economy of gains were found. The spring pigs made slightly larger gains. 15. Two years' work indicates clearly the value of repeated trials with large numbers of experimental animals carried for sufficiently long periods if accurate experimental results are to be obtained. 16. In the studies herein reported cottonseed meal proved superior to linseed meal as a protein supplement for pigs. 17. No condition of cottonseed-meal poisoning was evident at any time altho at times cottonseed meal made up 15 per cent of the ration on alfalfa pasture; 13 per cent of the ration where tankage was 1 part, cottonseed meal 3 parts, and corn was fed in dry lot; and 11 per cent of the ration in dry lot where only cottonseed meal and corn were fed. These trials averaged approximately 100 days in length. 18. The results of these several tests indicate that cottonseed meal may safely be made a part of the regular .hog ration. That the pigs relish cottonseed meal has been fully demonstrated. There seems little or no danger in feeding it in any amount where the pigs have access to corn. Just the exact place it should have in the hog ration is a matter for further study. </seg>
+            <seg id="p006">Pork Production at the North Platte Substation W. P. SNYDER' The objects of these experiments were to determine the relative values of linseed meal, cottonseed meal, and tankage as protein supplements and to discover the most efficient com - bination of these feeds, when self -fed with corn to hogs either in dry lot or on alfalfa pasture. Alfalfa pasture was com - pared with dry-lot conditions for growing fattening pigs. The efficiency of spring pigs as compared to fall pigs was studied. These experiments cover a four-year period, from January, 1925, to October, 1929, in which eight separate ex - periments were conducted. The results of these trials, where directly comparable, were averaged together, using a weighted average to form the tables presented. This method was used to equalize such factors as the length of the feeding period, number of pigs fed, and weight of the pigs. The complete original data are presented in the appendix of this bulletin. PROTEIN SUPPLEMENTS FOR DRY LOT FEEDING CORN AND TANKAGE VS. CORN AND UNSEED MEAL Table 1 represents comparisons in which the only variable was the protein supplement. In all cases the rations were self-fed free choice. . Table 1. — Average of two trials Linseed Tankage meal Total number of pigs 751 25 Average number of days .. ,\ 91 91 . , &#132; • Pounds Pounds Average daily ration: Corn 4.69 4.72 Supplement... ;, .60 .28 Average initial weight '. • ; . 75 75 Average final weight 205 195 Average gain per head .... 130 120 Average daily gain 1.37 Feed required per hundred-weight gain: Corn. 342 374 Supplement 44 22 ■Lirge number of pigs due to triplicate checks. • This bulletin was prepared for publication by Wm. J. Loeffel and Wm. P. Snyder. O. J. Grace was in charge of the feeding operations. </seg>
+            <seg id="p007"/>
+            <seg id="p008"/>
+            <seg id="p009">8 </seg>
+            <seg id="p010"/>
+            <seg id="p011"/>
+            <seg id="p012"/>
+            <seg id="p013"/>
+            <seg id="p014"/>
+            <seg id="p015"/>
+            <seg id="p016">15 </seg>
+            <seg id="p017">Nebraska Experiment Station, Bulletin 243 exactly the same. However, in practice they proceed to vary more or less according to no set rule. These variations in results, classed as experimental error, are due to the working of uncontrollable factors and necessitate the repetition of ex - periments. The duplication of tests tends to smooth out these variations and thus the average results from several years' experimentation are much more reliable than the results of any one trial. In the 1924-25 results the average daily gains of the three lots varied from 1.67 pounds to 1.84 pounds, a difference of nearly .2 of a pound. Hence if the results for duplicate lots vary .2 of a pound the results for compared lots must vary more than .2 of a pound in order to be significant. In effic - iency of gains, the lots varied from 388 to 400 pounds of feed required per 100 pounds of gain. The proportion of tankage to corn was. approximately the same in the three lots. In 1925-26 the rate of gain and feed required for 100 pounds of gain were almost identical for the three lots. There are two factors which might have tended to make the 1925-26 results check the more closely. The lots that year consisted of 15 pigs and were fed 112 days as compared to lots consist - ing of 10 pigs and fed 69 days in the previous year's test. It is well recognized that large numbers of animals and trials of reasonable duration give the most accurate results. The weighted average of the two years' tests shows the de - sirability of using large numbers of animals, the value of the longer feeding tests, and the need of sufficient repetition be - fore accepting experimental results. </seg>
+            <seg id="p018"/>
+            <seg id="p019"/>
+            <seg id="p020"/>
+            <seg id="p021"/>
+         </p>
+      </body>
+   </text>
+</TEI.2>

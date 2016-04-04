@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00027.00019">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the
+                            Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno>00027.00019</idno>
+            <availability>
+               <p> </p>
+            </availability>
+            <date>2007</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>FIRST REPORT OF THE Tuberculosis Hospital AT Kearney, Nebraska For the Year Ending November 30, 1912 Governor CHESTER H. ALDRICH, Under Control of Board of Public Lands and Buildings</title>
+               <date value="1912">1912</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+	        <change>
+	           <date>2007-09-13</date>
+	           <respStmt>
+	              <name>Katherine M. Heupel</name>
+	           </respStmt>
+	           <item>Enrichment</item>
+	        </change> 
+        <change>
+            <date>2006-11-28-05:00</date>
+            <respStmt>
+               <name>OCLC Online Computer Library Center Inc.</name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <seg id="p001">i j s j </seg>
+            <seg id="p002">OF THE Tuberculosis Hospital AT Kearney, Nebraska For the Year Ending November 30, 1912 Governor CHESTER H. ALDRICH Under Control of Board of Public Lands and Buildings E. B. Cowles, Commissioner Addison Wait Chairman Secretary Kter A. George, mt G. Martin. </seg>
+            <seg id="p003"/>
+            <seg id="p004">tients suffering from pulmonary tuberculosis was made by the introduction of a bill by B. K. Bushee, House Roll No. 89. This act was approved on April 8, 1911, and went into effect three months later. t Forty thousand dollars was appropriated for the purchase ection of the necessary buildings, the surplus, if any, to be for the support of the hospital and a further and separate opriation of $10,000 was made for maintenance. I About the time this act went into effect the attention of the rd of Public Lands and Buildings was directed to some prop - known as the Frank residence situated west of and adjoin - the city of Kearney. The secretary of the Board, Addison t, made a visit to Kearney, examined the property and re - ed that it was an ideal location and a very desirable property, whole Board at a later date went to Kearney and looked over grounds and buildings, and endorsed the opinion of Mr. t with the result that the property was purchased for the sum 24,000 which included about $500 of personal property. The residence is built of Colorado red sandstone, three stories high with high basement. The size is 40 x 70 feet. A picture of the building is shown on another page. The upper or third floor is divided into large rooms or wards suitable for a hospital and the building had been used as a hospital after it had been disposed of by the Franks. In addition to the residence there was a barn some 30 x 40 feet in size, a large poultry house, with a dove cote in the second story, and a pump house with wind mill, and elevated water K Thirteen acres of ground were included in the purchase and acres more which joined the tract on the south and which partly between it and the street were afterwards purchased 300. Fine large shade trees, mostly elm, were set out years ago on the grounds to the north and east of the stone building; about one-half of the land being occupied by groves while the balance </seg>
+            <seg id="p005">448 The power canal of the Kearney Electric and Water Powers Company runs along the north line of the hospital grounds, and water is obtained from the canal for irrigation, therefore the lawn is always green, and crops always the very best I There is an artificial pond of about one acre and another of it one-third of an acre. Cat fish have been planted this fall in the smaller pond, and bass and croppies in the larger I. The ponds afford good skating in the winter and boating le canal is one of the pleasures of the summer months. A hospital building was erected during last spring and summer which includes sixteen rooms for patients, each room being intended for two patients. The central portion of this building is. two stories high and includes the reception room, dining room, and kitchen while the second story is in one large room 32 x 70 feet. This can be used as a ward for patients or it can be used as an assembly room. KThe Board elected Mrs. Pearl F. Barker of Lincoln, head 8, and Dr. Lester M. Stearns of Kearney, physician. The ces of both of these officers have been perfectly satisfactory. The hospital was opened on January 22, 1912, when the first patient, Ralph Ramsey, was admitted. Two other patients were admitted on January 26. Up to December 1, the enroll - ment numbered 50. List of Property and its Value Administration building 30,000 Pavilion 15,000 Barn 1,000 Poultry house 300 Pumphouse, windmill 300 2 horses 300 3 cows 180 &gt;gs, 10 pigs 110 chickens, 10 ducks 60 Page, buggy, wagon 250 ess, farm implements 120 iture, beds, bedding 2,460 Total $53,080 </seg>
+            <seg id="p006"/>
+            <seg id="p007"/>
+            <seg id="p008">449 Expenses of Tuberculosis Hospital from the Date of Pur- chase to November 30, 1912 Salaries and wages $ 3,105.66 Fuel and lights 1,035.53 Repairs on buildings 312.35 Farm repairs, expenses and machinery 525.61 Feed, grain, hay, bran 336.39 Bread stuffs, flour and meal . 59.93 Fresh fruit . 58.75 Dried fruit 96.55 Canned fruit 80.82 Canned vegetables 22.10 Fresh vegetables 123.10 Sugar 45.61 Tea and coffee 32.85 Meat 302.96 Butter 65.24 Eggs 168.95 Other food supplies 251.85 Carpets, rugs, pillows, bedding, curtains, furniture . 1,913.26 Dry goods 246.22 Books, papers, stationery 103.70 Clothing 34.50 Land, new buildings, permanent improvements 39,927.70 Soap, laundry supplies and machinery 96.21 Kitchen and dining room hardware, crockery 339.44 Drugs, surgical instruments 786.60 Live stock 609.55 Traveling, freight, express, telephone, etc 245.35 Totol $50,926.78 E. B. Cowles, Chairman Board Public Lands and Buildings. </seg>
+            <seg id="p009">450 REPORT OF PHYSICIAN Board of Public Lands and Buildings, Stale House, Lincoln, Nebraska I it Sirs: During my attendance at the State Tuberculosis pital we have treated some fifty cases of tuberculosis of the p in various stages of the disease. Of these fifty cases, ten . Two of these succumbed to cancer, one of the liver and other of the left lung and pleura. These were sent to us on ig diagnosis as proved by autopsey. Of the ten that died average stay in the hospital was sixty days. Three of these within one week of entrance. Such cases as these put the e to a useless expenditure of money — therefore, I would mmend that those in control would use every effort to pass II so that our cases would be limited to those in the incipient es of the disease. In making report of the patients, I have arranged a chart as enclosed for your inspection: Name, date entered, date dis - charged (or of death), weight on entering and present weight, (or weight at time of discharge.) I give the weights because they are one of the best indications of the patient's gain or loss. A close examination of the chart will show to a great extent what we are doing for most of the patients. Under the head of diag - nosis, I have divided the cases into three classes, viz., incipient, moderately advanced and advanced, depending on length of time and severity and progress of the disease. Two surgical operations have been undertaken by myself with success: (1) Case of Grover Huston, operation for ischio rectal abscess; (2) case of Jay Bliss, acute appendicitis; complete recovery from operation in both cases. In regard to our needs of the future, I would suggest : 1 complete laboratory equipment, including microscope with a mechanical stage, (2) gymnastic apparatus, horizontal bar, etc., selected especially with the idea of getting the apparatus most useful in developing the muscles of the back and shoulder girdle. These to be used only, of course, in cases who would be most benefited. The installation of a sun room enclosed by glass where the patients could be subjected to the action of the direct solar rays, which would doubtless be of great benefit. Reports </seg>
+            <seg id="p010">451 treatment is very gratifying and I am sure it could be used with success here. The installation of an X-ray apparatus would also be recommended. On two or three occasions I have had to bring patients into my office in order to get X-ray photos of diseased I It is needless to say that I am pleased with the report and ust that it will also meet with your approval. It is pleasure ne as I look it over. I can see a face for each name; those ; have died heroes to the last, each and everyone. Those lg, I see two pictures, the one on entering and the one as they today, filled with new hope, new life and new happiness. t Finally, for all the good accomplished, 1 wish to put the it where it belongs, to Mrs. Pearl F. Barker, head nurse, by her tender care, self sacrifice and good management has ired the confidence of all, and has earned for her, that which ey cannot buy; the faith and the gratitude of the patien Very respectfully yours Lester M. Stearns, Physician </seg>
+            <seg id="p011">452 1 M Rn-oi 1| |— * 5 c § I I I I I I -2 Z f-«4 ■ - Hn - r?-* **n m$m «,ON«0 WOOOOOO 00HN8 rtt-MOHt-HOWON O ' w* ft l-H ■ »-H • »"* l-» I-H r-l rH *-H i-H *-&lt; i— I j !pq ; ' '. '. Eo3 ;;:!!!!!!::!;::::::! t »h : : : s &amp;^ • : : jij : J : : J :::::: : : : : : Ijiiiiiii^iiiilii ;««!■, i1|^^illilHill!!"ii!in|iii oiot-nnaeHH i-icote ■ oo oc t— so "■* a: oo m •«• rntoiore &gt;S ll ■! ll ll h k???? tintgjtutui &lt;S t8 M .«.«.« .« .« r « r « w &gt;« &gt;&gt;S •« «S ■&gt;? 3_2 - 3.2 - 3 3 = 33333333 !'!!!!!!!!! '.'...'.*'..'.'.'■■.'. '. .... |g : :£f :::: :j« :::;::==_::: : :::' MiiyifiiiiipiiPflilfili </seg>
+            <seg id="p012">453 TUBERCULOSIS HOSPITAL, KEARNEY C~- s ------ -- . ---- --- fii « ti II 1 - s c I g scorn ti"ioo»©o» *onn eo «ooc — w — •— w £ „ 3 K M (g*---"- 1 c | c o c 0 ■a 9 : S I::*:::::::! •S ! : J : : s ; 2 i &gt;. -c ° liMiihiii ::i a. 3i 'S/n '5. 5 'S'S a '3. ? '3 I i o g-aaaa£o.a.a T3 aSao.a^*-§5 H I I V B * l:**ill:M:SS cn «-&gt; - "I 2 :&lt;2S!Z zz :aa :: fi i * 1 I ■ eaNNNM4t&gt;9)anHnH»iflNiflM H i » ■s 5 2 : 2m : : c^i : i : : : : : : :&amp;, 1 ■ a&gt; •—*- M9&gt; o&gt;© c-o m " iijjijiiiiliijiiiii | </seg>
+            <seg id="p013"/>
+         </p>
+      </body>
+   </text>
+</TEI.2>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00022.00028">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the
+                            Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno>00022.00028</idno>
+            <availability>
+               <p> </p>
+            </availability>
+            <date>2007</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>THE UNIVERSITY OF NEBRASKA AGRICULTURAL EXPERIMENT STATION LINCOLN, NEBRASKA, U. S. A.  ROLLING WINTER WHEAT</title>
+               <date value="1909">1909</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+	        <change>
+	           <date>2007-09-12</date>
+	           <respStmt>
+	              <name>Katherine M. Heupel</name>
+	           </respStmt>
+	           <item>Enrichment</item>
+	        </change>
+         <change>
+            <date>2006-11-28-05:00</date>
+            <respStmt>
+               <name>OCLC Online Computer Library Center Inc.</name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <seg id="p001">S1TY &lt;&gt;K NEBRASKA ral Experiment Station \ NEBRASKA, I hress Bulletin No. MO uttd A l'JW ROLLING WINTER WHEAT OMEHY \it&gt; inuc-li ")i many of </seg>
+            <seg id="p002">HV B. Q. MONTGOMEI In the autui l«K&gt;0 Kiiltivatiim ex •r wlic I m drill. It Some &lt;if the pi: Eto he ha rolled 1 (1 for foui mil Method of planting I BSE ! Broadcast. Mar Broadcast. Not Drilled Harrowed f ri Drilled Harrowed i Drilled Not harrow Drilled Holl Drilled Not harr Drilled Rolled ii sprn Drilled Not harrow It is apparent from the ahi years no increased yield could wheat. Harrowing broadcast* if almost three buflhetl ted in a loss of oine-tenthi ( i It should not be assun tivation of wheat would i </seg>
+            <seg id="p003">ture, but in the years 'here was no lack -pring rainfall was 1906) then was some increase from Winter Wheat. Hulling winter wheat in any of the four years to give an i-c bong •"&gt;.! bwhab per acre. the spring. BOOB after frost was out, ted. Harrowing after rolling was me probably due to loosening up the Her had pressed them firmly into the soil. if winter grain, pressing the earth as it hint roots, produces good results. When pring it is very apt to leave the soil filled especially around the plants. If ned closely, it will be seen that a large us exposed, and if the weather continues 1 or at least injured. We have taken up plants If of the roots were injured in this manner. at the time of rolling and it should never rolling aids in no small degree to form a 8 tins rather than compact the surface. </seg>
+           
+         </p>
+      </body>
+   </text>
+</TEI.2>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00030.00024">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the
+                            Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno>00030.00024</idno>
+            <availability>
+               <p> </p>
+            </availability>
+            <date>2007</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>THE UNIVERSITY OF NEBRASKA AGRICULTURAL EXPERIMENT STATION LINCOLN, NEBRASKA, U. S. A.  THE DISTRIBUTION AND USE OF HOG CHOLERA SERUM</title>
+               <date value="1911">1911</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+	        <change>
+	           <date>2007-09-13</date>
+	           <respStmt>
+	              <name>Katherine M. Heupel</name>
+	           </respStmt>
+	           <item>Enrichment</item>
+	        </change> 
+        <change>
+            <date>2006-11-28-05:00</date>
+            <respStmt>
+               <name>OCLC Online Computer Library Center Inc.</name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <seg id="p001">THE UNIVERSITY OF NEBRASKA Agricultural Experiment Sta LINCOLN. NEBRASKA. U S. A PRESS BULLETIN NO. 36 (Distributed September 26. 1911) rE DISTRIBUTION AND USE OF HOG CHOLERA SERUM </seg>
+            <seg id="p002">2 CHOLERA SERUM J. H. GAIN DEPARTMENT OF ANIMAL PATHOLOGY Telephones: Bell 1322, Automatic B2490 J appropriation of $1'..immi was made by the last legislature for tin iicion of hog cholera serum under the direction of the Depar nimal Pathology of the Nebraska Experiment Station As this bill tot carry an emergency clause, the funds were not available until T. In order that the serum produced shall be as uniform as possible, necessary to mix the four bleedings from each hog, then mix those a number of bogs together and thoroly test it before sending these reasons the serum will not be ready for distribution I), r 1. IThe bill provides that the serum be sold at cost of production. The e will be put at two cents per cubic centimeter, which would make cost about forty cents per hundred pounds of hog. The doac or riiy advised for a hundred-pound shoat is twerr r-rsl. and this dose should be increased rather than diminished, espe - y to valuable pure-bred hogs or to brood sows in a herd. Pigs :hing under a hundred pounds should not i as their resisting power is less than that of larger hogs. I 'hen cholera is suspected, the nearest qual I one ilable, should be called, a sick pig killed, and a iiost-mor n made to determine if genuine cholera exists. This is impor cholera is not present when serum is glT— , the hogs will be pro - for only three or four weeks, when they will again become sus - le to the disease. If cholera is present and serum is wanted, use the telephone or graph. Do net write a letter requesting serum. The mails are somewhat uncertain and the larger part of the herd may become infected ' serum could be received if ordered in this way When telephoning, if the r (Dr. J. H Gain) is not in the office, call for I&gt;r L B. Stunievant or the office clerk. There will always be some one in the office in charge of this work. Always give the number and weight of the well hogs in the herd. If a certain number of doses are ordered it will be assumed that the minimum dose is meant. </seg>
+            <seg id="p003">3 •rum sending material by express are frequent and sometimes unexplain - able. After determining whether serum is available or not, where the ice is not too great it will prevent delay if the farmer will come to ila in person to secure the serum, rather than depend on the express ;&gt;any. KThe serum is put up in bottles containing 125, 250, 500, and 1,000 At two cents per c.c, these bottles would range in price from $2.50 o $20. mi. It will be shipped by express, C. O. D. Upon request, a ten c.c. capacity syringe, suitable for this work and also for vac - ling cattle against blackleg, will be shipped with the serum, and the dded to the bill. K Where the services of a qualified veterinarian can be obtained he ild be called to give the serum. Where such a man cannot be had lol lowing suggestions are offered: I Have the hogs in a dry place for at least twenty-four hours before lg serum. A wet, muddy hog is not easily handled; besides, there M increased risk of carrying in some infection on the needle and ing a local abscess. Have at hand a bucket of some disinfectant, as a five per cent solution of one of the coal tar dips; wash off the r surface of each thigh and inject the serum deeply into the muscles, ling the dose equally between the two sides and putting not over ity c.c. in one place. The serum can also be injected just under the of the abdomen instead of into the muscles, but is not so readily ab I'd and there is greater liability of an abscess. Some serum will also in when the needle is withdrawn. the hogs in a dry place for two days after receiving serum. lk&gt; not give a sick hog serum. Give on •« to those apparently well and leave these for a time in the infected yards. A hog must be exposed (era at the time of receiving serum, or within a few days, in order to acquire a lasting immunity. Some of the hogs that are apparently well may have had the germs of cholera in the system for four or five These will probably die. Khe new serum plant will not be ready for use before January 1, lvt 1 J the old plant it will not be possible to supply all of the requests rum for the next few months. </seg>
+            <seg id="p004"/>
+         </p>
+      </body>
+   </text>
+</TEI.2>

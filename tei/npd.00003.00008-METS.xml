@@ -1,0 +1,3378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00003.00008">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title>Nebraska Public Documents Project</title>
+				        <author/>
+			      </titleStmt>
+			      <publicationStmt>
+				        <publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+				        <pubPlace>Lincoln, NE</pubPlace>
+				        <idno>00003.00008</idno>
+				        <availability>
+					          <p/>
+				        </availability>
+				        <date>2007</date>
+			      </publicationStmt>
+		       <sourceDesc>
+		          <bibl>
+		             <title>TWELFTH BIENNIAL REPORT OF THE COMMISSIONER OF PUBLIC LANDS AND BUILDINGS TO THE GOVERNOR OF THE STATE OF NEBRASKA, DECEMBER 1, 1900.  JACOB V. WOLFE, COMMISSIONER OF PUBLIC LANDS AND BUILDINGS</title>
+		             <date value="1900">1900</date>
+		          </bibl>
+		       </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+				     <change>
+				        <date>2007-05-29</date>
+				        <respStmt>
+				           <name>Katherine M. Heupel</name>
+				        </respStmt>
+				        <item>Validation</item>
+				     </change>
+				     <change>
+				        <date>2007-05-18</date>
+				        <respStmt>
+				           <name>Katherine M. Heupel</name>
+				        </respStmt>
+				        <item>Enrichment</item>
+				     </change>
+
+				     <change>
+				        <date>2006-11-28-05:00</date>
+				        <respStmt>
+					          <name>OCLC Online Computer Library Center Inc.</name>
+				        </respStmt>
+				        <item>Initial Creation</item>
+			      </change>
+		    </revisionDesc>
+	  </teiHeader>
+	  <text>
+		    <body>
+         <p>
+            <seg id="p001">TWELFTH BIENNIAL REPORT 
+
+OF THE 
+
+
+k 
+
+COMMISSIONER 
+
+(IF 
+
+PUBLIC LANDS and BUILDINGS 
+
+TO THE 
+
+Governor of the State of Nebraska. 
+
+DECEMBER 1, 1900. 
+
+JACOB V. WOLFE, 
+
+COMMISSIONER OF PUBLIC LANDS AND BUILDINOS. 
+
+LINCOLN, NEB.: 
+
+STATE JOURNAL COMPAXT, PBIICTBS. </seg>
+
+
+
+            <seg id="p002">OFFICIAL 
+
+ROSTER 
+
+Jacob V. Wolfe, Lincoln Commissioner. 
+
+D. D. Lynch, Platte ("enter Deputy 
+
+Chief Clerk 
+
+J. 8. Hvatt. Lincoln 
+
+Aaron K. Gift, Lexington Draughtsman 
+
+Johnson H. Graves, Palmyra Book-keeper 
+
+Hook-k 
+
+Albert Sjoberg, Omaha 
+Pavil C. Wolfe, Lincoln. 
+Clara 8. Leese. Lincoln 
+
+I" 
+
+Sale Contract &lt; 
+
+lerk 
+
+Forfeiture Clerk 
+
+Harrv D. Landis. Milford Lease Contract Clerk 
+
+Rhoda H. Stewart, Lincoln Assignment Clerk 
+
+Edith L. McKeighan, Red Cloud Assignment Clerk </seg>
+
+
+            <seg id="p003">T 
+
+N 
+
+In 
+
+l'i 
+
+ii 
+
+LETTER OF TRANSMITTAL. 
+
+Office of 
+
+Commissioner of Public Lands and Buildings, 
+
+Lincoln, Neb., December 1, 1900. 
+
+i Excellency, William A. Poynter, Governor of Nebraska: 
+In compliance with section 22, article 5, Constitution of 
+*ka, I have the honor to transmit herewith the twelfth 
+il report of Commissioner of Public Lands and Buildings 
+
+Hi 
+
+S 
+
+pbra: 
+fiini 
+r thi 
+
+i 
+
+biennium ending November 30, 1900. 
+
+&gt;rding to custom, I also include reports to the Board of 
+Lands and Buildings of the superintendents of the variite 
+institutions for the same period. 
+
+\ci 
+
+ibli( 
+
+t 
+
+Very respectfully, 
+
+Jacob V. Wolfe, 
+
+Commissioner of Public Lands and Buildings </seg>
+
+            <seg id="p004">
+BOARD OF PUBLIC LANDS AND BUILDINGS. 
+
+Jacob V. Wolfe, Commissioner of Public Lands and 
+Buildings President 
+
+William F. Porter, Secretary of State Secretary. 
+
+John B. Meserve State Treasurer 
+
+Constantine J. Smyth Attorney General 
+
+BOARD OF EDUCATIONAL LANDS AND FUNPS. 
+
+William A. Poynter, Governor Chairman 
+
+Jacob V. Wolfe, Commissioner of Public Lands and 
+Buildings Secretar 
+
+William F. Porter Secretary of Stat&lt; 
+
+John B. Meserve State Treasure) 
+
+Oonstantine J. Smyth 
+
+Attorney General 
+
+BOARD OF PURCHASE AND SUPPLIES 
+
+William A. Poynter, Governor Chairman 
+
+Jacob V. Wolfe, Commissioner of Public Lands and 
+Buildings Secretar 
+
+William F. Porter Secretary of Stat 
+
+John B. Meserve State Treasui 
+
+Constantine J. Smvth Vttornev Gen&lt; 
+
+BOARD OF TRANSPORTATION 
+
+John F. Cornell, Auditor of Public Accounts Chairma 
+
+Jacob V. Wolfe, Commissioner of Public Lands and 
+Buildings ' Secretar 
+
+John B. Meserve State Treasure 
+
+Constantine J. Smvth Attorney ( renera 
+
+William F. Porter Secretary of Stat&lt; 
+
+BOARD OF PHARMACY 
+
+Constantine J. Smyth, Attorney General Chairman 
+
+William F. Porter, Secretary of State Secretary. 
+
+John F. Cornell Auditor of Public Accounts 
+
+John B. Meserve State Treasurer 
+
+Jacob V. W r olfe. . . .Commissioner of Public Lands and Building </seg>
+
+            <seg id="p005">
+REPORT. 
+
+ESTIMATE OF CURRENT EXPENSES FOR THE TWO 
+
+YEARS ENDING MARCH 31, 1903. 
+
+commissioner's office. 
+
+Salary of commissioner $4,000 00 
+
+Salary of deputy 3.200 00 
+
+Salary of chief clerk 2,600 00 
+
+Salary of draughtsman 2.600 00 
+
+Salary of two book-keepers 4,800 00 
+
+Salary of lease contract clerk 2,000 00 
+
+Salary of delinquent clerk 2,000 00 
+
+Salary of two assignment clerks 4,000 00 
+
+Salary of stenographer 2.000 00 
+
+Books, stationery, and incidental office expense 1,000 00 
+
+Postage and postal expense 1,200 00 
+
+Telephone, telegraph and express 300 00 
+
+Furniture, carpet and repairs 200 00 
+
+ESTIMATES FOR THE USE OF THE BOARD OF PUBLIC LANDS AND 
+
+tflLDIXGS FUR THE YEARS BEGINNING MARCH 31, 1901, 
+
+AND ENDING MARCH 31, 1903. 
+
+Fuel and light and engine house expense f8,000 00 
+
+Employees" wages 8,500 00 
+
+Water supply 1,000 00 
+
+For fuel and light and keeping up grounds of the executive 
+mansion 1,200 00 </seg>
+
+
+            <seg id="p006">6 
+
+LAND COMMISSIONER'S REPOET. 
+
+CARE AND REPAIR OF CAPITOL BUILDING AND GROUNDS 
+
+Repair of west driveway by putting in brick approach 
+from Fourteenth street to point inside of sidewalk, 
+and the surfacing of west and east driveway with 
+broken stone $150 00 
+
+The building of sixteen new stone steps for the approaches 
+from the streets to capital grounds sidewalks 
+to take the place of the present wood steps. . . . 1,750 00 
+
+The putting in of three iron vault fronts in the basement 
+and the shelving, flooring and boxing of the 
+same; one for the Auditor of Public Accounts, one 
+for the Secretary of State, one for the state library. . 1,050 00 
+
+Incidentals for two vears 1.500 00 
+
+BOARD OK EDUCATIONAL LANDS AND FCND8 
+
+School land expenses, serving notices on delinquent 
+postage, school land supplies to county treasurer 
+etc 
+
+itt.ooo oo 
+
+BOAKI&gt; OK PURCHASE AM) SUPPLIES 
+
+Advertising, stationery and postage 
+
+SUOO 00 
+
+APPROPRIATIONS. 
+
+Although I am satisfied that the work of the office will be 
+somewhat lighter than for some years past, owing to the fact 
+that onr school lands are practically all under lease, and that 
+forfeitures will not occur as often in the future, owing to the 
+greater value and demand for these grazing lands, yet I believe 
+the same amount of force can be used to an advantage to the 
+state, and would only recommend that stenographer be inserted 
+for "sale clerk," to correspond with the position and work actually 
+performed, and a stenographer is indispensable to the 
+work of the office. 
+
+I have completed, during the past four years, much business 
+deferred from former vears. and all the work of the office has </seg>
+
+
+            <seg id="p007">7 
+
+
+been carefully, thoroughly and promptly performed, as must be 
+apparent when you realize that nearly all of the educational 
+lands of the state have been leased, and are now a great source 
+of revenue to the school fund of the state. 
+
+The full items of postage, books, stationery, express and telegraph, 
+office repairs. Board of Purchase and Supplies, and Board 
+of Educational Lands and Funds are needed. As you will notice, 
+nearly all of these funds are now exhausted, although I have 
+used strict economy in all cases, purchasing articles only which 
+were absolutely necessary, as will appear by bills filed with 
+vouchers in the Auditor's office. 
+
+It is the duty of the Commissioner of Public Lands and Buildings 
+to furnish the county treasurers all books and stationery to 
+conduct the school-land business in their respective counties. 
+During my four years in office I have had a great many ledgers 
+and abstracts made to replace those worn and unfit for use, aJid 
+it is my impression that there will be many requests during the 
+next two years for similar books, many of those now held by 
+the county treasurers are very old and worn, being in use for a 
+number of vears. 
+
+I cannot too strongly urge the enforcement of the law in regard 
+to forfeiture of all delinquent contracts, and as the law requires 
+that services shall be given by registered letter, it will 
+take considerable money for this work alone; therefore, I think 
+the appropriation asked for is not too large. 
+
+The expense of conducting the business of the department dur 
+
+ing the past two years has been as follows 
+
+Postage $1,104 00 
+
+Books, stationery, and office supplies 1,180 00 
+
+Express, telephone, and telegraph 245 52 
+
+Serving notices of delinquency, advertising auctions 
+for leasing canceled and vacant lands, and other 
+expenses of the Board of Educational Lands and 
+Funds 3,442 55 
+
+EXPENDITURES. </seg>
+
+
+            <seg id="p008">8 
+
+LAND COMMISSIONER'S REPORT. 
+
+Board of Purchase and Supplies $119 00 
+
+Outstanding claims for books, stationery, office supplies, 
+express, telephone and telegraph, advertising 
+delinquent lands. school land auctions, etc., about. . 950 00 
+
+No fees are charged for services rendered in this department 
+except for making certified copies of the government plats and 
+field notes, of which 1 am made custodian by sections 5034 to 
+5O.57, Compiled Statutes of 1S97. I found that it had been customary 
+to charge for this service to avoid imposition, and have, 
+therefore, charged for these certified copies the actual cost to 
+the state for the time occupied in preparing the same. From 
+this source I have received in cash f 173.48, which has been paid 
+into the state treasury. I also reported in my former report four 
+registered warrants of Cheyenne county in the aggregate sum 
+of $34.90. Since my previous report two of these warrants 
+have been paid, amounting to $19.70. which I also turned in to 
+the state treasury, leaving in my hands warrant Nq. 74 for $6.90 
+and No. 209 for $10, which I will turn over to my successor, and 
+when paid should be paid into the treasury. While I find that 
+it has been customary to charge for this work, I find no record 
+of what became of the money so collected until my first term 
+of office, which, with the present amount and without the unpaid 
+warrants referred to, amounts to $321.45. 
+
+I would recommend that the legislature amend the school 
+land law designating the amount of fees which the Commissioner 
+of Public Lands and Buildings should charge for making 
+copies of the government plats and field notes, the fees so received 
+to be paid into the state treasury and credited to the 
+school land fund. 
+
+I would also recommend that the legislature amend the school 
+land law, designating the fees which the Commissioner of Public 
+Lands and Buildings should charge for making certified copies 
+of lo«t lease and sale contracts. During my term of office I have 
+
+FEES. </seg>
+
+
+            <seg id="p009">9 
+
+
+made no charge for this work, finding no provision of law where 
+I would be justified in making such a charge. 1 find, however, 
+that this is quite an imposition on the office to make these certified 
+copies without charge. The cases are numerous of persons 
+claiming by carelessness of otherwise to have lost their contracts 
+and asking for certified copies or duplicates, and when a proper 
+showing is made we issue them, but they should pay the expense. 
+
+
+PENITENTIARY LAND. 
+
+Of the fifty sections of land granted by the Enabling Act for 
+the erection of a penitentiary building there yet remains unsold 
+and unclaimed for that purpose, six hundred and seventy-six 
+and 71-100 (676.71) acres, described as follows: the 8, E. } of the 
+S. W. I and the S. E. of section 26, township 8, range 5; the 
+N. W. j of section 30, township 9, range 5; the E. £ of the N. E. 
+
+i and the E. \ of the S. E. \ of section 34, township 9, range 4; 
+and the N. W. \ of section 28, township 11, range 4, the management 
+and disposition of which does not seem to be specifically 
+provided for by law. Believing that this land properly came 
+under the control of the Board of Public Lands and Buildings, I 
+have leased it each year to the highest and best bidder, with the 
+result that I have collected as rental therefor during this bienniniu 
+$2,02«i.55 in cash, and now hold two notes for flOO each, 
+payable December 1, 1901. 
+
+In my former report I recommended that the legislature pass 
+an act authorizing the State Treasurer to credit the money so 
+far derived from this land, and that which may hereafter be derived 
+therefrom, to the temporary school fund, and that the land 
+be, by suitable enactment, made a part of the educational lands 
+of the state, to be handled in the future the same as the common 
+school land. I would make the same recommendation to 
+the legislature of 190.1. </seg>
+
+
+            <seg id="p010">10 
+
+LAND COMMISSIONER'S REPORT. 
+
+THE EDUCATIONAL LANDS. 
+
+The educational lands of Nebraska, aggregating 2,969,102.sr&gt; 
+acres, consist of saline, normal, university, agricultural college 
+endowment, and common school land. 
+
+The state came into possession of the saline lands by virtue 
+of section 11 of the Enabling Act. Under this authority 45,594.-24 
+acres were confirmed to the state. By legislative enactment 
+a portion of this grant has been set aside for other purposes. ;is 
+follows: 
+
+Endowment for State Normal School 12.804.8(1 acres 
+
+For the use of the Nebraska hospital for insane 
+
+For the experimental farm 1,280.00 acres 
+
+The remaining 30,490.40 acres of this grant is being held and 
+used for the benefit of the permanent and temporary school fund, 
+as shown in the table in reference to saline land. 
+
+The normal endowment lands, aggregating 12,804.80 acres, 
+were acquired by legislative enactment from the saline land 
+grant. 
+
+.- 
+
+Under section 10 of the Enabling Act the state was grant 
+45,426.8 acres for the support of the state university. 
+
+The agricultural college endowment lands were acquired by 
+an act of congress donating lands to the several states and tVrritories 
+which may provide colleges for the benefit of agricultural 
+and mechanical arts, approved July 2, 18&lt;i2. Under this 
+grant 89,138.50 acres have been received. 
+
+The common school lands were granted by section 7 of the 
+Enabling Act. From this source the state has received to date 
+2,791,243.07 acres. 
+
+DISPOSAL OF THE FUNDS DERIVED FROM THE EDUCATIONAL 
+
+LANDS OF THE STATE. 
+
+The principal derived from the sale of common school and 
+saline lands forms the permanent school fund. The interest on 
+
+located at Lincoln 
+
+tii)!).O4 acres 
+
+To aid in the erection of the state capitol and uni- 
+
+versity buildings ' 
+
+320.00 acres </seg>
+
+
+            <seg id="p011">11 
+
+EDUCATIPNAL LANDS. • 
+
+the unpaid portion of the purchase contracts and the rental, 
+interest and bonus on the lease contracts are credited to the 
+7 
+temporary school fund, which with the money coming to thin 
+fund from other sources is apportioned to the common schools 
+of the state twice a year. 
+
+The principal received from the saJe of agricultural college 
+endowment, university, and normal endowment lands forms the 
+permanent fund for their respective institutions. 
+
+The interest on the unpaid portion of the purchase contracts 
+and the rental, the interest on delinquent rental payments and 
+bonus on lease contracts form the temporary university and 
+normal interest funds respectively, which is used for the current 
+expenses of these institutions on the order of their officers. 
+Each of these permanent funds remain forever inviolate and undimiuished, 
+but may be invested in certain classes of securities. 
+
+The unpaid portion of the purchase price on the sale contracts 
+now in existence is |3,946,083.07. This may be paid within 
+twenty years from the date of the contract, at the option of the 
+purchaser. 
+
+On account of the increased difficulty in finding suitable in- 
+
+The following table {jives the aggregate of securities and cash 
+
+balance in eauli fund, but does not include the amounts unavail- 
+
+able in eauh fund caused by defalcations of a former State 
+
+Treasurer: 
+
+Permanent school securities |4,169,053 87 
+
+Cash balance 105,968 68 
+
+14,275,022 55 
+
+Permanent university securities... 73,490 76 
+
+Cash balance 2,620 87 
+
+76,111 63 
+
+Agricultural college securities 108,000 00 
+
+Cash balance 22,274 38 
+
+130.274 38 
+
+Normal endowment securities 15,000 00 
+
+Cash balance 29,083 72 
+
+44,083 72 
+
+4,525 
+
+92 2S </seg>
+
+
+            <seg id="p012">12 
+
+LAND COMMISSIONER'S EEPOET. 
+
+vestments for these permanent trust funds at as good, or nearly 
+as good, a rate of interest as the sale contracts draw, I am still 
+using every effort to induce owners of sale contracts, which are 
+maturing, to take advantage of extending their maturity according 
+to section 9, chapter 71, Laws of 1897, and the Board of 
+Educational Lands and Funds have granted all such applications 
+when the title to the contract and interest payments were 
+ill good condition. Under this provision the Board of Educational 
+Lands and Funds have extended, for ten years, the 
+maturity of contracts covering 10,380 acres. 
+
+While I would not recommend a reappraisement of all our 
+school lands remaining unsold, yet I called attention in my last 
+report to certain portions upon which leases had been issued 
+prior to April 14, 1885, and the same were reappraised in 1889; 
+but the appraisement was set aside by the supreme court as 
+being repugnant to the provision for reappraisement stipulated 
+in the contracts themselves. (See 31 Neb., page 139, State, ex 
+rel. C. M. Brown, v. A. J. McPeak.) While all lands at that time 
+appraised, and not affected by the above decision, are held, and 
+being paid on at the new, and generally a much higher, appraisement, 
+it seems to me that justice to the state and to those who 
+have had the valuation of their lands raised would suggest that 
+a reappraisement should be made of these lands conformatory to 
+the above decision of the supreme court, and I would so recommend. 
+The land which would be so affected by such reappraise 
+ment is located in the following counties : 
+
+Adams, Antelope, Boone, Buffalo, Burt, Colfax, Custer, Dawson, 
+Fillmore, Franklin, Furnas, Gage, Hall, Harlan, Jefferson. 
+Kearney, Knox, Lancaster, Lincoln, Madison, Nuckolls, Pawnee, 
+Phelps, Platte, Sherman, Thayer, Valley, Wayne, Webster, and 
+York. 
+
+In my last biennial report I made a number of recommendations 
+in regard to changes in our school land laws that experience 
+had taught me were needed to make them more effective and just 
+
+AI'PRAISAL UNDER OLD LEASE CONTRACTS </seg>
+
+
+            <seg id="p013">11 
+
+EDUCATIONAL LANDS. 
+
+to the state and the individual holding or wishing to lease the 
+same. These were embodied in a bill introduced by Senator 
+Reynolds of Dawes county, and became the law by an almost 
+unanimous vote and has proven effective even beyond by own' 
+most sanguine expectations. 
+
+RECOMMENDATION 
+
+I think there is one further change desirable or perhaps I 
+should say that the law should be made more definite upon one 
+point. It is provided in the law that holders of sale contracts 
+may surrender the same, or any part of the same, upon certain 
+conditions, which I think is all right, but I think the interest 
+of the state now requires that all surrendered school land contracts 
+or forfeited leased lands be hereafter leased only at public 
+auction, instead of being taken at the treasurer's office, as is 
+claimed by some they may be as the law now stands. These 
+lands are becoming more and more valuable and. therefore, more 
+sought after; and when contracts are surrendered on account 
+
+(if too high an appraisement, every citizen should have a right to 
+compete for them in his own interest as well as that of the 
+state. 1 would, therefore, recommend, that all educational lands 
+of the state now vacant or to become vacant by surrender or 
+forfeiture be first offered for lease by the Commissioner, or some 
+one deputized by him, at the county treasurer's office after duly 
+advertising. Any lands not so taken to be leased at treasurer's 
+office on application at present appraisement. This should by 
+all means be the law in surrendered contract lands, as it goes 
+back to the old lease appraisement, which is generally much 
+too low; but as practically all the land is now under lease and 
+will be generally kept up, I would include all lands now vacant 
+or to become so. 
+
+Chapter 80, section 29, page 1070, Compiled Statutes of 1899, 
+provides that "all property, real and personal, which may now 
+belong to the state or that may hereafter escheat to the state for 
+
+ESCHEATS </seg>
+
+
+            <seg id="p014">12 
+
+LAND COMMISSIONER'S REPORT. 
+
+want of owners shall be managed by the Governor and Superintendent 
+of Public Instruction, and such property and proceeds 
+thereof shall be placed in the temporary school fund.'" 
+
+I would recommend a change in the law placing the same 
+under the management of the Commissioner of Public Lands 
+and Buildings as being more in line with the work of his office. 
+I would also recommend that escheated lands be made part and 
+parcel of the school lands of the- state to be leased as other 
+school lands. This is suggested by the state securing by act of 
+the legislature of 1899. and under chapter 73, section 71, page 
+922 of Compiled Statutes of 1899, certain lands in Cheyenne 
+county belonging to the heirs of Robert W. Fawcus (see Session 
+Laws of 1899. page 420 1 for which the state paid $&lt;i,(J:{&lt;). which 
+investment so far has yielded no return, and in my opinion it 
+will be a long time before any adequate return will be realized 
+therefrom by the state. The appropriation recites that "at tintime 
+of his (Fawcus") death he was the owner of about S00 acres 
+of land in Cheyenne county, but the abstract filed in the case 
+shows only &lt;&gt;40 acres. The petition, in addition to describing the 
+land mentioned in the abstract, says that the "said Robert W. 
+Fawcus. at the time of his death, also held certain lease interests 
+
+in the following described educational lauds of the state of 
+Nebraska, to-wit: the S. E. \ of sec. 1&lt;». T. 20 N., of R. 52 west, 
+while the records of this office show other parties to be holding 
+this land. So it is evident that all the state gets for its $&lt;».&lt;&gt;:?() 
+is the following: W. \ X. W. \, all of S. \V. ), the S. E. J X. W. 
+i, the W. i 8. E. \, the S. E. } S. E. J, and the S. W. &gt; X. E. | 
+sec. 24, T. 20 X., R. 52 west; also W. £ X. W. \ and X. E. } X. W. 
+i and W. 1 S. \Y. } in sec. 25, T. 20. R. 52 west, all in Cheyenne 
+countv. 
+
+While I earnestly suggest the foregoing changes as long as 
+the law of escheated lands remains as it now is. yet I think 
+the law itself should be carefully revised and amended, if not 
+repealed, as in the procedure against aliens for the purpos? of 
+forfeiture the state is required to pay all expense and is liable 
+to pay for the land a great deal more than it is worth. </seg>
+
+
+            <seg id="p015">13 
+
+EDUCATIONAL LANDS. 
+
+RESUME. 
+
+In preparing a statement of the educational lands I have en 
+
+deavored to make it as brief and plain as possible, and hope 
+t hat it will afford the necessary information; but shall be pleased 
+
+&lt; furnish further information in detail at any time 
+
+From the table it will be noticed that the state has acquired, 
+
+for educational purposes, to the present time, 2.969,102.85 acres 
+
+During the biennimn there have been recorded in this office 
+
+3,234 assignments of school land contracts, covering 316,673.78 
+acres of land. The table will show the result of the management 
+of the educational lands during- the biennium to be as fol 
+lows: 
+
+Taken under sale contracts. 
+Taken under lease contract 
+
+418.32 acres 
+
+967,636.03 acres 
+
+Interest, rental, and bonus received for benefit 
+
+temporary funds 
+
+1782,975 6a 
+
+I &gt;wded 
+
+97,976.69 acres 
+
+That it has disposed of 485,730.15 acres 
+
+That there are now under contracts of pur- 
+
+chase 550,838.60 acres 
+
+That there are now under lease contract 1,879,143.95 acres 
+
+That there are now vacant and subject to 
+
+lease 8,218.27 acres 
+
+Lands leased at auction but application not 
+
+tiled November 30 45,171.88 acres </seg>
+
+
+            <seg id="p016">16 
+
+LAND COMMISSIONER'S REPORT. 
+
+Table No. 1. 
+
+Present Condition of the Educational Lands of the State. 
+'e 'o "So 'o'g » S g re I ¦£ 
+li J-s ll ; ll illl its 
+
+Present 
+
+Condition of the Educational Lands of the State. 
+
+¦o*S 
+
+r. 
+
+II Hii 
+
+4) -a 
+n 
+
+i 
+
+Namkof S§. S| 8= ££ Z : 3 5 
+
+Namk of 
+County 
+
+County g| g| gS g| h* ft» g 5 
+
+m 
+
+|H Lfaii 
+
+X 
+
+«t at «S» « fi I S-l-o- "¦ fi 
+
+¦« is. 
+
+? 
+
+|s ; gj _g «_* 5^_ : i^i| j f_ 
+
+£* 
+
+Adams 20480. (X)' 9960.00; 8280.00 2240.00 
+
+Adams 20480 
+
+(1(1 
+(Ml 
+(HI 
+45 
+39 
+(Ml 
+
+9960.00 
+2904 . 4:5 
+
+8280.00 
+9575.57 
+
+2240.00 
+
+Antelope 31400.00 2904.43 9575.57 18920.00 
+
+Antelope 31400 
+
+18920.00 
+
+Banner. 26880.00 26800.00 80.00 
+
+Banner- ! 26880 
+
+26800 
+
+00! 80.00 
+
+Blnine 25530.45 25)50.45 80 00 
+
+Blnine 25530 
+
+251.50.451 80.00 
+
+Boone 23675 
+
+Boone 23675.23 5151.27 8745.56 9778.45 
+
+5151.27 
+
+!745.56 
+
+n 
+
+45 
+
+Box Bnlte 40960 
+
+Box Butte 40960.00 721.00 39599.00 640.00 
+
+721.00 
+
+39:&gt;99 
+
+00 640.00 
+
+Bojd 18575.75 80.70 37.80 17557.03 160.00 740.22 
+
+Boyd 18575 
+
+80.70 
+
+37.80 
+
+17557.03 160.00 740.25 
+
+in 
+
+Brown 40998.90 11.00 83.00 37784.90 480.00 2640 00 
+
+Brown 40998 
+
+29 
+
+11.00 
+
+83.00 
+
+37784 
+
+90 480.00 
+
+2640 00 
+
+Buffalo 30813.29 6364.5* 12369 63 12089.08 
+
+Buffalo 30813 
+
+6364 
+
+12369 63 
+
+120*9 
+
+11- 
+
+Bnrt 17487. 8-; 10065.81 6522.07 740.00 160 00 
+
+Bnrt 17487 
+
+10065.^1 
+
+6522.07 
+
+740.00 160.00 
+
+Bntler 21687 
+
+Bntler 21687.10 11509.01] 9292.89 885.20 
+
+10 
+
+11509.(11 
+
+9292. H9 
+
+lass 19733.98 16244.40 3279.58 200.00 10 CO 
+
+Cuss 19733 
+
+II- 
+
+16244.40 
+
+3279.58 
+
+200.00 10 
+4454.36 
+
+Cedar 26804.36 8312.00 14038.00 4454.36 
+
+Cedar 26804 
+
+:$(i 
+
+8312.00 
+
+14038.00 
+
+Chase 33280.00 746.73 1040. H7 1 31492.40 
+
+Chase 3328(1 
+
+746.73 1040 
+
+31492.40 
+
+(Ml 
+
+Cherry 243864. 0!) 55.99 424.01 211245.29 29858.80 22 80 
+
+Cherry 243864 
+
+(Ill 
+
+424.01 
+
+211245.29 29858.80 
+
+Cheyenne 105613.02 130.00| 960. 00 ! 101541.27 2920.00 61.75 
+
+Cheyenne 105613 
+
+OS 
+
+130.00 
+
+WiO.OO 
+
+101541. -27 2920.00 61.75 
+
+Clay 21240. 00 9904.62 10675.38 660.00 
+
+Clay 21240 
+
+9904.62 
+
+10675 
+
+(1(1 
+
+660.00 
+
+Colfax 14459.69 8189.49 4996.07, 1274.13 
+
+Colfax 14459 
+
+89 
+
+81 Hit.. 19 
+
+4996.07 
+
+1274.13 
+125.00 
+
+Coming 19044.70 8571.29 10348.41 125.00 
+
+Cumin;: 19044 
+
+70 
+
+5571.29 10348.41 
+
+Cnster 92017.98 2316.001 8743.40 79838.58 11.20 
+
+Cnster 92017 
+Dakota 7110 
+
+96 
+
+2316.00 
+
+43.40 
+
+79838.58 11 
+1077.95 ... 
+
+Dakota. 7110.69 1468. 45! 4044.49! 1077.95 519.80 
+
+89 
+
+1468.45 
+
+4044 . 49 
+
+Dawes 49280.00 452. 43 1 80.001 48067.57 480.00 200.00 
+
+Dawes 49280 
+
+(HI 
+
+452.43 
+
+K).OO 
+
+48067.57 480.00 
+
+Dawson 36105.15 2514 60 12361.00 21229.55 
+
+Dawson 36105 
+
+15 
+
+2514.60 
+
+12361.00 
+
+1229 
+
+Deoel 82567.31 47.06 : 595.60 81204.65 720 00 
+
+Denel 82567 
+
+il 
+
+47.06 
+
+595.60 
+
+81204.65 
+
+Dixon 15931.20 3582.67 111:50. 13J 1171.40 47.00 
+
+Dizon 15931 
+
+11130.13 
+
+¦-'0 
+
+li 1 
+
+Dodge 18507.07; 14438. 1.9 1 3712.94 356.04 
+
+Donglas 9170.23 7792.19 1198.50 60.00 119 54 
+
+ZUmdy 33257.01 1.00 760.00! 32496.01 
+
+P;ilmore 20648.51 15444.32 5044.19 160.00 
+
+Franklin 20471. 85 3130.39 4986.10 12355.36 
+
+Frontier 34560.00 1204.00 2760.00 30596.00 
+
+Frontier 34560 
+
+i iO 
+
+1204.00 
+
+2760.00 
+
+30596.00 
+
+Fnrn»s 25602. 80i 1792.00 6740.80! 17070.00 
+
+Farn»s 25602 
+
+1792.00 
+
+-(I 
+
+6740.80 
+
+17070 
+
+(Ml 
+
+Gage 24637. 3lj 16114.81 8171.00 349.50 2.00 
+
+Gajje 24637 
+
+3] 
+
+16114.81 
+
+8171.00 
+
+349.50 
+
+Garfield 20480.00' 321.33 358.67! 19800.00 i 
+
+Garfleld 20480 
+
+(Ml 
+
+321 . 33 
+
+358.67 
+
+19800.00 
+
+Gosper 16640. 00' 802.00 6080. OOj 9758.00 
+
+Goeper 16640 
+
+(Ml 
+
+802.00 
+
+6080.00 
+
+9758.00 
+
+Grant 29000.00: \ 29000.00 
+
+Grant 29000 
+
+(HI 
+
+29000.00 
+
+Greeley 20475.30' 1008.10 3675.20 15792.00 
+
+Greeley 20475 
+
+Hall 19512. 40i 8498.30 7N61.85 3152.25 
+
+Hall 19512 
+
+Hamilton 20487 
+
+Hamilton 20487.56 11322.61! 8677.39 487.56 
+
+Harlan 20400 
+
+Harlan 20400.69 2471.92; 9351.94! 8576.83 
+
+Hayes 25600 
+
+Hayes 25600.00! 183.31 604.49 24772.20 40.00 
+
+Hitchcock 25494 
+
+Hitchcock 25494.87 668.60 1413.40 23172.87 240.00 
+
+Holt 87376.60 1005.42 1720.00 82891.18 1760.00 
+
+Holt I 87376 
+
+Hooker 26158.59 120.00 26038.59 
+
+Hooker 26158 
+
+Howard 23041.44 3207.65 8731.58; 10982.21 120 00 
+
+Howard 23041 
+
+Jefferson 20484.08 7593.32 8992.86 0897.90 
+
+Jeffercon 20484 
+
+Johnson 13440.00 9645.66 3391. 01 l 400.00 3.33 
+
+Johnson ' 13440</seg> 
+
+
+            <seg id="p017">17 
+
+EDUCATIONAL LANDS. 
+
+Table No. 1 — Continued. 
+
+Preterit Condition of the Educational Land* of the State. 
+
+o o o o u c gn o 
+II II fll* |? 
+I a a-g *--s- a 2 
+
+y 
+
+i- 
+
+i 
+
+Name of 
+County 
+
+a o *. « S^S a « 
+a « *te £¦— ° ¦* 
+-as ¦€ o "« -i fi 
+
+? 
+
+¦ 
+
+Z£ "3 2 g a-o-o- 3 S 
+
+£ 
+
+Kearney 18581.40 3772.57 9451.87 5356.96 
+
+Keith 45662.40 45.00 1099.40 43769.65 746.68 l.ffl 
+
+Keya Paha 26222.46 4.90 499.10 25788.46 _ 
+
+Kimball 36578.88 34258.88 2160.00 160.00 
+
+Knox ; 42887.91 3802.78 16759.34 22325.79 | 
+
+Lancaster 31384.23 18839.74 11499.49 1010.00 35.00 
+
+Lancaster 31384.23 18839.74 11499.49 
+
+1010.00 35.00 
+
+Lincoln- 97926.61 380.80 8925.06 88620.75 „ 
+
+Lincoln- 97926.611 380.80 8925.06 
+
+88620.75 
+
+Logan 20480.00 20480.00 
+
+20480.00 
+
+Logaa 20480.00 
+
+Loup 20393. 2f 320.00 480.00 19593.28 
+
+Loup 20393.2.-1 320.00 480.00 
+
+19593.28 
+
+McPherson 56320.00 54720.00 1600.00 
+
+McPherson 5ti:HO.O0 
+
+54720.00 1600.00 
+3080.00 
+
+Madison J4639.3H 9050.44; J2508.94 3080.00 
+
+Madison 24639.38 9050.41, 94 
+
+Merrick 15004.55 5266.94 6020.24 3696.01 21.36 
+
+Merrick 15004.55 5266.94 6020.24 
+
+3696.01 21.36 
+290.65 34.40 
+
+Nemaha 11783.54 9934.46 1524.03 290.65 34.40 
+
+Nemaha 11783.54 9934.46 1524.03 
+
+Nuckolls 21040.10 5349.26 14360.14 •1339.70 
+
+Nuckolls 21040.10 5349.26 14360.14 
+
+• 1339.70 
+6(10.00 
+KiO.OO 
+
+Otoe 21992.44 14205.69 7186.75 600.00 
+
+Otoe [ 21992.44 14205.69 7186.75 
+
+Pawnee 20034.85 12847.53 7027.32 160.00 
+
+Pawnee 20034.85 12847.53 7027.32 
+
+x 
+
+Perkins :il.")2:?.7o 640.00 30883.75 
+
+Perkins 31523.751 640.00 
+
+30883.75 
+6034.54 
+7240.00 
+1809.10 
+
+Phelps 20228.64 3081.82 11112.28 6034.54 
+
+Phelps 20228.64 3081.82 11112.28 
+
+B2 
+
+Pierce 20480.00 3284. 74 1 9955.26 7240.00 
+
+Pierce 20480.00 3284.74 9955.26 
+
+Platte 23655.48 10251.70 11594.68 1809.10 
+
+Platte 23655.48 10251.70: 11594.68 
+
+Polk 16787.68. 6975.58 8010.80 1761.30 40.00 
+
+Polk 16787.68. 6975.58 8010.80 
+
+1761.30 40.00 
+
+Red Willow 25485.30 1490.05 6066.25 17889.00 40.00 
+
+Richardson 10400.00 7510. CO 1960.00 900.00 30.00 
+
+Kock 40232.40 40.00 40.00 39952.40 200.00 
+
+Saline 204*0.00 15587.00 4293.00 600.00 
+
+Sarpy . 89*8.27 6758.42 1944.97 284.88 
+
+Saunders 26390.99 17699.23 8291.76 400.00 
+
+Scott's Bluff 25467.65 17.46 600.00 24770.19 80.80, 
+
+Seward 20560.00 14324.37 5691.99 643.64 ... 
+
+Sheridan ' 94627.74 392.87 334.99 93379.88 520.00 
+
+Sherman 20477.20 336.51 4887.47 15253.12 
+
+Sionx 80972.22 120.00 80852.22 :... 
+
+80852.22 
+2400.00 
+3035.23 
+
+Stanton 15360.001 5186.39! 7773.61 
+
+Thayer 20472. 35 9819.19 7617.93 
+
+Thomas 25600. 00J I 
+
+24560.00 1040.00 
+
+Valley 20474.88; 3176.60! 5384.77 
+
+11913.51 
+1835.20 
+
+Washington 13850.36] 9453.84] 2561.32 
+
+Wayne 15360.00; 4400.00' 10960.00 
+
+Webster 20480.00; 3327.00] 8478.00 
+
+8675.00 
+20437.00 
+1593.39 
+
+Wheeler. 20480. 00 1 3.00 40.00! 
+
+York 20480.00 11508.26: 7378. 35 
+
+Total 
+
+2791243.07 434412.79 454854.49 1848612.84 45171.88 8191.07 
+
+¦ &gt; </seg>
+
+
+            <seg id="p018">18 
+
+LAND COMMISSIONER'S REPORT. 
+
+Table No. 1— Concluded. 
+
+Present Condition of the Educational Lands of the 
+
+State 
+
+UNIVERSITY. 
+
+X 
+
+o o o o o o 
+
+°» s 
+II 1 
+
+jl i-s ! li il 
+
+Namb of S g. £U S£ S a 
+County g £ g.g §8 §8 
+
+Name of 
+County 
+
+y-. 
+
+« S-f. 
+
+
+i 
+
+I 
+
+ft 
+
+i 
+
+X 
+
+z 
+
+Antelope 1600. 00| K0.74 1109.26 220.00 
+
+Antelope | 1600.00: 
+
+K0.74 1109.26 220.00 
+400.001 1120.00! 400.00 
+
+Cedar 1920.00 400. OOi 1120.00! 400.00 
+
+Cedar I 1920.00 
+
+Dakota 320.00 I 320.00 
+
+Dakota- 320.00 
+
+320.00 
+
+Dixon 640.00 80.00 560.00 
+
+Dixon 640.00 
+
+80.00 560.00 
+
+Holt I 8322.10 480.00 1680.00 6162.10 
+
+Holt I 8322.10 
+
+480.00 1680.00 6162.10 
+
+Knox.. ! 4480.00 960.00 2080.00 1440.00 
+
+Knox_ ! 4480.00 
+
+960.00 2080.00 1440.00 
+
+Madison 2240.00 240.00 1240.00 760.00 
+
+Madison 2240.00 
+
+Nuckolls i 4916.68 120,"). 66 3558.92 152.10 
+
+Nnckolls i 4916.68 
+
+Pierce 3197.67 963. ;3 2234.54 
+
+Pierce 3197.67 
+
+Webster 17789.63 4420.53 7421.62 5920.28 
+
+Webster 17789 
+
+Total 45426. US 8920 06 21324.34 15154. 4f- 
+AGRICULTUKAL COLLEGE. 
+
+Total 45426. US 
+
+AGRICULTUKAL COLLEGE 
+
+Burt 640.00 48(1. ooj 160. 00: 
+
+Burt 640.001 480. ool 160.00! 
+
+Cedar 25405.47 4659.07 17080.14 3660.26 
+
+Cedar 25405.47 4659.071 17086.14: 3660. 2i 
+
+Coming 960.00, 6-0.00 280 00 ! 
+
+Dakota 640.00 603 
+
+Dixon 2229.90 876.95 12: 
+
+Knox 33500.19 1833.33 25033.40 66:53.40 
+
+Pierce 10113.96 1422.12 7413. 1C, 1278.68.... 
+
+Wayne 15648.98 5598.181 10050. ho 
+
+Total 89138.50 16153. 57 61292.59 11692.34 
+
+NORMAL 
+
+Lancaster ! 12804.80 6296.23 642i 
+
+SALINE. 
+
+Lancaster i 30490.40 19947.50, 6938.61 3604.29; 
+
+Total 2969102.85 485730.15, 550838.60 1879143. 9o[45 
+
+171.88 821 </seg>
+
+
+            <seg id="p019">EDUCATIONAL LANDS. 
+
+19 
+
+Table No. 2. 
+
+I I ! i s g * » |sl Hi 
+s js § , § ! !, y iff 
+
+I, Is II ill SJI 
+t-e -a -¦» -§« S*S 
+
+? 
+
+Name of o o o eg u&lt;j «. £ *•¦« iJ! °" Total 
+County fe'S fc -o , -I -1 -S -§- ?T8S °"" 
+1-8 IS il §S l§ IS ISS fit 
+Z i-Z Z Z. &lt; &lt; &lt; a. 
+
+Name of 
+
+Total 
+
+NTl 
+
+Adams 600 $1132 00 17254 52 ! $33 49 $4942 00 $13382 01 
+
+Ada 
+
+Adams 600 ' $1132 00 
+Antelope... 460 3280 2080 6793 63 
+
+17254 H 
+
+$33 491 
+386 22 
+
+$4942 00 
+
+$13382 01 
+
+Antelope... 460 3280 2080 6793 83 8371161 886 22 4767 00 20318 01 
+
+6793 63 
+
+8371 16 
+
+4767 00 
+
+20318 01 
+
+Banner 19400 8960 1133 77 _.j 3166 1166 tt 
+
+31 96 
+
+Banner 119400 8960 I 1133 77 
+
+1165 43 
+
+Blaine ! 17370 45 5H8.45 115179 | 73 46 1226 24 
+
+Blaine J 17370 45 5H8.45 115179 
+
+73 45 
+
+1226 14 
+
+Boone 1065 91 ; 1520 28 7996 011 7J 67 602*28 17612 19 
+
+Boone | 1065.91 1520 28 
+
+7996 01 
+
+7J67 
+
+6023 23! 
+
+17612 1» 
+
+BoxButte.., 31880 11720 2888 29 104 58 2792 87 
+
+BoxButte.., 318S0 11720 2888 29 
+
+104 58 
+
+104 68 2792 87 
+59 21 2621 73 421 91 6521 97 
+
+Boyd ; 82 70 10 5211.70 1382. 94! 3519 12 59 21 262173 42191 652197 
+
+Boyd ; 82 70 10 5211.70 1382.94' 3519 12 
+
+6521 97 
+
+Brown : 32043.10 5008.40 2249 98 90 72 57 50 2(98 20 
+
+Brown 32043.10 5008.40 2249 9&amp; 
+
+90 72 
+
+57 50 
+
+2*98 20 
+
+Buffalo i 800 240 240 4044 09 12867 21 778 09 7887 26 26576 66 
+
+Buffalo i 800 240 240 4044 09 
+
+12867 21 
+
+778 09 
+
+TSS7 26 
+
+26576 65 
+
+Burt 3677 81 380 05 9902 60 9 33 21789 74 3208122 
+
+3677 81 | I 380 06 
+
+9902 60 
+
+9 33 
+
+21789 74 
+
+32081 22 
+
+Butler 4288 16 85 20 80 800 97 11016 08 38 82 31087 66 42918 53 
+
+Butler 4238.18 1 85 20! SO 800 97 
+
+11016 08 
+
+38 82 
+
+31067 66 
+
+42918 53 
+
+Cass i U60 i 263 32 4292 82 1147 7912 00 12479 61 
+
+263 31 
+
+4292 82 
+
+11 47| 
+
+7912 00 
+
+12479 61 
+
+Cedar 3240 ! ! 1757 81 13488 61 64 67 2082100 36132 08 
+
+3240 ! I I 1757 81 
+
+13488 61 
+
+1488 61 64 67 20621 OOl 38)32 00 
+651 68l 35 43 1966 96 
+
+64 67 
+
+20821 00 
+
+Chase i 23991.27 3735.87 1269 84 66168 35 43 1956 96 
+
+3991.27 3735.87 1269 S4 
+
+1966 96 
+
+Cherry 4 83 128344.89 22797 90 14838 01 246 70 467 SO 48 30 15600 91 
+
+4 83 128344.89 22797 90 14838 01 
+
+246 70 
+
+467 ! 0 
+
+48 30 
+
+15600 91 
+
+Cheyenne.. 73190 7510 5468 29 1213 68 317 76 181 41 7181 15 
+
+13190 7510 5468 2S\ 
+
+1213 68 
+
+317 76 
+
+181 4t 
+
+7181 15 
+
+Clay [4200 i 20 182 41 11058 83 5 05 27264 00 38500 29 
+
+182 41 
+
+11058 83! 
+
+5 05 
+
+27254 00| 
+
+38500 29 
+
+Colfax 2265.82 38.75 101.40 10140 703 73 fc629 12 13 02 17592 8rt 2J93S 73 
+
+:ol£ai : 2265.82 38.75, 101.40 10140 703 73 
+
+h62» 12 
+
+13 02 
+
+17592 8« 
+
+21938 73 
+
+Cuming... 1972 79 ! 5 ! 168 80 9539 40 7 46 12809 00 2252100 
+
+168 80 
+
+9539 40 
+
+7 46 
+
+12SO9 (Hi 
+
+22521 00 
+
+Custer ; 320 2400 2920 C260 03 9428 26 2432 76 2424 00 28645 06 
+
+400 2920 C260 03 
+
+9428 26 
+
+2132 76 
+
+2424 0" 
+
+¦Ml is 
+
+Dakota 128 30 251.89 251.89 376 79 3612 37 38 11 4307 06 8364 S3 
+
+261.89 251.89 376 
+
+36)2 37 
+
+38 11 
+
+4307 061 
+
+ON ¦ 
+
+Dawes ' 39107 57 1051)7.26 316174 52 68 90 78 3305 18 
+
+Dawes ' 39107.57 1051)7.26 3161 74 
+
+52 68 
+
+90 
+
+3305 18 
+
+Dawson ...I 640 i 2188 66 10870 12! 83 40 296S 00 16200 18 
+
+21V. 06 
+
+10970 12 
+
+83 40 
+
+2968 00 
+
+16201) 18 
+
+Deuel ' 1 50662 14 31660 50 4263 76 449 671 11101 3150 4855 94 
+
+14 31660 50 4263 76 
+
+449 67 
+
+111 01 
+
+31 50 
+
+4855 94 
+
+Dixor. 1260 1 233 40 61 854 29 9569 18 78 89 »082 00 19674 36 
+
+233 40 61 854 29 
+
+9569 18 
+
+78 89 
+
+tm-2 oo 
+
+19574 38 
+
+Dodge 1249.27 : 30132 436173 19 15 9328 29 13198 49 
+
+Dodge 1249. 27 1 : 30132 
+
+Douglas "5899200.57 52 20 1490 43 110 548131 7025 04 
+
+Dundy i 30456 01 2937.01 1134 89 618 48 1 18 02 177189 
+
+Fillmore. . 1758 81 D9 99 5038 60 3 34 10668 67 15610 51 
+
+Franklin. 630 | 366.36 360 4874 65 3700 15 397 66 4826 68 13796 14 
+
+Fr; 
+
+Frontier..; 242 2 2560 2400 6940 64 2839 89! 1206 65 2070 50 13056 68 
+
+Furnas 135 175 160 3969 90 5475 08 182 12 2350 00 11977 10 
+
+Gage 2622 31 214 32 7889 62 4 00 19494 32 27602 16 
+
+7889 52 
+
+31 214 32 
+
+4 00 
+
+19494 32 
+
+27602 16 
+
+Garfleld.... ¦ 10520 520 114120 350 24 63 31 | 1544 75 
+
+1141 20 
+
+350 24 63 31 1544 75 
+6i35 73 120 67 2270 00, 9900 14 
+
+350 24 
+
+53 31 
+
+Gosper 482 j 2 , 2382 74 6i36 73 120 67 2270 00 9909 14 
+
+4 
+
+120 67 2270 00 9900 14 
+37 73 975 98 
+
+Grant i 8720 1960 938 25 37 73 975 98 
+
+8720 1960 938 25 
+
+975 98 
+
+Greeley j S80 ' 160 160 3222 51 3503 891 98 43 1508 00 8332 83 
+
+160 3222 51 
+
+3503 89 
+
+98 43 
+
+l.V&gt;- '10 
+
+8332 83 
+
+Hall 1916.4H; 509 50 509 50 1630 17 7768 651 135 80 12366 30 21887 72 
+
+Hall 1916.4H; 509 50 509 60 1630 17 
+
+7766 65 
+
+135 60 
+
+12355 3:) 
+
+21-^7 72 
+
+Hamilton.. 2435 91 ; 156 09 8677 91 j 4 83 16642 51 2448134 
+
+amilton... 2435 91 1 ; 156 
+
+8677 91 
+
+4 83 
+
+15842 51 
+
+24481 34 
+
+Harlan 1210 1 209.80 169 3306 51 7678 30! 377 08 9863 21 21215 10 
+
+169 3306 51 
+
+7678 30: 
+
+377 08 
+
+S853 21 
+
+21215 10 
+
+Hayes i 1 14320 2521 2610 4h 233 881 60 81 2905 15 
+
+60 81 
+
+2905 15 
+
+Hitchcock..; 12080 , 6760 217127 617 62 1 162 10 613 00 3663 89 
+
+162 10 
+
+Holt j 160 44(55 95! 10020 10862 18 2259 09 1946 89 10U8 00^ 16076 16 
+
+Holt j 160 | 44155 95! 1002C 
+
+losaa 
+779 
+
+2259 09 
+
+1946 89 
+
+Hooker 21158.59 240 779 H8 174 86 29 75 984 69 
+
+Hooker ! 21158.59. 240 
+
+174 86 
+
+29 75 
+
+984 59 
+
+Howard.. 980 1 1201 18 796.15 3789 41 7273 38 907 44 6590 00 18580 28 
+
+Howard... 960 1201181 796.15 3789 41 
+
+7273 38 
+
+907 44 
+
+6590 00 
+
+18560 21 
+
+Jefferson... 1 1240 12 ' 2Utf 12 9210 15 122 10 10404 68 21840 08 
+
+Jefferson...! 1240.12 ' 2Utf 12 
+
+9210 15 
+
+122 10 
+
+10404 68 
+
+am m 
+
+Johnson 882 ! 319 69 33D8 91 4970 60 8689 20 
+
+Johnson I 682 ! 319 6S 
+
+33m 81 
+
+4970 60' 
+
+8S89 20 
+
+Kearney ... 1240 640 640 841 11 8923 70 22 66 12891 39' 22678 86 
+
+Kearney ... 1240 640 640 841 1 
+
+123 70 1 
+
+22 66 
+
+12891 39 
+
+ana m 
+
+Keith...'. 5 5 33089 60 2848.60 1539 41 638 19 423 50 259 00 6860 10 
+
+Keith...'. I 5 5 33089 60 2848.60 1539 41 
+
+638 19 
+
+423 50! 
+
+259 (10 
+
+5860 10 
+
+KeyaPaha.1 19844 61 1999.40 2503 62 223 30 799 84 1 3526 66 
+
+KeyaPaha.; 19644 61 1999.40 2503 
+
+223 20 
+
+799 84 
+
+3528 68 
+
+Kimball 29338. 88 ' 1920 1027 50 6 69 1 1034 19 
+
+Kimball 29338.88 1920 1027 50 
+
+6 69 
+
+1034 19 
+
+Knox 1000 3783 78 2953.78 562121 1338145 1246 25 7208 00' 27456 91 
+
+Knox 1000 3783 78 2953.78 562121 
+
+13381 45 
+
+1246 25 
+
+7208 00! 
+
+27456 91 
+
+Lancaster. 2440 50 85 877 70 13980 75 152 54 16C33 00 31643 99 
+
+Lancaster.! 2440 
+
+13980 75 
+
+152 54 
+
+16f 33 00, 
+
+31643 99 
+
+Lincoln 81 1 36880 12920 7467 4S 7816 04 348 07 578 30 16239 87 
+
+Lincoln 81 ! 36880 12920 7497 I* 
+
+7816 04 
+
+348 07 
+
+148 07 578 30 16239 87 
+81 99 1740 93 
+
+578 30, 
+
+Logan i ' 3640 920 1658 94 8199 1740 93 
+
+Logan i 3640 920 1658 M 
+
+1740 93 
+
+Loup 14440 i 1960 , 1383 96 678 74 96 79 2069 49 
+
+Loup | ; 14440 j 1960 | 1383 96 
+
+678 74 
+
+96 79 
+
+2059 49 
+
+McPherson | 27680 4320 1096 36 644 58 1740 !4 
+
+McPherson \ 27680 4320 1096 36 
+
+644 58 
+
+1740 94 
+
+Madison... 4754 11160 i i 893 92 15134 61 36 84 25798 35 41863 7J 
+
+Madison... 4754 11160 ! i 893 92 
+
+15134 61 
+
+36 84 
+
+25798 35! 
+
+41863 72 
+
+Merrick 1767 99 666.10 640 2533 27 614182; 119 73 14924 49' 23719 31 
+
+Merrick 1767 99 i 666.10 640 2533 27 
+
+6141 82 
+
+119 73 
+
+14924 49 
+
+23719 31 
+
+Nemaha. ...; 1066 02 1 21171 2205 69! 49 7832 20 10260 09 
+
+Nemaha....: 1066 02 ! [ I 21171 
+
+2205 69 
+
+1H 
+
+7832 20' 
+
+10250 09 
+
+Nueltolls..! 1647.86 i 437 06 11878 55 1 2136 11888 81 24208 77 
+
+Nuckolls.l 1647.86 i 437 06 
+
+11878 56 
+
+21 36 
+
+uses si 
+
+24206 77 
+
+Otoe 11248 95 716 90 7097 151 23 58 10106 72 17914 36 
+
+Pawnee.... 2321.68; 77 08 8032 49 i 3 86 18105 51 26518 93 
+
+Perkins | 27270.04 3200 932 41 16 96 949 36 
+
+Phelps 1120 ! 154110 10016 08 56 8680 00 20272 1* 
+
+Pierce 600 2400 1320 3114 70l 843124 376 24 4499 00 1642118 
+</seg>
+
+            <seg id="p020">20 
+
+LAND COMMISSIONER'S REPORT. 
+
+Table No. 2— Concluded. 
+
+fill! I '1, 1*1 : 111 
+
+¦ 
+
+g g 1 I j 1 1 Isl i 1-3 
+
+i = 
+
+§ § 
+
+S 3 S s 
+
+§£^ 
+
+ss " li I h ' JI I : II 0 : tit ™ 
+B$ ll Ig II Ig la i«| 111 
+
+2.*" 15 ° F ; o s s h •s-a 
+
+£3 ££ 
+
+°— I II I. If I I I il} : I 
+sis 3« a ,2 aC go So sS£ fo 
+
+Total 
+
+«a c 
+
+I a-o sx a£ it gS £o gS£ ; -coo. 
+ZZ55 Z •&lt; &lt; &lt;J .£ 
+
+Pl«tte 3189.10; »16 12 tl2»21 40 131 59 $21666 00 m^36 1 
+
+Polk 27S8 60 200 180 1246 68 8548 19- 216 93 18863 45 18974* 
+
+KedWUlOW 584.60 646.80 472 50 3665 50 4284 26: 245 78 3379 33 11524? 
+
+Richards 'n 480 487 86 22S1 88 9 95 1768 00 4+87 61 
+
+Rock ! 40 27160 2800 2678 81 42 00' 105 14 2W 00i 3075 •( 
+
+Saline 1940 I 688 001 4830 10; 17 61 13723 22 j 19158 ix 
+
+Sarpyj. 440 180 21 1 2690 82 ; 5 83 3702 001 6578 81 
+
+Sarpyl 440 
+Saunders...! 1640 
+
+411 20| 9405 87 1« 50 14083 C 
+
+Scott's Bl'f 
+
+12190 081 3720 08 2102 93 75174 86 So! ; "294152 
+
+Seward 17S0 
+
+80 80 633 10 6157 76 297 »J '"'i'2826'M 1 19715 
+53296.82 16513.89 6693 31 248 28 224 581 35 00 7JU1 
+
+Sheridan 
+
+M i 
+
+Sherman 
+
+666 70 666.70 4216 43 407173 244 
+41778 14 3686 16 4992 01 96 
+
+Siouz..... 
+
+4992 01 ; 96 
+
+Stanton 2360 
+
+:o 
+
+80 1236 79 8315 96 8« 77| 14708 89 24351 * 
+17 1137 93 8163 81 70 ?!. 1070b 22! 20080 1 
+
+Thayer j 1500 
+
+Thomas . 
+
+18360 ! 3000 66«28 15 17; ! 683 4i 
+
+Valley MO 
+
+1394 10 
+
+Washing'n Bo 
+
+1S42 14 3x28 91 164 23 5651 
+
+Wayne 2»*i 
+
+354 13 
+
+Webster 
+
+2366 83 657136 145 79 829S 
+13157 1J80 336H «7 30 24 387 14 
+
+Wheeler 
+
+3369 »7| 30 24 
+
+York 2494 
+
+48 20 8669 84 17 42 21409 51 
+
+Total 
+
+S432 
+
+I 11 
+
+3. 
+
+¦¦.542'! M 
+
+:S7! 
+
+M6I 
+
+VIr 
+
+RSITY 
+
+Antelope 
+Cedar ... 
+
+4' 
+
+10 
+
+Dakota 
+Dlxon .. 
+Holt 
+
+:O 
+
+Knoi 
+
+Madison . 
+NuekolU 
+Pierce... 
+
+180 
+Ml 
+
+Webster. 
+
+Total 
+
+l"«i "20 $4851 88 S17696 59' S8*0 45 S16406 5« S3'K 
+
+
+ICULTl'R 
+
+AL COLL 
+
+Burt.. 
+Cedar 
+
+2244 
+
+31-1 
+
+Cuming 
+Dakota . 
+Dlxon... 
+
+in 
+
+21 24 
+
+S4) 
+
+51« 
+
+1337 5 
+
+Knox 
+
+tm 
+
+224 20 20149 06 
+
+Pierce. 
+Wayne 
+
+120 
+
+360 320 477 13 6213 10 8 54: 1953 
+
+M« 
+
+9933 63 18146 80 arts') 43 
+
+Total 
+
+7163 
+
+« 
+
+360 , 320 $3930 31 S54650 51 $143 51 $52070 13 Sllu7v4 W 
+NORMAL 
+
+Lancaster. 
+
+2273 
+
+120 61 
+
+!¦- 
+
+117231 ( 
+
+SALINE 
+
+Lancaster. 
+
+3S0 
+
+769 10j 769 10 $4862 02 ! $16034 26 $2129 58 ; S8334 16 S3136C 
+
+Total »7»76. 991418. 321967636 03 185550 48 $215481 83 $543559 04 ?23934 78l$7O8O39 93 81489016 
+
+
+!&lt;•.&lt;¦ </seg>
+
+
+            <seg id="p021">21 
+
+BOARD OF PUBLIC LANDS AND BUILDINGS. 
+
+BOARD OF PUBLIC LANDS AND BUILDINGS 
+
+While it has been customary for the Commissioner, in his 
+biennial report to the Governor, to review all of the public 
+institutions in the state, yet, finding neither law nor necessity 
+for the same, as the head of each institution is required to make 
+
+such report to your excellency, I shall omit such reference in 
+my report, except, as chairman of the Board of Public Lands 
+and Buildings, I deem it proper to render an accounting to the 
+
+legislature, through you, of the various appropriations made 
+at the last session for additions and improvements to several of 
+our state institutions. 
+
+The legislature of 1899 made an appropriation of |40,000 for 
+the purpose of erecting for the Nebraska Hospital for the Insane 
+at Lincoln, Neb., one fire-proof wing, and providing the same 
+with heating equipment. After duly advertising for bids the 
+Board, on October 12, 1899, met and, after considering all the 
+
+idopted the hollow-tiled fire-proofing and accepted the bid 
+
+if Arthur &amp; II u I'd, amounting to $33,353. This being the lowest 
+bid for that kind of fire-proofing. They also accepted the bid of 
+The Korsmeyer Plumbing Company, amounting to $4,960, this 
+being the lowest bid submitted for these items. Total for completing 
+the building as per specifications, |38,313. - W. B. Hester, 
+of Normal, was appointed superintendent of construction. This 
+building is not yet completed, but is nearing completion, and 
+when done, we think, will be a credit to the state and will greatly 
+
+relieve the Norfolk Asylum, as well as the older part of the one 
+on the same grounds, of their overcrowded condition, and will 
+enable the state to take care of many who are being otherwise 
+provided for. for lack of room. 
+
+It seemed necessary to the Board that the Home for the 
+Friendless should have an artificial stone walk; therefore they 
+asked for bids, and on April 9, 1900, the Board met and awarded 
+the contract to K. B. Graham for 14Jc per square foot, which 
+amounted to $367.64, and which has been completed in a very 
+satisfactory manner. 
+</seg>
+
+            <seg id="p022">LAND COMMISSIONER'S EEPOET. 
+
+22 
+
+The- Board became convinced that it was necessary to have a 
+new well for the Nebraska Hospital for the Insane at Lincoln, 
+and met and awarded the contract, on June 3, 1890, to ("has. 
+Burns. The work completed cost ?4,425, and is affording an 
+excellent supply of fresh water. 
+
+By House Roll No. 275, Session Laws of 1899, there was ap 
+propriated $7,700 for the erection of a brick and stone boiler 
+house for the Institute for the l&gt;eaf and Dumb at Omaha, which 
+was to be equipped with four boilers for heating purposes of s;iid 
+institution. After advertising for bids the Board, on May -'¦'&gt;. 
+
+1899, met and awarded the contract to (Jeo. W. Blake for #»&gt;.491 
+who completed the work quite satisfactorily. 
+
+By House Roll No. 9, Session Laws of 1899, there was appropriated 
+the sum of flo.OOO for the erection of a boiler and 
+engine house, cold storage room, new well and air lift pump 
+for the Hospital for the Chronic Insane at Hastings. After 
+advertising for bids the Board met on July 21, 1899, and awarded 
+the contract for the erection of the boiler and engine house to 
+
+Butzirus &amp; Klose, of Hastings, for #7.4:?."). On January 22. 1900. 
+after duly advertising for bids for the erection of the cold 
+storage plant, the Board met and awarded the contract to Fred 
+W. Wolfe &amp; Co., of Chicago, for $5,40li, this being the lowest 
+bid submitted for this work. Both of these contracts were fully 
+carried out to the entire satisfaction of the Board, mainly under 
+the direction and supervision of Dr. J. T. Steele. superintendent 
+of the institution, to whom great credit is due for its completeness 
+in every detail. We point with special pride to the expenditure 
+of these two appropriations. 
+
+House Roll No. 280. Session Laws of 1899, appropriated *-•". 
+000 for the purpose of erecting a three-story brick and stone 
+building for the use of the Institute for the Deaf and Dumb at 
+Omaha. After duly advertising for bids the Board met on 
+August 5, 1899, and opened the following bids: Hamilton Bros." 
+bid was f 18,087; being the lowest bidders, the contract for the 
+building, exclusive of the electric wiring, steam heating, and 
+plumbing, was let to them. Balfe &amp; Reed, of Omaha, bid |2,!Hh, </seg>
+
+
+            <seg id="p023">23 
+
+BOARD OF PUBLIC LANDS AND BUILDINGS. 
+
+and this being the lowest bid, the contract for the plumbing and 
+steam heating was let to them. At a meeting of the Board 
+
+August !». 1899, $800 was added to the contract price of Balfe &amp; 
+Reed for plumbing and steam fitting, for extra pipes, reducing 
+valves, and other extras. Also there was added to the bid of 
+Hamilton Bros. $71:?, for extra slate blackboard, moulding and 
+
+chalk trough, not included in former specifications. Frederick 
+Delone, of Omaha, was employed as superintendent of construction 
+at a salary of $4 per day for the time actually employed. 
+These several contracts were all carried out by the respective 
+parties and to the entire satisfaction of the Board, and the 
+building is now elegantly furnished and in use and will bear the 
+
+scrutiny, and is an ornament to the state and a credit 
+
+to all concerned in its design and construction. Much credit is 
+due the architect. Henry Voss, the contractors, and the superintendent 
+of construction, as well as the superintendent of the institution, 
+in their respective capacities. 
+
+There was appropriated by the legislature of 1899 $5,000, for 
+
+m of a hospital building at the Soldiers' and Sailors' 
+
+Milford. After duly advertising for bids the Board 
+
+Hon 
+
+met on September Hi, 1899, and 
+AY. Blake &amp; Co.. for $3,880, and 
+for plumbing and steam heating, 
+
+awarded the contract to Geo. 
+L. W. Pomerene the contract 
+for $1,035. 
+
+There was also appropriated by 
+rection of a hospital building 
+
+the legislature $12,500 for the 
+at the Soldiers' and Sailors' 
+advertising for bids the Board 
+
+Home at Grand Island, and aftet 
+
+met on September 12. 1899, and opened the following bids for 
+the erection: Geo. W. Blake &amp; Co., $8,836; E. A. Stevens, $8,762. 
+with an addition of floO for Colorado stone, if used. Mr. Blake's 
+bid being made on Colorado stone, was accepted as the best bid. 
+For the plumbing and steam heating the bid of L. YV. Pomerene 
+&amp; Co., being the lowest according to specifications, it was accepted. 
+The Board had some trouble over these two contracts 
+with Blake &amp; Co., but finally secured the finishing of the building 
+at Milford in a tolerably satisfactory manner, but had to call 
+upon the Bond Company to finish the hospital at Grand Island </seg>
+
+
+            <seg id="p024">24 
+
+LAND COMMISSIONER'S REPORT. 
+
+which, to its credit, be it said, they finished to the satisfaction 
+of the Board and at an expense to itself of several thousand 
+dollars. They were bonded by The American Bonding &amp; Trust 
+Company, of Baltimore. Maryland. 
+
+For the |48,500 appropriated by House Holl No. :M6, for the 
+erection of certain buildings and their furnishings, and for 
+various other purposes enumerated in the bill to be expended 
+at the Feeble Minded Institute at Beatrice, the Board, after 
+duly advertising, let a contract to C. F. Barras, of Lincoln, September 
+30, 181W, for a boys' cottage in all respects complete for 
+the sum of |16,250, which was completed under the supervision 
+of E. C. McClellan, of Hastings, according to plans and specifi 
+cations adopted by the Board and furnished by G. F. Schaffer, 
+of Lincoln. On October 17. 1899, contracts were let to Geo. A. 
+Schaul. after advertising for same, for an industrial building, 
+also a hospital building, at the same institution, both of which 
+have been completed in a very satisfactory manner under the 
+same Superintendent McClellan and according to plans furnished 
+by K. \Y. Grant, of Beatrice. The other appropriations 
+in this bill were expended either in whole or in part for the 
+various purposes specified, and we think the state, in cadi case. 
+has received an equivalent for all expenditures under this appropriation 
+and submit the work in proof. 
+
+House Roll No. 8, making an appropriation of $30,000 for a 
+fire-proof wing to the Hastings Asylum, was so worded and 
+elaborated as to details that, after two efforts by advertising 
+for plans and specifications and bids, the Board could get no 
+bid for its completion so as to conform to the requirements of 
+the bill making the appropriation within that amount. In fact 
+the lowest bid to complete such a building was about $8,000 
+more than the amount appropriated, while the bill provided 
+"that in no case shall any bid in excess of the sum specified be 
+accepted by the Board." This failure to appropriate enough 
+money to complete the desired and described building was 
+largely due to the advance in price of all building material and 
+labor and especially fire-proof material. This building is much </seg>
+
+
+            <seg id="p025">25 
+
+BOARD OF PUBLIC LANDS AND BUILDINGS. 
+
+needed and in fact js indispensable, and the Board hopes that a 
+sufficient amount will be appropriated, by the coming legislature, 
+for its construction. 
+
+Mr. J. E. Crane was appointed, by the Board, engineer at the 
+
+capitol building four years ago, and in addition to his work as 
+such has been of great service to the state in other lines. As an 
+
+expert he has visited, at the request of the Board, almost all 
+the state institutions and made reports on the condition of the 
+boilers and the entire plants, and has drawn plans and made 
+specifications for numerous changes and improvements that, if 
+done by one specially employed for the purpose, would have 
+cost the state several hundred dollars; but the Board found Mr. 
+&lt; 'i-iinc very competent in this line, as well as an engineer, and 
+
+he lias cheerfully rendered this extra service, for which the 
+Board wishes to thank him. and to suggest a more substantial 
+
+ward when the legislature is considering claims for valuable 
+
+vices rendered. 
+
+SOME THANKS. 
+
+As chairman of the Board of Public Lands and Buildings I 
+wish to express my thanks to the other members of the Board 
+for the uniform and always courteous treatment that I have received 
+at their hands. I assure them, each and all, that I appre- 
+
+ciate it very highly, and that our four years of association and 
+labor together will always be a pleasant memory to me in the 
+years to come. 
+
+To my office force, whether as now constituted, or at any other 
+period of my incumbency, I owe much, and I hereby extend my 
+expression of warmest appreciation of all their many kindnesses 
+since their adoption into my official family. No father could ask 
+
+of his own children greater respect and consideration than I 
+have received from them, and no employer should ask of his 
+employees better service than they have rendered the state, 
+and whatever credit may be found due to my administration I 
+am willing to have credited to them a liberal share. 
+
+I am especially indebted to Mr. E. W. Nelson and Mr. D. D. 
+Lynch for their faithful and laborious services as deputies. Mr. </seg>
+
+
+            <seg id="p026">26 
+
+LAND COMMISSIONER'S REPORT. 
+
+Nelson, having served all of my first and about half of my second 
+term, was promoted to the supreme court department, and I 
+promoted Mr. Lynch from book-keeper to deputy, who has more 
+than fulfilled my highest expectations. The future footsteps 
+of all who have been associated with me in my office will, as 
+far as possible, be watched by me, and I shall rejoice at every 
+upward step they may be able to take. 
+
+To yourself as Governor, and to all the state officers, heads of 
+institutions, and employees. I gratefully acknowledge my indebtedness 
+for many kind words and acts. I am fully satisfied with 
+my own work and submit it to a candid constituency for their 
+commendation or condemnation. </seg>
+
+
+            <seg id="p027">27 
+
+BOARD OF PUBLIC LANDS AND BUILDINGS. 
+
+Table No. 3. 
+
+'omparative cost of maintaining the various state institutions, compiled 
+
+t 
+
+from sworn report* 
+
+Expended from Appropriations support Derived 
+
+\m'cr FBOM UsE AND 
+Period '""•»""• Extraordinary Sale of Farm 
+Number Current Eirx&gt;nses. Products. Labo 
+
+Current Expenses, Products, Labor, 
+Expenditures for i mp roVement», btc. 
+Maintenance etc 
+
+Name 
+
+NSTITUTI' 
+
+« - « « &lt; 
+
+Year Ending' It 1 3 £ 6 2 O Total Sum 
+c a 6 •¦ - "¦ " *¦ 
+
+« 
+
+c 
+
+= 
+
+H 
+
+n curable Dec. 31, 1892 i... 1931 $270 03 $52116 wl I 
+Insane Asy- j Dec 31, 1898 4 61 368' 193 061 70666 06 , $8 21 $310*89 
+
+rat 
+
+lum, Hast- IDec. 3l| 18M| 4|6o! 429 148 33 63560 86 '.'.'.'..'. \. '.'..'...'.. .\ 4 34 1867 83 
+
+06699 27 $2 82^ $1306 76! 5 62 2633 32 
+
+Nel 
+
+Dec 
+
+31 
+
+1K96 
+
+4 63 
+
+489! 140 77 
+
+i^rr\^. ai, ioou tw iwi iiu it uuucro &amp;i tPi cm fliiww iu u v/-: ww im&gt; 
+Not. 30, 1896 466' 6341 101 21 54040 12 1 46 782 43 4 90 2817 90 
+
+Not. 30, 1897 4 65 540 114 91 62080 46 1 37 739 94 1 6 41 3473 22 
+
+Not 
+
+at, 
+
+am 
+
+4 87 
+
+558J 117 84 
+
+65626 39 13 04 8642 49| 8 48 473J II 
+
+Not 30, 18* 5 69 636, 11166 70829 37 14 70 9394 96 6 74 428186 
+
+Not. 
+
+30. 
+
+1900 
+
+o'l- 
+
+6,&gt;5 117 36 
+
+80318 21 14 67 9899 41 13 59 (a) 9315 SO 
+
+Nebraska Dec. 31, 1892 ..:..: 336 22972! 7696531 
+
+a 
+
+Hospital 
+
+Dec. 
+
+:J1 
+
+l-'tl 
+
+555 
+
+320 190 02 
+
+60669 91 18 54 6193 60 26 39 8383 Z! 
+
+nsane, Dec. 31, 1394 5 56 838 175 56 59324 10 1 18 26 6182 40 
+
+Dpi 
+
+II 
+
+1896 
+
+6 68 
+
+350 175 21 
+
+61329 45 14 70 6086 72! 12 66 4423 21 
+
+Not. 30, 1896 5 58 351 147 28 61686 79! 4 61 1616 5110 66 3733 90 
+
+Not. 30, 1897 5 80 861 165 99 69860 93 9 63 3470 09 19 00 6852 46 
+
+Not 
+
+30 
+
+I KM* 
+
+5 fiO 
+
+360 157 96 
+
+56874 57 6 00 2175 52 20 52 7396 26 
+
+Not. 3", 1899 5 56 362 16U 68; 56454 101 19 83 7112 88 25 63 8965 47 
+
+Not. 30, 1900 5 53 375! 150 13 56208 84 3 74 (b)1391 97; 31 53 (c) 11837 28 
+
+i 
+
+Dec. 
+
+3! 
+
+18H2 
+
+204 270 35 
+
+¦"5153 29 
+
+sane, Dec. 31, 1893 4 36 181 246 32 44133 77 10 86 2068 58 
+
+Norfolk, Dec. 31, I8»4 4 39 198! 219 31 43315 85 34 19 6788 44 
+
+Neb. Dec. 31, 1896 4 41 204 208 06 42344 61 4 96 1008 31 « 26 1260 58 
+
+Not. 
+
+SO 
+
+l--!*; 
+
+lj» 
+
+176 184 70 
+
+32316 02 3 43! 582 59 21 41 3844 93 
+
+40194 33 5 81 1221 92 25 99 6407 58 
+
+Not. 
+
+30, 
+
+1897 
+
+IV 
+
+2081 194 06 
+
+Not 
+
+to, 
+
+1S98 
+
+4 37 
+
+219 188 90 
+
+41340 03 25 04 5554 70 24 13 5286 78 
+
+Not. 
+
+30 
+
+1 45 
+
+270 170 79 
+
+46115 13 3 11 839 29 21 65 5820 17 
+
+1-99 
+
+Nov 
+
+3l), 
+
+190U 
+
+4 45 
+
+270! 172 67 
+
+46596 51 19 49 50 20 42 5684 58 
+
+Jldiers' and Dec. 81, 1892 .. .. 81 339 91 2736S 33 ! 
+
+3 rs&gt; Dec 31, 1893 4 12 101 829 47 32917 74 25 03 26*8 50 
+
+Sa 
+
+Home.Gr'd Dec. 31. 1894 4 15 141 204 71 28843 39 | 19 35 2736 03 
+
+Island, Neb. 
+
+Dec. 
+
+31 
+
+18K 
+
+4 14 
+
+1M5I 168 16 
+
+32534 80 1 70 82 14729 66 28 82 5680 74 
+
+NOT. 30, 1896 4 141 203 140 86 28496 28 16 67i 3363 44 21 41 4334 68 
+
+Not. 
+
+30. 
+
+1MI7 
+
+4 15 
+
+199 176 88 
+
+34940 03! 1 82 368 13 27 06 Ml U 
+
+Not. 30, 1698 4 14 206 172 34 35269 18 3 39 684 36 33 03 6767 34 
+
+Not 
+
+W 
+
+1898 
+
+4 15 
+
+231 194 79 
+
+4o040 IS! 24 75 5817 36 28 5* 6578 80 
+
+Not 
+
+,30 
+
+r.&lt;oo 
+
+411 
+
+261 168 83 
+
+(d 
+
+44013 30 28 33, 7736 37 28 77 1 (e),(f)7828 07 
+
+Soldiers' and Dec. 31, 1896 4 9i 121 909 32 11388 11 20 58 (a) 267 32 
+
+Sailors' Not. 30, 1896 4 4 40 164 35 6928 20 16 30; 610 82 
+
+Home, Mil- Not. 30, 1897 4 5 54 178 93' 968136' ! 2 02i 110 66 
+
+ford, Neb. Not. 30, 1898 4 5 50 177 84; 8871341 i 7 80 384 41 
+
+Not. 30, 1899 3 1 47 208 31 1 9800 25 348 72: 213*9 14 6 56 303 44 
+
+Not. 30, 1900 4 3 56 199 40, (h 
+
+11178 331 33 00J 1880 83 10 07 (1) 584 16 </seg>
+
+            <seg id="p028">
+28 
+
+LAND COMMISSIONER'S REPORT. 
+
+Table No. 3 — Continued. 
+
+Comparative cod of maintaining the various state institutions, compiled 
+
+from sworn report, 
+
+Expended from Appropriations ! support Derived 
+
+AVER'QE I FROM USB AND 
+Period „ ,-, t Extraordinary ! Sale of Farm 
+Number c "!™ nt , i Expenses, Products, Labor, 
+
+Expenditures for improvements 
+Maintenance v etc 
+
+KTC 
+
+NAKE OF B1MHUJ 
+INSTITUTION j — j 
+I f 
+Year Ending; t £ ~ 5 
+
+onanue etc | 
+*. * *&gt; a 
+s - s 5 
+5 S" 8 &amp; 
+_ O _ y Total Sum 
+5 u 3 u 
+£ &amp; e s. 
+
+1 !- -!— ;- 
+
+i 
+Institute for Dec 31, 1S92 ..I.. 72 $281 19 
+the Blind, Dec. 31, 1893, 2 25 ti 361 27 
+Nebraska Dec. 31, 1891 2 26 73 358 43 
+City, Neb. Dec. 31, 1896 2 26 t» 332 19 
+Nov. 30, 1896 3 28 99 279 00 
+Nov. 30, 1897 3 27 76 282 38 
+Nov. 30, 1888 j 3 29 83 26167 
+Nov. 30, 189B ! 3 30 72 611 66 
+Nov. 30. 1900 3 30 62 328 44 
+
+$20244 21 1 : 
+2428« 91 $31 05, $2173 35 
+29435 78 50 00 3500 00 
+22798 30 257 88 15988 70 
+18686 32 3 07 308 80 $7 40 $512 78 
+21438 31 23 60 2144 78! 6 16 468 56 
+21272 78 14 88 1258 21 9 81 Hll 86 
+22322 05 33 82' 2489 03 8 82 627 in 
+20333 83 77 52. 6183 26 9 22 (j), (k) 593 94 
+
+I ill i i_ 
+Institute for Dec. 31, 1892 .. .. 133 245 SI 
+the Deaf Dec 31, 18981 3 29 140 183 13 
+and Dumb, Dec. 31, 1894 3 29 142 20u 20 
+Omaha, Dec. 31, 1896 3 26 150 196 19 
+Neb. Nov. 30, 1896 3 28 154 175 49 
+Nov. *., 1897 3 28 149 181 77 
+Nov. 30. 1898 3 33 148' 185 05 
+Nov. 3G, 1899 4 37 168 209 98 
+NOV. 30, 1900 : 4 34 ¦ 153 203 06 
+
+I I I 
+32«50 46 ' ' 
+25605 88 8 33 1170 27 
+29421 67 98 133 57 
+29279 18 91 88 13782 60 5 19 778 96 
+27072 19 10 16 50 99 153 84 
+27318 18 75 • 119 18 
+27168 29 4 86 739 26 1 64 250 00 
+33407 85 186 561 29606 88 1 28 203 20 
+31896 92 66 47 (li 10381 05 5 08 (m) 803 83 
+
+I i | 
+I i 
+
+I 
+
+.Nebraska Dec. 31, 1392 .... 143 2S 14 
+Institute IDec 31, 1893 3 31 157 200 97 
+for Feeble Dec. 31, 1894 3 28 175 174 81 
+Minded Dec. 31, 1896 3 27 201 169 23 
+Youth, Nov. 30, 1896 3 30 208 ISO 55 
+Beatrice, Nov. 30, 1897 327 218 144 50 
+Neb. I Nov. 30, 1898 3 26 214 158 97 
+Nov. 30. 1899 3 27 270 175 39 
+Nov. 30, 1900 
+
+31684 86 59 00 8809 0* 
+31398 74 62 09 7970 99 9 38 1500 00 
+3043177 16 30 2875 44 
+34007 43 I 10 93 2193 17 
+37460 78 13 03 2724 81 8 36 1728 30 
+3142104 ' 4 88 1070 54 
+34017 28 5 31i 1146 60 5 17, 1108 55 
+38507 07 101 98 j 22556 02 
+,&lt; n) 
+
+i II. 
+: I I i i i 
+
+[ | 
+
+Home for the Dec. 31, 1892 . .. 116 211 111 
+Friendless, Dec. 31, 1893 1 3119 124; 186 14 
+Lincoln, Dec. 31, 1894 3 19 186 100 35 
+Neb. Dec. 31, 1896 4 19 166 112 03, 
+Nov. 30, 1896 1 3 10 143 88 14 
+;Nov. 30, 1897 3 19i 73; 159 93 
+Nov. 30, 1898 . . . . 60! 160 74 
+NOV. 30, 1899 3 16 67 119 71 
+Nov. 30, 1900 3 t» 70 195 67 
+
+24386 44 
+22S32 64 7 87 1000 00 
+16612 67 
+17463 07 2 88 435 13 12 89 2013 36 
+12856 58 14 81 1799 39 
+11577 36 
+8037 71 
+7116 43 82 59 2119 27 7 43 467 51 
+13654 64 38 30 2765 88 11 98 (o) 831 85 
+
+i mi i i_ 
+&gt; i i i i i 
+
+Nebraska Dec. 31, 1892 .... 66 129 09' 
+Industrial Dec. 31, 1893 3 5 64, 197 73 
+Home, Mil- Dec. 31, 1894 ' 3 6 78 171 91 
+ford, Neb. Dec 31, 1896, 4 6 85 166 99 
+Nov. 30, 1896 4 6 54 174 40 
+Nov. 30, 1897 4 5 70 155 82 
+Nov 30, 1898 3 4 66 150 69 
+Nov. 30, 1899 3 4 68 163 88 
+Nov. 30, 1900 2 4 54 172 31 
+
+8482 67 ' ] 
+12880 66 12 90 821 40 
+13313 02 34 74 2918 30 4 99 3i»l 64 
+14021 23 12 72 1068 70, 5 78 488 72 
+9350 61 5 17 1 279 17 1 5 66 298 66 
+10841 79 1 481 7*1 45 22 64 1511 63 
+8964 68 1 46 79 49 38 43 2102 34 
+&lt;.&lt;305 36 1 89 113 60 19 00 1089 13 
+9208 54 8 301 421 33 21 67 (p) 1150 53 
+
+. i i i i i_ 
+
+I , </seg>
+
+
+            <seg id="p029">29 
+
+BOARD OF PUBLIC LANDS AND BUILDINGS. 
+
+Table No. 3— Concluded. 
+
+Comparative cost of maintaining the various state institutions, compiled 
+
+e cost of maintaining the various state institutions, compiled 
+from sworn reports. 
+Expended from Appropriations support Derived 
+AVER'GE FROM USE AND 
+Period vm.o.= r*, t i Extraordinary Sal« of Farm 
+Number Current Expenses, Products, Laboe, 
+K 3S£2S t e? r ! **Vt™mmU. 
+1 4 « 3 « JT 
+
+from sworn reports. 
+
+Expended from Appropriations support Derived 
+
+— from Use and 
+
+AVER'GE 
+
+Period v -.™.nm&gt; r. * i Extraordinary ! Sal* of Farm 
+Number Current Expenses, Products, Labor, 
+
+Name 
+
+Institution 
+
+3 
+
+Year Ending g ;~ H 5 5 H (3 Total Sam 
+iO : E E © o © o © 
+[OlH S £ H ; 0. S £ 
+
+= 
+
+Year Endi: 
+
+Tout Sum 
+
+a 
+
+
+Dec. 31, 1802.. .. 222 3226 87 350391 96 $10 43 $2338 32 
+
+31, 1892 .. .. 222 $226 67 
+
+360391 96 810 43 $2336 32 
+
+Dec 31, 1893 524 211 204 91 40128 76 $13 48 -&lt;27'«&gt; («&gt; 
+
+al School Dec 31, 1893 5 24 211 204 91 
+r Juve- Dec. 31, 1894 5 23 220 213 32 
+
+40128 76 , $13 48 MM ¦ 
+
+Dec. 31, 1894 5 23! 220 213 32 48302 47' i i 7 12 1644 60 
+
+48892 47 i i 7 12 1564 5» 
+
+)(Tend- Dec. 31, 1896 6 24! 228 206 59; 
+Kear- Nov. 30, 1896 5 271 227 187 35 
+
+Dec. 31, 1895 5 24! 228 206 59 47063 92 46 75 10563 32 5 76 1306 54 
+
+47053 92 48 75 10563 32 5 76 1306 54 
+
+Not. 30, 1SH6 5 27 227 187 35 42493 65 4 46; 1043 58 16 33 3682 48 
+
+Nov. 30, 1897 7 27 180 220 30; 38S2S 30 18 11, 2807 25 20 64 3730 45 
+
+Nov. 30, 1898 9 26 150 239 97 35872 42 30 03 1 4499 05 36 12 5398 64 
+
+Nov. 30, 1899 10 181 144 276 26 39688 31 29 29 t030 84 31 94 4814 04 
+
+Nov. 30, 1900 7 18 128J 323 171 4114115, I 16 34 (q),(r)2343 07 
+
+Dec. 31, 1892 
+
+Jl, 1 
+
+Dec. 31, 1893 5 7 77 213 63' 16334 80 102 08 7758 15 106 80 74 
+
+31, 1893 5 7 77 213 63 
+
+16334 80 102 08 7758 15 1 06 80 74 
+
+Dec 31, 1894 6 6 76 210 43 15888 35 24 77 1867 60 
+
+31, 1894 8 5 76 210 43 
+
+15888 36 24 77 1867 60 
+
+Dec. 31, 1895 8 6 78 237 56 18378 04 18 33 1394 38 10 06 787 38 
+
+Dec. 31, 1895 8 6 78 237 56 
+
+18378 04 18 33 1394 38 10 08| 767 36 
+
+Nov. 30, 1896 5 8 83 224 60 18403 66658 50000550 46604 
+
+Nov. 30. 1896 5 8 83| 224 60 
+
+18403 68658 500 001 5 50 46894 
+
+NOV. 30, 18W5 5 8 83| 224 60 
+Nov. 30, 1897 5 8 751 219 79 
+
+Nov. 30, 1897 5 8 751 219 79 16452 881 1 8 05 625 50 
+
+Nov. 30, 1898 5 8 74 212 72 15838 451 5 03 377 05 10 92 794 15 
+
+Nov. 30, 1899 5 8 69 225 92 15734 62 2 65 175 00 9 19 615 51 
+
+Nov. 30, 1900 5 8 65 231 65 15072 37 17 10(8) 1096 37 
+
+Dec. 31, 1892 ' ! 
+
+Dec. 31, 1863 .... 327 149 46 48873 06 4152 1358180 
+
+Dee. 31, 1894 .... 322 149 47 48135 63 14 96 4738 81 
+
+Dee. 31, 1895 2 26 325 129 46 42305 85 ' 12 58 3861 38 
+
+Nov. 30, 1896 2 28 303: 103 10; 31196 17 3 90 1170 12 45 62 13814 45 
+
+Nov. 30, 1897 2 30 319 72 51 23009 99 8 891 2845 47 70 91 22716 35 
+
+Nov. 3", 1898 ; 2 31 318 24 08 7160 90 4 14 1318 20 104 76 33477 20 
+
+Nov. 30, 1899 2 31 285 82 3S 23364 51 6 47 1821 05 77 05 22002 7U 
+
+Nov. 30, 1899 2 31 285 82 38 
+
+23384 51 6 47 1821 05 77 05 23002 70 
+
+Nov 30, 1900 2 32 277 115 13 (t) 31934 04 3 60 982 70 83 04 n ','1)22081 OS 
+
+115 13 
+
+31934 04 3 60 982 70 83 04 n ,v 122931 69 
+
+S3 farm cash on hand, 
+
+3 farm cash on ha: 
+
+lot include new hospital. 
+
+m cash on ha 
+
+his sum remains unpa 
+
+423.50, value of farm products on han 
+
+267.65 farm cash on ha 
+
+December 31, 18S 
+
+6, being occupied by inmates trom October 
+
+1 
+
+$1,486.03 of this sum remains unpaid 
+
+$90.73 farm and pension cash on hand. 
+
+$391 91 farm cash on hand 
+
+*4.'i.4O unadjusted claims not included. 
+
+S2.151.49 unadjusted claims not included. 
+
+3340.69 cash on hand. 
+No report on file. 
+S3O1.48 cash on hand. 
+$401.12 cash on hand. 
+
+p) $401.12 cash on hand. 
+q) $2,505.65 unadjusted claims not included 
+
+r) $336.32 cash on hand. 
+s) $68.10 cash on hand. 
+
+t) $17,887.87 unpaid bills included. 
+
+u) $12,123.50 due from contractors. 
+
+(T) $585.46 farm cash on hand. </seg>
+
+         </p>
+		    </body>
+	  </text>
+</TEI.2>

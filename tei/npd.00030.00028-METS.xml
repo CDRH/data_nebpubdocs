@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00030.00028">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the
+                            Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno>00030.00028</idno>
+            <availability>
+               <p> </p>
+            </availability>
+            <date>2007</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>THE UNIVERSITY OF NEBRASKA AGRICULTURAL EXPERIMENT STATION LINCOLN, NEBRASKA, U. S. A.  POTATO POINTERS</title>
+               <date value="1913">1913</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+	        <change>
+	           <date>2007-09-13</date>
+	           <respStmt>
+	              <name>Katherine M. Heupel</name>
+	           </respStmt>
+	           <item>Enrichment</item>
+	        </change>
+         <change>
+            <date>2006-11-28-05:00</date>
+            <respStmt>
+               <name>OCLC Online Computer Library Center Inc.</name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <seg id="p001">Agricultural Experiment Station PRESS BULLETIN NO. 40 POTATO POINTERS B\ K. M. W'lLrox DEPARTMENT OF AGRICULTURAL BOTANY AN1&gt; i: A. Emerson DEPARTMENT OF HORTICULTURE i! I he stem rot fungus </seg>
+            <seg id="p002">Of [M the in tl INCREASED YIELDS G&lt; &gt;&lt; H • HOMEGROWN SEED NOT SATISFACTORY Mf1©« NORTHERN GROWN SEED PA 111 _ &amp;*!*** Tub* i&gt; </seg>
+            <seg id="p003">HED SEED POTATOES raw prod unit can be produced of ordinary home- TH. WELL-SHAPED SEED TUBERS it smooth, firm. ..• Kxperiment Sta- norc than elongated, knotty ubers produce 'I Mibf-rs That have been POTATO BREEDING thai produce large ■■ it-Ids of nun produced in a DRY ROT • r thru wounds grei - ■ • ■ ■:• ■ - Horace table in main rotted tubers ire placed </seg>
+            <seg id="p004">paru ol fields during l:«; . right by this disease i henoe it it necessar </seg>
+         </p>
+      </body>
+   </text>
+</TEI.2>

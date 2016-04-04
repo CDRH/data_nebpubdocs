@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00049.00005">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the
+                            Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno>00049.00005</idno>
+            <availability>
+               <p> </p>
+            </availability>
+            <date>2007</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Thirty-Fourth Annual Report of the Agricultural Experiment Station of Nebraska</title>
+               <date value="1921-02-01">1921-02-01</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11-20</date>
+            <respStmt>
+               <name>Paul Fajman</name>
+            </respStmt>
+            <item>Enrichment</item>
+         </change>
+         <change>
+            <date>2006-11-28-05:00</date>
+            <respStmt>
+               <name>OCLC Online Computer Library Center Inc.</name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   
+   <text> 
+      <body>
+
+         <p>
+
+
+            <seg id="p001">THE UNIVERSITY OF NEBRASKA
+THIRTY-FOURTH ANNUAL REPORT
+OF THE
+Agricultural Experiment Station
+OF
+NEBRASKA
+Presented to the Governor February 1, 1921
+LINCOLN, NEBRASKA
+U. S. A.
+</seg>
+
+            <seg id="p002"/>
+
+            <seg id="p003">AGRICULTURAL EXPERIMENT STATION OF NEBRASKA.
+THE GOVERNING BOARD		
+(THE REGENTS OF THE UNIVERSITY) 		
+HON. PHILIP 1.. HALL, President, Lincoln	Term	expires 	January, 1923 
+HON. HARRY D. LANDIS, fire President, Seward	Term	expires 	January, 1923 
+HON. FRANK W. JUDSON, Omaha	Term	expires 	January, 1925 
+HON. JOHN R. WEBSTER, Omaha	Term	expires 	January, 1925 
+HON. WILLIAM L. BATES, Lodgepole	Term	expires 	January, 1927 
+HON. GEORGE L. SEYMOUR, Elgin	Term	expires	January, 1927
+SAMUEL AVERY, PH. D., LL. D., Chancellor J. S. DALES, M. PH., Financial Secretary
+THE STATION OFFICERS
+E. A. BURNETT, D. Sc., Director
+W. W. BURR, B. Sc., Assistant Director
+W. H. BROK ASV, Director of Extension Service C. A. Lewis, B. Sc., Bulletin Editor
+W. W. MARSHALL, Executive Clerk
+THE WORKING STAFF ARTHUR ANDERSON, B. Sc., Assistant in Agronomy
+E. M. BROUSE, R. Sc., Superintendent Experimented Substation, Valentine LAWRENCE BRUNER, B. Sc., Entomology
+W. W. BURR, B. Sc., Agronomy (Chairman)
+J. W. Calvin, B. Sc., Associate in Agricultural Chemistry
+R W. Dawson, B. Sc., Assistant in Entomology
+Eli DUNCOMBE, B. Sc., Analyst
+H. C. Filley, A. M., Rural Economics (Chairman) FRAND EN, M. S. A , Dairy Husbandry ( Chairman)
+R. W. Coss, M. S., Assistant in Plant Pathology and Physiology H. J. GRAMLICH, B. Sc., .Animal Husbandry (Chairman)
+J. W. HENDRICKSON, A. M., Assistant in Dairy Husbandry
+J. A. HOLDEN, B. Sc., Superintendent Experimental Substation, Mitchell R. F. HOWARD, A. M., Horticulture (Chairman)
+F. D. KEIM, M. S., Assistant in Agronomy
+T. A. KIESSELBACH, PH. D., Agronomy
+W. J. LOEFFEL., B. Sc., Assistant in Animal Husbandry
+G. A. LOVELAND, A. M., LL. B., Meteorology
+JOHN LUITHLY, B. Sc., Assistant in Dairy Husbandry W. E. LYNESS, B. Sc. IN AGR., .Assistant in Agronomy
+H. M. MARTIN, V. M. D., Assistant in Animal Pathology and Hygiene
+F. E. MUSSEHL, B. Sc., Poultry Husbandry
+F. R. NOHAVEC, B. Sc. IN A. E., Assistant in Agricultural Engineering
+G. L. PETTIER. PH. D., Plant Pathology and Physiology
+I. 0. RANKIN, A. M., Assistant in Rural Economics
+J. C. RUSSELL, M. S., Assistant in .Agronomy
+O W. SJOGREN, B. Sc. IN A. E., Agricultural Engineering (Chairman)
+L. V. SKIDMORE, B. Sc. in Agr., D. V. M., Assistant in Animal Pathology and
+Hygiene
+W. P. SNYDER, M. S., Superintendent Experimental Substation, North Platte
+M. H. SWENK, M. S., Entomology (Chairman)
+F. W. Upson, Pit. D., Chemistry (Chairman)
+L. VAN Es, M. D., V. S., Animal Pathology and hygiene (Chairman)
+H. O. WERNER, B. Sc.. Assistant in Horticulture
+C. C. Wiggans, PH. D., Assistant in Horticulture ***L. L. ZOOK, B. Sc., Agronomist, North Platte
+*	By an act of the Legislature of the State of Nebraska. approved and in effect February 15. 1899. the State Treasurer bee me cx officio custodian of the Experiment Station fund on and after July 1. 1899.
+*	Resigned
+</seg>
+
+            <seg id="p004">LETTER OF TRANSMITTAL
+THE UNIVERSITY OF NEBRASKA
+AGRICULTURAL EXPERIMENT STATION
+To His Excellency, S. R. McKelvie, Governor of Nebraska:
+SIR: In accordance with the act of Congress approved March 2, 1887, and the act of the General Assembly of the State of Nebraska approved March 31, 1887, establishing and regulating experiment stations, I have the honor herewith tc submit the Thirty-fourth Annual Report of the Agricultural Experiment Station of Nebraska.
+E. A. BURNETT, February 1, 1921.	Director.
+GOVERNOR'S CERTIFICATE
+STATE OF NEBRASKA, EXECUTIVE DEPARTMENT Lincoln, February 1, 1921.
+Mr. E. A. Burnett, Director Nebraska Agricultural Experiment Station:
+SIR : I hereby acknowledge receipt of the Thirty-fourth Annual Report of the Agricultural Experiment Station of Nebraska.
+SAMUEL R. MCKELVIE.
+Governor.
+</seg>
+
+            <seg id="p005">CONTENTS
+Page
+The Official Roster of the Station	 3
+Letter of Transmittal	 4
+Governor's Certificate	 4
+Contents 	 5 Director's review
+Sources of funds	 7 Experimental work—
+Serum Production	 7
+Land for Live Stock Needed	11
+The Agronomy Farm	12
+Union Fruit Farm	12 Technical Projects Under Investigation
+Corn Breeding Experiments	12
+Water Requirements of Crops	13
+Competition in Cereals	14
+Food Requirements of Growing Cattle	14
+Winterkilling Investigations 	14
+The Life-History of Several Common Cutworms	15
+A Study of Degeneracy in Potatoes	15
+Protein Requirements for Growing Cattle	16
+Necrobacillosis of I oung Pigs	16 A Study of the Pathogenicity as well as the Antigenic and Biologic Properties of the Organism Belonging to
+the Hemorrhagic Septicemia Group	16
+Nutrient Requirements of Growing Chickens	17 A Study of the Fat Soluble "A" Content of Feeds Fed
+to Hogs as Supplements for Corn	18 Environmental Conditions Influencing the Development
+of Stem Rust in the Absence of an Alternate Host
+(Barberry) 	18
+Fusarium Wilt and Tuber Rot of the Irish Potato	18
+Studies of Small Grains	18
+Crop Rotation and Fertilizer Experiments	19
+Rodent Investigations	19
+Injurious Insects, Mammals, and Birds	20
+Pruning Apples, Pears, and Small Fruits	20
+Fruit Breeding	20
+The Soiling System under Nebraska Conditions	21 The Efficiency of Hand Separators and Variation in
+Cream Tests	22
+Fattening Cattle	22
+Pump Irrigation	23
+Roughage as a Feed for Dairy Cows	23
+Rations for Fattening Lambs	23
+Forage Crop Investigations	24
+Tractor Testing	24
+Rations for Fattening Hogs	25
+Potato Selection for Seed Purposes	25
+Inheritance in Egg Production.	26
+Palatability of Poultry Feeds	26
+Cost of Milk Production in Nebraska		27 Cost of Fattening Cattle and the Relation of the Enter-
+prise to the Farm Business	27
+Farm Tenancy	27
+</seg>
+
+            <seg id="p006">Director's review
+Egg Production	27
+Testing of Farm Implements	28
+Plow Draft Investigations	28
+The Self-Feeder for Dairy Calves	28 The North Platte Substation
+Crops 	29
+Irrigation, Beef Cattle, Hogs, Dairy, Poultry	30
+Improvements 	31 The Valentine Substation
+Forage Crops	31
+Variety Tests 	31 Grasses, Legumes, Corn, Beans, Potatoes, Sunflowers,
+Pasture and annual pasture crops, Rye	32
+Crops to Supplement Rye in Summer	33 The Scottsbluff Substation
+Crop Rotations under Irrigation, Sugar Beets, Potatoes, Corn, Small Grain, Cultural Test of Sugar Beets, Pasture, Range Pasture, Dairy Herd, Steer Feeding Ex-
+periments 	35
+Lamb Feeding Experiments	36
+Investigation Needed 	36
+New Buildings 	37
+Changes in Station Staff 	37
+Publications 	38
+Acknowledgments 	38
+Annual Report of the Agricultural Extension Service	 	39
+Legislation 	39
+Relationship with Farm Bureau	39
+Agricultural Agent Work	39
+Home Demonstration Work	41
+Boys and Girls Work	42 Report of the Extension Specialists
+Agricultural Engineering	42
+Agronomy 	43
+Animal Husbandry		43
+Clothing 	43
+Dairy Husbandry	44
+Entomology and Rodents	44
+Farm Management	45
+Food and Nutrition	46
+Horticulture 	46
+Home Health and Hygiene	48
+Marketing 	48
+Poultry Husbandry	49
+Fairs 	 	49
+Financial Statement	50
+</seg>
+
+            <seg id="p007">THIRTY-FOURTH ANNUAL REPORT
+The work of the Nebraska Agricultural Experiment Station for the current year has been as follows:
+The funds of the Station are obtained from three sources, namely : The Hatch and Adams appropriations are received from the Federal Government in amounts shown by the Financial Statement of this Report. In addition, certain funds appropriated for general University maintenance, set aside by the Regents for agricultural departments, are used for experimental work.
+The last Legislature made an appropriation of $40,000 for experimental work for the biennium ending March 31, 1921. It also appropriated $10,000 for investigation in Animal Pathology ; $10,000 for the State Entomologist, who is the Entomologist of the Experiment Station; $3,000 for the State Botanist, who is the Botanist of the Experiment Station in charge of Plant Pathology investigation. The expenditures for the Substations covering the current year closing June 30, 1920, were as follows: North Platte, $63,710.81; Scottsbluff, $9,161.46; Valentine, $10,913.25.
+EXPERIMENTAL WORK
+Serum Production.—The last Legislature authorized the expenditure of $40,000 for the improvement of the State serum plant, in order that it might manufacture serum and virus at a minimum cost. This appropriation was to come from current University funds, and not from special appropriation. The excessive cost of building improvements and the critical condition of the University finances caused the Regents to defer these improvements and to continue the operation of the plant with its present equipment until August, 1919, when production ceased.
+The total amount of serum on hand at that time exceeded 4,500,000 c. c. The imperative demand upon the Regents for opening the serum plant in the fall of 1918 was not followed by a period of active buying on the part of farmers, who in the summer of 1919 were purchasing serum from private sources on account of lower quotations from private companies.
+The excessive cost of material and labor at the time the serum plant opened forced the cost of production up to one and one-half cents per c. c. during the early period of operation,
+</seg>
+
+            <seg id="p008">8	NEBRASKA AGRICULTURAL EXPERIMENT STATION
+with a net cost of approximately one and one-quarter cents per c. c. covering the entire period of operation.
+The State Farm Bureau Federation, which had been especially interested in opening the plant, had signed contracts with a private company to purchase serum at 1.17 cents per c. c. The demand for serum during the year 1919 was below the normal, on account of the heavy decline in the market price of hogs and the limited number of outbreaks in the State.
+In September, 1919, the price of serum to farmers was reduced to 11/4 cents per c. c., but even this did not move any large volume of serum.
+In March, 1920, the serum plant had on hand about 4,000,000 c. c. of serum, which was not considered a sufficient reserve for outbreaks in addition to the amount which we could normally expect to sell during the season.
+Authorization was secured from the Regents and negotiations were entered into with private companies to purchase serum which might be retested and sold. Orders were issued for about 4,000,000 c. c. of serum, all of which was subject to retest before payment. About 3,000,000 c. c. was actually purchased and paid for, when a temporary injunction was secured against the purchase of serum or the manufacture, sale, or distribution of such serum by the University. A hearing upon this injunction occurred in July, 1920. The court held that the act of the Legislature creating a State serum plant and authorizing the manufacture of serum and virus in such plant, making appropriations therefor, was valid and furnished legal authority for the operation of a serum plant. The injunction in this case was denied.
+The court further held that the purchase and sale of serum without Legislative authority was unwarranted under the statutes of the State, and such operations were ordered discontinued, the injunction being made permanent.
+The court further instructed the Regents, in order to save the State against financial loss, to sell the serum already purchased.
+The plaintiff and intervenor in the suit filed an application for rehearing before the Supreme Court of the State of Nebraska, where the cause now lies, not having yet been reached on the calendar.
+The decree of the District Court is as follows :
+</seg>
+
+            <seg id="p009">THIRTY-FOURTH ANNUAL REPORT	9
+In the District Court of the Third Judicial District of Nebraska, held within and for Lancaster County, Nebraska.
+ROY E. FISHER, Plaintiff,
+vs.
+THE BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA, Defendant.
+DECREE
+This cause, having been heretofore heard and submitted, and having been taken under advisement by the court, as shown by the record, now comes on for determination and decree. And the court, being fully advised in the premises, finds that the act of the legislature of Nebraska providing for the establishment and operation of a state serum plant under the administration and management of the board of regents of the State university, was within the power of the legislature to pass, and was and is constitutional and valid. And in this respect the court finds against the plaintiff and the intervenor, finds that the subsequent acts and appropriations passed and made by the legislature for and in connection with said state serum plant were by authority of law and were and are valid, and finds that said plant has been duly constructed and put into operation by the defendant at the university farm, and is entitled to continue to produce and distribute serum and virus under the direction of the legislature and according to said acts.
+The court further finds as follows: that the provision of the legislative act devolving the building and operation of the plant in question upon the defendant was not unlawful as imposing upon the university a duty that is not educational in its nature; that the defendant did not in conducting the plant and selling its product extend credit to any one, except in a few cases where the same arose from the inadvertent and unauthorized act of a servant, or arose from unavoidable exigency; that the method of testing the serum was substantially according to formula and according to the rule established by the legislature, and that the serum produced under actual university supervision at the state plant has been well and lawfully produced and prepared.
+The court finds that the defendant, through and by its plant supervisors and managers, has been, and was at the time of the commencement of this action, buying serum from outside sources and private plants for the purpose of reselling the same and building up a reserve against possible need, as alleged in the petition, basing its action in the regard upon the fact that it could purchase serum of superior quality from these private plants at less than the cost of production of the same at the university, and upon the conclusion that it would accordingly be good business to buy instead of producing. The court finds in this connection, however, that the action of the defendant in so buying for re-sale and distribution was not contemplated by the legislature and was and is wholly outside and beyond the authority conferred upon it by the legislative act. The court finds that such buying and selling is fraught with dangers not incident to the production and distribution prescribed by the legislature, and not contemplated by that body in its various enactments and appropriations. The court finds that such purchases constitute a misapplication of the funds appropriated, and finds moreover that there are likely to arise, in connection with the state's plan to re-label and redistribute such purchased serum, misconceptions and misunderstandings which will prove vexatious to the plant and destructive to its useful function. And the court finds that the plaintiff and the intervenor are entitled to relief in this behalf, and that the de-
+</seg>
+
+
+            <seg id="p010">10	NEBRASKA AGRICULTURAL EXPERIMENT STATION
+fendant ought to be permanently enjoined from buying or paying for any more serum or from receiving any serum heretofore ordered but not delivered.
+The court finds that the state plant now has on hand, of its own manufacture and of that acquired by purchase, upwards of $80,000.00 worth of serum; that said serum is supposed to be good and that the same should not be wasted or allowed to deteriorate, but tested by the test prescribed by law (that adopted for the serum discovered by the biochemic division of the bureau of animal industry, Washington, D. C.), and thereupon, so far as found of standard purity and potency, sold by the defendant in due course or as the legislature may hereafter lawfully direct, in order that swine growers may have the benefit of the same according to the statutory provision, and in order that the state may be reimbursed so far as possible for its expenditure.
+And the court finds upon all other issues joined and contentions presented, so far as the same are material to the decision of this case, against the plaintiff and the intervenor and in favor of the defendant.
+It is therefore considered, adjudged and decreed by the court that the legislative act of 1911 creating the state serum plant and devolving its construction and operation upon the defendant, together with all subsequent acts and appropriations in connection with and for said plant, were by due authority of law, and that the said plant is a valid and subsisting agency of the state duly authorized to do business as by the legislature directed, and not otherwise; that the defendant be and hereby is permanently enjoined from buying for re-sale or distribution any more serumc or from paying for any heretofore bought, or from receiving any heretofore purchased but not yet delivered; that the defendant may now and hereafter proceed to sell any of the serum on hand upon testing it by the test prescribed by law and finding it of standard purity and potency, or upon such terms and in such manner as the legislature may hereafter prescribe. And it is further ordered that the defendant pay the costs of this action taxed at $	
+The parties severally and separately except, and are given forty days from and after the rising of the court to prepare and serve a bill of exceptions.
+Made and entered this 17th day of August, 1920.
+Judge District Court.
+The occasional operation of a state serum plant is costly and uneconomical. It might be possible, with the best and most up-to-date plant operating continuously and finding its market over a large area, to compete with private plants. It is not possible for the state plant, with its limited market, its antiquated plant, and the delays in business incident to a state institution, to compete with private modern plants, having a wider market, the advantages of cash discounts, and the incentive of private enterprise. When the state serum plant was built, the serum business was in its infancy. Methods were not standardized, federal supervision of private plants had not developed, and the whole enterprise was a measure to protect animal health. Since that time. methods have been standardized, federal supervision of serum plants has been instituted,
+</seg>
+
+            <seg id="p011">THIRTY-FOURTH ANNUAL REPORT	11
+the quality of serum has been standardized, and the only possible advantage which can accrue to the swine producer thru a state plant is the possibility of storing a larger supply of serum than would be warranted by any commercial institution. If the protection of animal health requires the storage of a considerable quantity of serum against outbreaks, the state can purchase and resell this serum in emergencies at a lower cost to the taxpayers than will be required in operating the state plant to produce the same quantity of serum and virus.
+We therefore recommend that the state serum business be taken over by the Secretary of Agriculture under its animal health service or that the Regents be given authority to purchase hog cholera serum and virus when necessary to maintain a proper reserve supply, with authority to sell such serum at cost plus the overhead charges as the public interest may require.
+Land for Live Stock Needed.—The work of the central Experiment Station is greatly hampered by the lack of sufficient land with which to carry on experimental feeding tests, pasturing the crop on the land in comparison with harvesting this crop and feeding it to animals by ordinary methods.
+During the last ten years, the number of animals required for instructional purposes in the College has greatly increased with the increase in the student body. During this same period the amount of land available for live stock has decreased thru the encroachment of the Farm campus on experimental lands and the assignment of most of this land to technical departments for special uses. At the present time only about 100 acres of land is available on the central farm for live stock purposes. On this area we are required to keep 100 head of breeding cattle of beef breeds, about 100 head of breeding cattle of dairy breeds, together with 200 head of breeding sheep and approximately 100 head of growing hogs. This makes a total of 500 head of animals kept mainly for breeding purposes on 100 acres of land. In addition to the breeding animals kept on this farm, animals are kept temporarily for experimental purposes. At the present time this includes 400 head of cattle, sheep and swine, now on experiments. These animals will be sold at the end of the feeding period, but during that period they produce great congestion. It is needless to say that such a limited area of land produces almost none of the feed required for the maintenance of these animals.
+The amount of live stock kept is not particularly greater and may be less than is kept by the majority of Agricultural
+</seg>
+
+            <seg id="p012">12  NEBRASKA AGRICULTURAL EXPERIMENT STATION Colleges having a similar student membership and requirements for experimental work.  A review of the land available in similar states for various agricultural purposes shows that each of the states mentioned below has approximately 1,000 acres of land in its central plant and frequently as much as 700 or 800 acres of land available for live stock purposes. A live stock farm is one of the pressing needs of the Agricultural College and the Experiment Station. If possible, a section of land should be secured within reasonable distance of the central farm, so that live stock could be moved from one farm to the other, as occasion required, and only animals kept for instructional purposes be maintained at the central farm. Neighboring states show the following areas used for agriculture in connection with the college and experiment station : State	Agronomy	An. Husb.	Dairy Horticulture Nebraska 	210	50	50	115 Kansas 	340	656	160	105 Minnesota 	225	114	42 &amp; Horticulture Missouri 	210	620	100	45 Indiana 	130	600	185	Iowa 	163	720	200 &amp; Poultry	93  The Agronomy Farm.&amp;#8212;Within the current year the experimental work at the Agronomy Farm has been developed. All of the experimental work in soil fertility will be developed on this farm, releasing the limited acreage at the central farm for other experimental work.  In order to consume economically the products of this farm, cattle feeding sheds were built and a silo erected, so that a portion of the cattle feeding experiments are carried at this farm. Union Fruit Farm.&amp;#8212;The orchard at Union, Nebr., set two years ago, contains a total of 2,519 trees, of which 1,720 are permanent and 799 are temporary trees used for fillers. This orchard is under tillage methods considered suitable for commercial purposes, and the balance of the land, about forty acres, is utilized in ordinary farm crops to assist in paying the cost of operation while the orchard is coming into bearing. A residence and a horse barn, costing about $6,000, have been built within the current year. The following technical projects are under investigation : Project No. 11. Corn Breeding Experiments. A study has been made of the various methods of corn breeding, none of which point clearly to the possibility of a
+</seg>
+
+            <seg id="p013">THIRTY-FOURTH ANNUAL REPORT	13
+material increase in the yield of corn where a well-adapted variety is already being grown. There appears to be no detrimental effect to the current crop where fertilization i made from the pollen of the same stalk. Detrimental effects may result in the progeny of this seed and rapid degeneration follows thereafter. Some strains of corn degenerate more rapidly than others.
+Project	Water Requirements of Crops.
+The object of this project is to determine the relationship of water transpired to plant characters and to environment. This project has been in force since 1908. Four hundred fifty potometers were used in the work of 1920. The investigations comprise studies concerning the use of water in relation to:
+(1) Kind of crop
+(2) Variety
+(3) Plant characters
+(4) Acclimatization
+(5) Soil fertility
+(6) Climate
+(7) Free water evaporation
+(8) Intake of soil solutes.
+A method study was conducted for securing information regarding the best manner of conducting pot fertilizer studies. The data obtained do not indicate any significant superiority of one variety of corn over another variety, based on economy in the use of water per unit of dry matter produced. In this respect it differed from conclusions drawn from work conducted during the early years of the experiment. Based on grain production only, varieties which produce a heavier percentage of grain and a lighter percentage of foliage might appear to have an advantage, but when based upon units of dry matter produced there is no evidence of special efficiency in alleged drouth resistant varieties. The studies indicate further that the regional adaptation of corn results in regional types which differ in total water used per plant rather than in water economy per unit dry matter. For example, corn grown for years in western Nebraska requires as much water per unit of dry matter produced as corn grown continuously in New York.
+The water requirement of corn is very close to that of sorghums ; that of small grains is higher than for corn, and of sunflowers is higher than small grains.
+Based upon unit of dry matter the density of the soil solu-
+tion affects the water requirements of plants. The water requirement decreases with an increase in strength of the soil solution, until the optimum density is reached. Above this
+</seg>
+
+            <seg id="p014">14	NEBRASKA AGRICULTURAL EXPERIMENT STATION
+point more water per unit of dry matter was required, indicating a pathological condition of the plant. Plants grown in soils low in fertility required an increased amount of water. This is shown where plants are grown in subsoil, the subsoil having less fertility than the surface soil.
+The following reports have been made on this project : 23rd Annual Report of the Nebraska Agricultural Experiment Station, "Transpiration Experiments with the Corn Plant"; 24th Annual Report, "The Relationship of Climatic Factors to the Water Used by the Corn Plant"; also, same Report, "Correlation Studies of Corn"; Bulletin 128, Nebraska Experiment Station, "Studies in Water Requirements of Corn"; and Research Bulletin No. 6, "Transpiration as a Factor in Crop Production."
+Project No. 1.3. Competition in Cereals.
+This project is closed as an Adams Project. The following publications have been issued : Bulletin 127, "Competition in Cereals"; Research Bulletin 11, "Relation of Size of Seed and Sprout Value to the Yield of Small Grain Crops."
+Certain phases are being continued with state funds.
+Project No. 15. Food Requirements of Growing Cattle.
+This project is being closed and reported with the retirement of Professor J. H. Frandsen.
+Sixteen heifer calves were used, being fed from birth to maturity, or until the time of first freshening. Nine animals have already freshened and practically complete data are available on the other seven.
+High and low protein rations and high and low carbohydrate rations were used. No conclusions are yet available. A report of this project will appear in bulletin form within the next two or three months.
+Project No. 16. Winterkilling Investigations.
+This project was started in 1915 with the object of determining the factors and the relative importance of each that cause winter injury to the root systems of fruit trees. About 100 varieties of apples are being used in this test. Trees are being propagated in such a way as to enable us to secure a portion of the root system originating from the cion wood and a portion originating from the seedling stock used in the graft.
+These trees are being subjected to low temperatures with a view of determining the relative hardiness of that portion of the root system coming from the cion 'root and that portion coming from the stock. In most cases where the roots were exposed for two hours or longer to a temperature of 10 to 15 degrees F. that portion of the root system coming from the
+</seg>
+
+            <seg id="p015">THIRTY-FOURTH ANNUAL REPORT	15
+stock was killed, while the roots produced from the cion wood were only slightly injured. The results suggest the advisability of propagating fruit trees in such a way as to get the major portion of the root system from the cion wood, as a means of overcoming winter injury.
+Approximately 2,000 trees are now available for use in this experiment. These trees are all propagated upon known stocks. They will be frozen after the method mentioned above.
+Studies have been made of the readiness with which different varieties form roots upon the stock and the cion wood. Some varieties like the Missing Link, Shirley, McMahon, and Early Harvest produce roots readily from the cion wood the first year. Other varieties like Prices Sweet, Perfection, and Pattons Greening have practically no cion roots at the end of the third season. Many varieties produce some cion roots the second year from the graft.
+A progress report will be made on this work about the end of the next fiscal year.
+Project No. 69. The Life-History of Several Common Cutworms. A Study of the Distribution, Injury, Life-Histories, and Methods of Control of the Species of Cutworms to be found in Nebraska.
+This project was very active during 1919 and 1920. Two of the most serious cutworms of our cornfields, the greasy cutworm and the dingy cutworm, were rather fully studied and much of their life-history was worked out. In western Nebraska the dark-sided cutworm and common striped cutworm were found to be severely injurious species, and their life-histories were also largely determined. A heavy outbreak of the variegated cutworm in 1919 enabled the practical completion of studies on that species. The true armyworm was also the subject of considerable study in 1920.
+In these life-history studies a number of promising clues as to possible means of cutworm control by rotation and cultivation methods were discovered, and these will be followed out. In the spring of 1920 experiments on the value of seed treatment as a means of cutworm control were carried on, but owing to unfavorable conditions the results were not entirely satisfactory and will need to be repeated. It is proposed to continue this project actively for several seasons to come.
+Project No. 81. A Study of Degeneracy in Potatoes.
+Tuber unit selections have been made within several important varieties for the purpose of studying pure strains and also variation within the variety. Selected strains are being grown both upon dry and upon irrigated lands thru interchang-
+</seg>
+
+            <seg id="p016">16	NEBRASKA AGRICULTURAL EXPERIMENT STATION
+ing from one to the other. Various amounts of irrigation water are being applied to different plats of potatoes to deter-mine the effect of a certain amount of water on the seed quality of the potatoes. Various cultural practices, such as mulching, irrigation, and tillage, are studied. Greenhouse studies of the factors of temperature and soil moisture are also studied. The varieties used are Early Ohio. Triumph, Irish Cobbler, Downing, King, Russet Rural New Yorker, and Pearl.
+Under dry land conditions in western Nebraska the yield of potatoes can be maintained for a long period if proper seed selection is practiced. Tuber line strains have been continuously high yielding, low, or medium yielding thruout three consecutive seasons, in accordance with their original yield. Tuber quality is transmitted the same as yield in unit strains. Continual use of small potatoes selected at random reduces yields, as most of them are culls from low yielding plants. Potatoes that have been irrigated for one or more years show an increasingly higher per cent of degenerate strains.
+Project No. 85. Protein Requirements for Growing Cattle.
+This experiment is in cooperation with Dr. H. P. Armsby of the Pennsylvania Experiment Station. and other stations. Our part of the work has been in progress for more than a year. A total of eight (8) animals have been used so far. These and other animals will be continued on the experiment until sufficient data are available to clear the point of certain deductions.
+Project No. 86. An Inquiry into the Nature of Necrobacillosis of Young Pigs.
+This project has never been active and will be dropped without further investigation in order to take up more pressing problems.
+Project No. 87. A Study of the Pathogenicity as well as the Antigenic and Biologic Properties of the Organism Belonging to the Hemorrhagic Septicemia Group.
+Research Bulletins No. 17 and No. 18 have recently been published by Van Es and Martin covering this project. In Bulletin No. 17 extensive experiments were made for the purpose of immunizing rabbits against this disease. Little or no evidence was obtained to indicate that injections of bacterins or vaccines were followed by any degree of resistance against trial injections of B. bipolaris.
+Bulletin No. 18 reports extensive investigations to show the effect of bacterins and vaccines in immunizing fowls against fowl cholera. Here again the use of bacterins and vaccines proved inefficient.
+An examination of the organs of many swine and cattle
+</seg>
+
+            <seg id="p017">THIRTY-FOURTH ANNUAL REPORT	17
+either diagnosed as having suffered with hemorrhagic septicemia or suspected of having this disease showed the presence of the organism in only a few isolated eases. On the other hand, there seems to be no difficulty in securing the organism from outbreaks of fowl cholera. We have come to believe that the latter disease is in fact the only form of hemorrhagic septicemia which has an economic importance in this State. In our future work on this project it will be our purpose to especially direct our investigation toward the infection in poultry.
+A few observations seem to indicate that swine apparently recovering front hog cholera suffer acute and fatal exacerbations after inoculations with small amounts of culture of B. bipolaris. Results are by no means conclusive and experiments will be repeated.
+Project No. 94. Nutrient Requirements of Grossing Chickens.
+A study of the essentials of a ration for baby chicks is being made under this project.
+Three factors which influence the quality of a ration for chicks are being studied, i.
+1. Protein requirements.
+Physical qualities.
+3. Food accessory requirements.
+Thirty-two different rations have been used in carrying out this work. each lot consisting of ten vigorous S. C. White Leg-horn chicks at the beginning of each experiment. Weight records were obtained each week as well as records of feed consumption.
+The following observations have been made:
+1. That it is possible to raise chicks to complete maturity in confinement if all nutritive requirements are met. floe check lots made very good growth and developed normally in
+every	way.
+The addition of palatable green stuff to certain rations made the difference between success and failure. A ration made up of wheat, casein, butter fat, and ash did not result in normal growth. The addition of about five per cent of wheat greens resulted in normal growth. The wheat greens may have made the following contribution to the ration:
+(a) Improvement of physical quality of the ration.
+(b) Protection against overfeeding due to the increased hulk of the green feed.
+(c) Food accessories.
+3. Information as to the quality of proteins required. has been secured in another series of experiments. Corn proteins
+</seg>
+
+            <seg id="p018">18	NEBRASKA AGRICULTURAL EXPERIMENT STATION
+alone did not produce normal growth, but the addition of about fifteen per cent of casein improved the ration very markedly. Corn, casein, and ash rations, however, did not produce normal growth, but this ration was further improved by the addition of green feed.
+Project No. 95. A Study of the Fat Soluble "A" Content of Feeds Fed to Hogs as Supplements for Corn.
+This project was approved after July 1, 1920, and is inactive on account of the resignation of the Station Chemist.
+Project No. 100. A Study of the Environmental Conditions Influencing the Development of Stem Rust in the Absence of an Alternate Host (Barberry).
+This project has been approved since July 1, 1920.
+Project No. 101. A Study of the Fusarium Wilt and Tuber Rot of the Irish Potato With Reference to the Relation of Environmental Condition to the Infection and Progress of the Disease.
+This project has been approved since July 1, 1920.
+HATCH AND STATE PROJECTS
+Project No. 19. Variety Testing, Breeding, Acclimatization, and Cultural Studies of Small Grains.
+Fifty selected strains of Turkey Red wheat, resulting from the propagation of 1800 original selections, are being retained for further test and development. All others have been discarded. These are being grown in comparison with the parent stock and other varieties. Fourteen strains of Turkey Red are being developed in field plats.
+University No. 6 and University No. 60 are being grown extensively by farmers and are proving superior to the standard Turkey Red in most localities. Several hundred acres were grown by farmers last year.
+Reciprocal crosses of Nebraska No. 28 with three promising strains of Turkey Red wheat were made this year. Number 28 is a Turkey Red mutant ripening about 7 days earlier than normal strains, and having a very stiff straw. It is not as hardy and not as high yielding as some other strains of Turkey Red.
+Acclimatization studies include observations of the seed from different sections. Turkey Red wheat from five different states is being grown, but no conclusive effects of acclimatization have yet been obtained.
+Oats. Nebraska No. 21 oat is a white selection from the %hereon variety introduced and developed by this station. This oat continues to show superiority. In 25 cooperative tests with
+</seg>
+
+            <seg id="p019">THIRTY-FOURTH ANNUAL REPORT	19
+farmers in 1919. this new selection yielded an average of 8 bushels more than the farmers' local seed growing beside it. The Station is undertaking to supervise the growing of this oat for seed by farmers. About 1.0(X) acres were grown in 1920.
+Both Texas Red and Burt oats are also being grown, an at-tempt being made to get a desirable fixed color together with a satisfactory yield. Both of these varieties are good yielders.
+The following bulletins on wheat and oats have been published by the Station:
+Bulletin No. 72, The Adaptation and Improvement of Winter Wheat, 1902.
+Bulletin No. 78, Macaroni Wheats, 1903.
+Bulletin No. 82. The Kherson Oat, 19114.
+Bulletin No. 89, Winter Wheat, 1905.
+Bulletin No. 104, The Use of the Fanning Mill for Selecting Seed Wheat and Seed Oats, 1908.
+Bulletin No. 113, Oats, 1911).
+Bulletin No. 125, Wheat Breeding Experiments, 1912. Bulletin No. 160, Oat Investigations. 1917.
+Research Bulletin No. 11, Relation of Size of Seed and
+Sprout Value to the Yield of Small Grain Crops, 1917.
+Project No. 22. Crop Rotation and Fertilizer Experiments.
+Four years' data have been obtained. These data would indicate that the application of commercial fertilizer reduces the yield of grain with corn, but somewhat increases the forage yield. This result follows, regardless of the kind of fertilizer used.
+The only definite effect of commercial fertilizer on wheat has been to increase the growth of straw and increase the tendency to lodge.
+The yield of oats has been increased by both nitrogen and phosphorus fertilizers, but not sufficiently to make their application profitable. This work is being transferred to the Agronomy Farm, 2½ miles from the central farm, where it will he materially increased.
+Project No. 25. Rodent Investigations.
+This project was begun in 1912, and has as its object a thorn study of the distribution, biology, injury, and means of control of the more important rodent pests of Nebraska. It included four principal lines of investigation, viz.: (1) house rats and mice. (2) pocket gophers, (3) prairie dogs, and (4) ground squirrels and kangaroo rats. The prairie dog investigations were completed and reported upon in 1915, and the pocket gopher investigations are now completed and will be re-ported in 1921.
+</seg>
+
+            <seg id="p020">20	NEBRASKA AGRICULTURAL EXPERIMENT STATION
+In this project improved methods of poisoning and trap-ping pocket gophers were worked out. During the two years ending June 30, 1920, over 5,000 Nebraska farmers in 27 different Nebraska counties have used these methods and there has not been a single adverse report on the results. The number of pocket gophers has been greatly reduced in many counties thru the use of the recommended methods. These consist in making possible the convenient use of poisoned fresh vegetable baits by mixing the poison in proper proportions with other materials to disguise the taste, and sealing the mixture in sifter-top paper boxes from which it can be conveniently sprinkled over the fresh baits. The baits are then put out in the gopher runways by an improved method and as a result frequently 90 to 95 per cent of the pocket gophers are killed. The residue are gotten rid of by using a special gopher trap which our tests have shown to be very efficient.
+Project No. 26. Investigation and Control of Injurious In-sects, Mammals, and Birds.
+The most active work has been done on w wireworms, grass-hoppers, and white grubs. During the last fiscal year large quantities of poison were used in the Scottsbluff irrigated region in poisoning grasshoppers, especially in alfalfa fields. About seven carloads of bran were used for this purpose in the summer and fall of 1919.
+Project No. 29. Pruning Apples, Pears, and Small Fruits.
+Approximately 50 varieties, two trees each, were planted two and four years ago at the central station. Two trees of each variety are being pruned each year during the dormant season (February). The other tree of each variety is being pruned each year in June. The rate of growth to date has been somewhat greater on the trees that have been pruned during the dormant season. It is expected that these treatments will in the future throw some light upon fruit bud formation, rate of growth, regularity of fruiting, etc.
+Project No. 33. Fruit Breeding.
+Several hundred crosses have been made between commercial varieties of apples. Many undesirable apple seedlings from these crosses have been discarded. Others are being tested further to determine their value. Some of these apple hybrids seem to be worthy of further trial. Those showing superior qualities regarding fruitfulness, quality of fruit, disease resistance, etc., are now being propagated in the nursery. Young trees of each of these hybrids will be sent to several parts of the State in order that they may be thoroly tested for produc-
+</seg>
+
+            <seg id="p021">THIRTY-FOURTH ANNUAL REPORT	21
+tiveness and drouth resistance. The hybrids of greatest promise are as follows:
+Duchess x Genet, Jonathan x Duchess, Pear Sweet x Wealthy, Genet x Ben Davis, Genet x Siberian Crab, Ben Davis x Wealthy, Wealthy x Northwestern, Pear Sweet x Northwestern, Jonathan x Ben Davis, Jonathan x Wealthy. and Native Crab x Whitney.
+Approximately 20 commercial varieties of strawberries have been used as parents in originating the hybrid strawberries we are now testing. Forty-three selections have been made from 800 hybrids. These are now being tested in 50-foot progeny rows. Several standard commercial varieties are being grown in rows alternately with hybrids.
+Project No. 36 A Study of the Soiling System under Nebraska Conditions.
+The manuscript will soon be completed for a bulletin on this subject. The work up to the present time can be summarized as follows:
+Soiling crops successful where rainfall is dependable and palatable feed furnished for dairy cows. The system is well adapted to eastern Nebraska conditions
+Soiling crops correlate well with specialized dairying in distribution of labor thruout the day.
+Succession of crop is necessary for successful soiling system. Pall seeding-is necessary in providing soiling crops for the early summer.
+Cows will maintain a more constant yield thruout the summer on a good ration of soiling crops than on almost ally other feeds.
+In 1914 the total hours of labor for the soiling crops was 173.81 as compared with 123.09 hours for silage feeding. Hours of labor per 100 pounds of milk, soiling crops 1.77; silage 1.21. This does not include milking and care of the cow.
+In 1915, the labor for feed in producing 100 pounds of milk was 1.857 hours for soiling crops and 1.28 hours for silage.
+The labor requirement for alfalfa as a soiling crop was lower than any other, while the labor for millet and for compeas was the greatest.
+The use of either silage or soiling crops for summer feeding of dairy cows decreases the necessity for a heavy grain ration.
+Advantages of Soiling.—Permits production of milk free from flavors due to pasture of weeds.
+Furnishes a succulent ration and maintains a continuous supply when pastures may be seriously affected by drouth. Disadvantages of Soiling.—It requires a man and team
+</seg>
+
+            <seg id="p022">22	NEBRASKA AGRICULTURAL EXPERIMENT STATION
+daily to cut and haul a supply of forage to the feeding yards, interfering with the regular farm work.
+Even with careful planning the season may be such as to hinder the development of the crop with subsequent shortage of feed.
+Soiling crops must be gathered in all kinds of weather. In rainy weather the feed may be so wet and "washy" as to cause digestive disorders.
+Advantages of Summer Silage.—Feed is always on hand without any additional work,
+Will keep for an indefinite length of time if properly pre-pared.
+Relished just as much as is a soiling crop.
+Independent of climatic conditions as supply Is from previous summer.
+Silage always under cover, hence does not require harvesting in all kinds of weather.
+Project No. 39. Factors Affecting the Efficiency of Hand Separators and Causes of Variation in Cream Tests.
+About one-fourth of the work necessary to complete this project was completed last summer. Work will be continued this year.
+Project No. 41. Fattening Cattle.
+Fifty two-year-old range steers were purchased on the market November, 1919, and divided into five lots of ten each. Experiments started November 13th and continued 160 days. The cattle were appraised at the end of the first 84 days and again at the completion of a 120-day period. The rations fed were:
+Lot 1, Corn and alfalfa.
+Lot 2, Corn, alfalfa and silage.
+Lot 3, Corn, alfalfa, silage, and 5 pounds of alfalfa molasses meal.
+Lot 4, Corn, alfalfa, silage, and 3 pounds oil meal.
+Lot 5, Corn, alfalfa, silage, with hominy meal substituted.
+for one-half the corn, and 3 pounds oil meal.
+The cattle coat $10.90 at the opening of the experiment and sold on the Omaha market for $12.80. All lots showed heavy losses in the feeding operations.
+Lot 2 on corn, alfalfa, and silage produced the cheapest
+gain, the cost of the lot being $20.06 per hundred pounds gain.
+Lot 1 produced gains at a cost of $21.46 per hundred, but
+showed a loss per head of $3.90 less than the steers in Lot 2.
+</seg>
+
+            <seg id="p023">THIRTY-FOURTH ANNUAL REPORT	23
+Lot 3, which received molasses meal in addition to corn, alfalfa, and silage fed to Lot 2, showed the least loss per head of any group, namely, $28.32 per steer.
+Lots 4 and 5 were used as a check upon lots of the some number in last year's experiment. At that time the hominy feed used in lot 5 proved to be a very valuable addition to the ration, showing a greater daily gain, a more economical gain, and a greater profit per steer than lot 4.
+In the experiment this year lot 5 failed to show up as well as in the previous year. The daily gain was slightly less. The cost of 100 pounds gain was 60 cents more and the cost per head was $1.40 more than in lot 4, where oil meal was used as a supplement to corn.
+Project No. 47 Pump Irrigation.
+Work has been conducted in cooperation with the North Platte Station to determine the cost of irrigation water under a
+pumping system, and the acreage which could be irrigated under he conditions existing at the North Platte Experimental Farm, where water is lifted 40 feet by a six inch rotary pump, driven by a 30 Ii. P. kerosene engine. Such crops as corn. alfalfa, and potatoes were grown under irrigation.
+One hundred fifty-three and three-fourths hours' pumping was done. giving 317.09 acre inches of water, or 8.494.650 gallons, which was used in irrigating 48 acres. A total of 640 gallons of fuel was used. or one gallon of fuel furnished power for the pumping of 13,273 gallons of water. This gives an approximate fuel cost of 40 cents per acre inch of water pumped from an average depth of nearly 40 feet.
+Project No. 64. Roughage as a Feed for Dairy Cows.
+There are nine cows on this project and data are being gathered daily. Active work on this project was begun after July 1, 1920.
+Project No. 65. Rations for Fattening Lambs.
+Six lots of lambs each containing 30 head were fed for 98 days, beginning October 21, 1919.
+Lots 1 and 2 received corn and alfalfa hay. Lots 3 and 4 received corn, molasses meal, and alfalfa hay. Lots 5 and 6 received corn, oil meal, and alfalfa hay. In addition, lots 2, 4, and 6 received silage. An effort was made in each instance to compare the efficiency of the three above-mentioned rations with and without silage.
+The addition of silage to lot 2 increased the daily gain slightly without affecting the cost per hundred pounds. The profit per head was increased 19 cents where silage was fed.
+In the second ration the addition of silage to lot 4 de-
+</seg>
+
+            <seg id="p024">24	NEBRASKA AGRICULTURAL EXPERIMENT STATION
+creased slightly the rate of gain and increased the cost of gain, resulting in 49 cents per head less profit where silage was fed.
+In the third group the addition of silage did not especially affect the rate of gain, increasing the cost only 4 cents per hundred pounds, and making a net profit per head of 9 cents less than where no silage was fed.
+The addition of molasses meal to the ration of lots 3 and 4 resulted in an increased daily gain. In lot 3 this was somewhat cheaper than the gain in lot 1, where corn and alfalfa were fed. In lot 4 the gain was more expensive than in lot 1, where corn and alfalfa were fed in addition to silage and molasses meal.
+Project No. 72. Forage Crop Investigations.
+Work in forage crops is being conducted with several varieties of grain and forage sorghums grown in comparison with a number of varieties of millet. Bulletin No. 169, "Forage Crops," has been published on this subject.
+Project No. 75. Tractor Testing.
+This work is being carried on under the provision of the law requiring a stock model of each type of tractor sold in the State to be tested at the University. The tests comprise belt tests and drawbar tests, the results of which are compared with the advertised statements of the company manufacturing the tractor. During the past season 68 tractors have been tested and the following changes have been brought about as the result of these tests:
+6 have increased their engine speed.
+11 have lowered their horsepower rating.
+11 have made changes in their equipment.
+3 have withdrawn from the tests, which has meant withdrawal of their engine from the market in the state of Nebraska.
+One bulletin covering the rules for tractor testing has been published and a bulletin giving the results of the tests for each model submitted is now in the hands of the printer.
+Fifty-two thousand dollars was used in the equipment of the laboratories during the first year, and $17,000 is available for their operations during the year which closes April 1, 1921.
+The tractor testing equipment consists of:
+A drawbar dynomometer—This was designed and built by the University at a cost of about $4,000.
+A belt dynamometer,—purchased from the Sprague Electric Works, costing approximately $3,000.
+A Gulley drawbar dynamometer—for testing of the draft of implements, costing $2,500.
+</seg>
+
+            <seg id="p025">THIRTY-FOURTH ANNUAL REPORT	25
+Test ear for testing draft of tillage implements—being in-stalled in the basement of the new building.
+Resides this, considerable minor equipment in the new building has been installed for instruction, research, and investigation.
+The Tractor Testing law was passed by the 37th session of the Nebraska State Legislature. known as House Roll No. 85, providing for the testing of one stock model of each type of tractor sold in the state by the State University. and a comparison of such tests with the advertised ratings of the tractor firm.
+Project No. 79. Rations for Fattening Hogs.
+Eight lots of 10 head each were fed upon different grain rations. In lots 1, 2, 3, and 4, corn in a self-feeder and ground barley in a self-feeder were tested against ground soaked barley fed twice and three times daily. All lots received tankage in addition, and a limited amount of alfalfa hay. Corn in the self-feeder with tankage and alfalfa hay produced the cheapest gains and the smallest loss. It also produced the highest daily gain.
+Lot 5 received corn and ground barley in a self-feeder. Lot 6 received corn in a self-feeder. Lot 7 received ground barley, and lot 8 received corn and ground barley. Lots 6. 7, and 8 received hominy meal in addition, All lots recieved tankage. Lot 6, receiving corn. hominy. tankage. and alfalfa meal, is the only lot producing any profit. Figures would indicate that the corn in the ration was responsible for the profit, rather than any other factors in the ration. Owing to the high price of grains and the declining market for pork, all lots but one were fed at a loss.
+,The feeding season of 1919-1920 has been one of the most disastrous on record for the commercial feeder, seldom showing profit in the transaction and frequently showing such heavy losses as to greatly discourage the feeding business for the cur-rent year.
+Project No. 80. Potato Selection for Seed Purposes.
+This project was carried on at 11 different points in the potato growing area of northwestern Nebraska. Seven tests were under dry land conditions and four under irrigation. Standard varieties were included at all points.
+The practicability of hill selection has been established for western Nebraska on dry land. High yielding strains of potatoes which continue high yielding are being established. The tests with Downing and Russet Rural New Yorker have been especially favorable under irrigation.
+</seg>
+
+            <seg id="p026">26	NEBRASKA AGRICULTURAL EXPERIMENT STATION
+Selections of Triumph sent to southern states to be grown under the supervision of the United Slates Department of Agri-culture in comparison with the same varieties shipped from other states, have shown the superior quality of Nebraska potatoes.
+As the result of this work a seed certification system has been established and high grade seed potatoes are being shipped to favorable markets, especially in the south.
+Project So. 82. Inheritance in Egg Production.
+Representative hens of five of the most popular breeds of poultry (S. C. White Leghorn, S. C. Rhode Island Reds, Barred Plymouth Rocks, Buff Orpington's, and White Wyandottes) are being trapnested and the best layers selected for breeding purposes. Accurate data are being obtained on the production of the female progeny of each mating. Data on rate of maturity as indicating productive ability, inheritance of size and color of eggs, and similar characters are being obtained.
+This project is of necessity a long time project, but considerable data have already been obtained. Twenty-eight S. C. White Leghorn hens, seventeen Barred Plymouth Rock hens, and sixteen S. C. Rhode Island Red hens with production records of 200 eggs and better are now being used as breeding stock for the carrying on of this project.
+Project No. 82. A Study of Some of the Factors Influencing the Palatability of Poultry Feeds.
+The palatability factor is most important in poultry feeding, tho the fundamental factors that influence palatability have been slightly studied. We have made comparisons of the palatability of certain mash mixtures practical for poultry, by comparing them always with what we have called our standard mash made up of the following ingredients:
+1 part (by weight) corn meal
+1 part "	"	bran
+1 part "	"	shorts
+1 part "	"	ground oats
+1 part "	"	meat scraps
+Thirty-five S. C. White Leghorn and thirty-five S. C. Rhode Island Red hens were used for the palatability observations. The same amount of scratch feed was given each lot of birds each day, the rest of the ration being obtained by free access to the dry mash hoppers. One of the hoppers always contained the standard while the other hoppers contained other mash mixtures on which it was desired to secure palatability data.
+Twenty-eight mixtures were compared with the standard, some of these being more palatable and some less palatable,
+</seg>
+
+            <seg id="p027">THIRTY-FOURTH ANNUAL REPORT
+than the standard. A detailed report of this work is available.. It is planned to continue this project as soon as housing room secured, as we believe it will have a very definite and immediate practical application.
+Project No. 84. Cost of Milk Production in Nebraska.
+This project is being carried on jointly with the Dairy Division and is now complete, and manuscript is being prepared for publication.
+Project No. 88. Cost of Fattening Cattle and the Relation of the Enterprise to the Farm Business.
+Among the more important costs that come into play when cattle are bought for the feed lot are the purchase price per hundredweight, the weight of the cattle. methods used in feeding, kind and market values of feeding stuffs, length of the feeding period, rate of gain, etc.
+These subjects were studied upon 73 neighboring farms in northeastern Nebraska. During the winter of 1919-20, only about one-third of the feeders made money, the other two-thirds losing enough to make the average loss $10.63 a had on the 3041 cattle included in the survey. Only 12 per cent of the 795 cattle on the detailed cost route made any profit.
+The most important factor in determining the profit or loss of the lots was the buying price and the selling price. Men who bought cattle in competition with the packers who wanted them for immediate slaughter. lost money. They started out with a price handicap which few overcame. The m who struck a good selling market usually came out better than their neighbors whose methods of feeding were equally good.
+There was less difference in feeding methods in this area than might be found in some others, corn and alfalfa being the standard ration.
+Pork and manure are two important by-products of cattle feeding that must be considered. The net profit on the entire feeding operation is therefore influenced by the hog market. The value of the manure is not always fully appreciated. as evidenced by careless handling methods.
+Project No. 89. Farm Tenancy.
+Farm surveys have been made of several hundred farms to determine costs, investments, labor income, etc., on such farms. This material will be in form for publication during the year 1921.
+Project No. 91. Egg Production.
+Thirty-three hens with known production records of 200 eggs or better were secured as the result of the first laying con-test. Much of the stock was immature and started under this
+</seg>
+
+            <seg id="p028">28	NEBRASKA AGRICULTURAL EXPERIMENT STATION
+handicap. The breeding program as suggested in this project consists in the use of the hest layers in each entry to be used as breeding stock for the development of better laying strains of standard poultry. Nearly all the first entrants are carrying out the suggested breeding program.
+Six hundred birds are entered in the second contest, being of much better average quality than those entered in the first contest, indicating that the essentials of selecting laying stock are being better understood.
+Project No. 96. Testing of Farm Implements.
+Equipment is being installed in the basement of the new building for the carrying out of the work under this project. No data have been secured to date.
+Project No. 97. Plow Draft Investigations.
+A large number of field tests were made during the fall plowing season, the results of which are difficult to interpret. The general indication seems to be an increase of draft with increase of speed. The results thus far do not permit drawing of definite conclusions, but indicate how the work should be carried out in future tests. This work should be continued and expanded to include draft tests of various farm implements under conditions encountered in field work.
+Project No. 99. The Self-Feeder for Dairy Calves.
+To determine the practicability of using the self-feeder in raising dairy calves. nine calves were selected and divided into two separate lots, one containing five calves, and one containing four calves. The calves were separated from their dams at two and three days old and taught to drink milk. They were then placed in individual stalls and accurate records kept. Feeding continued until the calves were six months of age. The calves in lot 1 were provided with hoppers for grain and racks for hay, which were kept filled. The calves in lot 2 were fed hay and grain twice daily, feeding as much as they would consume. They were weighed weekly.
+The feeds supplied consisted largely .of whole milk until the calves were three weeks of age, when skim milk was gradually substituted for whole milk. Alfalfa, hay and grain were fed as soon as the calves would eat. The amount of skim milk was gradually increased up to 16 pounds daily, which was the maximum amount fed.
+The grain mixtures used for lot 1 (the calves on self-feeder) until they were three months old consisted of dried beet pulp 3 parts, bran 2 parts, and linseed meal 2 parts. After the calves were three months old two parts additional of alfalfa meal were added to the mixture to increase the bulk.
+</seg>
+
+            <seg id="p029">THIRTY-FOURTH ANNUAL REPORT	29
+Lot 2 contained only four calves. Of these, two received a mixture of corn 5 parts, bran 2 parts. oilmeal 2 parts.
+At three months of age the calves on self-feeder received 16 pounds skim milk, 5 pounds grain, and 11z pounds alfalfa per day. These calves grew rapidly and as they approached six months of age three of the calves showed a tendency to be-come too fleshy. At six months of age these calves were consuming approximately 2 pounds hay and 10 pounds grain.
+The calves on the self-feeder a consumed a much greater amount of grain than those which were fed by hand. The aver-age weight of the calves on the self-feeder at six months of age was 490 pounds. The average daily gain was 2.34 pounds. The calves fed by hand made an average weight at six months of age of 365 pounds, with an average daily gain of 1.55 pounds.
+The results indicate that calves raised on the self-feeder consume greater quantities of feed, especially grain, and make more rapid growth than those raised by hand and fed twice daily.
+The self-feeder results in a material saving of labor. Calves so raised suffer no ill effects and the experiment indicates that by proper mixture of grain with alfalfa meal or other coarse feeds, calves could be grown to proper maturity at a minimum labor cost, a reasonable feed cost, and without any injury to the dairy qualities of the calves.
+THE NORTH PLATTE SUBSTATION
+The work of the North Platte Substation has progressed along the lines previously laid out. The only new work is the development of a poultry plant.
+Crop.-The work in crops was carried forward without material change from the program of former years, except that 12 new rotations were added in the dry land crops rotation and tillage methods experiments. The primary purpose of these additions was to increase the work with barley. This crop has proved itself to be among the highest yielding and most profitable of the spring grains. By these additions the number of plats devoted to its use was increased from 5 to 17.
+The total number of plats now in use in the dry land cultural experiments is 218, and the total number of plat year records completed is 2416.
+Yields from all crops for 1920 were considerably above the normal. Corn on the table-land made the highest yield of any year since the beginning of the work, the average of all plats year 40.3 bushels per acre. This is 6.3 bushels above the yield
+</seg>
+
+            <seg id="p030">30	NEBRASKA AGRICULTURAL EXPERIMENT STATION
+of 1919, which was the highest previous average. For the first time since the beginning of the work the average yield of corn following corn was less than the yield of corn following small grain.
+The winter wheat yield on the table-land was 28.3 bushels per acre. The yield following summer tillage was 29.6 bushels per acre; following corn, 28.6 bushels per acre; and following wheat, 25 bushels per acre.
+In the varietal test on the bench land Kanred was the leading winter wheat this year, producing 43.2 bushels per acre, while Turkey Red produced but 33 and Kharkov 36. Nebraska No. 28, which produced the highest of any variety in 1919, was at the foot of the list in 1920, with a yield of 28 bushels per acre. Its poor showing was the result of winterkilling.
+The yield of durum spring wheat was about two-thirds of the winter wheat yield and the yield of common spring wheat less than half of the durum yield.
+The average yield of oats on the table was 37 bushels per acre. The highest yield was 48.5 bushels per acre on spring plowed corn ground.
+Irrigation.—Irrigation was confined to the growing of silage corn, potatoes, and new alfalfa. Eighteen tons per acre of silage were secured from early planted Ohio grown seed. The ears of this corn did not reach maturity, but the grain yield was 70 bushels per acre. Native corn under irrigation produced 12 tons of silage and 74 bushels of corn per acre.
+Beef Cattle.—The small Shorthorn herd purchased during the previous year has increased by the addition of several calves and by the purchase of eight females from the School of Agri-culture at Curtis. The grade herd has been reduced and will be reduced still further as the pure bred herd increases.
+Hogs.—The hog herd is being maintained and improved by the use of good sires. Little experimental work has been done in the past year. It is planned to renew experimental work with both hogs and cattle on the scale of former years.
+Dairy.—The dairy herd has progressed quite satisfactorily. A herd of forty cows in milk, with many heifers and calves, now give opportunity to cull out all cows that are not high producers. There are several excellent pure bred Holstein-Friesian cows and heifers. This herd will soon be able to sell a considerable number of well-bred, high producing dairy cows each year. The sales of milk from the dairy during the past year have averaged about $1,000 per month, defraying the cost of labor and feed.
+Poultry.—The poultry plant which has been in operation.
+</seg>
+
+            <seg id="p031">THIRTY-FOURTH ANNUAL REPORT	31
+about one year is making progress, altho it has not yet reached the point where it is returning a profit. The plant was completed during the year. The total cost of the building fence, and equipment, was about $11,500. The cost of poultry- led, and supplies increased the investment to about 614.000. There are now nearly a thousand birds. A considerable number of eggs. young chicks, and cockerels were sold during the year.
+Improvements.—The chief improvement completed during the year is a reinforced concrete horse barn. This barn accommodates about thirty-five horses. It is substantial in structure and pleasing in outline. The old horse barn has been moved  and equipped as a calf and cow testing barn. It a iodate, 30 calves and 6 cows. The addition of this barn to the dairy barn and shed completes a very satisfactory dairy plant.
+VALENTINE SUBSTATION
+ Forage Crop,-Variety test, crop drilled in The major part of the forage investigation the past year has been varietal work. From the Station at Ardmore, South Dakota, and Hays, Kansas, seed was secured of their most promising forage crops. These consisted of Kursk millet, Dwarf Kafir, Yellow Dwarf Milo. Standard White Milo, Feterita. Freed's, Sorghum. Brown Kaoliang. Red and Black Amber Sorghum. We also tested Sudan Gras,. Dorso. Schrock-Kafir. Dakota White Flint Corn. and Siberian Proso. All varieties except the Kursk millet were seeded with a corn planter the 15th of June.
+The yields were quite low as the result of a six-weeks drouth beginning the first week of July. The average of all crops was 1465 pounds of forage per acre. Excluding the two Kafirs, which were still quite juicy, the four sorghums ranking above the average are: Dorso, 11;10 pounds: Freed's, Sorghum F. C. I. No. 90:33, 1610 pounds; Red Amber F. C. I. No. 17548. 1785 pounds; and Dakota Amber from Ardmore, 1540 pounds per acre. Two other crops that made a good showing this season were Dakota White Flint corn yielding 1512 pounds and Siberian Proso yielding 1800 pounds per acre. The Proso made a remarkable growth and matured before being materially injured by the drouth.
+Variety Test.—The crops seeded with a grain drill were al-most a complete failure due to later planting and dry weather. Proso and Kursk millet attained a height of from 6 to 12 inches and yielded 700 pounds and 420 pounds per acre, respectively. The Sudan hardly reached two feet in height and produced only 1190 pounds. A mixture of equal quantities by
+</seg>
+
+            <seg id="p032">32	NEBRASKA AGRICULTURAL EXPERIMENT STATION
+weight of Sudan and New Era Cowpeas yielded 1000 pounds per acre. Canadian Field Peas survived the drouth but made very little growth.
+Grasses.—The wet spring was very favorable for starting grasses, but the midsummer drouth completely killed them.
+Legumes.—The legumes suffered to the extent that reseeding will be necessary the coming spring. Sweet clover and three varieties of alfalfa were seeded. The damage done by grasshoppers was quite marked on the alfalfa but not noticeable on the sweet clover.
+Corn.—Ten varieties of corn were grown for comparative yield tests. The dry weather and a few days of hot winds reduced the yield to a few small nubbins on the earlier varieties. Northwestern Dent and Minnesota 13 made the best showing. All the corn was out September 8th and put into the silo.
+Beans.—Tepary and Little Wonder Navy beans yielded at the rate of 3 bushels and 1½ bushels, respectively. The Tepary showed greater resistance to drouth in its ability to form pods and then fill them. The Navy bean had numerous empty and partly filled pods. The Navy, however, is a bigger bean and a better cooker.
+Potatoes.—Only two varieties of potatoes could be obtained, the Early Ohio and the Red Triumph. On the upland the yields were 50 and 40 bushels per acre. Some of the Ohios planted on subirrigated valley land produced at the rate of 150 bushels per acre. All seed was treated for scab with excellent results.
+Sunflowers.—Sunflowers were tried here for the first time this past season, the idea being to compare them with corn as a silage crop, noting insect injuries, drouth resistance, and tonnage. The Mammoth Russian variety was listed both on the high table and on the subirrigated valley. Young grasshoppers completely destroyed all sunflower plants on the table-land. Corn planted at the same time and adjoining the sunflowers was hardly touched. Twice during the summer poisoning was resorted to on the sunflowers to kill grasshoppers. The damage to the corn by cutworms was severe, but 'sunflowers were not damaged by cutworms. The final yield of the two crops on the valley land was 5 tons of sunflowers to 3.2 tons of corn.
+Pasture and Annual Pasture Crops.—Top Dressing—Manure applied at the rate of 5 tons per acre in the early spring showed no visible results that season.
+Rye.—Rye makes a very good early and late pasture when there is sufficient moisture to give it a start. Rye sown in the
+</seg>
+
+            <seg id="p033">THIRTY-FOURTH ANNUAL REPORT	33
+fall of 1919 did not come up until the following spring, due to dry weather.
+Crops to Supplement Rye in Summer.—The past summer Sudan grass and Proso gave very good results as a pasture for hogs and calves. There seems to be some question as to the advisability of pasturing cattle on Sudan exclusively during or after a long continued drouth. One calf at the Station was poisoned by Sudan grass, but not beyond recovery.
+THE SCOTTSBLUFF SUBSTATION
+Crop Rotations Under Irrigation.—In the irrigated rotations there were 97 quarter-acre plats, making up 35 different crop rotations. They range in length from continuous cropping to 7-year rotations. Eight farm crops are used in this experiment. They include alfalfa, sugar beets, potatoes, corn, flax, oats, winter wheat, and spring wheat.
+Sugar Beets.—As the expense of growing sugar beets is almost as great for a ton yield as for an eighteen ton yield, this crop should be grown only on good land. Sugar beets respond to the beneficial effects of barnyard manure more than any other crop. The residual effects of alfalfa also greatly increase the yield. The effects of manure and alfalfa give a maximum crop as shown in experiments reported in the following table. The yield shown in this table is lower than the average of previous years owing to a poor stand of beets.
+
+BEETS: Showing effect of manure and of alfalfa in 1920. Manure and Check plats Manured plats Alfalfa plats Alfalfa plats
+Number of pieta	4	3	4	1
+Maximum yield 	8.06	14.40	15.24	16.92
+Minimum yield 	4.22	12.28	10.85	16.92
+Mean yield 	6.57	13.13	13.56	16.92
+Yield in favor of...	6.56	6.99	10.35
+During the last six veers the average yield of beets from unmanured beet plats has been 10.48 tons per aerie, from manured plats 16.76 tons per acre, and from the alfalfa plats 16.80 tolls per aerie. This gives a yield of 6.28 tons and 6.32 tons per acre in favor of manured and alfalfa plats, respectively.
+Potatoes.—This crop also should be grown on good land, preferably following alfalfa sod, as the expense in growing the crop is no large as to make it unprofitable where only a small yield is secured.
+</seg>
+
+            <seg id="p034">34	NEBRASKA AGRICULTURAL EXPERIMENT STATION
+Experiments indicate that alfalfa sod is superior to other land which has received an application of manure. Alfalfa sod may be used to grow one crop of potatoes and afterward used for sugar beets. The alfalfa roots do not interfere with the cultural operation of potatoes, whereas with sugar beets the alfalfa roots very much interfere with cultivation. The effect of manure and of alfalfa on potatoes is shown in the following table:
+
+POTATOES: Showing effect of manure and alfalfa on yields in 1920.
+Check plats	Manured plats Alfalfa plats
+Number of plats 	5	3	4
+Maximum yield 	188.7	266.7	362.7
+Minimum yield 	72.7	214.7	509.4
+Mean yield 	123.4	232.3	340.4
+Yield in favor of	109.3	217.0
+The 8-year average yield from these plats shows an average of 64 bushels per acre in favor of manure and 142.8 bushels per acre in favor of alfalfa over the cheek plats receiving neither manure nor alfalfa.
+The quality of the potatoes was affected very much by the length of the rotation. Potatoes grown on continuously cropped land, or upon two- or three-year rotations, are very scabby. Those grown in 4-year rotations are less affected by scab, and those grown in 6-year rotations are almost free from scab. Our experiments seem to show that potatoes should not be grown on the same land oftener than once in five or six years.
+Corn.—Altho the altitude of this station is about 4,000 feet above sea level, corn normally matures well and the yields on irrigated land following alfalfa have been between 50 and 70 bushels per acre. The residual effect of alfalfa increases the yield of corn about 20 bushels per acre. Corn does not do well following sugar beets.
+Small Grain.—Under normal conditions it is not profitable to grow small grain on high-priced irrigated land, except when grown as a nurse crop with alfalfa. Barley is more profitable than either oats or wheat. As a rule barley will produce practically as many bushels per acre as oats. This means a third more yield in pounds per acre.
+Cultural Teats of Sugar Beets.—Experiments have shown much larger yield of sugar beets where the land was plowed than where disked and prepared without plowing. On the aver-age the yield has been 1.14 tons per acre in favor of plowed land.
+</seg>
+
+            <seg id="p035">	THIRTY-FOURTH ANNUAL REPORT	35
+A test of the time of plowing before planting sugar beets shows a decided advantage in plowing immediately before planting if possible.
+The following yields were secured from plats plowed at different times before planting:
+Yield per acre
+Plowing one day before planting 	14:30 tons
+Plowing two weeks before planting 12.33 tons
+Plowing three weeks before planting 	11.33 tons
+Plowing four weeks before planting 	10.57 tons
+Pasture.—Sweet clover pasture is becoming more popular each year. It is usually seeded with grain crop and pastured the second so It will furnish s e pasture the first fall after the grain has been removed, but the next summer produces an abundant crop. Where a good stand is secured and
+proper care	is given. sweet clover will carry three cows per
+acre the second season after sowing.
+It is necessary to mw a new field each year. since	sweet
+eloper is a biennial crop and will not furnish pasture after the
+nd season, except where volunteer seed has come up after the first planting or where the land has been reseeded.
+Range Pasture.—This station owns a dry land range pasture of 800 acres. In 1920 this pasture carried 82 steers making the fallowing gains:
+Gains made by steers on native pasture from June 3 to October 23. 1920 1142 days).
+Av. Initial	Av. Final	Av. Oats
+Weight	Weight	per steer
+35 2-year-olds 	708	931	223
+15 yearlings 	498	696	198
+32 yearlings 	462	666	204
+The Dairy Herd.—The dairy herd consists of 1 Holstein bull and 1:3 cows, two of which a registered Holsteins. Eleven younger animals are also in the herd. These cows are to he kept on definite experimental work and all animals elimi-
+nated from the herd except those which make	creditable
+dairy record.
+Steer Feeding Experiments.—During the winter of 1919-1920 three lots of steers were fed on different rations. An effort was made to compare a standard ration of alfalfa hay, dried beet pulp. and cottonseed cake with corn silage or beet tops added to the ration. In this experiment the largest gains were made where silage was added to the ration. This lot also produced their gains at the lowest cost and at the smallest net
+</seg>
+
+            <seg id="p036">36	NEBRASKA AGRICULTURAL EXPERIMENT STATION
+loss per steer. Owing to the extremely high cost of feed stuffs there was a loss on all lots as follows:
+Alfalfa hay, dried beet pulp, cottonseed cake	$23.95
+Same with beet tops added 	22.53
+Same with corn silage added 	16.96
+Lamb Feeding Experiments.—Fattening experiments were continued with lambs during the winter of 1919-1920, where 12 different rations were fed with 31 lambs in each lot. The fattening period lasted for 100 days.
+The rations fed consisted of alfalfa hay and corn with supplementary rations of cottonseed cake, dried beet pulp, and silage. Dried beet pulp proved to be especially advantageous and all lots fed upon alfalfa hay, beet pulp, and some corn made a good profit in the feeding operation. The profits varied from $1.34 where hay, cottonseed cake and beet tops were fed, to a maximum of $3.80 per head where alfalfa hay, dried beet pulp, cottonseed cake and silage were fed.
+A detailed account of this experiment will be published in bulletin form.
+INVESTIGATION NEEDED
+Additional funds are needed by the Experiment Station to extend and develop several of the lines of investigation now in progress and to project new lines of investigation.
+The investigation of systems of marketing farm products should be very greatly enlarged and a thoro economic study of the entire marketing system from the farmer to the consumer should be undertaken, looking to a more direct and less costly system of marketing farm products.
+Fundamental research in chemistry as it relates to soil fertility, animal nutrition, and plant growth should be very largely increased. It is desired to undertake such fundamental studies with swine to determine the part played by ash, by protein, and by vitamines in economic pork production. Similar studies should be undertaken and to a limited extent are now in process in the feeding of young chicks, the effort being to establish rations promoting healthy and rapid growth, together with economic production. Similar studies should also be under-taken relative to egg production.
+Investigation of the diseases of the honeybee and of honey producing plants to increase honey production in the State is very important. Nothing has been done along these lines.
+A study of the relation of barberry to the spread of wheat rust should be made. Evidences are numerous indicating that
+</seg>
+
+            <seg id="p037">THIRTY-FOURTH ANNUAL REPORT	37
+barberry is not the only host plant for wheat rust and that other host plants must be searched out and controlled before wheat rust can be eradicated in this State. Wheat rust probably takes a toll of $10,000,000 annually in the State of Nebraska.
+Investigation of potato diseases conducted in the potato growing area must be greatly expanded. A local laboratory and one or more resident pathologists are needed in the potato growing area in northwestern Nebraska during the growing season. Considerable progress has been made in studying this project and an extensive market has been developed for certified seed potatoes grown upon the dry lands of northwestern Nebraska. This market could be greatly extended by a thoro study of the problem, as the value of our seed potatoes for southern growers has been well established.
+Surveys are needed to determine the extent of acid soils in the state, as an aid to increased production.
+Investigations are needed in the range country to determine most efficient methods of handling range pastures in order to protect and extend their grazing qualities. Land is available for this purpose.
+All of these lines of work await increased appropriations with which to carry on investigations.
+NEW BUILDINGS
+The Animal Pathology laboratories were completed during the year at a cost of about $60,000, making the entire plant complete within the last two years at a total cost of approximately $125,000.
+Tractor testing equipment at the central station costing $35,000 has been installed.
+A hay shed at the Agronomy Farm cost $2,500, and a machine shed $1,000.
+Residence at Union Fruit Farm cost $4,500. A barn at the same location cost $1,800.
+A horse barn at the North Platte Substation cost $20,000.
+A residence at the poultry plant at North Platte cost $4,200. Other buildings and equipment connected with the poultry plant cost $7,000.
+Experimental feeding sheds and silo at the Agronomy Farm erected since the close of the year for which this report is made cost $4,000.
+CHANGES IN STATION STAFF
+Mr. E. Mead Wilcox resigned as Plant Pathologist April 1, 1920.
+Mr. C. K. Shedd resigned as Assistant in Agricultural Engineering July 1, 1920.
+</seg>
+
+            <seg id="p038">38	NEBRASKA AGRICULTURAL EXPERIMENT STATION
+Mr. J. H. Gain resigned as Associate Animal Pathologist September 1, 1920.
+Mr. P. L. Gaddis resigned as Assistant Agronomist September 1, 1920.
+Mr. J. W. Calvin resigned as Associate in Agricultural Chemistry September 1, 1920.
+Mr. J. H. Frandsen resigned as Chairman of the Department of Dairy Husbandry December 1, 1920.
+Mr. Arthur Anderson was appointed Superintendent of the Agronomy Farm March 1, 1920.
+Mr. J. C. Russel was appointed Assistant in Agronomy April 1, 1920. Mr. G. L. Peltier was appointed as Chairman of the Department of Plant Pathology and Physiology July 1, 1920.
+Mr. R. W. Goss was appointed Assistant in Plant Pathology and Physiology July 1, 1920.
+Mr. L. V. Skidmore was appointed Assistant in Animal Pathology and Hygiene September 1, 1920.
+Mr. F. R. Nohavec was appointed Assistant in Agrcultural Engineering September 1, 1920.
+Mr. W. E. Lyness was appointed Assistant in Agronomy December 1, 1920.
+PUBLICATIONS
+The publications of the Station since those named in the list Annual Report are as follows:
+Thirty-third Annual Report. Presented to the Governor February 1, 1920. 2,000 copies.
+Bulletin No. 175. Experimental Hog Feeding. By H. J. Gramlich and E. L. Jenkins. September, 1920. 5,000 copies.
+Bulletin No. 176. Summer Hog Feeding. By H. J. Gramlich. December, 1920. 5,000 copies.
+Research Bulletin No. 16. Freezing Injury of Seed Corn. By T. A. Kiesselbach and J. A. Ratcliff. Accepted for publication February, 1918. Distributed June, 1920. 2,000 copies.
+Research Bulletin No. 17. The Immunizing Value of Commercial Vaccines and Bacterins Against Hemorrhagic Septicemia. By L. Van Es and H. M. Martin. June, 1920. 5,000 copies.
+Research Bulletin No. 18. The Value of Commercial Vaccines and Bacterins Against Fowl Cholera. By L. Van Es and H. M. Martin. June, 1920. 5,000 copies.
+Experiment Station Circular No. 11. Strawberries in Nebraska. By C. C. Wiggans. February, 1920. 10,000 copies.
+Experiment Station Circular No. 12. How to Select Good Layers. By Frank E. Muasehl. July, 1920, 5,000 copies; second edition, January, 1921, 5,000 copies.
+ACKNOWLEDGMENTS
+The agricultural press and the daily and weekly newspapers, especially those papers located within the State, have shown their appreciation of the work of the Experiment Station by giving liberal space to experimental work reported and in every way facilitating the extension of useful agricultural
+knowledge.
+</seg>
+
+            <seg id="p039">THIRTY-FOURTH ANNUAL REPORT	39
+ANNUAL REPORT OF THE AGRICULTURAL
+EXTENSION SERVICE
+Extension work in 1920 consisted largely in strengthening those activities begun in previous years rather than in expanding the field and opening up new lines of work. No effort was made to expand the organized territory within the state, altho one county organized a farm bureau during the year. Three counties discontinued the work on account of the shortage of funds, and two districts which employed agents in 1919 were compelled to give up the work for similar reasons.
+LEGISLATION
+The farm bureau law enacted by the legislature of 1919 has been tested in the courts and found constitutional. The law was upheld first by the district court and then by the supreme court of the state. Thus the legality of the farm bureau has now been definitely established.
+RELATIONSHIP WITH FARM BUREAU
+The Nebraska Farm Bureau Federation was not active previous to 1920. July 1, 1920, a secretary was employed and an active membership campaign begun. Due to the fact that the extension agents within the counties are employed cooperatively by the county farm bureaus and the Extension Service of the College 'of Agriculture, the Extension Service has been called upon to co-operate with the Nebraska Farm Bureau Federation. Relationships are gradually being worked out so that the Extension Service will be enabled, thru its agents within the counties, to conduct educational work along agricultural and home economics lines in co-operation with the county farm bureaus.
+AGRICULTURAL AGENT WORK
+Agricultural agent work for 1920 consisted primarily in establishing more definite lines of work in the counties where work was already started. Three counties and two districts employing agricultural agents discontinued the work during the year, and one county organized for the work, making a total of 43 organized counties November 30, 1920. The counties dropping the work were Antelope, Garden and Knox. Adams county organized during the year.
+On account of the lack of funds, the administrative or su-
+</seg>
+
+            <seg id="p040">40	NEBRASKA AGRICULTURAL EXPERIMENT STATION
+pervisory force of the agricultural agent work was reduced tc a state leader and two assistants.
+The activities of the agricultural agents were many and varied during the year and lack of space permits only a brief mention of what they did.
+The farm bureau offices have become the central labor bureau in several counties, and the agricultural agents have rendered valuable service to farmers by supplying their labor needs, especially during harvest. During this rush season the agents kept the state leader's office informed as to their daily needs, and the state leader in turn passed this information on to the federal labor agencies, which did valuable work in helping supply laborers. The agents reported they furnished a total of 8,719 laborers during 1920.
+Several agricultural agents have aided in the formation of community programs of work. These programs were valuable in that they afforded a method whereby the farm bureau became an institution of service to the entire family. Likewise, the programs uncovered the various interests and activities of all the people in the community.
+The agricultural agents have found farm engineering to be a popular and useful field of work. Rural architecture, soil erosion, farm power, farm machinery, and sales pavilions are subjects in which a large number of farmers are interested. Sixty-three drainage systems were planned and adopted thru the efforts of agricultural agents in 1920. Forty-nine water systems and twenty-one sewage disposal systems were also installed at demonstrations during the year.
+A number of demonstrations were established by agricultural agents to acquaint farmers with improved strains and varieties of crops. Kanred wheat, Nebraska No. 6 and No. 60 wheat and Kherson oats No. 21 received the most attention during the year. The result of this work was that sixty carloads of Kanred wheat were seeded in the state in the fall of 1920.
+The "Purebred Sires Only" campaign made progress during 1920. More than 300 farmers have been enrolled in this work, and reports from Washington, D. C., place Nebraska second in the project. The wool producers pooled their 1920 clip to the extent of 200,000 pounds, which was stored in one warehouse awaiting a favorable market.
+The reports of agricultural agents show the following work in horticulture: One hundred orchards, comprising an area of 353 acres, pruned ; 97 orchards, comprising an area of 307 acres, sprayed ; assistance given in planting 27 orchards averaging one acre each; 25 farmers given assistance in grape cul-
+</seg>
+
+            <seg id="p041">THIRTY-FOURTH ANNUAL REPORT	41
+ture. The potato work consisted in aiding in the selection of better seed, treatment of seed for disease, and storage and marketing.
+Aiding in the raising of more and better poultry proved one of the most outstanding pieces of agricultural agent work in 1920. Agents assisted in conducting demonstration farms, culling demonstrations, and poultry clubs.
+The agents continued their rodent control work during 1920. This involved a total of 1,961 farms, with an acreage of 87,469. Insect control methods were used on 2,122 farms, the amount of poisoned bait reaching 356,650 pounds.
+HOME DEMONSTRATION WORK
+The home demonstration work was carried on without a state leader during the first three months of the year. One county discontinued the work during the year and two new agents were added to the force, making a total of seven home demonstration agents. At the beginning of the year the work was conducted in two counties under the auspices of the Homemakers' Association, independent of the farm bureau. By the close of the year, however, all work was under the supervision of the farm bureaus.
+Food and nutrition was important work in five counties. Twenty-nine communities adopted poultry work. Canning was a minor work during the year, but two counties having clubs. Food selection was undertaken in two counties, short courses being given, local leaders selected, and demonstrations and conferences held.
+Home health and hygiene was an important branch of the home demonstration work during 1920. This consisted primarily of child care, home nursing, and home sanitation. Lectures and demonstrations were given and ten training classes for local leaders held.
+Garment making was adopted as a part of the program of work in five counties, and lectures and demonstrations were given on the alteration of commercial patterns and making of bungalow aprons. The home demonstration agents reported a total of 92 talks and demonstrations, with a total attendance of 1,552. Remodeling of clothing was a definite piece of work in each county. Dress forms continue to be one of the most popular home demonstration projects. Approximately 1,238 people were reached in this project.
+</seg>
+
+            <seg id="p042">42	NEBRASKA AGRICULTURAL EXPERIMENT STATION
+BOYS AND GIRLS CLUB WORK
+The boys and girls club work continued to be an important branch of extension activities during 1920. The standard club proved to be an effective way of reaching the future leaders of a community, and club work continued to receive the hearty support of parents and such outside interests as agricultural papers, packing houses, breed associations, fair associations, and public spirited organizations.
+The following clubs were organized in 1920: Pig, dairy calf, beef calf, cooking, garment, canning, poultry, corn, potato, hot lunch, garden, bee, sheep, and rabbit. Four hundred and seventy-three clubs were organized in the state, with a total enrollment of 5,086. The value of the products produced by these clubs totaled $132,640.31. There were four outstanding club features of state-wide scope during the year: Boys and girls club week, held the first week in June at the University Farm, College of Agriculture; the Nebraska State Fair, held the first week in September; the trips to the Interstate Fair, at Sioux City, and the International Livestock Exposition, at Chicago.
+REPORTS OF THE EXTENSION SPECIALISTS
+AGRICULTURAL ENGINEERING
+Extension work in agricultural engineering may be divided into the following lines: Drainage, rural architecture, erosion, farm power, farm machinery, and home equipment.
+Fourteen drainage systems were started during the year, and those carried over from the previous year made a total of 33 systems receiving attention in 1920. These cover a total of about 1,000 acres of land. In each demonstration the extension engineer surveyed the land, furnished a blueprint and plan for installing the system, and gave general supervision to the work.
+During the year rural architecture demonstrations were conducted in sixteen counties as follows: Eighteen farmsteads, three separate building plans, and three sales pavilions.
+Two demonstrations in the control of soil erosion thru the construction of soil saving dams were started. This type of work is well adapted to a number of sections and promises to be one of the main lines of work.
+Demonstrations were conducted during the year in the use of farm tractors. This type of work is useful and interesting to farmers, in that it affords an opportunity to observe various makes of machines operating in the same field.
+</seg>
+
+            <seg id="p043">THIRTY-FOURTH ANNUAL REPORT	43
+AGRONOMY
+Nine principal lines of extension work in agronomy were outlined during the year, as follows: New crops, water erosion, pastures, soil acidity and liming, rotation, alkali spots and gumbo land, fertilizers, wind erosion, and inoculation. Only three of these subjects received attention—new crops, erosion, and pastures.
+With the view of acquainting farmers with such superior crops as Kanred wheat, Nebraska No. 21 Kherson oats, Rosen rye, Nebraska 6 and 60 wheat, quantities of seed were distributed thruout the state. These improved strains were seeded on more than 100 farms, and in practically every instance resulted in increased yield.
+A seed inspection service was established during the year. Growers of pure grains free from weed seed were given certificates. Sixteen agricultural agents gave assistance in this work and the certified list included 209 fields.
+Demonstrations were conducted in several counties to show the possibilities of using brush and dirt dams to stop water erosion. Five demonstrations involving 250 acres were held.
+Twenty meetings were held during the year to discuss the pasture problem, and 35 demonstrations were conducted with sweet clover and grass mixtures for various conditions and sections.
+ANIMAL. HUSBANDRY
+The main lines of extension work in animal husbandry in 1920 were curing of meats, livestock organizations, sales pavilions, and the promoting of livestock in general.
+Demonstrations were held in several counties to instruct farmers in methods of butchering and curing meat. Twenty-one butchering and fourteen meat cutting demonstrations were held, at which a total of 47 hogs were hung up.
+The Extension Service aided in the formation of a state wool pool in 1920, by which 200,000 pounds of wool were stored in a central warehouse awaiting a favorable market.
+Thirty-two livestock organizations were formed during the year for the purpose of promoting the livestock business. About twenty counties are now planning pavilions, or have them already constructed, for the sale of purebred stock.
+CLOTHING
+Extension specialists assisted in such problems as: the selection of suitable, durable and becoming clothing; better
+</seg>
+
+            <seg id="p044">44	NEBRASKA AGRICULTURAL EXPERIMENT STATION
+knowledge of sewing equipment and how to use it ; construction of clothing; care and repair of clothing; remodeling clothing; and hygiene of clothing.
+Eight meetings were held, with a total attendance of 539, at which line, color, and suitability of purpose were discussed and demonstrated. Stress was laid on attractive house dresses and appropriate dresses for school girls.
+Demonstrations were given to 365 people on sewing equipment and the use of sewing machine attachments. Dress-form work was started in three counties. Clothing construction work was started in two counties, a total of 90 persons receiving instruction and assistance. Care and repair of clothing was taken up in three counties in co-operation with ladies' aid societies, federated women's clubs and social clubs, with a total attendance of 136. The work in the hygiene of clothing consisted of lectures on such subjects as "Shoes and Their Relation to Health," and "The High School Girl and Her Clothes."
+DAIRY HUSBANDRY
+Extension work in dairying was discontinued from October 1, 1919, to June 30, 1920, on account of the resignation of the extension specialist. A new specialist was employed July 1 and the work renewed. Five calf clubs composed of 82 boys and girls were organized during the year. Fifty-two purebred heifers were raised by members of these clubs. Four of the clubs sent judging and demonstration teams to the State Fair, and the Douglas county team represented the state at the National Dairy Show. The specialist spent considerable time in interesting farmers in a better grade of milk cows, and two carloads of good Holsteins were shipped into Scotts Bluff county. Many more would probably have been brought into the state had it not been for the financial situation.
+ENTOMOLOGY AND RODENTS
+The extension work in entomology and rodents consists of the control of insect and rodent pests. During 1920 there was comparatively little damage in the state from insect pests. The Harlequin cabbage bug appeared and did damage in several counties. Outside this, little damage was done. The State Entomologist issued a bulletin on the control of this bug.
+San Jose scale was discovered in Howard county early in the spring. The infested area was surveyed and the scale de- stroyed.
+Rodent control work consisted in the eradication of prairie
+</seg>
+
+            <seg id="p045">THIRTY-FOURTH ANNUAL REPORT	45
+dogs and pocket gophers. Prairie dog extermination demonstrations were held in Colfax and Platte counties. A wagonload of poisoned bait was distributed at these meetings. Pocket gopher eradication work was conducted in Fillmore, Dakota, Thurston, Lancaster, and Saunders counties. The work was particularly effective in Saunders county, where 27 sections were organized. Five demonstrations with approximately 300 in attendance were given. An accomplishment of the year was that of obtaining the co-operation of railroads in the freeing of their right-of-ways. The roads instructed section foremen to obtain poison and kill gophers and dogs along the tracks.
+An agent of the Bureau of Biological Survey of the 'United States Department of Agriculture has been stationed in the state. He was given the western part of the state while the extension specialist of the College of Agriculture worked in the eastern half of the state. A survey showed that nearly 500,000 acres of land are infested with rodent pests. Of this nearly 80,000 acres have been treated in an effort to exterminate the pests, and nearly 50,000 acres have been re-treated. The work represents the co-operative efforts of the biological assistants and extension specialists in 23 counties. The cost of the rodent control work and its value are indicated as follows:
+Poisoned grain distributed	 12,121	qts.
+Number of co-operators		1,846
+Average efficiency in per cent		80.4
+Estimated saving 	$164,655
+FARM MANAGEMENT
+Exension work in farm management was conducted under the headings of farm accounts and enterprise cost records. Farm account books were distributed in co-operation with extension agents and the State Bankers' Association. The banks bought 25,000 account books for distribution in January, 1920. In addition a number of these books were sent out directly from the College. While nearly 30,000 account books were distributed during the year, it is probable that not more than 20 per cent of them were used to advantage.
+A great demand has suddenly developed for cost account records. A number of such records have been kept in several counties, the farmers being assisted by the Farm Management Demonstrator and the agricultural agents. Records have been kept on the cost of producing corn, oats, and wheat, and much valuable data obtained. The farmers of one county decided to keep at least one cost record in each school district. Other
+</seg>
+
+            <seg id="p046">46	NEBRASKA AGRICULTURAL EXPERIMENT STATION
+counties, even where there are no agricultural agents, have requested aid in determining the cost of producing crops.
+FOOD AND NUTRITION
+The principal farm and home problems which confront the people of Nebraska with reference to foods and nutrition are food preservation, food preparation, food selection, food for children, serving the meal, the hot school lunch, marketing, and the utilization of dairy products.
+Very little food preservation work was done during 1920, because this phase had been emphasized during the war and there was little call for it last year. Two canning demonstrations were held in counties not having home demonstration agents.
+A number of lectures and demonstrations in food preparation were given during the year. One of the most successful demonstrations was at a conference of rural pastors. Following this demonstration a number of requests came in from rural communities. Short courses in food preparation were conducted, with a total attendance of 675. In connection with this work, food calendars were distributed and local women asked to keep a record of food served for one month. These calendars were then submitted to the Home Agent and the Food Specialists and suggestions made regarding the proper nourishment.
+Considerable emphasis is being placed on the proper nourishment of children, statistics having revealed that there are a considerable number of malnutrition eases in the state.
+Talks and demonstrations on meal serving were given primarily at short courses. The hot school lunch work was conducted thru the boys and girls club activities, and a more detailed report will be made under that heading.
+HORTICULTURE
+Extension work in horticulture has been conducted under two main headings, namely : Pomology, which has to do with all fruits, including a small amount of forestry work ; and olericulture, which has been confined almost wholly to potato improvement work.
+The pomology work has been in reference to the care of bearing orchards, and planning and caring for new orchards. Work was conducted in the eastern part of the state to demonstrate what can be done to revive neglected orchards. Demonstrations were conducted to renovate orchards and bring
+</seg>
+
+            <seg id="p047">THIRTY-FOURTH ANNUAL REPORT	47
+them back to bearing conditions. Pruning and spraying demonstrations were also staged in several counties. Fifty-eight pruning demonstrations were given in 23 counties, with a total attendance of 500; 16 spraying demonstrations were given in six counties, with an attendance of 100; and 32 orchards other than those included in these demonstrations were visited to assist the owners in working out certain problems.
+A large majority of the old orchards in the state have died out, and the Extension Service is encouraging farmers to start new plantings. Demonstrations have been given and information distributed with the object of preventing such mistakes as planting too many trees, planting them too close together, and neglecting them after they are planted. Lists of the proper varieties were also furnished for the different sections of the state. Three demonstration orchards were established, and in addition assistance given in planting 27 orchards, with a total of 77 acres.
+Special attention was given western Nebraska potato production with reference to (1) improving the quality of seed, (2) establishing seed potato certification, (3) improved cultural methods, (4) better and more storage facilities, and (5) better market facilities. In the eastern part of the state the work was in (1) developing the quality of seed, (2) adaptation of better cultural methods, and (3) better marketing.
+The Extension Horticulturist assisted in the importation of better seed, and such seed was compared with home-grown seed. In one instance a comparison of equal acres of potatoes produced from imported seed and from home-grown seed showed values approximating $20,000 produced from the imported seed and $12,000 produced from the native seed.
+Demonstrations were also conducted to show the difference in yields of dry land and irrigated seed, when grown under similar conditions.
+The seed potato certification work was continued during 1920. Applications were received from 25 growers, with a total acreage of 660. Two inspections were made, one in the field and one in the bin. At the first inspection 380 acres were accepted and 262 acres rejected. The latter inspection found 27,000 bushels up to the proper standard. Of this amount 21,770 bushels were placed on the market, the rest being kept for home seed. This seed brought from $15,000 to $20,000 more than a like amount of uncertified seed.
+A model of a potato storage cellar has been exhibited at the State Fair and at county fairs, in an effort to encourage better storage facilities. Nine improved cellars with a capacity of 36,000 bushels were constructed during the year.
+</seg>
+
+            <seg id="p048">48	NEBRASKA AGRICULTURAL EXPERIMENT STATION
+Demonstrations were conducted in eastern Nebraska to show the advantage of urging northern or western seed. Six plantings at Valley showed an average gain of 100 bushels to the acre where seed from the north or west was used. Demonstrations conducted at Kearney showed similar results.
+HOME HEALTH AND HYGIENE
+The health and hygiene work as developed by the Extension Service consists of three main lines—home health, home nursing, and home sanitation. Home health has been promoted thru women's meetings and talks before schools. The following subjects were discussed before groups of rural women : Prenatal and infant care, child care, contagious diseases, keeping the family well, and health habits for home folks.
+Home nursing demonstrations proved popular during 1920. The women attending these demonstrations showed much interest in such simple nursing devices, as a bed cradle, heel ring, and other conveniences for home nursing. Some phase of home health and hygiene work was given in 23 counties during the year.
+MARKETING
+Extension work in marketing has consisted primarily in giving instruction as to the correct type of organization for cooperative elevators, co-operative shipping associations, co-operative stores and co-operative creameries. Many requests for information as to the proper functioning of these types of cooperative associations have been received from communities interested in either organizing or re-organizing associations. The Extension Service, thru its specialist in marketing organization, has assisted a large number of co-operative companies by discussing with them the co-operative law and thereby enabling them to follow the true principles of co-operation in making their organization.
+A notable piece of work in 1920 was that of aiding in the formation of a co-operative potato marketing organization for western Nebraska. The producers of this section have been growing large quantities of potatoes without proper marketing facilities. Material aid was given in the formation of a cooperative potato exchange, thru which the growers could market a large part of their crop.
+During the year the extension specialist in market organization has discussed co-operation and other marketing problems in 150 communities. In these meetings he has come in contact
+</seg>
+
+            <seg id="p049">THIRTY-FOURTH ANNUAL REPORT	49
+with 6,720 people. The marketing work promises to be of importance to both producer and consumer.
+POULTRY HUSBANDRY
+Poultry extension activities during 1920 consisted of demonstration farms, standard-bred poultry, boys and girls poultry clubs, and poultry culling. Twenty-six demonstration farms were established over the state for the purpose of showing the possibilities of poultry as a side line to farming. Meetings are held at these farms, records kept, and they are centers from which standard-bred poultry is distributed.
+Standard-bred poultry has been encouraged thru meetings and county poultry associations. During the county fair season the extension poultry husbandmen acted as judges and gave short talks and explanations as to what constitutes good poultry.
+Boys and girls poultry clubs have been organized in several counties with the object of stimulating interest in poultry production. Eighty-one standard clubs were organized, 36 of them completing the year's work. In addition to the value of the poultry products produced by these clubs, they won a total of $196 in prizes at fairs.
+Culling farm flocks has proved one of the most popular lines of poultry work. A total of 1,841 flocks were culled during the year, with 192,269 hens handled, and 72,077 eliminated as unprofitable. The egg production of these flocks before culling was 34,389, and after culling 33,962.
+FAIRS
+The several fairs held in the state afford an excellent opportunity to do demonstrational work. Thru these fairs the Extension Service is able to come in contact with a large number of people, and thru appropriate exhibits and demonstrations is able to accomplish much good.
+At the Nebraska State Fair, held the first week in September, boys and girls clubs from all over the state compete for the state championship demonstration team. The boys and girls also have extensive exhibits. Last year 103 boys and girls exhibited 149 pigs at the State Fair, winning prizes totaling $755.
+Other exhibits of the Extension Service at the State Fair consisted of a home economics booth showing an ideal laundry room, a booth displaying a modern dining room, another booth devoted to health and hygiene, and a fourth booth devoted to clothing.
+</seg>
+
+            <seg id="p050">50	NEBRASKA AGRICULTURAL EXPERIMENT STATION
+Three exhibits were sent out to county fairs in 1920, a total of fifteen fairs being included in three circuits. The exhibits emphasized the home orchard, purebred livestock, modern homes, balanced rations for dairy cows, modern poultry houses, improved farm equipment, etc. The home economics exhibit stressed clothing, especially the dress form, and health and hygiene.
+County fair judging has become an important piece of Extension work. During 1920 a total of 160 judges were furnished 52 fairs. In all instances the judges explain their reasons and answer as many questions as possible. This feature appeals to the exhibitor as well as the spectator. The exhibitor is always interested in knowing why he placed as he did or why he did not place at all. Many fair secretaries, in asking for judges, specifically stated that they wanted judges who would explain their placings.
+THE AGRICULTURAL EXPERIMENT STATION
+OF NEBRASKA
+FINANCIAL STATEMENT
+HATCH FUND
+Receipts
+Received by the University (State) treasurer from the treasurer of the United States, Installment for the fiscal year ended June 30, 1920, under the act of Congress approved March 2,
+	1887, (Hatch fund)	$15,000.00
+Expenditures
+Salaries......	......	..............	$ 6.449.97
+Labor 		3,864.46
+Publications 		2,034.68
+Postage and stationery		55.95
+Freight and express		7.80
+Chemicals and laboratory supplies		64.20
+Seeds, plants, and sundry supplies		148.13
+Feeding stuffs		2,187.21
+Traveling expenses	187.60
+$15,000.00 $15,000.00
+J. S. DALES,
+January 21, 1921.	Financial Secretary.
+</seg>
+
+            <seg id="p051">THIRTY-FOURTH ANNUAL REPORT	51
+FINANCIAL STATEMENT—Continued
+ADAMS FUND
+Receipts
+Received by the University (State) treasurer from the treasurer of the United States, installment for the fiscal year ended June 30, 1920, under the act of Congress approved March 16,
+1906, (Adams fund)	$15,000.00
+Expenditures
+Salaries 		$10,799.96
+Labor 		1,387.74
+Freight and express		24.84
+Chemicals and laboratory supplies		184.79
+Seeds, plants and sundry supplies 		543.85
+Feeding stuffs 		494.96
+Library 		63.00
+Tools, machinery, and appliances		1.37
+Furniture and fixtures		49.00
+Scientific apparatus and specimens		756.37
+Live stock 		366.77
+Traveling expenses 		327.35
+$15,000.00 $15,000.00
+J. S. DALES,
+January 21, 1921.	Financial Secretary.
+</seg>
+
+            <seg id="p052">52	NEBRASKA AGRICULTURAL EXPERIMENT STATION
+FINANCIAL STATEMENT—Continued
+
+SUPPLEMENTAL FUNDS
+Receipts
+Moneys received by the University (State) treasurer from other sources than the United States, for the use and benefit of the Experiment Station and Substations, for the year ended June 30, 1920:
+State
+appropriations Sales	Total
+Balance on hand July 1, 1919	$ 8,824.05	$ 6,005.22	$ 14,829.27
+Receipts 	 23,703.04	66,838.16	90,541.20
+	$32,527.09	$72,843.38	$105,370.47 Expenditures
+Salaries 	$ 4,463.72	$ 2,857.08	$ 7,320.80
+Labor 	 6,420.98	3,513.24	9.934.22
+Publications 		154.78	612.11	766.89
+Postage and stationery		38.00	388.55	426.55
+Freight and express		95.84	462.14	557.98
+Heat, light, water, and power		459.20	459.20
+Chemicals and laboratory supplies	 1,141.76	5,843.83	6,985.59
+Seeds, plants, and sundry supplies	 3,019.41	7,841.45	10,860.86
+Feeding stuffs 	 2,166.50	29,912.80	32,079.30
+Library 		29.22	29.22
+Tools, machinery, and appliances	 1,452.54	3,314.29	4,766.83
+Furniture and fixtures		225.94	225.94
+Scientific apparatus and specimens	 1,228.96	1,366.02	2,594.98
+Live stock 		5,625.14	5,625.14
+Traveling expenses 		474.38	1,293.42	1,767.80
+Contingent expenses 		358.74	2,860.54	3,219.28
+Buildings and land	 3,553.72	57.16	3,610.88
+Balance 	 7,957.76	6,181.25	14,139.01
+	$32,527.09	$72,843.38	$105,370.47
+J. S. DALES,
+January 21, 1921.	Financial Secretary.
+</seg>
+
+            <seg id="p053">THIRTY-FOURTH ANNUAL REPORT	53
+FINANCIAL STATEMENT—Continued
+APPROPRIATIONS BY THE STATE
+Experimental Substations
+Balance July 1, 1919, of legislative appropriation of 1919 from the State Activities fund for the benefit of the Experimental Substations, for the two years ending March 31, 1921
+North Platte 	$16,775.64
+Scottsbluff		 1,462.40
+Valentine 	 3,731.56 $21,969.60
+Legislative appropriation of 1919 for two
+years ending March 31, 1921
+North Platte 	$60,000.00
+Scottsbluff 		 8,000.00
+Valentine 	 10,000.00	78,000.00
+Expenditures, year ending June 30, 1920, for superintendence, supplies, labor, live stock, feed, seeds, machinery, tools, and betterment of the plants
+North Platte 	$63,710.81
+Scottsbluff 	 9,164.46
+Valentine 		 10,913.25	$83.788.52
+Appropriation balances June 30, 1920
+North Platte 	$13,064.83
+Scottsbluff	297.94
+Valentine		 2,818.31	16,181.08
+$99,969.60 $99,969.60
+J. S. DALES,
+January 21, 1921.	Financial Secretary.
+</seg>
+
+            <seg id="p054">54	NEBRASKA AGRICULTURAL EXPERIMENT STATION
+FINANCIAL STATEMENT—Concluded
+APPROPRIATIONS BY THE STATE—Concluded
+Agricultural Extension
+Balance, July 1, 1919, of legislative appropriation from the State Activities fund for maintenance of Agricultural Extension and Farmers' Institutes, for the two years ended
+March 31, 1919	$ 43,593.19
+Legislative appropriation for two years ending
+March 31, 1921	 110,265.00
+Expenditures, year ended June 30, 1920, for superintendence, clerical service, labor, lecturers'
+and workers' services, expenses and printing		$ 99,321.96
+Appropriation balance July 1, 1920		54,536.23
+$153,858.19 $153,858.19
+J. S. DALES,
+January 21, 1921.	Financial Secretary.
+</seg>
+
+         </p>
+      </body>
+      </text>
+
+</TEI.2>

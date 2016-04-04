@@ -1,0 +1,8120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00001.00008">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title>Nebraska Public Documents Project</title>
+				        <author/>
+			      </titleStmt>
+			      <publicationStmt>
+				        <publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+				        <pubPlace>Lincoln, NE</pubPlace>
+				        <idno>00001.00008</idno>
+				        <availability>
+					          <p/>
+				        </availability>
+				        <date>2007</date>
+			      </publicationStmt>
+
+         <sourceDesc>
+            <bibl>
+               <title>BIENNIAL REPORT OF THE WARDEN OF THE NEBRASKA STATE PENITENTIARY. FOR THE YEARS 1881 AND 1882.  LINCOLN, NEB.: JOURNAL COMPANY, STATE PRINTERS. 1882</title>
+               <date value="1882">1882</date>
+            </bibl>
+         </sourceDesc>
+
+		    </fileDesc>
+		    <revisionDesc>
+
+         <change>
+            <date>2007-05-23</date> 
+            <respStmt>
+               <name>Laura Weakly</name> 
+            </respStmt>
+            <item>Validation</item> 
+         </change>
+
+			      <change>
+
+
+				        <date>2007-02-22</date>
+				        <respStmt>
+					          <name>Thomas J. Wattenbarger</name>
+				        </respStmt>
+				        <item>Enrichment</item>
+			      </change>
+
+         <change>
+            <date>2006-11-28-05:00</date> 
+            <respStmt>
+               <name>OCLC Online Computer Library Center Inc.</name> 
+            </respStmt>
+            <item>Initial Creation</item> 
+         </change>
+
+		    </revisionDesc>
+	  </teiHeader>
+	  <text>
+		    <body>
+         <p>
+            <seg id="p001">
+BIENNIAL REPORT 
+
+H 
+
+WARDEN 
+
+Nebraska State Penitentiary 
+
+FOR THE YEARS i88i AND 1882. 
+
+LINCOLN. K1B </seg>
+
+            <seg id="p003">
+OFFICERS OF THE PRISON 
+
+C. J. Nobes Warden. 
+
+J. O. Carter Physician 
+
+Rev. C. C. Harris Chaplain. 
+
+GUARDS AND KEEPERS. 
+
+B. T. Clark 
+
+Day Turnkey. 
+
+Day Turnkey. 
+Night Turnkey. 
+
+B. C. Berry Night* Turnkey. 
+
+W. II. Adams Day Keeper of Cell IIou 
+
+Day Keeper of Cell House. 
+
+J. F. Kane Right Keeper of Cell H« 
+
+J. F. Kane Night Keeper of Cell House. 
+
+W. A. Peterson Yard Night Watch. 
+
+W. A. Peterson Yanl Night Watch. 
+
+II. Wagner Keeper of ETeb. Mfg. Co 
+
+II. Wagner Keeper of ffib. Mfg. Co. Shop 
+
+Geo. McXeill " I'.ruorn Shop. 
+
+Geo. McXeill " Iirooni Shop. 
+
+II. Aikey .' " Harness Shop. 
+
+W. GuABOa " Tailor Shop. 
+
+W. Gleason " Tailor Shop. 
+
+J. II aiit " Stone Shop. 
+
+F. Hart " - Shop. 
+
+W. H. Almy " -•.¦am Laundr 
+
+W. H. Almy " am Laundry 
+
+W. C. IIkmphill " Farm Force. 
+
+W. C. Hkmphill " Farm Force. 
+
+W. II. Maktin " " 
+
+W. II. Maktin 
+
+IT. Btout •• " 
+
+IT. 
+
+L. I). EWTBT " 
+
+Qcob Blaitkt Wall Qsard 
+
+Oeo. Rttrrki.t. . " 
+
+w 
+
+I 
+
+
+v </seg>
+
+            <seg id="p004">
+CONTRACTORS, FOREMEN. ETC 
+
+Hon. W. H. B. Stout, Lessee of Convict Labor, Grounds 
+Buildings. 
+
+i 
+
+R. P. Beegher, Secretary. 
+
+STONE SHOP 
+
+W. H. B. Stout Contractor 
+
+Chas . W l nderlich Superinteii 
+
+IU 
+
+ICKYARI 
+
+W. H. B. Stout. 
+
+Contractor 
+
+C. D. Stout j Baperintendei 
+
+NEBRASKA MANUFACTD 
+
+RING COMPANY S SHOPS 
+
+John Sta bler Preside 
+
+W. S. Dhshkb Sec'v and Trea 
+
+¦T. M. Wishart General Sup't 
+
+W. E. Bi.uebecker Foreman Wood Department 
+
+J"iiN Wishart Foreman Machine Shoj 
+
+(tEo. AVisuart Foreman Foundry. 
+
+D. L. Osborne Foreman Blacksmith Shot 
+
+TAILOR SHOP 
+
+David May Contractor 
+
+.1 ames Miley Foreman 
+
+HARNESS SHOP 
+
+Wittmak Bros Contractor 
+
+Albert Mudra Foreman 
+
+D. B. Shaw Supt. Collar Dpt </seg>
+
+            <seg id="p005">
+BROOM SHOP. 
+
+A. H. Dorris Contractor. 
+
+Geo. McNeill Foreman. 
+
+vETNA CORNICE AND IRON SHOP. 
+
+J. L. Pfaw Contractor. 
+
+J. W. Kerkerinq Foreman. 
+
+STEAM LAUNDRY. 
+
+Lewis Franklin Contractor. 
+
+W. H. Almy Foreman . 
+
+F. A. Graham Superintendent of Farm 
+
+J. R. Fairbanks Yar&lt;l Bom 
+
+R. P. Beecher Postmaster 
+
+A. E. Rogers Assistant Postm. </seg>
+
+            <seg id="p007">
+WARDENS REPORT. 
+
+To the Honorable Board of Public Lands and Buildin 
+
+'I 
+
+/ — II 
+
+nee with the requirements of the law, I 
+
+have the honor to present the biennial report of the Nebraska 
+
+State Penitentiary, covering the time between the 1st daf of 
+
+December, 1880 
+
+)th d 
+
+lv of November, 1882, inclusively 
+
+You are r 
+
+v referred 
+
+to the recommendations concern 
+
+le wants of the institution : to the recommendations con- 
+
+cerning appropriations tor the 
+
+general remarks, registers of prisoners in prison on the 30th day 
+
+of Xov 
+
+years, and to a st 
+
+1! 
+
+1 
+
+RECOMMENDATIONS 
+
+priations to allow these improvements and repairs to be undertaken 
+at an early date. I shall summarily expose here our want-. 
+
+WATER SUPPLY. 
+
+I recommend the sinking of an artesian well. The water supply 
+in an institution of this character ought to be abunda' I 
+many reasons.</seg> 
+
+            <seg id="p008">
+upport of the institution : to the 
+
+1882, and prisoners discharged daring the lac 
+series of tabular statements and statistics concern 
+
+Many or the recommendations made in my last biennial report 
+bave been either overlooked or for some reason have not 
+
+taken into consideration. 
+
+The improvements and repairs then urged were needed, and 
+
+it this time, after a tp*C6 of two years, are a necessity. 
+
+I earnestly ask your honorable body to gire this matter your 
+
+attention, and urm upon the Legislature the passage of appro- 
+
+
+It is hardly possible for one not acquainted with the numerou 
+
+He of our interior to realize the enormous quantity of water 
+
+»uirt-(] daily for culinary, mechanical and hygienic purp&lt; 
+)ur main water supply is derived from I well located ( 
+
+hill, southwest of the prison. A windmill furnishes the power 
+
+to elevate water from the well into a reservoir thirty feet squar 
+
+in 1 six feet deep. This well, with its present motive power 
+
+doee not furnish a sufficient supply of water. 
+
+Our only alternative, then, is to carry and haul nearly all the 
+
+r used for the purposes above related from inferior wells 
+
+provided with wooden hand pumps, scattered over the premises. 
+In what condition, in the event of a conflagration, would such 
+
+a state of affairs leave us ? 
+
+That our sewerage system — which is bad, indeed, without the 
+
+complications arising through lack of water — is not the 
+
+&gt;1 
+
+epidemic sickness and disease, is another of the numerous fact 
+
+for which there is no comprehensible explanation. The. insuffi- 
+
+iency of water to carry off excrements causes an almost con 
+
+tant stoppage of the sewage, and, it may be added, maintainin 
+
+an unhealthy and dangerous stench about the premises. 
+This question of water supply, in my estimation, dominat 
+
+all others, and should be carefully inquired into 
+
+A _Teat responsibility would rest somewhere if, in the ev 
+
+onriairration, a portion or all of the perishable property of 
+
+this institution should become the prey of flame 
+
+Many ways and means may be devised to give us the, vratei 
+
+supply so much needed ; the mention I made of an artesian well 
+
+must be taken for what it is really worth and no more. In so 
+
+doing I have had one aim in view: to present to your honorable 
+
+body, the present condition of our water supply system 
+
+CISTERNS FOR THE STORAGE OF RAINWATER FOR THE USE OF BOILERS 
+
+I recommend the construction of cistern 
+
+Ehe construction of a mammoth cistern or of a number of cis- 
+8, is a necessity, a fact I fully recognized in mj 7 last biennial 
+,rt. 
+
+8 
+
+F Till </seg>
+
+            <seg id="p009">
+9 
+
+NEBRASKA STATE PENITENTIARY. 
+
+The hard*alkali water we are compelled to use is detrimental 
+) the generation of steam and badly corrodes the boii 
+
+• 
+
+We have thirty thousand .square feet of rooting surface which, 
+?ith the proper cistern capacity, would allow us to collect water 
+
+.v 
+
+efficient to run our steam boilers 
+
+and preserve them for longer 
+
+M' 
+
+INTRODUCTION OF BA1 
+
+INTRODUCTION OF 
+
+A- 
+
+IN THE PRISON 
+
+IN THE PRISON. 
+in this prison. 
+
+I recommend the introduction o 
+
+I recommend the introduction o 
+
+The general use of gas through 
+
+Pin- genera] use of gas through 
+
+nil quarters of the prison, m 
+
+11 quarters of the prisoa, VM 
+
+10 the object of a recommendati&lt; 
+
+&gt;n in my last biennial report. 
+
+&gt;n in my last biennial report. 
+employ, is kerosene. The 
+
+The only lighting agency we 
+
+employ, is kerosene. The 
+
+jmeen in the use of kerosene are fully realized; many confla 
+
+Hirers in the use of kerosene ai 
+
+is owe their destructive character to its use 
+
+The- introduction of gas into the prison would involve some 
+xpense, but such expense, in my opinion, could not be com- 
+
+ar 
+
+EPAIRS OF WARDEN'S QUARTERS AND OF RECEPTION ROOM. 
+
+I recommend that proper repairs be made in the Warden*! 
+arters and in the reception room, and that the proper furni- 
+
+lre be suj 
+
+This I also brought to your honorable body's attention in my 
+
+ist biennial report. There remains only for me to add that re 
+
+it were judged necessary two years ago, are at this 
+
+I desire to especially call your attention 
+
+institution. Disgraceful remarks 
+
+&gt;m at 
+
+le as to the dilapidated condition of this room, and 
+
+r 
+
+&gt; 
+
+IRS IN 
+
+ING CONTAINING CHAPEL AND GUARDS* QUARTERS 
+
+I recommend proper repairs to be made in the 1 building 
+
+taining the chapel and guards" quarten 
+
+t 
+
+
+
+nstant danger of usin&lt;* kero- 
+
+jwledge that the situation fully 
+
+ule part of my recommendations in my laat 
+
+il rep&lt; </seg>
+
+            <seg id="p010">
+10 
+
+REPORT OF 
+
+Till 
+
+Che greater part of the ceiling of the chapels and gn 
+
+room are in a very precarious condition. In many pla 
+
+• •ring is gone and nearly the entire surface is loose and 
+
+hardly holds to the lathing. Several causes for such a situatio 
+
+then assigned — the leakage of the roof, and the water run- 
+
+ning throagh from the water closet and bath room of the guards 
+
+. into the chapel in the lower story. The roof ha 
+
+repaired and the leakage entirely stopped, the trouble restir 
+
+with the water closet and hath room in guards" qua 
+
+I recommend* that proper repairs be made and that the entir 
+
+ceiling of the guards' room and the entire ceiling of the chape 
+
+part of the inside walls of the guard:-" room and chap* 
+
+II benevolence of friends whose names will not soon be forg 
+bv those whose moral ideas and education are daily improv 
+the reading thus placed within their reach. 
+
+While urging the necessity of an increase of the r 
+
+tks we now have, I would particularly insist upon the pr 
+ty of taking good care of those in our possession. 
+
+The medium of a good library, well !, is one of t 
+powerful means of reform advocated by prison autho 
+
+
+PRISON HOSPITAL 
+
+I recommend the building at an early date of a hospital withii 
+¦rison walls. 
+The necessity of a hospital in which care of the sick can b 
+D was referred to in my last biennial report. 
+
+e 
+
+PRISON LIBRARY. 
+
+I recommend that a judicious camber of new and useful book? 
+— .:• Last ftve hundred — be issued to the Prison Library, ami 
+
+hat the rebinding of the books and volumes in need of it be at- 
+
+ended to at once. 
+
+the Prison Library is indeed in a very poor condition. Wt 
+most of the material composing the library to the kindneu </seg>
+
+            <seg id="p011">
+11 
+
+XEI 
+
+SKA STATE 
+
+l'KNITKXTIARV 
+
+Till 
+
+lisposable plac 
+
+bave is a dark, an ventilated room 
+
+nd of the chapel. The ventilation is made through 
+
+i small grated window pierced in tl i • 
+
+in the eastern wall of the cell 
+
+house building, and through a window adu 
+
+house building, and through a window admitting light from the 
+
+chapel. 
+The mention that such a place is totally u 
+
+Th 
+
+itallv unfit for the use made 
+
+it 
+
+place 1 
+
+Df it is scarcely necessary. 
+
+ol 
+
+a 
+
+Iv l 
+
+SOLITARY. 
+
+L1TA 
+
+tv 
+
+I recommend the building of a solitary. 
+
+The necessity of a solitary is pressing. 
+
+1 
+
+r\ 
+
+I' r 
+
+n 
+
+We have no means to carry out th- 
+
+Wi 
+
+n 
+
+in 
+
+arr 
+
+Oil 
+
+entencea ot prisoners to 
+
+solitary confinement, though w« havo p 
+
+solitary confinement, though we have prisoner! under 
+
+sentences. I am happy to remark that this ] 
+
+sentences. I am happy to remark that this practice of sentencing 
+
+to solitary confinement, worthy only of t 
+
+wort 
+
+&gt;nly of the barbarous inqui- 
+
+IV 
+
+sitional ages, is being done away with by 
+
+with bv our courts. Human 
+
+nal ag 
+
+.1, 
+
+t\ 
+
+av 
+
+feeling revolts at the idea of a human beiug 
+
+feeling revolts at the idea of a human being sentenced to solitary 
+
+tiv 
+
+confinement for a period of fire or ten year 
+We need a solitary for the successful pu 
+
+lent tor a period 
+
+)i" 
+
+We need a solitary for 
+
+ul punishment and return 
+
+of refractory and troublesome prisoner-. 
+
+of refractorv and troublesome prisoners. The only means w&lt; 
+
+
+have at our disposal are the dark cells at th 
+
+have at our disposal are the dark cells at the west end of the tier 
+
+i 
+
+of cells in the cell house building. 
+We cannot afford to let a refractory and 
+
+ot 
+
+in 
+
+milmng 
+
+We cam 
+
+torv and troublesome pr:- 
+
+r&lt; 
+
+a reirt 
+
+it 
+
+i 
+
+in punishment within these cells ereal 
+
+reate a disturbance that can be 
+
+n puni 
+
+n 
+
+guarded against only by the employment o 
+
+*uarue&lt;l against only by the employment ot means repugnant in 
+
+IV 
+
+the extreme and still we must at any 
+Hence the pressing necessity tor the buil 
+I farther suggest that the hospital reco: 
+
+itary be enclosed witlnr 
+
+tl 
+
+ll 
+
+&gt;ital 
+
+an 
+
+Vi 
+
+K 
+
+181 \VA 
+
+ATE 
+
+I 
+
+dou 
+
+'1 
+
+r the building of a solitary 
+
+pital recommended above and 
+
+le building: the solitary on th 
+
+i cage gate be provided for tlu 
+
+the extreme and still we mu.si at any cost keep order and silence. 
+
+in 
+
+\ 
+
+lat 
+
+rhi 
+
+r I fullv recommend to the attention of 
+
+b 
+
+your honor; </seg>
+
+            <seg id="p012">
+12 
+
+REPORT OF TH 
+
+ii.ll our hauling, all our freight, everything manufactured 
+iin the walls, goes in and out through the east gate, which is 
+rigle wooden structure. In view of the increased business 
+e and the increased number of inmates and the possibility ot 
+utinv or disturbance among them, makes it absolutely neoes- 
+
+V 
+
+Kin my opinion, that the old wooden gate should be replaced 
+the double iron cage gate above referred to. 
+
+CONCERNING GUARDS AND KEEPERS 
+
+I recommend that the guards and keepers of this institution 
+be provide 1 by the State with two suits (if uniform clothing. 
+The necessity and practicability of this recommendation may 
+at first sight leave some doubt in the mind of your honorable 
+body, but I am persuaded that such a course should be followed. 
+
+E would distinguish the agent 
+numerous citizens employed 
+men, etc., as well as from 
+&gt;ugh the prison. 
+
+Krisons of other States have a&lt; 
+re of a single instance where 
+sire to go back to the old sys 
+
+In comparing the salaries paid 
+
+s employed by the State from 
+in the different departments as 
+the inanv visitors groins' daily 
+
+v 
+
+opted that plan, and I am not 
+regrets have been expressed or 
+em. 
+
+in other institutions 
+
+i 
+
+I keepers, I am compelled to remark that we stand at the last 
+i. As a rule, they are an industrious, and deserving class of 
+i, bringing earnestness in the fulfilment of their duties that 
+far from being pleasant and not devoid of danger. Taking 
+;e facts into consideration, I realize that the salaries paid them 
+ht to be more adequate to the time and labor they furnish the 
+c and suggest to your honorable body the propriety of 
+ways to reach such an end. 
+
+PHOTOGRAPHS OF PRISONEI 
+
+In September 1880, I caused to be taken the photographs of 
+the prisoners in prison, and since that time I have had the 
+)tographs of the prisoners taken as tiny came. One negative</seg> 
+
+            <seg id="p013">
+13 
+
+NEBRASKA STATE PENITENTIARY. 
+
+photo of their appearance at their arrival and one negative photo 
+
+ppearanee when smooth-faced is secured in all cast 
+
+oi 
+
+The negatives are kept by the photographer, who delivers eopi 
+of them to the Warden when requested, besides providing tl 
+
+iffice with one card photo of each negative taken. A coir 
+smbodyine the above was made with Mr. Wheat, of Lincoln, 
+
+rask 
+
+Mr. Wheat having disposed of his business to Messrs. Kelley At 
+
+i 
+
+Co., arrangements have been made with those gentlemen to the 
+
+satisfaction of all part 
+
+I recommend that the bills of Mr. Wheat and Messrs. Kelk-v 
+
+Co. be taken into consideration and paid- 
+
+TONE STEPS OF MAIN ENTRANCE 
+
+I recommend that a new set of steps to the main entrant*; 
+uling in Warden's house and prison, be provided. 
+
+The steps in actual use are worn, split and very much deterior 
+
+*ted by the weather. The necessity of a new set of good hard 
+
+stone steps is pressin 
+
+APPROPRIATIONS. 
+
+RECOMMENDATIONS 
+
+I recommend that the following estimated amounts be appro- 
+
+priated for the use of the Nebraska State Penitentiary for the 
+two fiscal years commencing April 1, 1883, ending March 31, 
+
+1885 
+
+For the keeping, care and custody of 230 prisoners 
+from April 1, 1883 to -Sept. 30, 1883, inclusively, at 
+
+50 cents per day $21,046.&lt; 0 
+
+For the keeping, care and custody of 230 prisoners, 
+from Oct. 1, 1883 to March 31, 1884, inclusively. 
+
+45 cents per day 18,940.50 </seg>
+
+            <seg id="p014">
+14 
+
+REPORT 
+
+F ill 
+
+F' &gt;r tlu.' kee] . i e and cust( 
+
+Iv of 245 prisoiu 
+. inclusively 
+
+from April 1884 to March 31 
+
+Iv, nt 
+
+45 cents per day 40,241.25 
+
+For improvements, repairs, furniture, etc, as 
+recommendationi made in thi~ report 
+Total 
+
+per the 
+18.000.00 
+$98,226.75 
+
+Total 
+
+i 
+
+I have omitted nui ki hit separate estimates for each recom- 
+
+I have omitted making Beparate esti mutes for each recom 
+
+mendation herein made, but have embodied them in the 
+
+iiKiidatioii herein made, but have embodied them in 
+
+int above set down. My estimate is certainly below the fig 
+
+amount above set down. My estimate is certainly below the figpj 
+to carry out the recommendation made. 
+
+•• to carry out the recommendation mad 
+
+GENERAL R KM ARKS. 
+
+GENERAL REMARKS. 
+
+INSANE PRISONERS. 
+
+IN-ANK PRISONERS 
+
+fhis subject demands the attention of your honorable body. 
+
+This subject demands the attention of your honorable body. 
+re is no law in our statute providing for the disposition of 
+M prisoners. A provision ot that kind ought to be made at 
+.rly date. The fad that I have been ¦•(impelled to keep an 
+ier in his cell tor more than one year, leads me to 
+
+There is no law in our statute providing tor the disposition 
+
+ne prisoners. A provision ot that kind ought to be made at 
+
+ui early date. The fact that I have been .•(impelled to keep an 
+
+tor more than one year, 
+
+make this recommendation. 
+
+ONDITION OF THE WARDEN OF THI 
+
+I'ENTTENTI 
+
+The condition of the Warden of this in 
+
+e to place bei 
+
+nir honorable bodviorcoi 
+
+Mv opinion, that it is behind the average condition of the 
+
+warden* and superintendents of similar institutions throughout 
+
+ountrv, alter the lew remarks [ take the liberty to offer will, 
+
+I am confident, be shared by your body. 
+
+The original " Act to provide for the erection of a penitent 
+
+and for the ¦-.ir* ¦ ,. State convicts,</seg> 
+
+            <seg id="p015">
+1EUKASKA STATI 
+
+'EXITENTIARY 
+
+15 
+
+\ 
+
+15 
+
+T 
+
+&gt;fficen of the penitentiary 
+
+principal keeper 
+
+n, who 
+
+Board of [nspectors, 
+
+1 a 
+
+&gt;h " 
+shall be paid to the offio I 
+salary and compensation, to-wit: 
+
+action 29 
+Prison tl 
+
+be paid 
+
+veai 
+
+t'cn hundred dollars " 
+
+P.. 
+
+it 
+
+"Tl 
+
+varden is entitled to the Dl 
+
+iiititled to tin.- i 
+
+i. 
+
+in, and 
+
+• necessary fuel and light for the 
+
+ssan 
+
+jmmon stock of the jirison, free 
+
+trorn the 
+
+n 
+
+ii 
+
+ar 
+
+Tl 
+
+our statute, defining the con- 
+
+i! 
+
+provisions 
+
+0 
+
+he warden of th 
+
+nstitution, and the same hare, 
+
+r 
+
+jvithout chancre, been in force for nearly thirteen yeai 
+
+Without stopping to point out the condition of heads of others 
+our State institutions, I shall present ¦ synopsis of the condign 
+of some of the wardens or superintendent! of other similar 
+stitutions, as per their official statements: 
+
+s northern Illinois state prison, at Joliet 
+ary of two thousand five hundred dollar 
+1 with house, fuel.lijrht and board tor him 
+
+v 
+
+82500 
+
+v 
+
+prison, at Lansing, recer 
+
+Kansas -tat 
+
+•0.00) ; is furnished 
+
+xm\ family 
+
+nt of the Detroit house of correction, Detroit 
+
+yearly salary of three thousand dollars 
+
+'uel. li&lt;rht and board for 
+
+s 
+
+Mi 
+
+State prison, at Btillwater, re- 
+
+mid 
+
+ollara 
+
+*'en 
+
+Wisconsin State prison, at Waupan, reo 
+
+i 
+
+n state i»r 
+
+rv of two thousand d&lt; ; r- s?2jihii . i- in with </seg>
+
+            <seg id="p016">
+16 
+
+REPORT Of 11IE 
+
+house, fuel and light, and board for himself, family and gut 
+vith team of horses and carnages. 
+
+The warden of the Southern Illinois penitentiary, at Chester, 
+rasa y.arly salary of twenty-five hundred dollars ($2,500), is 
+furnished with house, fuel and light and board for himself and 
+ily. 
+
+IPhe warden of the Missouri State prison, at Jefferson, receive 
+annual salary of twenty-two hundred and fifty dollars ($2,250 
+urnished with fuel, light and servants, male and female. 
+
+Erarden of the California State prison, at St. Quentin, rt 
+: annual salary of three thousand dollars ($3,000), is fur 
+ed with house, fuel, light, board and all household expense.- 
+
+Ehe warden of the Massachusetts State prison, at WarnervilU 
+ives an annual salary of thirty-five hundred dollars ($3,500 
+rnished with fuel, light, house and furniture. 
+
+Mv intention in bringing this matter to your attention has not 
+. to complain at my present comparatively low salary and 
+lew privileges in a personal way, but rather to call your attention 
+
+character with the hope that you 
+
+her in titutious of 
+
+selves anil the Legislature may see what seems tome an appar 
+injustice. 
+
+FOREIGN CONVICTS 
+
+ration of your honorabl 
+
+I beg leave to bring to the 
+
+body one of the provisions of tl 
+
+A'T extending the contract for the leasing of the penitentiary 
+
+Penitentiary ground* and convict labor to W. II. B. Stout, upon 
+
+certain conditions." Approved February 26, 1879 
+otion 1 reads : 
+
+• 
+
+Provided further, that after January 1, 1884, there shall only 
+
+be leapt at said penitentiary Nebraska prisoner 
+
+r.. if permitted to ¦tend on our statute, will, ir 
+opinion, cause annoyances of a serious character.</seg> 
+
+            <seg id="p017">
+17 
+
+NEBRASKA BTAT1 PENITENTIARY. 
+
+At the time mentioned in the above provision then will remain 
+confined in this penitentiary a certain number of United States, 
+New Mexico and Wyoming Territory prisoner! whose sent*- 
+
+we will find ourselves entangled in the following dilemma: That 
+we are commanded by the courts of other states and territories, 
+
+to keep in custody prisoners, whom, according to a law of our 
+State, we are commanded not to keep. 
+
+The consequences such a situation would produce are plainly 
+isible and I shall not insist. 
+
+I recommend the repeal of the provision of the law referred 
+), or its amendment in a way consistent with the situation. 
+
+PRISON PHYSICIAN AND CHAPLAIN. 
+
+The medical and religious departments of the prison are under 
+the respective charge and care of Dr. J. O. Carter and Rev. 
+C. C. Harris, of Lincoln, and could not be entrusted to better 
+hands. 
+
+As a practitioner, Doctor Carter stands in the foremost rank 
+of the profession, while the ability and success of Rev. Harris, 
+as a divine, are recognized facts. 
+
+Both are gentlemen — the choice of whom to the position they 
+occupy is an honor to the Board — using every endeavor and devoting 
+a great part of their time to the physical and mora wellfare 
+of the inmates of the prison. 
+
+Of our official as well as private relations, I cannot but think 
+highly, and publicly tender them my official acknowledgments. 
+
+I would refer your honorable body to their respective reports 
+herewith appended. 
+
+o 
+
+
+will bo unexpired, besides those sentenced for life. 
+
+The sentences of all the foreign prisoners, as shown by the mit- 
+
+timus by virtue of which they are held, implicitly declare that the 
+
+prisoners shall be confined in the Nebraska State penitentiary, 
+
+and formally command the Warden of said penitentiary to re- 
+
+ceive and keep said prisoners in his custody. 
+
+At the time above mentioned, on the 1st day of January, 1884, 
+
+
+I 
+
+xtra 
+
+|.O 
+
+i 
+
+'1 
+
+1 
+
+HT 
+
+Ut </seg>
+
+            <seg id="p018">
+GUARDS AND KEEPERS. 
+
+The force actually employed number twenty. 
+
+I desire to express my thanks and acknowledgments to i 
+and all of them for their strict attention and vigilance in 
+performance of their duties, as well as for their obedience 
+determination in obeying orders. 
+
+FARE OF CONVICTS. 
+
+K. table herewith appended gives a summary of the con 
+hen regular bill of fare, subject, however to the varin 
+additions the vegetable growing season enables us to n 
+
+In recognition of Independence Day, Thanksgiving Day 
+Christmas, prisoners are not required to labor, and an 
+meal, consisting of turkey, chicken, pie, fruit and pastry i: 
+1 them. 
+
+The prison diet, in quality, is plain, nutritious and varied u 
+
+tiomical and healthful basis. Bread, for instance, whic 
+aeh importance in prison diet, is indeed very good and 
+ed. In quantity it is abundant; each prisoner is allowc 
+share. Extra diets are furnished whenever ordered by 
+on physician. 
+
+I 'he rations when prepared are taken by the prisoners as the 
+ie in from the workshops at the ringing of the bell, to the 
+t, which are kept constantly supplied with salt, pepper, vin 
+, etc. This manner has thus far given full satisfaction ami 
+my estimation far better, in relation to discipline, than tl 
+\\ii: room system in use in some prisons. 
+
+DISCIPLINE. 
+
+The enforcement of proper discipline is one of the most d 
+cult duties of the Warden. While I have been at the hea&lt; 
+this institution my desire has always been to treat prisor 
+human- v. to keep constantly in sight that they are here for r 
+tshment but above all for reform, and while aiming to sec 
+
+18 </seg>
+
+            <seg id="p019">
+19 
+
+I! 
+
+SKA STATE PEMTK.NTIARY. 
+
+good order and \v 
+Prison, I have n&lt; 
+
+in the necessary rules of the 
+
+spire all with a hope of rc- 
+
+speetability after they have paid their debt to society. 
+Humane treatment makes what is termed ;i good prisoner, an 
+
+Humane treat 
+
+rmed ¦ good prisoner, and 
+
+I propose to act upon the theory that the management which in 
+
+I propose to act upon the theory that the management which iin- 
+
+i 
+
+o 
+
+proves the temper, character and conduct of a prisoner, most I 
+
+.•onduct of a prisoner. m\\-\ M 
+
+prov 
+a loj 
+
+racter a 
+
+i 
+
+1 
+
+a logical consequence, tend to the making of a hetter man. 
+A kind and appreciative recognition of proper deportnu-' 
+
+nd 
+
+making or a better man. 
+
+nition of proper deport) 
+
+r 
+
+o 
+
+and a due performance of the duties imposed on the prison 
+
+can in no way whatever conflict with the inevitable punishmei 
+
+r confl 
+
+can 
+
+v w 
+
+that should instantly follow an infraction of the rules 
+
+that should instantly follow an infraction of the rules. 
+On the contrary, it brings out in such a strong contrast tw 
+
+ry, it brings out in such a strong coir' 
+
+On 
+
+lines of conduct the prisoner is at liberty to pursue. The dul 
+
+lines of conduct the prisoner is at liberty to pursue. The du 
+
+est and most unintelligent of them cannot help seeing tli; 
+
+est and most unintelligent of them cannot help seeing that 
+
+his comparative comfort or continual suffering is a matter of h 
+
+his comparative comfort or continual suffering is ¦ matter of 
+
+own choice. 
+
+own ch( 
+
+STATISTICS. 
+
+STATISTICS. 
+
+The statistics presented in this biennial report cover all tl 
+
+The statistics presented in this biennial report cover all the 
+
+requirements of the law upon the subject, and go far beyond i 
+
+requirements of the law upon the subject, and go far beyond in 
+
+order to show all the minutte of prison working, and great 
+
+order to show all the minutse of prison working, and great can 
+
+has been taken to obtain data approximating correctness. 
+The somewhat lengthy compilation upon the several MBtW 
+
+has been taken to obtain data approximating correctness. 
+The somewhat lengthy compilation upon the Beyers] &gt;eii:enc&lt; 
+
+imposed for each crime in each of our six judicial districts, hi 
+
+imposed for each crime in each of our six judicial districts, lias 
+
+also been made. Your attention is respectfully called to the di 
+
+also been made. Your attention is respectfully called to the dis- 
+
+criminative character of the general result shown in tables L 
+
+character of the general result shown in tables LV 
+
+crin 
+
+and LVI 
+
+and LVI. 
+I have, for the better understanding of them, divided tt 
+
+I have, for the better understanding of them, divided the 
+
+statistical tables into tour parts 
+
+statistical tables into four parts: 
+1. Statistics covering the general business of receipts and di 
+
+1. 
+
+chs: 
+
+prisoners up to November 30, 1882 
+
+charge of prisoners up 10 November 30, 1883. 
+¦1. Statistics covering prisoners committed during the two la 
+
+rering prisoners committed during the two last 
+
+¦&gt; 
+
+fiscal years commencing December 1, 1880, ending November 3 
+
+December 1, 1880, ending November 30 
+
+lxsu. 
+
+-[MM </seg>
+
+            <seg id="p020">
+20 
+
+REPORT OF THE 
+
+t. Statistics covering prisoners in prison on the 30th day of 
+November, 1882. 
+
+t Tables and statements covering prisoners in prison held for 
+account of sundrv counties, states and territories. 
+
+The statistics covering the general receipt and discharge of 
+prisoners up to November 30, 1882, are contained in the followii._r 
+tables : 
+
+Kable I shows (he number of prisoners received at this institusiiice 
+its foundation in 1869; the number of prisoners dis•ged, 
+and the number in prison November 30, 1882. 
+
+Table II shows the number of prisoners in prison December 1, 
+188 '. the Bomber received up to date, the number discharged up 
+to date, and the number left in prison November 30, 1882. Also, 
+the enumeration of prisoners, and a summary showing the 
+
+increase for the two years ending November 30, 1882. 
+
+(able III shows the number of prisoners in prison on the 30th 
+¦ &gt;: November, 1880, the monthly receipt and discharge of 
+oners since, the number in prison at the close of each month 
+the monthly average from the 1st day of December, 1880 to 
+30th dav of November, 1882. 
+
+IV summary appended to Table III shows the monthly average 
+prisoners in prison for the two years ending November 30, 
+it), the monthly average for the two years ending November 
+1882, and the increase for the two years ending November 
+1882. 
+
+1'he statistics covering prisoners committed during the two 
+rs commencing December 1, 1880, ending November 30, 1882, 
+contained in the following tables : 
+
+Table IV shows by counties the total number of commitments 
+during the two years ending November 30, 1882, also the per 
+cent, of total commitments for each county and for each year in 
+each of the counties named. 
+
+Enable V shows the number of prisoners received monthly 
+m each of the several counties during the two years ending 
+Number 30, 1882. </seg>
+
+            <seg id="p021">
+NEBRASKA 
+
+TATE PENITENTIARY. 
+
+21 
+
+Table VI shows the different crimes for which the priaonen 
+
+received during the two years ending November 30, 1882, were 
+
+committed, it being a monthly exhibi 
+
+Table VII shows the number of prisoners received bj 
+
+commitments for each occupation tor each vear and for the two 
+years. 
+
+Table X shows the terms of sentence and number of each 
+term; the total number of years covered by each term of sentence, 
+and the average length of sentence imposed on prisoners 
+committed during the two years ending November 30, 1 W 82, life 
+sentences being excluded from the average. 
+
+Table XI shows the crimes for which prisoners have been committed 
+the two years ending November 30, 1882; the number of 
+convictions for each crime ; the terms imposed for the several 
+crimes; the longest, shortest and average terms of sentence im- 
+
+posed 
+
+Table XII shows the different crimes of the prisoners received 
+during the two years ending November 30, 1882; the per cent. 
+of commitments for each crime for each rear, and for the two 
+
+vears. 
+
+Table XIII shows the several ages of the prisoners committed 
+during the two years ending November 30, 1882, and the per 
+
+cent, of convictions for each age. 
+
+Table XIV shows the ages of the prisoners committed during 
+the two years ending November 30, 1882, in their relation to the 
+crimes for which prisoners have been committed. 
+
+tence during trie two years ending November 30, 1882; the 
+
+the 
+
+number sent from each county named; the crimes of which they 
+
+have been convicted, and the number convicted of each crime. 
+
+Table VIII shows the occupation of prisoners committed du- 
+
+ring the two yean ending November 80, 1882, and the relation 
+
+of the various occupations to the crimes for the commission of 
+
+which, such prisoners have been committed. 
+
+Table IX shows the occupation of prisoners committed during 
+
+the two years ending .November 30, 1882; ftlao the per cent, of </seg>
+
+            <seg id="p022">
+22 
+
+REPORT OF THE 
+
+Table XV .shows the nativity of the prisoners committed durlie 
+two years ending November 30, 1882, in relation to the 
+crimes for which prisoners have been committed. 
+Table XVI shows the nativity of the prisoners committed during 
+the two years ending November 30, 1882; also the per cent. 
+
+B births in the United States 
+ir and for the two yean. 
+
+Kable XVII shows the religioi 
+committed during the two ye 
+the relation of the various 
+les for which prisoners were 
+
+and foreign countries for each 
+
+s denominations of the prisouin 
+ending November 30, 1882, 
+religious denominations to the 
+committed. 
+
+Table XVIII shows the religious denominations of the prisoners 
+committed during the two years ending November 30, 1882, 
+the per cent, of commitments for each denomination for 
+each year and for the two years. 
+
+table XIX shows the educational condition and moral habits 
+he prisoners committed during the two years ending Novern-30, 
+1882, in their relation to the crimes for which prisoners 
+3 been committed. 
+
+table XX shows the educational condition and moral habits 
+he prisoners received during the two years ending Novem-30, 
+1882, also the per cent, for each year and for the two 
+
+I Cable XXI shows the educational condition and moral habits 
+the prisoners committed during the two years ending Xovem¦ 
+30, 1882, in relation to their several ages. 
+
+Table XXII shows the educational conditions of the prisoners 
+ved during the two years ending November 30, 1882, in re:i 
+t&lt;&gt; their place of birth. 
+Table XXIII shows the moral habits of the prisoners re¦d 
+during the two years ending November 30, 1882, in relation 
+to their place of birth. 
+Table XXIV shows the political opinion and the statement as 
+to the guilt or innocence of the prisoners committed during the </seg>
+
+            <seg id="p023">
+23 
+
+NEBRASKA 
+
+TATE I'KMTtNTIAliY 
+
+two yrars ending November 30, 1882; the relation of political 
+opinions and statement of guilt or innocence to the crimes for 
+which prisoners have been committed. 
+
+Table XXV shows the political opinion and the statement as 
+to the guilt or innocence of the prisoners committed during the 
+two years ending November 30th, 1SS2; also the per cent, of 
+commitments tor each year and for the two years. 
+
+Table XXVI shows the conjugal and social relations of the 
+prisoners committed during the two years ending November 30, 
+1882, and the relation of the conjugal and social relations to the 
+crimes for which prisoners have been committed. 
+
+Table XXVII shows the conjugal and social relations of the 
+prisoners committed during the two years ending N nrember 30, 
+1882; also the per cent, for both conjugal and social relations for 
+
+l&gt; 
+
+each year, and for the two year 
+
+Table XXVIII shows by judicial districts, the crimes for which 
+prisoners have been committed during the two years ending November 
+30, 1882; the number of convictions for each crime ; the 
+terms imposed for the several crimes; and the longest, shortest, 
+and average terms of sentence imposed in each judicial district, 
+life sentences being excluded from the average. 
+
+Table XXIX shows the number and percentage of the commitments 
+from each of the judicial districts, for the two years ending 
+November 30, 18^2; also the average for each of the judicial 
+districts for each year, and for the two years. 
+
+Table XXX is a summary of the sex and color of the prisoners 
+committed during the two years ending November 30, 1882, and 
+shows also the per cent, for each year, and for the two year-*. 
+
+The statistics covering prisoners in prison November 30, 1882, 
+are contained in the following tables : 
+
+Table XXXI shows the different crimes for which the prisoners 
+in prison on the 30th of November, 1882, were committed, 
+and the several years of their respective commitments. </seg>
+
+            <seg id="p024">
+&gt; 
+
+i 
+
+ITuble XXXII shows by counties, the number of commitment 
+the prisoners in prison on the 30th of November, 1882; als&lt; 
+; per cent, of commitments for each of the several count: 
+
+Enable XXXIII shows the number of prisoners received by 
+tence remaining to prison on the 30th of November, 1882; 
+
+the number sent from each county named : the crimes for which 
+
+nave been convicted, ami the number convicted of eacr 
+
+crime. 
+
+Eable XXXI V ihowi the several counties of the prisoners in 
+on on the 30th of November, 1882, in relation to the several 
+¦8 of their commitment. 
+
+Eable XXXV shows the several occupations of the prisoners 
+riaon on the 30th of November, 1882, in relation to the 
+ies for which thev were committed. 
+
+r'aKle XX XVI shows the occupation of prisoners in prison on 
+30th of November, 1882 ; also the per cent, of commitments 
+each kind of occupation. 
+
+Table XXXVII shows the terms of sentence and number of 
+each term ; the total number of years covered by each term of 
+sentence, and the average length of sentences imposed on prisoners 
+remaining in prison on the 30th of November, 1882 ; life 
+sentences excluded from the average. 
+
+i'able XXXVIII shows the crimes committed by the prisonin 
+prison on the 30th of November, 1882; the number of 
+viction8 for each crime ; the terms imposed for the several 
+lies; and the longest^ shortest, and average terms of sen?e 
+imposed. 
+
+Table XXXIX shows the several ages of the prisoners in 
+prison on the 30th of November, 1882, also the per cent, of each 
+
+Kable XL shows the ages of the prisoners in prison on the 
+i of November, 1882, at the time of their commitment in 
+tion to the crimes for which prisoners have been committed. 
+
+Table XLI shows the nativity of the prisoners in prison on 
+
+24 </seg>
+
+
+            <seg id="p025">
+25 
+
+NEBRASKA STATE PENITENTIARY. 
+
+the 30th of November, 1882. in relation to the crimes for which 
+prisoners have been committed. 
+
+Table XLII shows the nativity of the prisoners in prison on 
+the 30th of November, 1882, also the per cent, of births in the 
+United States and foreign countries. 
+
+Table XLIII shows the religious denominations of the prisoners 
+in prison on the 30th of November, 1882, also the relation of 
+the various religious denominations to the crimes for which prisoners 
+have been committed. 
+
+Table XLIV shows the religious denominations of the prisoners 
+in prison on the 30th of November, 1882, also the per cent, 
+of commitments for each denomination. 
+
+Table XLV shows the educational condition and moral habits 
+of the prisoners in prison on the 30th of November, 1882, in their 
+relation to the crimes for which prisoners have been committed. 
+
+Table XLV shows the educ 
+of the prisoners in prison on 
+the per cent. 
+
+ational condition and mora. habits 
+the 30th of November, 1882, also 
+
+Table XLVI shows the educ 
+of the prisoners in prison on 
+relation to their ages. 
+
+ational condition and moral habits 
+the 30th of November, 1882, in 
+
+Table XLVII shows the educational condition of the prisoners 
+in prison on the 30th of November, 1882, in relation to their 
+
+place of birth. 
+
+Table XL VIII shows the moral habits of prisoners in prison 
+on the 30th of November, 1882, in relation to their place of 
+birth. 
+
+Table XLIX shows the political opinions and the statement as 
+to the guilt or innocence of the prisoners in prison on the 30th 
+of November, 1882, also the relation of political opinions and 
+statement as to the guilt or innocence to the crimes for which 
+prisoners have been committed. 
+
+Table L shows the political opinions and the statement as to 
+the guilt or innocence of the prisoners in prison on the 30th of 
+November, 1882, also the per cent. </seg>
+
+            <seg id="p026">
+26 
+
+REPORT OF THE 
+
+I Fable LI shows the conjugal and social relations of the pris;rs 
+in prison on the 30th of November, 1882, also the relation 
+the conjugal and social relations to the crimes for which pris- 
+
+oners have been committed. 
+
+E'able LII shows the conjugal 
+r3 in prison on the 30th of 
+t. 
+
+and social relations of the pris- 
+November, 1882, also the per 
+
+Table LIII shows by judicial 
+
+districts, the crimes for which 
+
+the prisoners in prison on the 30th of November, 1882, have 
+h— committed, the number of convictions for each crime, the 
+terms imposed for the several crimes, and the longest, shortest 
+an&lt;l average terms of sentence imposed in each judicial district. 
+Life sentences are excluded from the average. 
+
+Eible LIV shows the number and per cent, of the commitments 
+l each of the judicial districts, of the prisoners in prison on 
+30th of November, 1882. 
+
+Table LV shows by each judicial district the number of prisoners 
+in prison on the 30th of November, 1882, the terms aggregated 
+in years and months, the longest and shortest term imposed 
+for each of the several crimes and the average term for 
+
+Eable LVI is a summary ef the average length of sentence! 
+osed on the prisoners in prison on the 30 day of November 
+I, in each of the judicial districts — life sentences being ex 
+led from the average. 
+
+Eable LVII is a summary of the sex and color of the prisonin 
+prison on the 30th of November, 1882, and also shows the 
+tive per cent. 
+
+Eable LVIII shows the several years in which the sentences 
+he prisoners in prison on the 30th of November, 1882, ex, 
+and the per cent, for each year. 
+
+Table LIX is a tabular statement concerning prisoners in 
+prison on the 30th of November, 1882, under life sentence, 
+showing also their conduct since their commitment. </seg>
+
+            <seg id="p027">
+27 
+
+NEBRASKA STATE PENITENTIARY. 
+
+The tables and statistics covering prisoners belli for the account 
+)f sundry counties, states and territories are as follows ; 
+
+C0OHTIK8 OF NEBRASKA 
+
+Tabular statement showing the prisoners held for mtt k— ping 
+for the account of the several counties of our Bteto for the two 
+years ending November 30, 1882, also the number remaining in 
+prison at that date. 
+
+UNITED STATE 
+
+PRISONER 
+
+Tabular statements covering the prisoners held forthe account 
+of the United States up to the 30th of November, 1882. 
+
+NEW MEXICO TERRITORY PRISONERS. 
+
+Tabular statements covering the prisoners held for the account 
+of New Mexico Territory up to the 30th of November, 1882. 
+
+WYOMING TERRITORY PRISONERS. 
+
+Tabular statement covering the prisoners held for the account 
+of Wyoming Territory up to the 30th of November, 1882. 
+
+THANKS. 
+
+I beg leave to tender my grateful acknowledgments to His 
+Excellency, Governor Albinus Nance, for his many acts of kind- 
+
+ness and for the continuation of his highly prized confidence. 
+
+The cordial support extended at all times to the Warden, and 
+the interest shown by His Excellency in all matters pertaining to 
+the care and welfare of this institution, have been daily causes 
+of congratulation. 
+
+My sincere thanks are also extended to the State officers with 
+whom my official position puts me in occasional contact. 
+
+The faithfulness in the performance of the conditions of his 
+contract commends to the attention of the Board the contractor, 
+Hon. W. H. B. Stout, and his gentlemanly and efficient secretary, 
+R. P. Beecher. </seg>
+
+            <seg id="p028">
+28 
+
+T&gt; 1? ¥»l"i L&gt; T i.r ''lit 1 
+
+Kermit me, in conclusion, to also acknowledge the kindness 
+courtesy with which I have always been treated by your 
+arable body, and to return you my sincere thanks, with the 
+
+nice of rav high personal and official regard. 
+
+C. J. XOBES, 
+
+te Pi 
+
+I MB, very respectfully, </seg>
+
+            <seg id="p029">
+NEBRASKA STATE PENITENTIARY. 
+
+¦» 
+
+REGISTER OF 
+
+CONVICTS 
+
+/' 
+
+-V 
+
+188 
+
+: Date of SH 
+
+AM&amp; 
+
+NTY 
+
+IIU.ME 
+
+Commit 
+merit. 
+
+NAMEv . 0O0HTT. - CRIME. Commit 
+£ ment. 
+£ V M 
+
+Y M 
+
+Allington. G. W 23 Cheyenne Shooting with intent to kill.... in ... Dec. 23, 18781888 
+
+Allington. G. W 
+
+MM 
+
+\v 
+
+Ames. A 21 Lancaster H Dg 6 -si 1888 
+
+Ai 
+
+tig 6 . 
+
+Anderson. A 29 Dawson (irand larceny 3 ... June 20. 1-- 
+
+Anderson, A 
+
+Juno.i 
+
+Atkin«.c 17 Clay I Dg 3... May is. 1H82 1885 
+
+Ati. 
+
+i 
+
+May 18, 1 
+
+Austin. II :» Douglas Grand 1 ineny 3 —0 188» 
+
+* 
+
+eny S N 
+
+Bailer. J. B 17 Dakota; I 3 ... Jan 
+
+H, 
+
+Jan 
+
+Banfill, G 33 Jefferson Bigamy 5 ... Maj 
+
+May 10, 
+
+B» 
+
+
+Bell. H ; ;ng 3 ... Nov. SO. 1880 1883 
+
+BeK'.ws. W 22 Douglas stabbing - . N&lt;&gt; 
+
+Nov. 17, lv&gt;l 1889 
+
+Berkman. J. - uglas hmlez/k'nu-nt 3 ... Mch.2&gt;. 1882 1885 
+
+!'. 
+
+Mch.23 
+
+Betts, R 21 Otoe Grand larceny 1 ... (KM 
+
+i m 
+
+I 
+
+
+Baldwin. \V. B 30 Ailam* Manslaughter. 
+
+im 
+
+a 
+
+Bohanan,Q . r Murder li fe Jui 
+
+Murder li fe Ju 
+
+I M 21 Douglas Burglary 6 ... Jun 
+
+181 
+
+Bos 
+Bra 
+
+1 I, F n» 3 ... Apl. 12, 188S 1885 
+
+a,.: 
+
+Braghter C V) Red Willow Grand Urosny : 3 ... Apl 
+
+
+Brown, 1 20 i ass Burglary andgrand larceny. ... 1 ... Jun 
+
+Bniw 
+
+
+
+Brown, M J .. . 4 6 Nov 
+
+4 6 No-. 
+
+Brown, M 
+Burch. A . 
+
+Burch. A WNuckolls I ......Ma; 
+
+May 21, U 
+
+Burda, A 21 Butler Stealll ' S ... I&gt;ec. 14, 1S81.1884 
+
+Burke. J Murder 12... Dec. 13. 18781890 
+
+Bo 
+Bu 
+
+Burnell.c '.'1 Salluo Burglary « ... Apl. U, If 
+
+Apl. 12. 
+
+Bryant. A 24 Douglas I Ing _ 3 ... Nov. 8.1- 
+
+tig „ I 3 ... Nov. H. I HMO 188S 
+
+Claflin. Mont SI Nuekulls i 
+
+
+Carr. .1 23 Cheyenne Murder ' li fe Apl. 7, 1- 
+
+Mm 
+
+Apl. 7, 
+
+Case. H. C 40 Hamilton Manalaughter 
+
+Campbell. J.C 
+
+Oct. 2,'v 
+
+ClRrk. H i r &gt; Dodge Hor* '&gt; ... Apl 
+
+a 
+
+5 ... Apl 
+
+7 ... Nov. 19, ¦ 
+
+Cramer. W Kapc 
+
+w 
+
+Crawford. J 31 Cuming Manslaughter ¦&lt; ... Apl. 11. 1- 
+
+Apl. 11 
+
+Cole, .1. W 21 Krauklln Robbery 15 ... Jun- 
+
+Robbery li ... Jun. 
+
+A 
+
+Out. money und. false pretense 1 6 '.pi 
+Rape li fe Jun. .. 
+
+Cooper. A. E obt. money und. false i G fl 9, 1&gt; 
+ick, C. P :-i4 York Rape li fe June*! 1881 
+
+188 
+
+O 
+
+Cor. Geo. W 40 Hntler Horse stealing 5 ... Jui! 
+
+x Geo. W 
+
+-lealins 5 ... Juni 
+.i K 10 .. N"\ 1". 1-- 
+
+Cooper, i- 23 Howard .ng 
+
+&lt; 
+- 
+
+Coyne. H. B H Chevenne Murder li fe Apl 
+
+fe Apl 
+
+Cloid, A 17 Nemaha Rape 1" 
+
+Cloid, A 
+Cunnin: 
+
+Cunningham, G. A. 53 Franklin Burglary 8. »pl. 1, I- 
+
+
+DavM.U 21 Douglas Urand larceny 2 fi Mill. 21. ¦' 
+
+Davis, A 22 Douglas (irand larceny i 21, lvtl 1884 
+
+Davis V. B 82 Otoe Sx-llii . 1 property 1 fi Apl. 28, 1882|1883 
+
+Davis V. B 
+
+De&lt;;roat, c 24 Douglas li 2 
+
+M 
+
+Denman.F 33 Lancaster Murder 9 
+
+Den 
+
+Murder 9 ... Mel. 
+
+Dewitt. A. E _2ri Douglas Burglary 6 ... N iv. T I- 
+
+Dewitt, A 
+
+6 ... Nov. 7, ]- 
+
+Dickinson, E. J 23 Lancaster Horse stealing 7 ... June 2,1- 
+
+Dill, i; 41 Ked Willow Murder li fe M»&gt; 
+
+Dill, c .41 Ked Willow 
+
+Murder li fe May 
+
+Dobson, J 29 aeward Assault with intent to kill i ... Ian 
+
+Dobson, j 29 aeward 
+
+Assault with intent to kill I 4 ... Jan. 27. 1880 1884 
+
+Dawsnn.J 2» Douglas Kobbery 
+
+Dustin. J 35 Webster Horse stealing 
+
+Edwards. J 30 Douglas Grand larceny 3 ... July 12. 1- 
+
+Emory. F 2S Buffalo Horse stealing 6 ... Juue 13. 1- 
+
+Erickson. N 40 Gage Forgery 4 . Hm .', 1S79 188S 
+
+Forgery -T9 188S 
+
+Erickjon. N 40 G 
+
+Euster. W 18 Franklin Robljery 18 ... June 13. 1S79 18W 
+
+Euster. W 18 Franklin 
+
+Rubtjery 18 ... June 13. 1X79 18W 
+Horse stealing | 4 ... June 21, 1880 1884 
+
+4^Jun c ji: - 
+
+Fehin.0 23 Butler Horse stealing 4 June 21, 1880 1884 
+
+Fehin.0 93 Bu 
+
+Burglary- 4 ..'Not. 8, 1880J1884 
+
+Fenton, J 23 Douglas Burglary 4 ...'Xov. 8, In- 
+
+Fenton, J 22 Douglai 
+
+nilcon, M 31 Lincolu Murder li fe Apl. 19. IS! 
+
+a, M 31 LincoU 
+
+Fisher. F 55 Salem Horse stealing /. 1 Oct l:i ¦ 
+
+Fisher, F 
+
+Fitzgerald M 33tass Manslaughter 10... May ('.. 1X79 1889 
+
+Fletcher, C. B 27 York Obt. money und. false pretense 1 ... May 8, 1882 188:'. 
+
+Flynn. T. F :&lt;9 Franklin Bursary 8 ... Apf. 1. 1S81 1889 
+
+Foreman, H 19 Clay I ng 6 ... S'.v. 22. 1*80 1MK 
+O 21 Douglas assault with intent to kill 4 ... June30. 1879 1883 
+
+»J 
+
+Fiwiwl. 0 2) Douglas 
+
+Foster, T. c 44 Otoo Murder li fe Oct 1. :- 
+
+Foster, T. (¦ 44 Ot 
+
+Frank, F 47 Iioug; 
+
+Frazier. H *) York 
+
+Frink. G. A 10 Ked Willow 
+
+Fugi 
+
+Fliiitwell. J 
+
+u 
+
+Murder 'life Dec. 1 
+
+rnly l. 1881 1884 
+
+Hone Mealing : v l. 1881 18M 
+-M 1891 
+
+-seslealinn -7tf|l8»9 </seg>
+
+            <seg id="p030">
+REGISTER OF CONVICTS— Con! 
+
+In in-ison ?i 
+
+in 
+
+NAME- 
+
+IMF 
+
+Y 
+
+Gallagher. P * Douglas Bobbery 
+
+Garritran, P. H ¦_ 1 9 Douglas Forgery :; - "oi 
+
+Garrigan, P. H 29 Dowrta*"'" .'."... rv """"I '. .".'."... 
+
+G«e«ler.J £) Webster ent i ... Mar.J".. - 
+
+
+Own n 
+
+Geary. H -"JStward 8|...; Nov. 16, If 
+- I' Burglary 
+I 1 low Ing 
+
+¦• w»r 
+
+
+1 -- Red Vv'i'l'iu'w" ".""'." Ii 
+v 4'.' VhIIcv.. m 
+
+Godfredtwn, X 4;&gt; Valley Murder 20 ... Maj 
+
+Granger, M 23 Seward Murder H&gt; ... Ma&gt; 
+
+Grander, M .! ... &gt;i 
+
+Granger, J I'.-eward M 10J... Ma. 
+
+Granger. J 17 -eward .Murder 1 
+
+Gray. P. s J7 Keith Highway robbery 1" ... Mar 
+
+Keith Highwa 
+
+Grace, M % Douglas P.urglary 1 ... Mar 
+
+Mar 
+
+Gran ff. H 18 Gage I ng 4 Maj 
+
+Gran ff. H WGmm...SZ'.'.'.'.'.'.'.'.'.'.'.'. 11 gV.V"."..'.'.'.'.'.'.'... • •» M 
+
+Griffin. Q 28 Douglas Grand larceny * ... July 12. 18 
+
+5 Douglas Grand larceny » ... July 12. 
+
+Hummell. W ;iJ Harlan Hors* 
+
+- Arson ¦'&lt; ... Nov. 16, i- 
+
+- Vrvnil 
+Hall. H. W 26 Cheyenne Mur&lt;ler U fe Ap!: 
+Hancock. F 18 -hennan Horsestealing : 5 ... Ma- 
+
+Hall. H. W i* Cheyenne Munler li fe April 5, ;--k; 
+; V 1? ¦heraian Horsest. aling : B ... May 21. '- 
+
+Hanwn. B. P 30 Douglas Obtains money un. fulse-pret.. 2 ... July 12. 1 - 
+
+y 
+
+•'. B. 1» *&lt; Douglas ¦ uey un. falsej&gt;retl '- ... July 1-'. i- 
+Hanlin. \\ Murder t..... .20,177S tm 
+
+Hardiu. \\ Murder £..... .20,1775 m*) 
+¦ II ¦ Burglary 7 ... Juii' 
+W *&gt; Lancaster H ng o ... Mar. 11. 1- 
+
+¦ II ¦ Hurglary 7 ... Jui). 
+" '¦'•» Lancaster Ii ing 5 ... Mar. 11. 1- 
+Hartington, H 23 Cass Krobezzlement - ... Jun. 
+II- .... t' . .... ..IE » ,. &lt; 
+
+Hartington, H 23 cass Krabexilemem 2 ... Jam 
+I" 3»c 0 lfax t-hootingwUh intent to wound 5 ... Not. 17. l- 
+
+r- 82 Kuckoili to grand larceny 1 ... May 
+
+Heath. K 32 Nucko Is o grand larceny 1 ... IU] 
+rson, A .x.) jerTerson • 
+
+Heath, h 82 N'ucko la \c ( 
+-in. A '-".' JefiVrs.in Hai 
+HeraledsWy. J H col fax Mn 
+
+Nc 
+
+HeraledsWy. J J-l Collbz Murder li fe Nuv. 17. 1881 
+
+Heady. E 82 Johnson Manslaughter T ... Mar 
+
+Hennanoe. \V. E.. . lM-ancuster : ng :i ... Mar. 7,1 
+
+Herrick. J. L 3f&gt; Douglas Anon '¦• ¦¦¦ July 12, lstd 1884 
+¦ A. H 44 otoe Manslaughter « ... Dec. 22, ¦ 
+lay Honestealing » ... May l\&gt;s, 
+C lx NVmaha -Burglary 1 
+
+c 16 cuy ."„;;;;;;: i 
+HlHina. C is Nemaha Burglaiv 
+
+lv 
+
+iw 20 Dijon Murde 
+-- Kearney Forcer 
+
+w 20 Dijon Munler' li fe Nuv. 19, 181 
+
+S 
+
+-- Kearney Forgery I0...-Oct 22. l- 
+
+v 
+
+l'.i '.'..'.'.'. -21 Keith.....'.'.'.!;.'."'..'.".'.'.'.', ll'.r-e st'eaiiiig'.'..'.'."."."'.'.'..'..!'.'.'.'.'.!'." 10 .'.'. Sov.2?&gt;. ;¦ 
+
+Howard. 1 -J4 Keith Horve stealing Ill ... Nov. 25, 1878 1888 
+T 31 (Jage mnnit arson 5|... Oct. 27. M 
+n.C 2-JOtoe Horse .-tealing » ... Oct l'.i.;iS80 1883 
+
+¦ T 81 G««e...........~.".I.".... 
+n,0 2-JOtoe ' 
+
+is: 
+
+Johnson. K ltiirglary 1 ... Apr; 
+27 , hayer Manslaughter 6 ... Xm 
+
+¦ 27Thayer \| 'daughter 
+
+¦r Grand larceny » ... Nov. I- 
+
+iii; 5 ... Mar. 25, ' 
+
+¦¦¦J. P is Kichardson Horse stealing 6 ... Mar. 26, 1S7'J1884 
+
+K. J 21 Seward Ii 
+. K. H. N K 
+
+' -' 'Jl Reward : » ... Dec 16, 18f 
+K. H. X 37 Douglas ! 2... July 12,1811 188S 
+r. J. P 29 Kichardson Korgerv -79 18&amp;4 
+i- Larceny 3 ... July 14. : 
+C I'tinrlafy 1 ... Funi 
+J f&gt;0 Kichardson Murder 25 ... April 11. 1-77 1902 
+ii. J A 20 i ranklin ¦ :id. false pret. I ... Nov. 18, 18 
+
+
+
+
+it.. J ."-i Richardson Murder".....! i&gt; ... April 11. 1877 19 
+
+B*n.jA 25! I rmnklln......... ... .nd. false pp 
+m. A. H 27 i ass Burirlarv 1 ... Jni- 
+
+Latham. A. H it &lt; ass Burglary 1 ...June 
+J - ny 4 ... Mil! 
+
+iJiync. J 
+
+¦ i property 1 ... Ma: 
+
+
+¦I. M 24 &gt; heyenne shooting with intent to kill 20 ... Apr 
+
+¦ y 
+
+I*wta, M &gt;4 Dou'irlns Durelarv -I ... X 
+
+M - Burglary 4 ... N'&lt;" 
+
+! 18 Dawson (irand Larceny 2|... Juni 
+
+! 18 Dawson (fraud 1-arceny - ... June 20, IHHI1884 
+• Id, W 3.. . Nov. in. 1-' 
+I' Robbery 3 ... Xo\ 
+• ild. J is Kobbery 4 ... 
+y. \v .1 i&lt;j \dam.« Murder. I li fe May 12, 188 
+
+1. W T, I idiiiiliis '.'.'.' .'.'.'.'.... Robbery '. 
+
+P ".'"".'.'.".'.'.'.. Kot.lierT"!" .! - 3 ... X( 
+
+s 
+
+¦¦• W. .i ; .... ...."."...... Mu 
+
+nd.E ine .............. Murd 
+in 
+
+n&lt;i. K ne Murder It l 
+
+McKellei Mu] 11 ¦'¦ 
+
+!.".'.'.' H.»r 
+
+v 
+
+McNamara. J - 
+
+Marshall, J 36 Douglas Assault with intent to rape 3 ... July t'.. 1S80 1883 
+
+30 </seg>
+
+            <seg id="p031">
+31 
+
+NEBRASKA STATE PENITENTIARY 
+
+REGISTER OF CONVICTS— Com 
+
+In Pr 
+
+1 
+
+IM 
+
+,1 
+
+Y 
+
+I 
+
+nia 
+
+T. 
+
+7. 
+Y 
+
+men 
+
+M 
+
+M. 
+
+May 
+
+1 
+
+1 .. 
+
+it 
+
+m 
+
+Nov 
+
+1 
+
+M « 
+
+Mu 
+Ma 
+Me 
+
+1" 
+
+Nov 
+
+l 
+
+Kn 
+
+Hie 
+
+,n rniK? 10 -•• **ov 
+
+BurfUry 
+
+i 
+
+- ... Feb 
+
+Robbery 5 ... Ap'l U. i - 
+
+ry 5 ... Ap'l 
+ng 12 ... Nov 
+
+I: ng 12... Not. 18M ¦¦ 
+• ler 10 ... April :&gt;. ISM 1M2 
+
+Oliver, J. 
+Pa;.-c, J... 
+Pari-h. H 
+Pickard, ] 
+Pieraon, J 
+Pierw, J. 
+
+nslaughter 1" ... Apr 
+
+: 
+
+15 .- Ivo. Jii. 13S0 18» 
+
+ng i... Oct. -V.. is,ho 18W 
+
+, ! ng "0 1886 
+Manslaughter 3 ... Mob 
+Robbery 4 ... July 
+Kt-moritij; mortgaged property •"' Nlli 
+Grand lan-.-ny 2 6 M'cl 
+Bigamy '. 7 ... June 
+Biirularv 3 Oct 1.1HW188S 
+
+3 ... Mch, 
+
+4 ... July 1 1 
+
+ry 
+
+¦nortgaged properly ¦ Nn\ 
+
+ny : 6 M'ch 
+
+1'. 
+
+i 
+
+Feb. 22, . 
+
+Pull 
+
+Patrk 
+Hand 
+
+Murder aecond deyree H fc-NoT 
+
+' 10 ... M'ch 1\, 18" 
+! 3 ... May I- !¦- 
+
+-v; 
+
+Kathbu 
+
+II. 
+
+Horse-- 
+
+U 
+
+iiml. fal. pret.. 5 ... Ap'i 12, 
+
+ey iinil. fill. ! 
+
+7 ... Mel 
+
+.: * 
+
+
+.IK 
+US) 
+
+Harder 10... Aug 
+
+
+4 1 N. v. :.. 1S79 I8S8 
+
+1 
+
+Murder 1"&gt; .. May 
+
+Murder ~9 18W 
+
+• with lilt to com rape.. 2 ... Mch 
+
+M'ch 9, 
+
+Murd.T 10 ... At 
+
+BU 
+
+M 
+
+M'ch 19, 
+
+Vi 
+
+\Y 
+
+S 
+
+?- 
+
+
+A 
+
+M 
+
+
+
+ll 
+
+Ap'l Jt 
+
+s 
+
+M 
+
+T. 
+
+\ 
+
+,\ 
+
+M'ch 1 
+
+So 
+
+Tur 
+
+A 
+
+w 
+
+
+Si 
+
+H. 
+
+N 
+
+.nir with intent to 9 12, 1881 
+
+V.. </seg>
+
+
+            <seg id="p032">
+REGISTER OF CONVICTS— Continued. 
+
+In Prison November SO, 188 
+
+Date of 
+
+- - uate 01 so 
+NAME-. * COUNTY. CRIME. - «« Commit- 55 
+¦&lt; ment. KC 
+
+YM 
+
+Warheim, A 36 Lancaster Horse stealin 
+
+Warheim. A 36 Lancaster Horse stealing 4 ... Oct. 25, 1880 1884 
+Warren, C 40 York Murder li fe June 11; 1878 
+
+Murder. 
+
+We»land, M 19 Buffalo Assault with intent to kill 5 ... Nov 
+
+Webb, J 21 Johnson Horse stealing 
+
+3 ... M'ch 28.1882.1S85 
+
+Wllkenson, B 27 Lincoln Horse stealing 5 ... Oct. 11, 1882 1887 
+
+--on. C. F 29 Franklin Murder li fe M'cli 
+
+Williams. J 26 Buffalo Manslaughter 10 ... Dec. 7, 1877 1887 
+
+C 20 Lancaster Burglary 1 ... M'ch 4, 188_&gt; 1883 
+
+Wilson', f!!!!!!!"!!!!!! 20 L&gt;ouglas.. .'.!!!!..'.. .'.'.'.'.' Grand larceny....'.'.'.'.".'.'.'..'..'.'..'.!."'.!! 4 !!! Not, 8,' 1880 1884 
+
+T 32!Douglas Rape ,.. 5 ... M'ch 1,1878 188 
+
+F. D 25 Furnas Mur.ier li fe Oct. 12, 18! 
+
+.vater, J 26 Jeffereon..._ Murder li fe Ap'l 24, 1872 .... 
+
+Winceit, W 37 Cass Obtain'g money und. fal. pret. 1 ... June 30, 1882 1883 
+
+k, Q 17 Gage Horse stealing 4 ... May 3, 1880 1884 
+
+Worthy, W.'."" ....'.'." 30 Butier............. "!!!!! Horse stealing...'........!'.!!.!!'.!.'.!!! 5 !.! June 24,' 1879,1884 
+Yingst, W. D 21 Lincoln Shooting with intent to kiH..Jl2 ...Oct. 5,188111898 
+
+Shooting with intent to kiH..Jl2 ..JOct. 5, 1881I189S 
+
+32 </seg>
+
+            <seg id="p033">
+33 
+
+NEBRASKA STATK I flARY. 
+
+NA 
+
+r 
+
+REGISTER OF CONVICTS 
+
+n 
+
+m December 1, 1SSO to November 90, 1SS1 
+
+z 
+
+E v When iiith.iritT 
+2 Committed. Discharged. Authority 
+
+i 
+
+Y M 
+
+Expiration of sentence 
+
+Mch 
+Apr. 
+
+Good time ac 
+
+A I 
+
+1'Tj.iMtion of sentence 
+
+
+i 
+
+i 
+
+V. 4, lS&gt;Th Apr. 4, 1881 " 
+v 7. 1878 Apr. 7. lbSl Ez iration of senleaa*. 
+
+y 
+
+-&gt;!¦ 
+
+:&lt;1 time ac 
+
+! 
+
+... 
+Mch.l 1 of foiisumption 
+
+d of sentence. 
+
+I tiUH 
+
+
+Kx|i raii.jn of 9eulenoe 
+Good time act. 
+
+M 
+
+Expiration of sentence 
+Good time art. 
+
+1 
+
+\ 
+
+I 
+
+: i stntenc 
+
+!( 
+
+\ 
+
+
+y Got. A . Nance 
+
+v^j 
+
+ration of sentence 
+1 tmieac'.. 
+
+me act 
+
+r 
+
+.1 Jm sd time 
+
+¦ ¦"Ml time act 
+
+time act. 
+Order SupCt. New tr*l 
+
+xpiration of sentence 
+sew tr'l 
+ood time act. 
+
+xpirniionof- 
+ood time act. </seg>
+
+            <seg id="p034">
+KECAPITTLATI 
+
+U pardoned by Governor Albums 
+discharged by orderof -upreme 
+died in prisnn 
+who bare availed themselves of 
+
+" who have partially benefltted by the provisions of I 
+
+Nance 
+Court for new trial 
+: 
+the lull benefits of the Good Ti 
+
+lie.] 
+
+wl 
+
+wh( 
+
+" who have been deprived of the benefit of the (iood Time net 
+
+v.) 
+
+¦scat 
+
+M escaped - 
+Total discharged from December 1, 1880, to November M. UH 
+
+Total 
+
+N 
+
+RKGISTER OF CONVICTS 
+
+REGISTER OF CONVICT 
+
+s 
+
+Discharged from Dec. 1, 18S1 to Nov. 30, 1 
+
+Discharged from Dec. 1, 18S1 to N 
+
+n 
+
+N-AMKS County. Crime. - CommftJe.1 
+
+W 
+
+w 
+
+NAME 
+
+111! 
+
+IH [_ ™ 
+
+B 
+
+Y M 
+
+1 1 
+
+Algire. 1 39 Bufla'n Embezzlement... 1 ... June 13.1881 Aprill 
+
+Apri 
+
+Algire I SSBnfla 'x-zzlement ... 1 ...' June 13. 188l|April 13. 1 
+Bacon. O... . i .". 2 ... Feb. 4, 1881 Oct. 4,1 
+
+Bacon, 0 24iHamill luctiun .'. 2 ... Feb. 4. 1881 Oct. 
+
+Barker, i' 27 Buffalo Burglars 1- June 13, 1881 April 1 
+
+Barlow stealing 3 ... Nov. 11. 187! 
+
+Barlow ,is I Horse stealing 3 ... Nov. 11. 187'JXov. 11. i- 
+Barton. R 'Sl.Lancnster... " " 3 ... June 19,1880 Jan. 
+
+Barton. R 31 Lancaster... " " 3 ... June 19,1880,Jan. 1 
+
+Baumgart, F.... 30 Grand Larceny... 1 ... Oct. 26, 1881 
+
+Bunnell. C. A. £! Saunden.... Horse steiiling.... 3 ... April 
+
+Celley. ("ay Burglary ll... May 81, U81 Mar. I 
+
+Ma 
+
+ar 
+
+Celley. N '31, Clay Burglary 1 ... May 31. 1881 Mar. SI, 1 
+4 ... Juni j 80, 1 
+
+Chester. F .... a I ..June 30. 18791 July 81 
+
+Cox, T : -:¦.• July 2 
+
+Daniels. 1) N lantult 2 Oct. I 
+
+Deidrich, J... ?larr...... 
+
+I- irj 
+Id, (.. H 
+ffer, E 19'Houxlaj - ..• int. to kill I877i April 1 
+
+hire. K. J . irand larceny. .. ?. ... Nov. 24. 1X79 April2 
+
+er. II C 31 i itoe Burglary 1 ... ApiilJ'i. 1V&lt;1 April 
+
+den. O. H... ¦-'6 Fillmore Forfrery. 1 June IS, 1881 Aprill 
+
+Fortune. R 27 Lancaater... Granil larceny.... !. 1881 1 A 
+
+rtune. K -'7 Lancaster... 'Jrand larceny 1 ... Oi 
+
+Fuller. D. W »» 
+
+ller.l&gt; iih ... ] Mur 24, 1881 Jan. J 
+
+fiord, H lit', Keiili Burglary 2 .. June 14. 1880 Feb. 1 
+
+lie. H' • ¦ Murder." 5 ... April 5. 1878 Feb. 2 
+
+tcher. H... ¦ .rutid larceny.... 2 ... July 6, lssOJnne 
+
+(ileason E 3 ... June 19,18801 Nov. 1 
+
+Gleason : ry 3 ...lJune 1 
+
+Hamer- \ A'ashii 1'... May 31^ 1881 Mar. 3 
+
+Hamer ¦ \ ' 1 ..May 31,1881 Mar. 31,18 
+
+Harper. J 1 larceny.... 1 3-ept.' 
+
+iui.1 la 
+
+Harper. J... ;1 larceny.... 1 3 -epl 
+Hask 1 larceny.... 3 
+
+Haski! - iffa ind larceny 3 ... Nov ! 
+
+1«79 Ap 
+
+Holder ¦&gt;• 2 1,- 
+
+Holder. \ 
+
+Howard ('. H . 4:i i oug .- lon.und f.p. I ... Mar. fi. 1X7 
+
+Howard C. H . i.i i oug - ind f.p. 1 . rfl 6. Is 
+
+Johnson. \\ 
+
+Johnson, w ng.... :! S79 May 
+NuckollB.... Steiil'Bmom 
+
+Ddiker, II Jt SuckollB.... Steal'g r.ion. . 
+
+l^nd - ry 4 ... -'ept 
+
+Land.S. J.... ry 4 ... -'ept. n 
+
+Under. P -M ' uming 
+
+Leavenw.irtt - 5 ... Oct. 
+
+l.ee. H : . -TSlAng. 3 
+
+Marlow. J. I: 1... April23, 1881 Mar. 2 
+
+Marlow. J. 1. 1 ... April 23, 1881 Mur 
+Mathewaon, C..J20 Butler I ing 3 ... June 21. l-T'.i May 
+
+Mathewion, C 20'Butler ing 3 ... June 24, 1k79 May 1 
+
+Minani iLtot'keilfe 2 ...June 
+
+jury 2i— IMar. 26, 1880lJan. '20.18.' 
+
+.......... T . . May 
+. 1 larceny.... 1 ... &lt; &gt;ct. 
+
+
+Harker 
+forg'dch'k 
+Kay. A 3ll\Vashinut'n Kdrgery - Deo. 1. 1880 1 Sept 
+
+34 </seg>
+
+            <seg id="p035">
+35 
+
+N : 
+
+STATE I'ENITKNTIAKV. 
+
+REGISTER OF CONVICTS— Continued. 
+
+!&gt;¦ 
+
+i&gt; 
+
+U! 
+
+Aut 
+
+Al 
+
+. Onl. Sup. C'rt new tri* 
+
+Ret 
+EUa 
+
+.1 time ac 
+
+Ml 
+
+HI 
+
+Tyrrell. W 
+Walbridce 
+
+kvg. u 
+
+Wa 
+w.. 
+
+II 
+
+Mur 
+
+w 
+
+Winson, W 
+
+N 
+
+
+Conv 
+
+k! time ac 
+
+a 
+
+I timeai 
+
+f the good time act— discharged at expiration oft 
+
+
+Nov. 30, 188 
+
+Al'ITlLATION 
+
+
+REGISTER OK CONVICTS 
+
+Kscapeil from Dec 
+
+. Coun 
+
+i 
+
+I - M H I^ncaster .. H 
+Keniicdy, J... 28 Richardson II 
+\. 21 Douglas &lt;ir'nd larc' 
+
+RECAPITULATION OF DISCHARGED CONVICTS 
+
+T.1 </seg>
+
+            <seg id="p036">
+36 
+
+
+NEBRASKA STATK PENITENTIARY. </seg>
+
+            <seg id="p037">
+37 
+
+ATIST1CS. 
+
+TABLE I 
+
+Number of prisoners received at this institution since its 
+foundation in 1869 '&gt;'•'¦&gt; 
+
+Number of prisoners discharged -481 
+
+Leaving in prison, Nov. 30th, 1882 811 
+
+TABLK H 
+
+Prisoners in prison Dec. 1, 1880, as per report rendered 196 
+
+Received \&gt;y commitment Dec. 1, 1880, to Nov. 30, 1881. 74 
+
+Received bj commitment from Deo. 1st, 1881, to Nov. 
+30,1882 W 
+
+Received by recapture of. escaped convict 1 
+
+Total received in two years 151 
+
+Total M? 
+
+Discharged from Dec 1, 1880 to Nov. 30, 1881 70 
+
+Escaped from Dec. 1, 1880 to Nov. 30, 1881 3 
+
+Discharged from Dec. 1, 1881 to Nov. 30, 1882 62 
+
+Total discharged in two years 135 
+
+Leaving in prison, Nov. 30, 1882 -12 
+
+Prisoners in prison Nov. 30, 1882, are enumerated as follows: 
+White males -00 
+
+Colored males 8 
+
+Indian males 4 
+
+Total !M 
+
+Prisoners in prison Nov. 30, 1880 196 
+
+Prisoners in prison Nov. 30, 1882 -12 
+
+Increase for the two years ending Nov. 30, 1882 li 
+
+Increase for the two years 8.163 per cent </seg>
+
+            <seg id="p038">
+In prison Nov. 30, 1890 
+
+:»&gt; 
+
+|KV 
+
+hMte 
+
+i : 
+
+VH 
+
+tan 
+
+Br 
+
+J. 
+
+Ki 
+
+ISO 
+in 
+IK 
+
+0 Apri 
+1 May 
+
+
+
+4 
+
+¦mbiir. _ 1 ~HT""i 
+
+10 Alii 
+
+
+I H 
+
+Sovembe: 
+
+DmmdImi 
+
+IK.- 
+
+
+
+
+April 17 17 
+
+
+
+
+
+8eptember - 
+October 4 ... 
+
+
+November 11 
+
+
+ISO 1 151 1 
+
+The monthly average of prisoners in prison, fc 
+
+I8M wii.- 
+
+The monthly averaL-- irsendin, 
+
+Ni 
+
+¦e increase for the four years ending Novec 
+
+nil&gt;' 
+
+l.i 
+
+4 Janu 
+4 Kebr 
+9 Man 
+
+A;.r 
+
+4 Maj 
+
+I 
+
+; 
+
+4'j U S 135 Munthlv average ax 
+
+wo years ending No 
+
+t«8 
+
+o 
+
+38 
+
+
+ISLLtljlj 111, 
+
+t 
+
+./ thr monUdf rece'pts ami Uteharft . the number m prison 
+the elate of each month, and the montldu arernqe. from December. 1, 1880 
+¦nhrr SO, 188t. 
+
+RECEIVED. DISCHARGED. 
+
+IKS i- 
+- - ~ &gt;- = -- Number ol 
+HOMTHH ~ T z -5'i _ H _ 5 '= f PTtaonen at close 
+E — - -y. ?-^ ¦sS-5S:ISi« nfMrh mnnlh </seg>
+
+            <seg id="p039">
+39 
+
+NEBRASKA BTATK PENH !¦ STI ART. 
+
+MiVKMBER 30, 1882. 
+
+I AT 12 P. M 
+
+Prisoners in Prison 861 
+
+212 
+
+btate prisoners 
+
+United States prisoners 3 
+
+New Mexico prise 
+
+i 
+
+Wyoming Territory prisoners 39 
+
+Prisoners held for safe keeping 
+
+Account Hall eountv, Neb 1 
+
+Account Kearnev county, Neb 1 
+
+Total Ml </seg>
+
+
+            <seg id="p041">
+STATISTICS 
+
+CONCERNING PRISONERS COMMITTED 
+
+Two Years Commencing December ist. 1880. and Ending 
+November ?oth, 1882. 
+
+DCRIJIO THK </seg>
+
+            <seg id="p042">
+42 
+
+REPORT 
+
+OF THP 
+
+TABI 
+
+BLE I\ 
+
+¦hf, total number of commitments during thr two twt rmiing 
+
+Nov. SO, 1882, also the per cent, of t 
+
+commitments f 
+
+each year in each of the counties name 
+
+COUNTIES COUNTIES. 5*3 E' 
+
+
+- i 
+
+Adams i 2 J K' 
+
+Buffalo ; 6 , ( Knoi 
+
+
+1* 
+s 
+
+Cass ! 4 5 9 L 
+
+¦me I ' 5. 5 . \emi 
+- S Nnck 
+
+
+1 1 'toe 1 4 
+
+Cumiug 1 1 Pawnee 2 1 
+
+Dakota 1 1 Red Willow I l 
+
+« 
+
+Dawson 1 2 3 Saline 1 
+
+1 
+
+I&gt;odge 2 13 Seward ' 2 1 
+
+as _ 16 12 28 Thayer 2 
+
+Fillmore 1 1 Valley 1 
+
+Fillmore 1 1 Valley 
+
+1 1 
+1 « 
+
+Franklin 2 2 Washington :. 1 1 
+
+Franklin ! 2 Was 
+
+Gage 1 :i 4 Webster 3 
+
+Gage 1 3 1 Webster 
+
+Hamilton 1 1 York 2 1 
+
+Hamilton 1 1 York 
+
+Harlan 1 1 Sherman 1 
+
+Harlan ] 1 Sherms 
+
+1 
+
+Howard 2 l 8 
+
+
+Jefferson 1 2 Total - . 74 7H 11 
+
+
+150 
+
+Johnson 1, 4 
+
+Per Cent. Pee Cent 
+
+Per Cent 
+
+Per Cent 
+
+COUNTU 26_.rag . e5 CCHNTIES. fi .I'gg . .= £ 
+u x i. oc ¦s ;-&gt; i. r. u r. •3 
+
+Adams 2.6 1.3 Keith 1. 1.2 
+
+
+Adam» 2.6 1.3 Keith 
+Buffalo B.I 4. -Knox 
+
+Buffalo 8.1 4. &lt;Knox .*.. 1.3 1 
+
+Butler I.I 7 Lancaster 10. s 14.5 12. 
+
+Butler 1,2 .7 La 
+
+Oa«i ri.5 fi.fi 6. Lincoln...: ¦ 8.1 2.6 5.: 
+
+Ca» S.a fi. Lii 
+
+Cheyenne 6.6 3.3 Ncmeha 2.6 1.1 
+
+Cheyenne 6.6 3 3 Nemeha 2.1 
+
+- - n.u g.a Nuckoiis 
+I I.I 7 Otoe 
+
+
+nay _* ».» D.H Nuckolls 2.1 I.I 
+i 1.3 7 Otoe 1.1 S.I 3.i 
+
+Cuminft 1.2 .7 Pawnee 2.7 1.2 2. 
+
+Dakota 1.2 .7 Red Willow 4. 1.3 2.1 
+
+Dakota 1.2 .7 (ted Willow ™_ 4^ 1.1 2.7 
+
+Dawson 1.1 2.6 2. Saline ' I.I 6.6 4. 
+
+IMwson l.| 2.6 2. Salint 
+Dodge 2.8 1.2 2. Sewai 
+
+Dodge 2.8 1.2 2. Seward 2.8 1.1 2. 
+
+Douglas 21. G 15.8 18 7 Thayer 2.7 U 
+
+Fillmore 1.1 7 Valley 1.1 .1 
+
+Fillmore 1.1 .7 Vallev 
+
+Franklin 2.8 1.3 Washington 4. 1.3 2.1 
+
+Franklin 2.S ......... 1 .3 Was 
+
+«age 1.3 3.9 2.7 Webster 2.6 1.1 
+
+«age 1.3 3.9 2^7 
+Hamilton 1.3 .7 York., 
+Harlan 1.2 .7 Sherm 
+
+Iton 1.3 .7 York 2.7 1.3 2. 
+
+Harlan 1.2 .7 Sherman 13 
+
+
+Jefferson _ : 2.6 ill Total 
+Johnson I.; 
+
+
+r. 
+
+r 
+
+
+" 
+
+* 
+
+u 
+
+i 
+
+¦y. 
+
+
+
+Z ss ; 3. as x 7 ¦" </seg>
+
+            <seg id="p043">
+43 
+
+
+
+¦FMI 
+
+AOK 
+
+l.'o 
+
+
+s 
+
+¦May 
+
+M«t 
+
+torn 
+
+[udv 
+
+ran 
+
+VA 
+
+nf 
+
+v 
+
+.)-M 
+
+AOM 
+
+J«1»S 
+
+»n, 
+
+i-5 
+
+X[n f 
+
+CS v 5 
+
+sunf 
+
+h el 
+
+.{«K 
+
+tudv 
+
+JBK 
+
+q*j 
+
+v 
+
+a«r 
+
+V 
+
+1 a^a 
+
+v 
+
+}¦ ti!li4:a Mi i2 
+
+¦^ 
+
+
+".£ 
+
+— -J 
+
+!!,i! ma \$*\teR&amp;mUi*i 
+
+A </seg>
+
+            <seg id="p044">
+44 
+
+
+W— gJS « ; 3-3 M "§«?($ §".2 .sS^cSJ^Sjje?- </seg>
+
+            <seg id="p045">
+45 
+
+
+¦1 
+
+¥ 
+
+s.sz-Z-7 
+
+\ 
+
+
+&lt; 
+
+&gt;: 
+
+.&lt; 
+
+V. 
+
+-I. 
+
+I 
+
+V 
+
+'¦ 
+
+re\ 
+
+&lt; 
+
+/. 
+
+
+«!|1 
+
+
+
+(nino.v 
+
+
+/ 
+
+-* </seg>
+
+            <seg id="p046">
+46 
+
+
+th </seg>
+
+            <seg id="p047">
+47 
+
+iKNTIAKY 
+
+X 
+
+* 
+
+
+1 A I &gt; L r. IX, 
+
+¦ing ih- n nf p 
+ber XO, 1882: also th' , 
+
+na Xc 
+
+earn occupation for each 
+
+"5 1 -- 
+
+Arefaitect 1 lltutelwai 
+
+
+ier 1 1 lunk-shop keeper 
+
+
+
+1 
+
+¦uaker 1 
+
+
+I 
+
+
+y 1 iviiiK macliini; ag 
+
+
+¦ki 
+
+
+
+
+;-ynmn 21 2 Stone cutter 1 
+Gardner ' 1 1 Teamster I 
+
+
+- 1 2 I Travt 
+
+
+¦ 
+
+
+I N 
+
+. [OX 
+
+
+u 
+
+II 
+
+
+
+4 
+
+B 
+
+i.i 
+
+a 
+
+a </seg>
+
+
+            <seg id="p048">
+48 
+
+
+? *""- ? u~~ 
+
+
+ATIO 
+
+Bricklayer 3 
+Bookkeeper 1 </seg>
+
+            <seg id="p049">
+49 
+
+NEBRASKA STATK I'KN IT KNTTARY. 
+
+TABLK X. 
+
+the total number of years 
+
+'iu number or rn. 
+
+ntence, anil the average length of sentence impr,- 
+
+mitted during the two yars ending November SO, 188$. 
+
+TOTAL 
+
+s 
+
+\ 
+
+IS 
+
+::\-, 
+
+v 
+
+\ 
+
+NGTHOF 9. TftTU I.KS'GTH OF 
+TERM. iS TOTAL. TEHM _ </seg>
+
+            <seg id="p050">
+50 </seg>
+
+            <seg id="p051">
+51 
+
+NEBRASKA BTATB TEN ITKNTIARY 
+
+TABLE XII 
+
+S 
+
+i 
+
+I 
+
+a- 
+
+l 
+
+.V 
+
+
+¦I. h 
+
+I'KK (KM 
+
+h 
+
+
+¦ : i -± 
+
+y 
+
+i 
+
+i 
+
+i 
+
+2 Highway robt 
+I II 
+
+'.» 
+
+11 
+
+I 
+
+\ 
+
+I 
+
+¦! 
+
+&lt; 
+
+CRIMES. 
+
+lines against persons— 
+iiu.tokillorw'nd.j 
+ttigumy I 
+Manslaughter _ i 
+Warder, M decree 
+[tape 
+Rape and as'lt to com. rape' 
+Redaction 
+-tubbing 
+"uttiiiK and shooting, with 
+intent to kill or wound- 
+Total against persons j 
+
+i ::::::::: ! 
+1 '. T 
+1^ HI 
+1 4 
+1 1 
+1 1 
+1 1 
+¦J 1 41 
+¦ 
+II 18 32 I 
+
+Burglary I 
+Embeulement - ¦» K 
+rj ' 
+Grand larceny l"' 1 22 
+Highway robbery 1 
+Bone Mealing.... M 1" 3» 
+minp money under 
+fal- 1 ¦&gt; !&gt; 
+n property 
+:( 6 » 
+ng mortgaged propty J * 
+¦iK cattle 1 
+; ing a forged check 1 1 
+
+Total against property... fin 
+
+imes againM property— I 
+irv tri tdiikI llirrt'HV 
+
+HO 
+
+¦ rvtustrimii larceny 
+
+Aiilini; i" burglary 
+krwoo 
+Attempt to commit arson.. 
+Rnreldrv and laroenv 
+
+i 2 4 
+1 1 
+.437 
+
+( rimes au ¦ ¦ 
+Crimi's aga:nst property.... I 118 
+Total '* "6 150 </seg>
+
+            <seg id="p052">
+52 
+
+KEPORT OF THE 
+
+TABLE XIII, 
+
+Showing the several apes of the 160 pj~isoners committed during the tn-&lt; 
+November SO, 1X82, and the per cent, of convictions for each ag? 
+
+end 
+
+6G— bcri 
+S3 Si 
+
+3i ¦%&gt;. AGES. i $£$ 
+
+I M 
+
+&gt;-z i-z 
+
+I 
+
+U 1 1 lo 
+U 1 1 16 
+IT" "" 1 3 4 17 
+S 5 S 18 
+
+I 
+
+12 
+
+I 
+
+I 
+
+
+1 
+
+i 
+
+1 </seg>
+
+            <seg id="p053">
+NEBRASKA STATE PK.MTENTIARY 
+
+53 
+
+
+rt 
+
+I 
+
+« 
+
+x 
+
+J£ 
+
+S 
+
+* 
+
+:£ M 
+
+t£ 
+
+M 
+
+
+
+&gt; 
+
+7" 
+
+
+7 i- 
+
+y 
+
+!(.)&gt;! 
+
+rl JO.-I 
+
+3 
+
+Z 
+
+\\ 
+
+1 
+
+H 
+K 
+K 
+X 
+n 
+
+J. 
+
+X 
+
+l\ 
+
+/. 
+
+M 
+
+V 
+
+v 
+
+x. 
+
+~ 
+
+v 
+
+U 
+
+i 
+
+A 
+
+¥ B ¦ </seg>
+
+            <seg id="p054">
+54 
+
+
+
+IABLE XVI 
+
+ding A" 
+
+Sh 
+
+I 
+
+ites a 
+
+F.N 
+
+T 
+
+IV 
+
+Z\*Z 
+
+A 
+
+A 
+A 
+
+A 
+
+I 
+
+I 
+
+1 
+
+PI 
+K 
+K 
+
+M 
+
+I 
+
+I -i 
+
+M 
+M 
+
+! 
+
+M 
+M 
+N 
+
+1 
+
+1 
+
+1 
+
+1 
+
+\V 
+
+,V 
+
+
+A 
+A 
+
+1 
+
+\ 
+
+1 
+
+I 
+E 
+
+1 
+
+¦ 
+
+n 
+
+t 
+
+I 
+
+1 
+
+
+4 17.2 15.4 
+
+¦¦¦« 
+
+T </seg>
+
+            <seg id="p055">
+55 
+
+ASKA 
+
+SI 
+
+
+
+• </seg>
+
+            <seg id="p056">
+56 </seg>
+
+            <seg id="p057">
+RBPOKJ OF THE 
+
+
+NEBRASKA ~TATE PENITENTIARY. 
+
+57 
+
+lAbLti AY 111, 
+
+i 
+
+Shoeing the religious 
+
+i denominations of the prisoners committed during the two years 
+
+ending Nov. SO 
+
+0, 18S2 ; also the. per . i ¦ MeA year, and 
+
+KELIuior- 
+DENOMINATION-. 
+
+a? =:* t PER iK. 
+?= So KKUOIOOS 
+. -,&gt; z u&gt; || I.ENOMINATU.N, 
+I" 
+
+Baptist 
+Catholic 
+Christian 
+Episcopalian 
+Jewish 
+Lutheran 
+Method 1st 
+Moravian 
+Presbyterian 
+Trinitarian 
+Total 
+Belonging to no church 
+
+1 -1 :; Baptist 1.3 %.\ 
+7 "j 12 Catholic 9.5 6.7 
+1 1 &lt; hristinn 1.3 .6 
+112 Episcopal 1.3 1.3 1.:! 
+1 -1 3 Jewish 1.1 
+5 3 S i utheran 6. a I.I 
+4 3 !&gt;.6 3.9 I S 
+1 1 Moravian | 1.3 6 
+3 : . - lyterian 3.9 I 
+1 1 Trinitarian 1.3 o 
+20 21 41 Total 27.1 27.7 -7 I 
+M ~&gt;5 109 Belonging to no church "2.9 ~1 
+
+¦ 
+M 
+
+Totals 
+
+74 n ISO Totals 100. ion. Ml 
+
+vi 
+
+*i 
+
+
+H </seg>
+
+            <seg id="p058"/>
+
+            <seg id="p059">
+REPORT OF THE 
+
+NEBRASKA STATE PENITENTIARY 
+
+59 
+
+TABLE XX 
+
+s 
+
+1 
+
+\ 
+
+A 
+
+N 
+
+MOP.AL H 
+
+/. 
+
+I 
+
+Y 
+
+i\ 
+
+V. 
+
+M </seg>
+
+            <seg id="p060">
+60 
+
+REPORT OF THE 
+
+TABLE XXI. 
+
+ring the educational condition and moral habits of the prisoners com 
+ing the two years ending Nov. SO, 188S, in relation to their several 
+
+Educational 
+
+Mokal Ha 
+
+Rea ,, d i Read Write I Hit 
+Write only ' onIy ' eraU 
+
+Tern- M </seg>
+
+            <seg id="p061">
+61 
+
+NEBRASKA STATE PENITENTIARY. 
+
+Kn 
+
+1 
+
+LABU&amp; JILJLll, 
+
+Showing the educational condition of the prisoners received during ik 
+
+ending Nov. SO, 1SS2, in relation to their place of birth. 
+
+EDUCATIONAL CONDITION. 
+
+COUNTRIES AND STATES OF BIRTH. • *~ Total. 
+ill if gi I 
+
+Born in United States. 
+
+Alabama 1 ' 1 
+
+Arkansas 1 
+Connecticut 1 I 
+Florida 1 1 
+Illinois 10 5 n 
+Indiana 6 1 
+Indian Territory 1 
+Iowa 7 1 1 J 1« 
+Kansas 1 l 
+Kentucky 2 J 
+Louisiana 1 1 
+Maine -1 1 
+Maryland I 1 
+v ; -- . 6 i 
+• : . ¦.. 
+ppi 1 . 1 
+ka 1 ... „...!..„__ l 
+New York 11 g ."!".!! 13 
+
+! 
+
+Ohio ii | mi ~; 17 
+
+Pennsylvania 5 • " 
+
+• - i 
+
+Tennessee.... 
+
+VinriniH ¦&gt; i </seg>
+
+            <seg id="p062">
+62 
+
+REPORT OF THE 
+
+TABLE XXIII, 
+
+- ng the moral habits of the prisoners received during the two years ending Not 
+
+Per cent, born in i 
+Percent, born in foreign 
+
+SO, 1881, in relation to their place of birih. 
+
+'ni\ 
+
+birt 
+
+M'ik.u. HABrrs. 
+
+OOCHTSm AKD 8TATXB OF KRTH. i \ 3 t 
+= 1 
+- a - - 
+r- ~. _ . 
+
+ta 
+
+M 
+
+BoRS IN t'MTKIi STATI S. 
+
+Alabama 1 
+Arkansas % 
+Connecticut I l 
+Florida 1 
+Illinois 3 tit 
+Indiana 1 
+Indian Territory 1 
+[ow« _ 7 i 3 
+Kansas. 1 
+&lt;&gt;• 2 
+Louisiana 1 
+Maine 1 
+Maryland 1 
+Massachusetts 1 3 
+Minnesota 1 
+Nebraska 2 
+¦vivania ' " 2 1 
+¦nt ', ..._1ZT......1_J_ 1 1 
+a 1 1 1 
+"rfnia 1 1 
+
+1 
+1 
+1 
+1 
+17 
+1 
+:4 
+1 
+I 
+1 
+1 
+1 
+7 
+7 
+1 
+I 
+s* 
+I 
+11 
+17 
+I 
+3 
+I 
+I 
+I 
+I 
+
+Total United States , 46 3'J 42 
+
+U7 
+
+Born in Fokkh;n COOMTOKS. 
+
+Atlantic Ocean „ 1 
+Austria 3 
+...".;""!"" "T" 
+d ...'.'.'..**'.'"!..'.*'.'.*"*.".'.'.'."'.'."!!!!'"! " 2 
+' r 2 .]....". 
+1 .T..'. " ****** ' 1 ¦¦¦•-¦¦¦ 
+
+1 
+I 
+3 
+1 
+I 
+I 
+I 
+2 
+3 
+
+1 
+
+¦ Total foreign ,11 6 
+
+..'. 
+
+. 
+
+»in United States 41; M u 
+in foreign countries o 1 11 C 
+
+1: 
+
+2: 
+
+Totals n2 M 
+
+1 
+
+Average. 
+
+Per cent, born in : 
+
+¦ 
+
+'4 
+
+li </seg>
+
+            <seg id="p063">
+63 
+
+NEBRASKA STATE PENITENTIARY 
+
+s 
+
+X 
+
+/. 
+
+v 
+
+&lt;r. 
+
+\ 
+
+1 
+
+V 
+
+W 5 5 3: 
+
+v 
+
+\ 
+
+A. 
+
+N' 
+
+* 
+
+1 
+
+
+TABLE XXV, 
+
+rig the political opinions and the statement as to the guilt or intioa 
+prisoners committed during the two years ending November SO, 188 
+
+per cent, of commitments for each 
+
+rid for the ti 
+
+\i 
+
+I'KK &lt; ENT 
+
+_^^_ off --- 
+
+« 
+
+x Total 
+
+l ¦ 
+
+¦uilt Statement 
+GuUty 
+
+
+1 
+
+J 74 76 1"« 10ft. 100. 1 
+
+Total </seg>
+
+            <seg id="p064">
+64 
+
+
+POLITICAL OPINION AXDMII/I 
+
+7 Z&gt; 
+
+l'ulitical Opir 
+Republican 
+Democrat.. . 
+Anti-Mfinori 
+No ]K&gt;mical 
+
+14 
+18.9 </seg>
+
+            <seg id="p065">
+NEItllASKA STATE PENITENTIARY 
+
+65 
+
+y 
+
+i 
+
+as I a 
+
+nr.i u.i'v 
+
+AU^i'J.l 
+
+T l 00 — t~ &lt;N X -• X r*: n X 
+
+¦ 
+
+l 
+
+i- •* » 55 
+
+A 
+
+na 
+
+¦r 
+
+! 
+
+X 
+
+* 
+X 
+
+V 
+
+V 
+
+A 
+
+VS 
+
+&gt;-. 
+
+¦« 
+
+X. 
+
+¦I- 
+
+ipjny 
+
+l{iill»[MlHl&lt;i 
+
+A-l'.l^lH 
+
+.« JO 1 
+
+¦' 
+
+« liwarv 
+
+
+z-- 
+
+7: 
+
+2 
+
+Mtl 
+
+u .v»* 
+
+minnno.) 01 injj _ 
+-.King « 
+
+
+B ill-; | 3 *-J"=s </seg>
+
+            <seg id="p066">
+66 
+
+KEPOKT OF T\n 
+
+TABLE XXV U, 
+
+SK \nnp the Conjugal and S&gt;,ci/d relations of the prisoners committed durintj the tvx. 
+
+years ending Nov SO, 1882, alxu the per cent, for both Cunjugnl and Social 
+
+relation* for each year, and for the twe 
+
+YEARS 
+
+PER CE 
+
+(ONJIGALANU SOCIAL RELATIONS. bS-bS^LSS '-jS* 
+
+u 
+
+Conjugal Relations— 
+
+B*~ ;::-v-:-^:t 
+
+65.» 
+
+Married. Without childn-n I 4 
+
+Married With children 
+Widowers and divorced.. 
+
+Total "* 
+
+Pocial Relations— 
+
+Parent* living H - B 9 w -- 4 " 2 
+
+tun Dti iV tA 
+
+1 
+
+Father living and moilier dead IX 
+Mi. ther livinir and father dead IT 1 
+
+Muther living and father dead 
+
+T.U1 </seg>
+
+            <seg id="p067">
+67 
+
+NEBRASKA STATE 1'K NITENTI AKY 
+
+
+
+¦&lt; 
+
+*. 
+
+V 
+
+f. 
+
+•: 
+
+r. 
+
+¦ 
+
+1 
+
+•/. 
+
+V 
+
+: £ 
+
+V 
+
+c 
+
+5 
+
+I 
+
+K 
+
+¦i 
+
+» 
+
+
+
+
+IO.TJB1 (.'"Uf) 
+
+
+£ Ai^Xioj ; I - 
+
+ao|7Z9qtri3 
+
+AJujXinH 
+
+2 XaaojwiyXuiiXjnH 
+
+
+¦n 
+
+jinniiu.i o] vlmsnv 
+
+n U| 
+
+
+5 
+
+!iq»&gt;s 
+
+7 
+
+iioii.mpss 
+
+•' 
+
+jA)qS)n«iiiUt)|v 
+
+-- i 
+
+•XinnHiH 
+
+punoA jo ii!^ u) 
+
+a 
+
+£« 
+
+Ba 
+
+i 
+
+? 
+
+
+i 
+
+ir 
+
+3i.-;^^£* 
+
+-^i- -A /"--'. --£- f-J» -&lt;! </seg>
+
+            <seg id="p068">
+68 
+
+
+
+&gt; dojd na|&lt;us i*.^aH 
+2 3j&lt;1i«j unnoai'qn 
+
+[MH &lt;"»sj(i|f 
+
+/CwqqOi .{HMIiniH 
+
+£ 11301*1 
+
+.CiH|8jnq in Muipiy 
+
+I~ VKlBUl HIC 1 1111 
+iluwiiuwsBipodBii 
+
+aajfctp pj-japjiiiv </seg>
+
+            <seg id="p069">
+NEBRASKA STATE l'h N ITKNTl ARV 
+
+69 
+
+{-. 
+
+
+— 
+
+s- 
+
+¦± 
+
+i 
+
+¦T.2-2 
+
+&lt; 
+
+
+91b*uMv " 
+
+XlJadojdjguiiiSlBiinni j j 
+
+stiouad wareSs [bioi 
+
+
+H . at su.iu.i wra j 
+2; ¥ un X.imiui JJ.iqo : I 
+
+"¦ 
+
+'8ui[BdlS 3SJ0H 
+
+jCjsqqoj ab.« nili || 
+
+JU3OI3|ZZaqlU^ 
+
+AJBlXlMH 
+
+naara iim : I 
+
+C -moo oj idrasuv j | j j 
+- 1 1 
+
+M JO H!l 
+
+¦ iriurS.J.nsyui.) 
+
+g 
+
+ilunqtii 
+
+ao|ionp,-&gt;s 
+
+ad»H 
+
+5 
+
+— 
+2 
+
+panoM jo iiin oi 
+laami i(i!« ji.»V 
+
+i 
+
+58 : i- i~ i i* ::::;•:: i £qE 
+
+J 
+
+1 
+
+ftt 
+
+¦ 
+
+i 
+
+3 
+
+'/. </seg>
+
+            <seg id="p070">
+70 
+
+
+3|H»"&gt; Siu!t»31&lt; 
+
+iyjdoid Ik;; 
+g XwqqoH : , • i : 
+- &gt;&gt; (foad u\ . | ¦ ; : 
+
+2 £ - 
+
+- ~ P,j8 oUjoss3o.iv ; I 
+
+uo.iv ; | 
+
+Xi»| 
+Ainq m JSiitpiv 
+
+EC" sdsj i.uioaoriin 
+f- qi.MH.«CTyadBa 
+
+•&lt; - ¦Mftvpc'apmicj " | 
+
+E22&gt;K&gt;"&amp;ocSe! Coo v </seg>
+
+            <seg id="p071">
+71 
+
+NEBRASKA &gt;T\TK PENITENTIARY. 
+
+
+2 a* 'OTOBiaid .iiiiB) 'pun 
+P H Xaaom5(in\ii»n&lt;|M 
+B 5; •Suiiwjis ssjoh 
+
+aui|«Jis a&amp;iOH 
+
+— 
+
+Xj^tqoj Xn.wqaiiJ 
+
+- 
+
+.?j«iSjna 
+
+S -.{U3.UUI » .&lt;jB[ajna 
+
+XlI33JB[ 
+
+PUTUS Ol -&lt;J' 
+
+a 
+
+nnvJB 
+
+1IUIUO3 o; iduiin v 
+
+QQ 
+
+uosjv 
+
+t 
+
+Xjv; 
+
+-Sjnq ui Suipiv 
+
+punoM jo ini "i i"! 
+
+J e 
+
+3aiqq«J- 
+
+/- 
+
+' 
+
+•uoipnpas 
+
+M P 
+
+adsj airainoD o) •mi 
+
+— 
+
+— u MJ!*J[n«ss»»ad»H 
+&gt; ....... 
+
+¦ad»a 
+
+X 
+
+9^8^ 
+
+&lt; 
+
+puno«i JO ini 
+
+H 
+
+luami qijM nn»gsv 
+
+
+S 
+
+f- 
+
+5! 
+
+BS 
+
+v. 
+
+E = 
+
+u 
+
+it: 
+
+
+r- — 'j~ — — x ¦" — / — 
+
+J« </seg>
+
+            <seg id="p072">
+72 
+
+
+g II 5 -XJsJfJOj 
+- •&lt; jqaniaizzaqmg 
+
+'- pnooaa u; japjnjj 
+W g j a jqSn»i»u»K </seg>
+
+            <seg id="p073">
+STATISTICS 
+
+COVERING- 
+
+Prisoners in Prison on November ;oth, 1882. </seg>
+
+            <seg id="p074">
+74 
+
+REPORT OF THE 
+
+TABLE XXIX 
+
+The \umbrr ntiri Percentage of the Commitments from each of the different Judieia 
+
+District* for the two year* ending S^ernber SO, 1SSS, as shown by the follow 
+ing Tubular Summary. 
+
+YEAR.*. PEE CENT 
+
+¦s&gt;.', - E. i 6&gt;."C&gt;. ,£ 
+it *&amp;&amp;*&amp;$ £E 
+
+COURTS 
+
+f » . |o g x J|. 5o 
+
+Sentenced hy First Judicial District Court ' 12 181 30 16 
+
+Sentenced by Second Judicial District Court 11 21 S4 
+
+Ertiird Jadidftl District Court 19 It SS » «7; 17.1 .21 
+ced by Fourth Judicial District Court ' 10 5 15 13.52 6.5 j 10 
+Fifth Judicial District Court ' 19 16 ft ».«T 21. 23 
+
+23.4 
+
+Silenced by Sixth Judicial District &lt; '¦ourt'.'.'.'.'.'.'.'.'.'.'.'... '....'..'.. 1 3 4 1.381 4 1 2.T 
+
+IMrii 
+
+71 
+
+100 </seg>
+
+            <seg id="p075">
+75 
+
+NEBRASKA STATE PI- N1TKNTIARY. 
+
+TABLE XXX. 
+
+A xummary of the sex and color of the prisoners committed during the two year, 
+
+ending November SO, ISSt ; also the per cent, for each year and the two years 
+
+YEAR 
+
+PER CENT. 
+
+oS 
+
+SEX AND COI.OR 
+
+
+:-:?-: Ss If BuLssw Is 
+
+¦ex 
+
+Male M Tfi lJO.jlOO. 100. 100 
+
+Female 
+
+Total 71 76 150 100. 100. ,100 
+
+Color- 
+
+White 72 74 146|| 97.2 97.4 ! 97.J 
+
+fVI"T^' 1 2 3 1.4 2 6 I 
+Indian I 1 1 1.4 I T 
+
+Indian 
+
+76 ISO: 100. 10i' 109 
+
+Total </seg>
+
+            <seg id="p076">
+76 
+
+It fcPOKl OF THE 
+
+TABLE XXXI, 
+
+¦UtMW Me different crimes for w/iirh the tlM prisoners inprison on the 30th U,iy 
+
+/"¦' 
+
+November lS8t, ¦were committed, and the year of their respective commitments 
+
+k YEARS. 
+OBUOR I j I 
+a 2 I s 2 ! i s is a 
+i i t , i r 
+
+H 
+
+Ii against persons— 
+ull with intent to kill nr wound \ 1,1 1 1 
+my I 1 \ 
+ing with intent to wound ¦ 1 i 
+¦laughter 11113 4 
+ler in the first degree 1 I 
+ler in the second degri-c 2 1111563618 
+: and assault with inm't to com. rape 3 
+ting with intent to kill or wound i i 2 2 1 
+
+4 
+2 
+11 
+3 
+6 
+4 
+2 
+7 
+
+Total I I 1 1 2 x 10 8 I 14 12 17 
+
+76 
+
+Triines against property- 
+Accessory to grand larceny i ' I | 
+Aiding in burglary 1 
+Araon : l l l 
+Attempt to commit arson 1 i 
+Burxlury and larceny ' i 1 
+Burglary I 18 I 
+Embezzlement 1 4 ! 
+Grand larceny 4 I . I* 
+Highway robbery 1 , 
+Horse stealing 1 5 IS U 17 
+(ibtainint' money under false pretenses 1 1 4 
+Receiving stolen property M 1 
+Removing mortgaged property 1 1 
+Robbery 4 3 6 
+Stealing cattle 1 
+
+I 
+i 
+5 
+4 
+18 
+¦ 1 
+51 
+! 
+i 
+
+i . 
+Totals ' 5 ¦ 14 I 24 M ¦ 
+
+136 
+
+» crimes against persons 2 ill 12 - 14 12 17 
+crimes against property | ., 14 .'4 
+
+7.) 
+136 
+
+ToUls ¦ r| 1 I 1 I I 8 15 i 22 38 5() 72 
+
+21X </seg>
+
+            <seg id="p077">
+77 
+
+NEBRASKA STATK PINITRHTIART. 
+
+TABLE XXXII, 
+
+;nts by Counties nf the til fVusMrt in Priton 
+per .-mf. nf Commitments fnr r-ieh nf 1hr irreral 
+
+Showing the number of ( 
+November SO, 188t 
+
+
+T..t 
+
+Counties 
+
+coi nto 
+
+Si r = 2 
+- Hi - - = 
+c = r £ | 
+: - - - — : 
+-- = -:¦_¦ 
+
+Adams 
+Buffalo 
+Burt 
+Butler 
+Caas 
+Cheyenne 
+Clay 
+Colfax 
+OumiiiK 
+Dakota 
+Dawson 
+Dixon 
+Dodge 
+Douglas 
+Fillmort'^ 
+Franklin 
+Furna&gt;&gt; 
+&lt;iage 
+Hamilton 
+Harlnn 
+: 
+Jefferson 
+Johnson 
+Kearney 
+Keith 
+Lancaster 
+Uni-oln 
+Madiaon 
+Keinahu 
+Nnckolli 
+&lt;ttoe 
+l*awnet- 
+Red Willow 
+Richard) 
+Saline . 
+f«n&gt;y 
+k-vward 
+Sherman 
+Thayer 
+V.illey 
+Washington 
+Wayne 
+Webster 
+York 
+
+•¦¦ 2.1 
+.. 
+1 ¦"&gt; 
+4 19 
+I" 4.* 
+.. 
+I 
+.. 
+.a 
+2 .9 
+2 .9 
+1 .i 
+1 
+46 B.7 
+1 .=&gt; 
+T 
+1 .» 
+.. 
+1 
+1 .1 
+..2 9 
+4 l.S 
+.. 
+1 
+.. 
+; 
+in 4.7 
+2 .9 
+¦ I) 
+'.'. S 1.4 
+.. 
+.. 
+4 1.9 
+4 1.9 
+.. 
+1 
+.. 
+.. 
+1 '. 
+1 .• 
+.. 
+1 
+2 .9 
+4 1.9 
+
+
+
+&gt;, 
+
+B.1.1I.T-V 
+
+
+
+m 
+
+s 
+
+
+fiiadoid 
+iih ul.i;i 
+
+&lt;^ 
+
+;i 
+
+s 
+
+c 
+
+II 
+
+ftll.illl 
+
+K a 
+
+JOXlOJ 
+
+/. 
+
+— 
+
+
+H a G 
+
+I 
+
+¦v 
+
+X 
+
+V 
+
+&lt; 
+
+\ 
+
+— 
+
+V 
+
+s </seg>
+
+            <seg id="p078">
+78 </seg>
+
+
+            <seg id="p079">
+79 
+
+NEBRASKA STATt PKNITBSTIAK Y 
+
+c 
+
+r. 
+
+
+
+TABLE XXXIV, 
+
+•irj thr several Counties nf the Sit Prisoners in Prixon on the 30th day of 
+Novemher, 1881, in relation to the several years of their Commitment. 
+
+TEAM 
+
+ITIE8 
+
+
+Buffalo 
+
+Burt 
+
+Butler 
+
+
+Cheyennt 
+
+-lay 
+
+Colfax... 
+i 'liming 
+
+Dakota 
+
+!&gt;aw- n 
+
+Dixot 
+
+ixxU* 
+
+
+mini 
+
+Franklin 
+
+PnnuM 
+
+hH 
+
+Hainiit..n 
+
+Harlan 
+
+Howard 
+
+Jeffernon 
+
+iohnaoo 
+
+Kaunej 
+
+Keith 
+
+I inf—lrr 
+
+Linculn 
+
+Madteoo 
+
+Nemaha 
+
+Nuckolls. 
+
+Ota 
+
+I'awncc 
+
+Ke.i Willnw 
+
+Richardson 
+
+Saline 
+
+a»w 
+
+tewutl 
+
+ftmu 
+
+Thay.T 
+
+Vaif.v 
+
+Washington. 
+
+£»yne 
+Webster 
+
+
+
+
+I 
+
+i 
+
+1 
+
+l 
+
+i 
+
+1 
+
+1 
+
+11" 1 2 8|l5 22 38. VI 
+
+» 
+
+i 
+
+I 
+
+o 
+
+I 
+
+1 
+
+i I 
+
+1 4 </seg>
+
+            <seg id="p080">
+80 
+
+
+\* </seg>
+
+            <seg id="p081">
+NejBHASKA STATE PENITKN I [ \l[\ 
+
+81 
+
+• 
+
+( 
+
+V 
+
+I 
+
+J 
+
+I 
+
+1 
+
+' 
+
+
+V 
+
+V 
+
+V 
+
+s. 
+
+/. 
+
+H 
+
+K 
+
+• 
+
+I 
+
+-t 
+
+
+
+u 
+
+M £.- = .= 
+
+a 
+
+-L 
+
+
+
+
+
+UttUtty 
+
+iCuadojd i^uiuaB \m-&gt;.i 
+
+c 
+
+•rooBjsd jbiiib8f vn»i 
+
+iuadojd [ji&gt;8«X 
+
+-Worn aujAoraDH 
+
+JDSqD 
+
+pa&amp;ioj « Snjjjji.i 
+
+•9m»o SniiB^is 
+
+Xuadojd 
+
+f..&gt;S«SiJoni Siiii! 
+
+Xiaqqog 
+
+Xuadiud 
+
+na[oj« 8niAi8.)an 
+
+7. ud J^p'in 
+
+X.iuom aiiiinwiqo 
+
+H 
+
+¦Sniitim- 
+
+H iaqqoj ABMq3iH 
+
+£ Xu3ai«t pn«O 
+| 
+
+Cjal 
+
+&lt; 
+
+§ 
+
+•jnarasizz.wiraa 
+
+Ij«1Xjiiji 
+
+
+AU30 
+
+JV[ pus .Op|Kina 
+
+¦n 
+
+5 
+
+limaid.i &lt;n idai.mv 
+
+nowy 
+
+A-i»[iinq ni 8uiply 
+
+a"ii.i-u« </seg>
+
+            <seg id="p082">
+a 
+
+PUBJS Ol .tlO8S0.,.]\ 
+
+pnno« jo [ij!( 
+
+2 
+
+
+*nqq»j. 
+
+•nonanp.i; 
+
+»d«j uioo 
+
+»»•« I'UB 
+
+ad 
+
+X 
+
+ufcp P 
+
+mh ui japjnK 
+
+•~&gt;\i ]sji( in jo]'- ti !\ 
+
+¦'- 
+
+q.-!nB[sim 
+
+i -ponoMJoim&lt; 
+- 1U.11UI in - 
+
+pmtoM j 
+
+ui qtt* 
+
+£ </seg>
+
+            <seg id="p083">
+83 
+
+NEBRASKA BTATB PKNITKNTIAKY. 
+
+i.K xxxvi. 
+
+Hack 
+Harm 
+Herde 
+Hoatl&lt; 
+Hotell 
+
+I'h 
+
+M 
+
+-ii 
+
+if 
+
+1 
+
+I 
+
+
+: 1 1^ 1.1 5 
+
+i ; - 
+
+¦-1 IS 9' 16.1 16. 
+
+1 1 1.1 5 
+
+S 
+
+1.6 .9 
+
+i i : s * 
+
+1.6 3.7 
+
+1 I .8 .5 
+
+t.4 1.4 
+
+1 
+
+1 " 1 
+
+1 1 &gt; I 
+
+li 1 .8 .5 
+
+4.5 .8 *.3 
+
+1 
+
+1 
+
+I 
+
+ll: 4 
+
+4 4&gt; 3.4 l.'J 
+
+1.1 4 
+
+A 
+
+I 
+
+t 
+
+1 </seg>
+
+            <seg id="p084">
+84 
+
+KV V' RT "F TUh 
+
+IABLE XXXVII 
+
+I 
+
+1 t fi 
+
+4 84 
+
+
+
+
+Avcra 
+
+¦ 
+
+tentenct and number of each term ; the, total number of 
+
+la 
+
+¦i each term of wntrnce, gmdtitt iigth nf sentence imjuit, 
+
+prin"&gt;ieis remain ng )'" prifem on 'lie H&lt;Hh imy of Xirrtnber, 188%. 
+
+sentence • 
+
+ITHOP TOTA1 l.KNGTH OF | TOT* I 
+gg H&gt;IA1.. TK11M §| TOTAl 
+i m u rr 
+1 i i i ] \t ii i i </seg>
+
+            <seg id="p085">
+NEBRASKA STATE PENITENTIARY 
+
+85 
+
+V. 
+
+» 
+
+
+; 
+
+¦ 
+
+« 
+
+i 
+
+I 
+
+N 
+
+i 
+
+U 1 
+
+X- 
+
+ir </seg>
+
+            <seg id="p086">
+86 
+
+RETORT OF Til K 
+
+TABLE XXXIX, 
+
+
+ral apes of the SI! pri/tonr 
+1S8X, alto the per' 
+
+
+IK 
+
+
+V.K- 
+
+:&gt;-. 
+
+55 
+
+
+
+! 
+
+- 
+
+I 
+
+13 18 
+
+22 7 8 
+2fi 
+
+4 
+
+4 3.4 
+
+12 
+
+¦.'- 
+
+I 
+
+SO 5 4 9 
+81 I 5 7 
+82 
+83 2 5 7 
+85 I I 
+« 8 I t 
+
+1 
+
+I 
+
+I 
+
+
+39 _.. i 1 39 
+
+I 6 I fl 4n 
+
+«1 I 1 &lt;1 
+
+
+
+
+*i , X 
+
+4 4 
+
+4" 
+
+
+
+M 
+
+I 
+
+Tola 
+
+•24 212 T </seg>
+
+            <seg id="p087">
+NEBRASKA STATE PtS IT KXTIAR Y 
+
+87 
+
+A".! 
+
+¦;.l. 
+
+ml 
+
+¦y. 
+
+,-77 &lt;&lt;&lt;« 
+
+5-7-5 
+
+v 
+
+V 
+
+* 
+
+*- 
+
+X 
+
+* 
+
+¦ 
+
+Z 
+
+* 
+
+
+
+a 
+
+s 
+
+v 
+
+u 
+
+a 
+
+¦j_ 
+
+u : - ~ ~ ~-i 
+
+u 
+
+tr 
+
+&gt;¦- u*. 
+
+
+u 
+
+•±==l « 
+
+zi. u_5 i 
+
+
+u 
+
+
+1J"A -was 
+isjar aits 
+BHs«jqs N </seg>
+
+            <seg id="p088">
+88 </seg>
+
+            <seg id="p089">
+89 
+
+NEBRASKA STATE PKNITKNTIARY. 
+
+TABLE XLII, 
+
+the SOth of ' 
+
+United States ami foreign count 
+
+PKR cent 
+
+25 *3 
+
+SAT 
+
+A 
+
+z ?z 
+
+s Z 
+
+NITKD STAT 
+
+1 Alabama 
+
+Alai 
+Ark 
+
+1 Arkansas | 9. .6 
+
+rmdo 1 "&gt; 6 
+
+1 5 
+
+l Connecticut 9 .* 
+
+h 
+
+1 Florida 9 .6 
+
+1 Florida 9 .6 
+
+21 Illinois ¦ • 11.4 12.3 
+
+21 Illinois 8.8 1J.4 12.3 
+13 Indiana J 10.5 5.8 7.8 
+
+13 Indiana : 10.5 5.8 7.8 
+
+13 Iowu ...'.) 8.6 7 6 
+
+Iowu 
+
+1 Indian Territory .'. ' I .9 .6 
+
+Indian Territory 
+
+I Kan~n&gt; ! .9 .6 
+
+I Euuti .9 .« 
+icky 1.5 1.9 1.7 
+
+Ka 
+
+weky 1.5' 1.1 1.7 
+
+1 Louisiana ' .9 4. 
+
+1 Louis 
+
+Mil 
+
+2 Maine 3. &gt; 1.1 
+
+Maine I 3. 1 1.1 
+
+1 Maryland I .9 .6 
+
+husetS.".!!!.'.'."!'.'.'.!"™'.'.'.Z 
+
+tUl 
+Mic 
+Min 
+Mis 
+
+T y.ns-iiehuscltP 1.5 5.£ 4. 
+
+5 Michigan 
+
+-'Hll I - 
+
+1 Minnesota ' 9 .6 
+
+Minnesota .9 .6 
+
+souri 
+
+nri 8.9 7.1 8.0 
+Mississippi 1.8 1.9 17 
+
+N| - sippi 1.9 1.9 1.7 
+
+raaka 1.5 .9 l.l 
+
+N. 
+
+2 New Jersey 3 1.1 
+
+\e» York." 11.9 U 
+
+¦21 New York 11.9 12 
+
+N 
+
+22 oliio 10.5 U.I 12.8 
+
+in 5 14. t 12 
+
+14 Pennsylvania 11.9 
+
+2 Tennessee I 1.5 .9 1.1 
+
+2 Texas 2 1.1 
+
+¦ 1 1.1 
+
+1 Vermont ' 9 .6 
+
+Vermont ' I .9 .6 
+
+\i 
+
+6 Virginia 5.» 1.9 3.6 
+
+Virginia 5.9 1.9 3.6 
+
+. West Virginia 1.9 l.l 
+
+Virginia 1.9 1.1 
+
+West Vin 
+Wisconsii 
+
+4 Wisconsin 1 
+
+-in 1 
+
+1 District of Columbia 1.8 6 
+
+1 District of Columbia l.S 6 
+2 Unkii"»]i Indian 3.1 1.3 
+
+2 Unknown Indian 3.) I.I 
+
+u 
+
+Total I'nited Sutes 100. HiO. 100 
+
+172 Total fluted State': ino. 100. 100. 
+FOR I 
+1 Atlantic Ocean 
+4 Austria - 4.7 15.1 00. 
+5 Canada 
+2 lienmark 1.7 
+
+A!:.- 
+Ail- 
+
+Austria I 4.7 15.1 00 
+
+ada a.y l"i 
+
+mark 4.7 
+
+1 England : 1.1 
+
+Eneiand : I 4.T 5 
+
+Eng 
+
+France 10.4 
+
+2 France 10.4 5. 
+rmany 
+
+main- 
+
+Ireland 23.9 r &gt;3 15 
+
+G Ireland 23.9 i.3 i:.. 
+den 9.515.812.1 
+
+Sweden 9. 
+
+i'&lt; Total Foreign 100. 100. 100. 
+
+U Total Fc 
+
+100 
+
+172 United SUtei W.l'84.7'a 1 
+
+K.I 84.7 81.1 
+
+Foreign Countries j:!.9 15. 3 18.9 
+
+tals :• ! 
+
+
+JS I'adTuinoooi 'mi 
+S iqJlMJi.Bi. ¦ </seg>
+
+            <seg id="p090">
+90 </seg>
+
+            <seg id="p091">
+91 
+
+NEBRASKA STATE PENITENTIARY. 
+
+TABLE XLkY. 
+
+'.hr religious denominations of the S12 prisoner* in prison on the S" 
+November, 188! ; also the per end. &gt;&gt;i mmmmAmnJi u&lt;r each y.nr, ¦ 
+
+I'KK ' ENT 
+
+REI 
+
+DENOMINATIONS 
+
+B as « y', 
+
+1 
+
+B*| 
+
+1 
+
+Bapti: 
+
+Cathc 
+Chris 
+Eplsc 
+
+1 II .» 
+
+
+4 
+
+i 
+
+¦ 
+
+JewU^ 
+Luthei 
+
+MciraviHii 
+
+M&lt; 
+
+Mcirnv 
+Presby 
+
+Trinitarian 
+
+1.1 
+
+Trinitariar 
+
+JBn 
+
+Bre 
+
+I 
+
+Total.. 
+Belonging 
+
+Total 
+
+4.6 30.6 54 
+
+B 
+
+Tnuila 
+
+100. iW 
+
+
+s= 
+
+KEI.l'.I" - _ _____ 
+KN'lMINATION- g.|l Sji-sBB 
+L«dL.»d - i i. </seg>
+
+
+            <seg id="p092">
+adej oi )ui hiiji 
+
+92 </seg>
+
+            <seg id="p093">
+93 
+
+NEBRASKA STATE i'KMTENTI ARY 
+
+lALJLh, AL\ . 
+
+SMowmg the fA 
+
+'hoir 
+
+tcatioi 
+n thr 
+
+¦ mil c 
+i SOU 
+
+condition and the moral habits of the .'/.' jri*mtrt in prison 
+'A day of Norem'er, 1881, also the per cent. 
+
+Knlr \TIOXAI. C 
+Moral Hi 
+
+= _ =¦?&gt; i I'er ' 
+-55 - 
+3- 5" - Knt TATIUNAL COSDITUIS i^ ,. 
+&gt;¦ . n . Moral Habits. »ZS 
+•5 »5 §2 ¦-*-• ? u " 
+
+Educational coin 
+Read ami writ* 
+Read only 
+Write only 
+Illiterate 
+Total 
+
+Educational condition-^ 
+aa BS 132 Read and write T.-.J »;.'.i 71.7 
+4 B 13 Read only 1.3 
+1 I. Write only 8 .5 
+1"&gt; B IT Illiterate. .'.... 17.1 
+I* 2U Tolal im. 100. • 
+
+Moral habit- 
+Temperate 
+Moderate 
+Intemperate ... 
+Total 
+
+1 habiu— 
+'iO Timperau 44 1 
+8 in karate 9. 
+30 M 71 Intemperate M.i U I I -• 
+S8 124 Jl-.' Total ino. ion. 100. </seg>
+
+            <seg id="p094">
+94 
+
+REPORT OF THE 
+
+TABLE XLVI, 
+
+&gt;ig the educational condition and moral habits of the SIS prisoners in p 
+on the SOth day of November, 1SSS, in relation to their several ages. 
+
+Educational Condition 
+
+Moral Habi 
+
+. I , K- 
+
+***? Read Write lllit- 
+Wriie only - only - erate ' 
+
+1 1 
+
+
+1 
+
+1 
+
+
+
+4 
+
+4 10 
+
+1 
+
+10 i 4 
+
+A 
+
+1 
+
+1 4 
+1 ' 4 
+
+4 
+4 
+
+¦1 
+
+1 
+
+II 1 
+
+1 
+
+• 
+
+I 
+
+M 
+
+4- 
+
+
+M 
+
+1 
+
+i 
+
+1 
+
+18 
+
+
+
+
+Total. ] Tot 
+Tem- Mud- Int'm 
+p'rate erate. p'rate 
+
+12 
+19 ; 3 
+
+23 10 1 2 </seg>
+
+            <seg id="p095">
+95 
+
+NEBRASKA STATE I'EN ITEXTIARY 
+
+I 
+
+
+TABLK XL VIII, 
+
+S d habits of the 212 prisoners in prison tm the 90th ¦ In: 
+
+her, 1382, in relation 
+
+their place of 
+
+Born in Fi 
+
+
+
+
+Denmark 
+1 
+
+
+Tnt.il f, 
+
+Per cent bom in United Ptate 
+Per pent, bom in foreign conn 
+
+conn </seg>
+
+            <seg id="p096">
+96 
+
+
+Alabama 
+""tiCUt 
+
+Virginia 
+:isin 
+District of Columr 
+riikiifiwn Indian. 
+
+Total United Stau 
+
+K£== 
+
+Kin Coiled States ... 
+In forritfT] countric </seg>
+
+            <seg id="p097">
+97 
+
+NEBRASKA 8TATR l'KMTENTIARY 
+
+s 
+
+s 
+
+I 
+
+\ 
+
+i 
+
+s. 
+
+X 
+
+s. 
+
+A 
+
+w 
+
+&gt; 
+
+•I 
+
+v 
+
+V 
+
+&gt;r 
+
+•" 
+
+/ </seg>
+
+            <seg id="p098">
+98 
+
+hEPORT O¥ THi 
+
+TABLE L, 
+
+Shounng the political opinions and the statement as to the guilt or innocence of th 
+tit prisoners in prison on the 30th day of* November, 18St ; aUu the per cent. 
+
+Year. 
+
+I'kk Con 
+
+POLITICAL OPINION AND GUILT. 
+
+§£s 
+
+
+/ 
+
+Political Opinion— 
+ibliean 
+
+Democrat 
+
+A n ti - M nnopoliat 
+
+No political opinion :'l J4 t". \i\. it.S -'1 
+
+Total 
+
+124 212 l(»i. HiO. 100 
+
+Guilt statement— 
+
+S 
+
+Not Guiity 
+
+Total _ H 12 im». M </seg>
+
+
+            <seg id="p099">
+?Z-lz 
+
+,. aas 
+
+¦J 
+
+
+BBRASKA - ITS T1ARV 
+
+
+Xy.xi'j'l 
+
+i 
+
+I 
+
+Jiuiiqqi 
+
+.ilittais a&amp;iOH 
+
+Xjsqqcu .&lt;«« 
+
+9 
+
+t- 
+
+&lt;&gt;I 
+
+¦.&gt;1h , 
+
+
+* 
+
+y 
+
+K 
+
+&lt; u 
+
+•x 
+
+u. 
+
+/ 
+
+¦' IX 
+
+
+ttll </seg>
+
+            <seg id="p100">
+100 
+
+TABLE LI I, 
+
+¦ infjal and Social relations of the. 21J prisoners in prix^n M *hr XOtM 
+
+lay of November 
+
+PEK CENT 
+
+IONJUGAL AND 
+
+REI.AT 
+
+2 
+
+fc.2- _»3 - 
+etri Pi-- i 
+
+•.«jjuj»l Relations J , _ ft 
+.lit children U 7 Jl ».» &gt;6 9. 
+ried WithchUdren ; » I &gt; »•• 2S¦were 
+and divorce'i ;.- ¦* ••• "¦ 
+Total ! ¦ 124 212 100. ion. WO 
+¦••lations— _ 
+1'arents HviiiK -* M so MS 43. ft CT 
+Parents dead.. 42 » K7 47.7 20.1 31 
+
+21 
+
+) ) 
+
+Married. Without children 
+Married. With children 
+Widowers snd divorced 
+
+1 
+
+ToUl : &gt;* 124 
+
+in 
+
+Relations— 
+
+ivillK M M "0-29 5 43.5 37 
+
+Father living and mother dead « 21 27 6.8 16.9 12 
+
+Father 'livingand mother dead™™///////////!!™.'.'.'.'.'.'.'.'. • B 27 6.8 16.9 ] 
+
+¦¦r living and father dead 14 it 3» 16. 19. S l^ 
+
+Tnul »8 123i 212 .100. I 100. 1110 </seg>
+
+            <seg id="p101">
+¦ HK.\&gt;KA STATK PKNITKNTIARY 
+
+101 
+
+S V "" 
+
+5 
+
+laa^luJd 
+
+paM 
+voin 
+
+
+jmimqc 
+
+&gt; 
+
+.i 
+
+11 
+
+tqoj CvvupiH 
+
+ni Mill: 
+
+&gt;-. 
+
+Ijii.4 
+
+xaqoq 
+
+t 
+
+HI 
+
+I 
+
+nil 
+
+v 
+
+H 
+
+u- 
+
+V 
+
+&lt; 
+
+
+I'll 
+
+
+II fl 
+
+
+b; 
+
+&lt; 
+
+1JIH1SI </seg>
+
+            <seg id="p102">
+102 
+
+RETORT OF TH K 
+
+snosjsd jru!b8b [»iox 
+
+WOUI jiuiAOAUI}] 
+sill" 1 Jinipwx 
+
+-; m -un Xauom Sjqo j | 
+
+
+1—1 j Xu.n«s;s ssjoh i I •* ! I :«--« 
+
+&lt; £iaqqfuX«Jtu8tH 
+
+XUSOJBJ pUBJfl 
+
+•c 
+
+uam.i[z/3qni.j 
+
+'¦ 
+
+.•:jH|.-JI: j 
+
+7; S Ji:|piiv ijo|Ain;( 
+
+uou« itm 
+-raoo oj idrnaiiiv | | 
+
+xwf.aiXiy 
+
+Xjjsdojd isniRtfp i»iui 
+
+p.BglJOQl Sun, ... 
+
+£io&amp;io.j ; | </seg>
+
+
+            <seg id="p103">
+NBUKA.SKA 3TATK TI^KY 
+
+M 
+
+5 
+
+x 
+
+s .~- " 
+
+• i 
+
+s 
+
+•» 
+
+r 
+
+t- 
+
+t 
+
+¦~ 
+
+/• 
+
+
+u. 
+
+U 
+
+*tr 
+
+"' </seg>
+
+            <seg id="p104">
+104 
+
+RKPORT OF THE 
+
+im*MS»v| 
+
+Iviadojd |N|Mr pnoj. 
+
+« 
+
+•«QO»J*1 IS1II»SV ("JO 
+
+¦J&lt;i 
+
+uma DniAdUiaH 
+
+nrBi&gt;iv 
+
+Xu.vliud 
+
+pa.auuiu 3uii)3g 
+
+B 
+
+
+XauomSiiniiKiqo 
+
+aiIU8^)R3SJOH 
+
+aj-&gt; qoj fmnmH 
+
+I 
+
+&lt; 
+
+luomsizzaqraa 
+
+H 
+
+&lt; 
+
+a; 
+
+I 
+
+31 
+
+UO&amp;J8 
+
+X jirauioa )diu*uv 
+
+
+TOUT 
+
+XJl8jnqinaaiptv| 
+
+I 
+
+XuaoJBt 
+
+p^i8 m I 
+
+puno.« 10 H!^ 
+
+JO] q,» 8uil0oqw 
+
+aiaqqi»l&gt; 
+
+s 
+
+uoijonp.&gt; 
+
+1 
+
+55 *ad*J jimuioooj :-| 
+g in Un»w«V3d»H |l 
+
+••d-H " 
+
+
+MJJ 
+
+V- 
+
+-ap pr. in japjtiK 
+
+&lt; 
+
+x 
+
+•jni t)ji« Suinti.) 
+
+XmsSta 
+
+punoM io Hi!) o; 
+
+&gt;•- 
+
+¦- i - x 
+
+Ji 
+S- s.naiaa'l as[v} tin 
+
+03 AU.WJB1 pUBJQ 
+
+•Xjn[3jng 
+
+X.jjui VAjiqnjnq 
+
+• IU3 
+jaiqanBisuFK 
+puno.tt O) I I 
+
+L3u.c S is :~ ; •= ! i j j M i- : i I j 325 s 
+
+- /. &lt; 
+
+
+
+r- 
+
+' — 7 i 
+
+— 
+
+
+a. 
+
+I 
+
+oo 
+
+
+a </seg>
+
+            <seg id="p105">
+NEBRASKA STATE PBK1TBNTIARY. 
+
+g ! M i« 5 l~ 
+5 ¦¦ = ! • ¦ : : : = </seg>
+
+            <seg id="p106">
+106 
+
+HEPOKT OF THE 
+
+3»o I 
+
+•iw* * bBv 
+
+ijjsdojd inure*? IWU 
+
+• ; r - i ""• sa^s-a 
+
+mo«9d jsujbXb f»iox 
+
+CtradOJd paaia 
+
+I 
+
+8[M«ja£n»3]s 
+
+IP.gBSUCIUl.-UjU-'S 
+
+H 
+
+1 
+
+ro 
+
+&lt; 
+
+i 
+
+]Q3lUd[ZZdqmj{ 
+
+K 
+
+DC 
+
+¦aauy 
+
+• I 
+
+¦w 
+
+
+
+•,-iinqf(B)S 
+
+— 
+
+— 
+
+
+qi!« 
+
+— 
+
+i 'P-"&gt;K 
+
+
+siqanwisin'i^ 
+
+mi.« 8ai 
+
+no*i jo ]'.!! W 
+IU1 l|l: 
+
+ZC 
+
+-&gt; 
+
+
+¦uom Sn|AOiB9a 
+
+X]j*l&lt;u&lt;l 
+
+XiaqqoH 
+g pan ianum igp 
+
+~ XUIIH31S 3SJ0H 
+5 ¦ ' 
+- Aj-&gt;qqruX»»ijSttH i 
+I AU9.1JS1 pu«j;) 
+3 ' TlnJUoJ 
+
+¦ H[ Of AJBIima • 1 
+nosju lira • | 
+OS -moo oj jdrnsnv : i 
+
+-&amp;mg mriuipiv i ! 
+iaxumi ¦ I 
+p t ji". " . : I 
+
+uiin'i.)oi iu 
+
+led*; </seg>
+
+            <seg id="p107">
+NEBRASKA STATE PENITENTIARY. 
+
+107 
+
+TABLE Lit. 
+
+Tht Sumbrr and Percentage of the Commitments from each of the different Judicial 
+Districts of the prisoners in prison on the 30th day of Sorembrr . lS8t, is 
+shown by the following Tabular Summary. 
+
+YFAR." PEB CEHT. 
+
+COURT- 
+
+1-b £**¦ I all = *3 5 
+I 
+
+by Firat Judicial District Court 
+Sentenced by Second Judicial District Court .... 
+• 1 by Third Judicial District Court 
+d by Fourth Judicial Distru t 
+Sentenced by Fifth Judicial District Court 
+• I by Sixth Judicial District Court 
+
+17 ¦ ¦ 19.1 .11.9 20.2 
+10 26 3fi 11.:: ¦ ¦ 
+0 J6.2 B.6 ' 23.5 
+in a a H.3 9.6 10.3 
+23 2fl S3 -J6. 1 
+6 3 9 6.S | : i | 
+124 212100. 100 100 
+
+Totals „ 
+
+». 
+
+
+I 2 j -tftaMAV 
+
+haas uuqs 
+
+
+"t , -4 
+
+g | -jdqmu\ 
+
+f 
+
+flatty! o 
+
+
+juas "W&gt;HS 
+
+
+¦ g 
+
+j»quin&gt;; 
+
+¦u.aav s.j \ 
+
+E5 
+
+&gt;. 
+
+J.&lt;qiuu\, 
+
+)3'U.t\\ 
+
+&lt; 
+
+aaswoijs 
+
+ja»^ aair\ 
+
+i 
+
+i 
+
+%jmv9.x\ 
+
+j»{uin&gt;{ 
+
+3KJ.1AV 
+
+
+c 
+
+lu&gt;. -in . i 
+
+&gt;,,»!V ¦« 
+
+
+jsquinjj 
+
+v 
+
+i3«i.»AV 
+
+lioq^ 
+
+»U( 
+
+\ 
+
+
+--. = 
+
+
+* &lt;Sdi 
+
+
+
+J. </seg>
+
+            <seg id="p108">
+108 
+
+
+
+
+NEBRASKA STVTK PKNITKN 
+
+X 
+
+1 
+
+\ 
+
+X 
+
+IS 
+
+enri-c 
+
+s\ 
+
+X 
+
+i &lt;ot^ 
+
+i 
+
+i. 
+
+MM 
+
+Ill 
+
+
+TABLE LV1I, 
+
+A summary of the sex and culor of the SIS prisoners in prison on the SUth day 
+November, 1S8S ; aho the per cent. 
+
+¥ I 
+
+H ! - I </seg>
+
+            <seg id="p109">
+- r. 
+
+HEX AND COLOK 
+
+c -i 
+
+fcS5 
+
+Male SH 1^4 212 1 
+
+
+rot*] 
+
+
+; 81 116 
+
+
+I 
+1 </seg>
+
+            <seg id="p110">
+110 
+
+NKKKAHKA sfTAXK PKNITKNTIAKI </seg>
+
+            <seg id="p111">
+111 
+
+I AUliK LV 111. 
+
+'. 
+
+KUamy the scctral 
+SOth day i 
+
+I yr.iirs 
+
+which the .N't .'' MMMra tu fruwi on &lt;A&lt; 
+m! M* JMr cent, /or each year. 
+
+YEAR;*. 
+
+"•• fem. | T£A1 '^ CenV 
+
+883 
+884 
+ISO* 
+886 
+.887 
+888 
+;86»... 
+mo . 
+.891 
+1892 
+
+41 4 1.1 
+li.9 1H94 1 1.8 
+¦a i .4 
+. 1H9K 1 .4 
+7.1 IXW 1 4 
+12 5.7 1UOO 1 .4 
+J.l 1902 4 i.S 
+7 3.5 Life 21i ».&lt;* 
+T la] </seg>
+
+            <seg id="p112">
+112 
+
+N EBR A •* K \ &gt;TATK 1'"^ N iTKNTI ARY 
+
+TABLE LIX 
+
+.-1 IUmIn st,,fritir,ir r.nvrri'ir Prisoners in Prison on the .10th day 0/ November 
+1S8!. umier Lite .Sentence . .N'Aowin&lt;7 also their conduct since their commitment 
+
+Bohanan, Q 3:; Lancaster.. Murder 2 d June 10, 1882 June 10, 18S2 ... 5 2033Good. 
+&lt;"*rr, John 23|0heyenne... Murder 2 &lt;1 Apr. 7. 1R77 Apr. 7 1877 ! ¦¦«*!. 
+Clough. Warren... 40i York Murder 2 d Keli. 2. 1877 .luae II. li&gt;7»&gt; 4 :&gt; 19 45 Good. 
+• omstock. C. P. ... 37; York Rape Jan. 20, 1881 Jan. 22,1281 110 s 39 Punah'd July 21,'81 
+Coyne. H. B Ipr :&gt;, 1882 ... 7 2f&gt; 28 G. ¦ 
+Dili. Clinton 41 1 Red Willow Murder- d May 5. 18ft! May 6, 1882 ... 6 24 41 Punsn'd 8ep.2»,'82 
+Filleon M n Lincoln Murder 1 dJan. ... 1876 Apr. 19.1*76 6 7 11 38 Good 
+Foster. T. C 44 Ota Murder 2 d Oct. 1. 1X7(1 Oct. 1.187012 1.29 56 Good. 
+Frank. Krann- 47 Donglai .... Murder 2 d 'Dec. 17. 1871 I&gt;ec. 18. 1OT1 10 11 12 "&gt;9 Good. 
+Flail. II. w » Cheyenne .. Murder 2 d Mar 28, 1882 Apr 1882 7 25,«7 (Jood. 
+Hi'rali.1«ki Murder 2 d,Nov 16, 1881 Nov. 17, 1881 1 ... 12 2f&gt; Good. 
+Ho-Ktiw jnlDixon iMur(1iT2 d Not. 17. 1870 Nov. 19. 1H7M12 ... 11 33 Good. 
+
+) -ep. 19, '79 
+i Oct. 22. '79 
+I Nov. 24, 'TO 
+: I ;, venue... M . I m'd May 9, 80 
+Sep. 20, '80 
+Sep. 11, '82 
+Sep. 16, '82 
+
+v W ..I .... lDlAilams ¦Murderi d-May 11. 1880 May 12. 1980 2 61822Good. 
+
+"I Feb. 10. '80 
+McKeller.(. H lii-h.-rnmn... Murder 2 djjan I. HI ill— 5,1877 5 ft V!S 35 Fund I JJ"' £ .'jjJJ 
+i July | i, ;82 
+McLean, Thos... . W Cheyenne ... Murder I d Nov. 20 1877 Nov. 20. M71 r, ... 10 SOJ-un'd (-nJJ*""' '7$ 
+
+Patrick. A M ewur,l .Murder 1 d.\o\.20, 188-j Nov. » HB 4iG«od. 
+Smalley. H 31 Lincoln Murder 2 d Oct. 9. lS77iOet. 10. 1877 I 1 20 Sf, Pun'd | JJjJ- £ '.Q 
+White, K. 1 1 &gt;&gt;¦"¦ Kiinia&gt; -Murder 2 d Oct. 11. 18H0 Oct. 12,1880 2 1 IS 27 Fumi'd Mar. 26, 81 
+Whitewater Reraon Murder 2 di Apr 21 1872 Apr. 24.1872 11 7 R X7 rurui'd Ser&gt;. 2, 'W 
+WllkerKon.i I mklii Murder 2 d Mar. 10, 1880, Mar. 31 L880 - - '«jod. </seg>
+
+            <seg id="p113">
+PRISON KRS 
+
+F 
+
+Sundry Counties, States and Territories 
+
+HALL COUNTY. XK1 
+
+KEARNEY COUNTY, NEB 
+
+t'XITED STATES 
+
+new mkxico tehi;itoi;n 
+
+WYOMING TKURITom 
+
+s </seg>
+
+            <seg id="p114">
+114 
+
+REPORT OF THE 
+
+PRISONERS HKLI) FOR SAFE KEEPING 
+
+For ihr account of the several aunties for the two years endina fl 
+
+Hall (ieo. W. Hart Murder 1st degree.! Mar. 16.1882 Sentenced to be hung. In r 
+
+Nov. 30, 188: 
+
+Lancaster... yuin Bohanan, alias Murder 2nd degree. Mar 17,18*2 Sentenced for life. Returned 
+K. B. Raiven | toSheriffof Lancaster Co. for 
+
+trial. June 5, 1882 
+
+Kearney .... Matt. Simmennan... Murder 1M degree. Nov. 4,1882 Held for trial. In prison Not 
+
+'. l*-2 
+
+ban been received for safe-keeping during the two years ending Nov. 30, 18&amp; 
+Returned for trial 
+
+1 
+
+Prisoners in prison on the 30th day of November, 1882 </seg>
+
+            <seg id="p115">
+115 
+
+NEBRASKA STATE PENITENTIARY. 
+
+UNITED STATES PRISONERS 
+
+irlson on the 30th day of November. 1880 
+
+Nil! 
+Bei 
+
+No 
+
+Discharc 
+
+Nov. 30, m 
+
+'.I 
+
+fHi 
+
+mber 
+
+REGISTER OF U. s. CONVICT8. 
+In Prison on the 30th im 
+
+NAMK- . Mstrict. Crime. ,- ' "f tm .,,, -. t 
+
+Commitment 'E,k 
+
+Yr- M 
+
+Ih, 1S79... 188 1 
+
+Bens. hi.. Ic.: 
+Coultei, Pc 
+
+ra&lt; 
+
+ft: 
+
+nt wilh intei 
+United -tatcs 
+
+inal sta 
+lefraud 
+
+June 1« 
+
+RKGISTER OF U. S. CONVICTS, 
+
+Harp. W. A 
+
+Dim 
+
+teharged during the two yearn ending November 30, 1S81. 
+
+NAMES. 
+
+Jm* Cfcta* j— ' committed Di " "^.1' Authority. 
+
+Y M 
+
+Rrenner, John.... '. 
+Jennings. .1 : 
+.1. .luis'in J. W ! 
+Mc'imii. P ¦ 
+Nolan. J. F I 
+U. l) ; 
+¦ids C I 
+Sufllivan. D. II... 
+\Vil-on.Geo._ 
+
+¦*4 Sebrnska Pasft'g counf 't mon 1 me act. 
+20 Colorado Robbing U. 8. mail. 2 ... Jone.21. '80 Ma 
+25 Nebraska Kobbery 3 » Nov...Z7, '79 Aug_10, ueact. 
+.lorarto KmU'zzleineiit 2 ... June..-'! . - 
+35 Nebraska Robbery 3 ¦ Not._27, "7» Aaj...lO 
+Jl Coiiirado Korgery 2 ... June..21. 'HO Mnr'h-7 
+31 i'tah (irand larceny I 3 ... Aujr...1.i. It May...l 
+:«Ut«h Grand larceny I ... Aug-16, 'TO Api .¦ - 
+36 Nebraska Robbing I". S. mail. 1 5 May ..10, 'SO July .14 </seg>
+
+            <seg id="p116">
+116 
+
+T OF THK 
+
+NEW MEXICO PRISONERS. 
+
+prisoners in prison on the 30th day of Suvemlm. IM 12 
+
+
+- -&lt; 1 in thetwoycai S 1882 , 6 
+
+N 
+
+I 
+
+18 
+
+¦I the two yearn eliding November 30, lwj 11 
+
+:nrtinintf iti prison 7 
+
+REGISTER OF X. M. CONVICTS. 
+
+REGISTER OF X. If. CONVICTS. 
+In prison on the 90th An\ 
+
+i 
+
+na- cm Dat ?, of , . £ = 
+5 Commitment, zj^ 
+
+| Yr-. Mob. jwp 
+
+-aiiMimnl. i:»pe I Aur 22.1879.1884 
+
+Juan A' .M S -• HI. |1886 
+
+a, Luciano 24 San Miguel. Kape ."&gt; mir. ...i;. 1-" 
+
+2 s«.pt. ... 9,lt81.il8M 
+
+V 
+
+ra, Vid 
+
+M 
+
+April. 
+
+Ban Miguel 2 April. 
+. - and burglar}'... 3 April...28, 18S0. 1884 
+
+Mom. larceny and burglary— 3 April 
+Lin*. John .'i Santa Ke. Murder 7 Auk 22. 1879. 18! 
+
+a, John n Sanut r«. Haute 7 Au« 22.1879. 1886 
+
+A iig 
+
+i m 
+
+RKGISTEB &lt;&gt;F X. M. CONVICTS. 
+
+/' ¦ nber 30, 1S8£. 
+
+! ¦*» rr '.nmuted. DtaSTaV, Authority. 
+
+rimes - ComomtedJl)^^ Authority. 
+
+NAM I 
+
+II 
+-SMaliiur "cattle- I 1 Nov.. .in, 'so. .\\n;..10, 'ki. (Jood time act 
+
+icYoea, P.M. I rder 1 S April 28. '81 J. fiinxl time act. 
+niaKf Murder :; ... Ang ...j. '79. Jni . piration of sent 
+
+MunK-r 2... Aug.. .22. '79. Mar ..17, '81. 'Good r 
+
+F J &gt; Mom -toaiinj: fattl 
+
+V '27 KioArnbn. -: I Sot_..10. '80. Aug.. 10. '81. Good tim 
+
+Mora M - M.June'.M itm-act 
+
+¦dchr'nc diarhoea 
+
+Murder » ... Aug.. .22, '79. Oct. ..22. 'Rl. Good time ac 
+
+Murder I ... An*.. .22. '79. May.15 :meact 
+
+MWBittFi' Muuler 3 ... Aug. ..22. '7'.'. Mar.. 17. '81. Good time act 
+
+NAN 
+
+
+No 
+
+¦ 
+
+REGISTER OF W. T. PRISONER8. 
+
+x, 
+
+I)Rte of 
+
+AM 
+
+jmmitment 
+
+M 
+
+N..v J4, "0 1890 
+June. 
+
+u 
+
+March 9. 
+
+
+ntenl to kill I" May 17, 'TO IMS 
+
+
+June 25. '79 1885 
+
+IM 
+
+Hot 2fi. '*&gt; 188S 
+
+H« 
+
+m uh 
+
+i 
+
+Feb 9. '78 IM 
+
+II 
+
+M IM 
+
+
+
+M 
+
+1« Oct 25,'81188S 
+
+¦ 
+
+-. &gt;M 
+
+\UK 24 
+
+; "- - I 
+
+a. '79 i»i 
+
+N..V 
+
+J»n... 
+
+nne 24, 
+
+Wa 
+
+24. '7K 188S 
+
+N,,v M, H1H1883 
+
+\V 
+
+¦ , ( ¦ </seg>
+
+            <seg id="p117">
+117 
+
+SKA 
+
+
+NEBR 
+
+WYdMIXd TERRITORY PRI80NER&amp; 
+
+1« June J4 
+* IS Dec 28. -81 ISM 
+March 3, 79 18W 
+3 Not H 
+1 Aug 15 
+• 4 ' V eh '..'.'.'.'.'. »! '78 I88S 
+10 Keb 9. 
+
+Keller, H 
+
+
+REGISTER OF W. T. PRISONERS 
+
+Discharged during ihe tiro years (tiding Sovember SO. 1881. 
+
+""H Wh, 
+
+When 
+
+NAMES 
+
+Counties. Crimes 
+
+Authority 
+
+'Con 
+
+mi 
+
+led Discharge. 
+
+5 
+
+Y M 
+
+&lt; 
+
+Anderson Albert. 20 rintah... Grand larceny 6 July .26. ki Jan ...12, '82 iood Time 
+
+&gt;d Time Ac 
+
+28 Albany 
+
+Anderson. G 
+
+Aug.. .24. •«( June 
+
+Barbour. T 
+
+M Laramie 
+
+NOT 
+
+H.-i 
+
+H 
+
+
+Sw'twat'r Home stealing ] ... May 
+
+Ijiramie. As'lt. att. tomurder ... 6 June 7. '81|N 
+
+.. m 31 Carbon... Robber; 
+
+¦ ir._17, '8S 
+
+ratlin. G 21 UlnUh.... HurgUsv 3Jui ...12, 'SI *-"xpir'n of sent 
+
+. MHa G 
+
+xpir l 
+
+t Htf. to murder ... in Bepl .22. '81 May _»i. 'tf2 3i&gt;«1 Time Act 
+
+.d Time Ac 
+
+I) 2:t Laramie . Burgl'ry and lan-'y 8 ... June. 2). '78 My .. 8, '81 
+J.I 41 " Grand larceny 2 fi Jm 
+H jyf'arbon ... " 6- 
+J l'J Uintah.... " 1 .. ¦ ¦ 82 Kxpir'n of -cut 
+
+
+Conti.J. I 
+
+rand larc 
+
+6 Ju 
+
+A 
+
+
+carbon 
+
+Corruth, J. 
+
+19 1'intah 
+
+
+M' 
+
+Craffcy. J. E 2:'. Mt'twut'r Burglary ...] Time Act 
+
+Time Ac 
+
+J. E ¦!¦'• Mt'twiit'r Burglary .,.1 Time Act 
+LA :u " Horse stealing 1 
+
+Horse stealing 1 
+
+Wvid-A 
+
+An 
+
+
+- I SfilCarbon ... Grand larceny 1 .. April. 12 
+
+
+» 
+
+M 
+
+. w • Albany . Burglary 10 Ang_.22, '« ApriUS, ¦ 
+:i J. (' 27 ¦ ... Grand larceny 1 » Mar. 1». 'HI April.:* 
+
+Dowm.J 
+
+April. X. •». 
+
+iMHit'H- B 
+
+21 
+
+1 Mar... 8, '79 April :'.. '81 Kxpirn of sei 
+
+Dunhar B Jl " ... ' 2 1 Mar. 8, '79 April :'.. '81 Kxpir'n of sent. 
+- 1! J f2 I_aramie.. ' ....... 1 J.July _21, '80&lt;&gt;c t.. 2, '81 Good Time Act 
+
+Edwanlv 1! J 
+
+t'2 I ji ram it 
+
+Fairbanks. K fl ¦ Hurfjlay 11 June. 7. SI April. ] 
+George. P. A 26 " Manslaughter 7 ... June. .24, '78 Auk.. 11, VJ Par.byGov.Hoy 
+
+Fairbanks, V -'•! ¦ Hurray 11 June. 7. SI April. ] 
+¦ ¦ Y. \ 26 " Manslaughter 7 ... Jone-24, '78 Auk. ..11, '82 Par.byGov.Hoyi 
+in W ?J Albany... Forgery fi \'«r d Time Act 
+
+• Laramie. Grind "larceny 4 ... June. J4. '7h July...! 
+
+Haudlev. «;. \V ... M Laramie. Grand larceny 4 ... June. J4. '78 July.-15, '81 
+
+Harris, W. V........ 18 •• Horse stealing • 
+
+Ha—is W. K 18 •• Horse stealing 
+man. H 22 Carbon .... stealinp cattle 1 ... April. 12, 'hi F. 
+
+Hickman. H 22|Carl&gt;on .... stealing cattle 1 ... April. 12, 'hi Fel' 
+
+HifTfrins, J 44 " . Horse stealing 3 ... Ma\ 
+
+Hifnrins, J 44 " . Horse siealing t|... Ha 
+n.C. B ¦» Uramie. . Kobbery I 6 June 21 hi 
+
+n. C. B. 
+
+2* Laramie. I. 
+
+3 6 Jun 
+
+Jackson. A :« " Burglary 1 ... June. 7. '¦1 111 
+
+Jackson. A 33 1 " Burglar}- 1 ... June. 7. M May 
+
+Largario. h!!.."!... 29 " Highway robbery... S ... June.24, '7S Fell 
+
+I^argmrin. K -JM " Highway robriery... 5... June.24, '78 Feb... 2, • 
+
+r 
+
+Lewis. T -H " Burglary 100 L -1 Mnr. 12,^2 Kxpir'n of sent 
+
+!..•«¦- I 
+
+_« 
+
+
+
+Mar 
+
+l.es*ner i; 22 " Horse stealing 9 June ' S - i&gt;d Time Act 
+
+-realing. 
+
+Itmmm Q 
+
+Pljune 7. '81 Not - .idTime Act 
+
+McBride. J 21 Uinta Att. to com. murder 2 ... (.«•( ... 1, '80 tpril.28 - 
+
+UrBridf J 
+
+:1 Cinta I niurde 
+
+r 2 ... Oil 
+
+Minu«-'.J 32 &gt;w twafr Grand larceny 2 fi He - 
+
+Mimw.J 
+
+S2 Sw'twat'r Grand larceny 
+
+Dec 
+
+24 
+
+Morgan. \V 12 l-ar»; " Ill 10D Dec... J '-1 Jan. ..11. H2 Kxpirn of sent 
+
+Morgan. \V 
+
+42 Laramie 
+
+IIIOD l'&lt; 
+
+xpir'n of sent 
+
+M 
+
+v t.J 311 ¦ " 2 ... Juip "d Time Act 
+
+kI Time A 
+
+30 
+
+Murray. J 27 &lt; arbon.... ' 1 ... April.l'J. H Ket. 
+i A 36 Albany. Killing cattle 11 K.I,.. 21. si&gt; Jan.. l»i, '81 Kxpirn of ser 
+¦on. 0 3f&gt; Carbon.. Burglarv ll... Ni ;t 26, 'HI Good Time A&lt; 
+
+M'.rnty 
+
+arbon 
+
+Murray. J 27 &gt; arbon.... " 1 ... April. J2. H Feb. 
+A 36 A bany. Killing cattle 11 Feb . 2i '8n Jan.16, VI Kxpirn of sent 
+on. O SfU.'arrmn ... Burslary ll... Noi 
+
+N 
+
+Ai 
+
+Richmond. J H .. :!7 (artx.n ... Grai.d larceny 1 SOct... l.'SDJan... I 
+
+mond. j. H .. 37;Carbon ... Grand larceny 1 
+Koberw. &lt;'. K 27 l^ramie.. " i Nov...2«. '80' Auar._15. 'W Kipir'n of sei 
+
+Koben- t I.aramie.. " - IS '81 Kxpir'n of sent 
+
+Koberts. C K 
+
+27 l^ramie 
+
+
+
+2 ¦ - Mar... 4. '81 Good Time &gt;ct 
+
+fi Nov. -.28, '78 Mar... 4, '81 Good Turn 
+
+
+Smith. Chan 20 Lammie.. Forgery 1 9Jn; 
+
+Smith, chas 
+
+&gt;miih.John S3 Carbon ... Grand laro-ny 8;Oct ... 1 , '80 June.. 1, HI Kxpirn ol sent 
+
+miih. John 
+
+T ZSPintt Burglary ."... 
+Simmons. Neb.... JR Uinu stealing cattle 2 ... July ..30, '7 ' - .1 Timt 
+
+Mar 
+
+1 Time Act 
+
+Tfcoaaat J. K.... 27 i arbon ... Robberj- 5 ...lAug ...15 &lt; 
+Trouper i - K Laramie. Perjury l'De&lt; '80iU - ipir'n of sent 
+&amp; »lliany. . Obt mon. und. ' ¦ 
+¦ ' - ¦ : ¦ . ,_• "I 
+
+Worthmgt.,:! - J Uramie. Gi y : : &gt;, . 2. 'M June..29 </seg>
+
+            <seg id="p118">
+118 </seg>
+
+            <seg id="p119">
+119 
+
+NEBRASKA STATE PKNITKNTIART. 
+
+TABLE 
+
+Showing the numb 
+
+of Wi 
+
+MtAtf Territory prisoners under life »en- 
+Novemher, 188S, also a summary of their 
+
+'Oth day of 
+
+n 
+
+n&lt;i 
+
+¦ EJIGTH OF TIKI 
+
+SERVED, 
+
+In Ter.|In Neb 
+
+Peni'y. S. Prls.l tota: 
+Lara'y. Nob'le 
+
+NAMES 
+
+| RKXARK* 
+
+? 
+
+
+Richard 28!Laramie M'derJane 2. '75 Jan. 24 78 3 ... 22 4 j 6 7 5 28 27 Con good 
+
+Jan. 24 
+
+4 5 6 7 5 28 27 Con (rood 
+
+Pierce, Fernando 30 &lt; 'arhon - N H O 2 ... 4 2 ... 4 32 
+
+Pta 
+
+ierce, Fernandcj WU arbon " Nov. 15, '80| Not. 26 SO'... &gt; ... 4 2 ... 4 &amp; 
+
+u 
+
+Sneers. Alfred,... 26 I.aramie " Nov. 26, '781 Nov. 28 78 4... 2 4... 2 30 Pun. once 
+
+Al 
+
+No» 
+
+4 ... 2 4 ... 2 30 Pun. once 
+
+Timmons. Philip 29 " Aug. 2, '73|Jan. 24 78 4 10 22 4 ;5 6 a - &lt;(jod 
+
+Timm 
+
+Aug. 2. '73|Jan. 24 78 4 10 22 4 ;S 6 a i 28 38 Con good 
+i 
+
+'_ ___ I ; 
+
+PLACES OF LABOR ASSIGNED TO PRISONERS. 
+
+PLACES OF LABOR ASSIGNED TO PRISONERS. 
+
+Stone shop 34 
+
+••4 
+1" 
+
+Brick yard...! 10 
+
+Brick 
+
+Nebraska Manufacturing Company's Shop 40 
+
+Nebraska Manufacturing Company's Shop *0 
+
+Tailor shop..." hhh-w 30 
+
+Tailor shop..: „ _•_•»•. 30 
+
+Harnew shop „_. 
+
+a 
+
+Broom shop 
+
+.Etna Cornice and Iron shop 
+
+
+steam laundry 11 
+
+.-tt'Hln mm 
+
+Farm ... ¦'3 
+
+Farm 
+
+Blacksmith shop and repair shop 4 
+
+Kitchen and washroom 16 
+
+Waiters 9 
+
+Sundry work in yard 4 
+
+1 
+
+Warden's office 1 
+
+m 
+
+Men held f( 
+Count on N 
+
+Irycoun 
+
+at 
+
+M </seg>
+
+
+            <seg id="p120">
+NEBKA-K \ BTATK 1'KN III NTIARY 
+
+M 
+
+« 
+
+X 
+
+I. 
+
+&gt; 
+
+'¦ 
+
+r* 
+
+&lt; 
+
+M 
+
+M 
+
+A 
+
+V. 
+
+¦J 
+
+r 
+
+&lt; 
+
+* 
+
+s. 
+
+/: 
+
+« 
+
+n*. 
+
+E E B 
+
+
+V- 
+
+Me 
+
+&gt; 
+
+&gt; 
+
+g r* 
+
+
+x 
+
+
+x 
+
+80 
+
+11' 
+
+&gt;l"l 
+
+Ai, 
+</seg>
+         </p>
+		    </body>
+	  </text>
+</TEI.2>

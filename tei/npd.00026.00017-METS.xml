@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00026.00017">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the
+                            Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno>00026.00017</idno>
+            <availability>
+               <p> </p>
+            </availability>
+            <date>2007</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>THE UNIVERSITY OF NEBRASKA AGRICULTURAL EXPERIMENT STATION LINCOLN, NEBRASKA, U. S. A.  PRODUCTION OF HOG CHOLERA SERUM</title>
+               <date value="1909">1909</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+	        <change>
+	           <date>2007-09-13</date>
+	           <respStmt>
+	              <name>Katherine M. Heupel</name>
+	           </respStmt>
+	           <item>Enrichment</item>
+	        </change>  
+         <change>
+            <date>2006-11-28-05:00</date>
+            <respStmt>
+               <name>OCLC Online Computer Library Center Inc.</name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <seg id="p001">Agricultural Experiment Station LINCOLN, NEBRASKA, U. S. A. PRESS BULLETIN NO. 31 (Distributed December 15, 1909.) </seg>
+            <seg id="p002">2 J. H. GAIN DEPARTMENT OF ANIMAL PATHOLOGY The last legislature made an appropriation of $5,000.00 to be used in the production of hog cholera serum by the methods recommended by the Bureau of Animal Industry of the United States Department of Agricul - ture. This work is under the direction of the Department of Animal Pathology of the Nebraska Experiment Station. In producing this serum, pigs are used that are immune to cholera either by having recovered from an attack of this disease or by having been inoculated. These pigs are then made hyperimmune* by injecting under the skin large amounts of blood taken from a hog sick with Two methods of hyperimmunizing are used: (1) The slow method, by which increasing amounts of virulent blood are injected at regular in - tervals. (2) The quick method, by which a large amount of virulent blood is injected at one time. E latter is the method used at present. Three weeks after injec - pig is bled from the tail, the clot removed from the blood, and m is ready for use. Biyperimmune pigs are bled four times at intervals of one week, and e end of the next week are bled to death in order to secure the lar - possible amount of serum. Two methods of Inoculation are used in immunizing pigs against Ehe Serum-Simultaneous Method. — The pig is injected subcutaneously the correct dose of serum for its weight and at the same time re - ) a small amount of virulent blood. This method produces a slight •By "hyperimmune" is meant "more than immune." The blood of a "hyperimmune" hog has more resisting power (immunity) against hog chelera than that of the ordinary immune hog. </seg>
+            <seg id="p003">The Serum-Alone Method. — By giving the serum alone to well pigs they are given immunity for a few weeks only. If the serum alone is used at once on the well pigs as soon as cholera is discovered in a herd, the natural infection at this time will give the same immunity that is given by the Serum-Simultaneous Method. In the production of serum, a 125-pound hyperimmune pig will fur - nish, at each of four bleedings, 550 c. c. (cubic centimeters) of serum and at his death 1300 c. c, making a total of 3500 c. c. The dose of serum for a 125-pound pig is 30 c. c, so that the average total production from a 125-pound hyperimmune pig is about 115 doses for pigs of equal weight. When it is understood that it takes the blood of a cholera pig of equal weight to hyperimmunize every pig used for the production of this serum, some idea may be had of the cost. Other features of expense are that a small percentage die from hyperimmunizing and some of the checks (pigs given cholera to furnish virulent blood) die unexpectedly, before they are bled from the throat, and are thus a total loss. The dose of serum recommended is as follows, the amounts being given in cubic centimeters: With the present plant and appropriation, it is impossible to supply the demand for this serum, and on account of the high cost it will be sent only upon application of veterinarians for use in those herds where there is an outbreak of cholera. Where cholera Is suspected, a qualified veter - inarian should be called to kill one or two of the sick pigs and make a post-mortem examination to determine if genuine cholera exists. The serum for inoculation will then be sent direct to the veterinarian making the examination, who should do the vaccinating. The request for serum should give the number of pigs and their average weight. In giv- *.» [er 50 pounds 15 c. c. 75 pounds 20 c. c. 100 pounds 25 c. c. 125 pounds 30 c. c. 160 pounds 35 c. c. 200 pounds 40 c. c. 250 pounds 45 c. c. 300 pounds 50 c. c. 350 pounds 55 c. c. 400 pounds 60 c. c. </seg>
+            <seg id="p004">4 Until the cost can be greatly reduced, the serum should be given only to those pigs apparently well, in sick herds. Ke records so far show that 75 per cent of such pigs live by this ent BNo charge is made for the serum. The sci vices of the veterinarian loyed should be paid for by the owner ft the herd. MANAGEMENT OF CHOLERA HERDS. Carcasses of hogs which have died from cholera should be immedi - ately burned or buried deeply and covered with quicklime. Separate the sick from the well hogs and divide the well hogs into two or more groups and separate them as widely as practical. As the germs of cholera gain access to the system only thru the digestive tract, the line of preven - tion is well marked. All feed and drinking troughs should be thoroly cleaned and disinfected. If the troughs are of metal, holding them over a blaze will be effective. Streams that do not rise on the home farm should be suspected as a possible carrier of infection and for this reason water from wells should be given. Feed sparingly. Where hog cholera serum is used, the hogs should remain in the infected yards. </seg>
+         </p>
+      </body>
+   </text>
+</TEI.2>

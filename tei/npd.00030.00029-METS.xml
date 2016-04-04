@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00030.00029">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the
+                            Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno>00030.00029</idno>
+            <availability>
+               <p> </p>
+            </availability>
+            <date>2007</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>THE UNIVERSITY OF NEBRASKA AGRICULTURAL EXPERIMENT STATION LINCOLN, NEBRASKA, U. S. A.  THE GERMINATION TEST FOR SEED CORN</title>
+               <date value="1912">1912</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+	        <change>
+	           <date>2007-09-13</date>
+	           <respStmt>
+	              <name>Katherine M. Heupel</name>
+	           </respStmt>
+	           <item>Enrichment</item>
+	        </change> 
+        <change>
+            <date>2006-11-28-05:00</date>
+            <respStmt>
+               <name>OCLC Online Computer Library Center Inc.</name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <seg id="p001">Agricultural Experiment Station NXShA I 'N BL'I h THE GERV1INA1I )N TEST FOR SEED CORN B&gt; T A » Have r with l ' PWgnl. frtf/lnir ii IKirsi eumiiie in stii'li a »ai { discolored nr - \. I ith a I </seg>
+            <seg id="p002">\ ■.m\ test lifferent parts of each of two hundred parent!) unsound ears have been rminate them in a simple I'pon i sawdust, sand or soil place a cloth lilts on this. Cover this with another cloth and an ■and or toil on ( lov\n thoroly and place : Temperature of To to -mi decrees 'Fahrenheit. i p motet. In live or six days the corn should he tiuo grains, or '.to per rent, have strong ■■'plant without further lest inf. If less ir HO percent are strong, the weak car-, should !&gt;e discarded by There is a definite place for the grains from t r'or convenience, test a hundred or some multiple of a hundred ars at ;i time. Arrange all the cars of one test in order, on t lie floor or in six ten a number. Or U-tter still, make a simple rack or li« which is seen in Fif. 7. On both sides of a &lt;iuare frame made of 2x4's. stretch smooth wires every three inches In ipposite directions. The ears are then held in place in t he squares made &gt;r 'Mi |nr cent are &gt;l rontf. I lit- separately, a.-, follow </seg>
+            <seg id="p003">uy me ummuk tins*. zontally on both sides of the frame, with projecting nails every one-half inches in the lath to hold the ears in place. two and Into the bottom of a shallow germination box about thirty inch* si|uare. Fig. 3. place a two-inch layer of sawdust, sand or soil'. this with a white cloth marked in two and one-half inch * ; .ares, leavir a margin of two inches around the outside. Kemo • -i\ grains with knife from different parts of each ear and place in tl - ..e er urination l«n corn-sponding in number will, I H«r 4 er witi. a cloth. K ■ .Hid in a warn :&gt; Tin- lest In five or mx iia&gt;s i In- sound corn &gt;h in Fig. 5. </seg>
+            <seg id="p004">1 .1 k U M r and note all ears which Ml dead Of weak. Remove all - rack &gt;akness in the germination hox. A barrel of »*«1 ears will ylan: ten I - in boom well-ventilated place away from m - - ■ n iii the background of Fig. 7. all ears which from physical appearance nersJ preliminary germination test. If the rcorn germinates W per cent, it is safe to plant. If less riL 1 . an individual ear test should follow. Any ised for making such a homemade tester. («, a large Minber ot ears may )« nvenient testers can lie bought on the market. i , mat ion hox is used repeatedly, it may - tur and the corn roaj mould. If corn gets mouldy, the tester juld be well washed and scalded before starting a new test. ht--»riliiu: e»rs which will not irrow. </seg>
+         </p>
+      </body>
+   </text>
+</TEI.2>

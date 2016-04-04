@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00049.00036">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the
+                            Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno>00049.00036</idno>
+            <availability>
+               <p> </p>
+            </availability>
+            <date>2007</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Regulations Governing the Importation of Live Stock into the State of Nebraska</title>
+               <date value="1920-01-01">1920-01-01</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09-14</date>
+            <respStmt>
+               <name>Paul Fajman</name>
+            </respStmt>
+            <item>Enrichment</item>
+         </change>
+         <change>
+            <date>2006-11-28-05:00</date>
+            <respStmt>
+               <name>OCLC Online Computer Library Center Inc.</name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <seg id="p001">STATE OF NEBRASKA DEPARTMENT OF AGRICULTURE BUREAU OF ANIMAL INDUSTRY LINCOLN BULLETIN NO. 106 REGULATIONS GOVERNING THE IMPORTATION OF LIVE STOCK INTO THE STATE OF NEBRASKA EFFECTIVE JANUARY 1. 1920 LEO STUHR Secretary of Agriculture DR. W.tT. SPENCER. Chief of Bureau </seg>
+            <seg id="p002">REGULATIONS GOVERNING THE IMPORTATION OF LIVE STOCK INTO THE STATE OF NEBRASKA HORSES, MULES AND ASSES Hones, Mules and Asses must be healthy at time of impor - tation into state. CATTLE Pure Bred Cattle — All pure-bred cattle that have origi - nated from other than Federal or State officially accredited tuberculosis-free herds must be moved to destination in quar - antine and so maintained on owners premises for at least 60 days thereafter when they are to be tuberculin tested at the owners expense by a recognized veterinarian and released only on permit from the Nebraska Bureau of Animal Industry. All health certificates accompanying shipments of pure - bred cattle must show name and registration number of each animal and be immediately forwarded to the Nebraska Bureau of Animal Industry, Lincoln, Nebraska, on arrival at destina - tion. Grade Cattle — for dairy or breeding purposes over three months old, health certificate, including tuberculin test. Range Cattle — for feeding or grazing purposes, health cor tificate. Cows and Bulls — for feeding or grazing purposes only, shipped into Nebraska in compliance with B. A. I. Order 26:&gt;, Regulation 7, will be held in quarantine and released only on written permit from the Nebraska Bureau of Animal Indus - try. Cattle for exhibition purposes — recognized certificate or tuberculin test not more than 60 days old, unless from Federal or State accredited herds, or herds under such supervision. Cattle for immediate slaughter— admitted without inspec- tion. All cattle regardless of age — originating in the State of New York shall not be transported, trailed, or driven into </seg>
+            <seg id="p003">Nebraska unless accompanied by certificate of health and tuber - culin test issued by an inspector of the United States Bureau of Animal Industry. HOGS Hogs — For stocking, feeding, or breeding purposes, must be accompanied with a health certificate issued by a qualified veterinarian stating that they have been immunized with anti - hog-cholera serum not more than 21 days prior to date of importation when serum-alone method is used and not less than 21 days prior to date of importation when the simultaneous method is used, and are free from all communicable swine diseases or exposure thereto, or a sworn statement sent to the Chief of the Nebraska Bureau of Animal Industry from owner or shipper, that they have been immunized as provided above, or will be quarantined and immunized at destination at owner's expense by a recognized veterinarian. Hogs muHt be loaded in cleaned and disinfected cars and in conformity with I'. S. Bureau of Animal Industry interstate shipping regulations and from premises which are free from it 11 animal contagion or infection. Public Stock Yards shall be considered infectious, there - fore hogs must not be loaded or unloaded through them, ex - cept under the following provisions. 1. Where Federal Supervision is maintained and then only through the designated portion. 2. When such hogs are to be immunized with anti-hog - cholera serum by a recognized person or licensed graduate veterinarian before being allowed to leave such yards and maintained in quarantine for at least 21 days thereafter. 3. On special permit from the Chief of the Nebraska Bu - reau of Animal Industry. These regulations do not apply to hogs shipped to public markets where Federal inspection is maintained. SHEEP Sheep — All sheep imported into the State of Nebraska, except those for immediate slaughter, must be accompanied by a health certificate indicating that they are free from all symptoms of scabies or other communicable diseases. </seg>
+            <seg id="p004">INSPECTION Who May Inspect — Federal or State veterinarians or grad - uate veterinarians authorized by the U. S. Bureau of Animal Industry and the Chief of the Nebraska Bureau of Animal Industry. Official— Chief of the Nebraska Bureau of Animal Industry, State House, Lincoln, Nebraska. CHANGES IN REGULATIONS Changes — These Regulations are subject to change at any time as necessity demands. Special Rules or Regulations may be adopted in case of emergency or for the good of the service. Approved Jan. 1, 1920. LEO STUHR, DR. W. T. SPENCER, Chief of Bureau. Secretary of Agriculture. </seg>
+         </p>
+      </body>
+   </text>
+</TEI.2>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00090.00002">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno/>
+            <availability>
+               <p/>
+            </availability>
+            <date>2009</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Twenty-Third Biennial Report of the Department of Roads and Irrigation Part II Bureau of Irrigation Water Power and Drainage to Honorable R.L. Cochran </title>
+               <date value="1940">1940</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-</date>
+            <respStmt>
+               <name>Laura Weakly</name>
+            </respStmt>
+            <item>Validation</item>
+         </change>
+         <change>
+            <date>2009-11-04</date>
+            <respStmt>
+               <name>ByteManagers, Inc. </name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <seg id="p001"/>
+         <seg id="p002"/>
+         <seg id="p003"/>
+         <seg id="p004"/>
+         <seg id="p005"/>
+         <seg id="p006"/>
+         <seg id="p007"/>
+         <seg id="p008"/>
+         <seg id="p009"/>
+         <seg id="p010"/>
+         <seg id="p011"/>
+         <seg id="p012"/>
+         <seg id="p013"/>
+         <seg id="p014"/>
+         <seg id="p015"/>
+         <seg id="p016"/>
+         <seg id="p017"/>
+         <seg id="p018"/>
+         <seg id="p019"/>
+         <seg id="p020"/>
+         <seg id="p021"/>
+         <seg id="p022"/>
+         <seg id="p023"/>
+         <seg id="p024"/>
+         <seg id="p025"/>
+         <seg id="p026"/>
+         <seg id="p027"/>
+         <seg id="p028"/>
+         <seg id="p029"/>
+         <seg id="p030"/>
+         <seg id="p031"/>
+         <seg id="p032"/>
+         <seg id="p033"/>
+         <seg id="p034"/>
+         <seg id="p035"/>
+         <seg id="p036"/>
+         <seg id="p037"/>
+         <seg id="p038"/>
+         <seg id="p039"/>
+         <seg id="p040"/>
+         <seg id="p041"/>
+         <seg id="p042"/>
+         <seg id="p043"/>
+         <seg id="p044"/>
+         <seg id="p045"/>
+         <seg id="p046"/>
+         <seg id="p047"/>
+         <seg id="p048"/>
+         <seg id="p049"/>
+         <seg id="p050"/>
+         <seg id="p051"/>
+         <seg id="p052"/>
+         <seg id="p053"/>
+         <seg id="p054"/>
+         <seg id="p055"/>
+         <seg id="p056"/>
+         <seg id="p057"/>
+         <seg id="p058"/>
+         <seg id="p059"/>
+         <seg id="p060"/>
+         <seg id="p061"/>
+         <seg id="p062"/>
+         <seg id="p063"/>
+         <seg id="p064"/>
+         <seg id="p065"/>
+         <seg id="p066"/>
+         <seg id="p067"/>
+         <seg id="p068"/>
+         <seg id="p069"/>
+         <seg id="p070"/>
+         <seg id="p071"/>
+         <seg id="p072"/>
+         <seg id="p073"/>
+         <seg id="p074"/>
+         <seg id="p075"/>
+         <seg id="p076"/>
+         <seg id="p077"/>
+         <seg id="p078"/>
+         <seg id="p079"/>
+         <seg id="p080"/>
+         <seg id="p081"/>
+         <seg id="p082"/>
+         <seg id="p083"/>
+         <seg id="p084"/>
+         <seg id="p085"/>
+         <seg id="p086"/>
+         <seg id="p087"/>
+         <seg id="p088"/>
+         <seg id="p089"/>
+         <seg id="p090"/>
+         <seg id="p091"/>
+         <seg id="p092"/>
+         <seg id="p093"/>
+         <seg id="p094"/>
+         <seg id="p095"/>
+         <seg id="p096"/>
+         <seg id="p097"/>
+         <seg id="p098"/>
+         <seg id="p099"/>
+         <seg id="p100"/>
+         <seg id="p101"/>
+         <seg id="p102"/>
+         <seg id="p103"/>
+         <seg id="p104"/>
+         <seg id="p105"/>
+         <seg id="p106"/>
+         <seg id="p107"/>
+         <seg id="p108"/>
+         <seg id="p109"/>
+         <seg id="p110"/>
+         <seg id="p111"/>
+         <seg id="p112"/>
+         <seg id="p113"/>
+         <seg id="p114"/>
+         <seg id="p115"/>
+         <seg id="p116"/>
+         <seg id="p117"/>
+         <seg id="p118"/>
+         <seg id="p119"/>
+         <seg id="p120"/>
+         <seg id="p121"/>
+         <seg id="p122"/>
+         <seg id="p123"/>
+         <seg id="p124"/>
+         <seg id="p125"/>
+         <seg id="p126"/>
+         <seg id="p127"/>
+         <seg id="p128"/>
+         <seg id="p129"/>
+         <seg id="p130"/>
+         <seg id="p131"/>
+         <seg id="p132"/>
+         <seg id="p133"/>
+         <seg id="p134"/>
+         <seg id="p135"/>
+         <seg id="p136"/>
+         <seg id="p137"/>
+         <seg id="p138"/>
+         <seg id="p139"/>
+         <seg id="p140"/>
+         <seg id="p141"/>
+         <seg id="p142"/>
+         <seg id="p143"/>
+         <seg id="p144"/>
+         <seg id="p145"/>
+         <seg id="p146"/>
+         <seg id="p147"/>
+         <seg id="p148"/>
+         <seg id="p149"/>
+         <seg id="p150"/>
+         <seg id="p151"/>
+         <seg id="p152"/>
+         <seg id="p153"/>
+         <seg id="p154"/>
+         <seg id="p155"/>
+         <seg id="p156"/>
+         <seg id="p157"/>
+         <seg id="p158"/>
+         <seg id="p159"/>
+         <seg id="p160"/>
+         <seg id="p161"/>
+         <seg id="p162"/>
+         <seg id="p163"/>
+         <seg id="p164"/>
+         <seg id="p165"/>
+         <seg id="p166"/>
+         <seg id="p167"/>
+         <seg id="p168"/>
+         <seg id="p169"/>
+         <seg id="p170"/>
+         <seg id="p171"/>
+         <seg id="p172"/>
+         <seg id="p173"/>
+         <seg id="p174"/>
+         <seg id="p175"/>
+         <seg id="p176"/>
+         <seg id="p177"/>
+         <seg id="p178"/>
+         <seg id="p179"/>
+         <seg id="p180"/>
+         <seg id="p181"/>
+         <seg id="p182"/>
+         <seg id="p183"/>
+         <seg id="p184"/>
+         <seg id="p185"/>
+         <seg id="p186"/>
+         <seg id="p187"/>
+         <seg id="p188"/>
+         <seg id="p189"/>
+         <seg id="p190"/>
+         <seg id="p191"/>
+         <seg id="p192"/>
+         <seg id="p193"/>
+         <seg id="p194"/>
+         <seg id="p195"/>
+         <seg id="p196"/>
+         <seg id="p197"/>
+         <seg id="p198"/>
+         <seg id="p199"/>
+         <seg id="p200"/>
+         <seg id="p201"/>
+         <seg id="p202"/>
+         <seg id="p203"/>
+         <seg id="p204"/>
+         <seg id="p205"/>
+         <seg id="p206"/>
+         <seg id="p207"/>
+         <seg id="p208"/>
+         <seg id="p209"/>
+         <seg id="p210"/>
+         <seg id="p211"/>
+         <seg id="p212"/>
+         <seg id="p213"/>
+         <seg id="p214"/>
+         <seg id="p215"/>
+         <seg id="p216"/>
+         <seg id="p217"/>
+         <seg id="p218"/>
+         <seg id="p219"/>
+         <seg id="p220"/>
+         <seg id="p221"/>
+         <seg id="p222"/>
+      </body>
+   </text>
+</TEI.2>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00090.00007">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno/>
+            <availability>
+               <p/>
+            </availability>
+            <date>2009</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Fourth Annual Report Nebraska Unemployment Comensation Division 1940</title>
+               <date value="18??">February 1, 1941</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-</date>
+            <respStmt>
+               <name>Laura Weakly</name>
+            </respStmt>
+            <item>Validation</item>
+         </change>
+         <change>
+            <date>2009-11-04</date>
+            <respStmt>
+               <name>ByteManagers, Inc. </name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <seg id="p001"/>
+         <seg id="p002"/>
+         <seg id="p003"/>
+         <seg id="p004"/>
+         <seg id="p005"/>
+         <seg id="p006"/>
+         <seg id="p007"/>
+         <seg id="p008"/>
+         <seg id="p009"/>
+         <seg id="p010"/>
+         <seg id="p011"/>
+         <seg id="p012"/>
+         <seg id="p013"/>
+         <seg id="p014"/>
+         <seg id="p015"/>
+         <seg id="p016"/>
+         <seg id="p017"/>
+         <seg id="p018"/>
+         <seg id="p019"/>
+         <seg id="p020"/>
+         <seg id="p021"/>
+         <seg id="p022"/>
+         <seg id="p023"/>
+         <seg id="p024"/>
+         <seg id="p025"/>
+         <seg id="p026"/>
+         <seg id="p027"/>
+         <seg id="p028"/>
+         <seg id="p029"/>
+         <seg id="p030"/>
+         <seg id="p031"/>
+         <seg id="p032"/>
+         <seg id="p033"/>
+         <seg id="p034"/>
+         <seg id="p035"/>
+         <seg id="p036"/>
+         <seg id="p037"/>
+         <seg id="p038"/>
+         <seg id="p039"/>
+         <seg id="p040"/>
+         <seg id="p041"/>
+         <seg id="p042"/>
+         <seg id="p043"/>
+         <seg id="p044"/>
+         <seg id="p045"/>
+         <seg id="p046"/>
+         <seg id="p047"/>
+         <seg id="p048"/>
+         <seg id="p049"/>
+         <seg id="p050"/>
+         <seg id="p051"/>
+         <seg id="p052"/>
+         <seg id="p053"/>
+         <seg id="p054"/>
+         <seg id="p055"/>
+         <seg id="p056"/>
+         <seg id="p057"/>
+         <seg id="p058"/>
+         <seg id="p059"/>
+         <seg id="p060"/>
+         <seg id="p061"/>
+         <seg id="p062"/>
+         <seg id="p063"/>
+         <seg id="p064"/>
+         <seg id="p065"/>
+         <seg id="p066"/>
+         <seg id="p067"/>
+         <seg id="p068"/>
+         <seg id="p069"/>
+         <seg id="p070"/>
+         <seg id="p071"/>
+         <seg id="p072"/>
+         <seg id="p073"/>
+         <seg id="p074"/>
+         <seg id="p075"/>
+         <seg id="p076"/>
+         <seg id="p077"/>
+         <seg id="p078"/>
+         <seg id="p079"/>
+         <seg id="p080"/>
+         <seg id="p081"/>
+         <seg id="p082"/>
+         <seg id="p083"/>
+         <seg id="p084"/>
+         <seg id="p085"/>
+         <seg id="p086"/>
+         <seg id="p087"/>
+         <seg id="p088"/>
+         <seg id="p089"/>
+         <seg id="p090"/>
+         <seg id="p091"/>
+         <seg id="p092"/>
+         <seg id="p093"/>
+         <seg id="p094"/>
+         <seg id="p095"/>
+      </body>
+   </text>
+</TEI.2>

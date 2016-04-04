@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00015.00029">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the
+                            Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno>00015.00029</idno>
+            <availability>
+               <p> </p>
+            </availability>
+            <date>2007</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>THE UNIVERSITY OF NEBRASKA.  AGRICULTURAL EXPERIMENT STATION.  LINCOLN, NEBR., U. S. A.  FATTENING PIGS AND WINTERING BROOD SOWS ON ALFALFA AND A GRAIN RATION.</title>
+               <date value="1904">1904</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+	        <change>
+	           <date>2007-09-12</date>
+	           <respStmt>
+	              <name>Katherine M. Heupel</name>
+	           </respStmt>
+	           <item>Enrichment</item>
+	        </change> 
+        <change>
+            <date>2006-11-28-05:00</date>
+            <respStmt>
+               <name>OCLC Online Computer Library Center Inc.</name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <seg id="p001">THE "UNIVERSITY OF NEBRASKA. Agricultural Experiment Station. LINCOLN, NEBR.. U. S. A. {Distributed Stptembei 12, 1904.) BTTENING PIGS AND WINTERING BROOD SOWS ON ALFALFA AND A GRAIN RATION. BY DEPARTMENT OF ANIMAL HUSBANDRY. 10 much has been said about the value of alfalfa as a substitute corn in growing swine that the Experiment Station, in 1903, decided to undertake a feeding experiment using cut and and alfalfa in connection with corn and other grains in fa in offer of the Payne Investment Company at North Platte, Ne - ka, to cooperate with the Station made it possible to carry on work under favorable conditions in the Platte Valley where the ing question in pork production is to grow pork with a maxi - n ration of alfalfa and a minimum grain ration. The alfalfa was run through an ensilage cutter, chopping into length Khalf inch. The ground alfalfa was made by running through inder. is the recently established Experimental Substation had commenced operations, the company named above furnished the s and the feed. The Station furnished a man to care for the s and keep the records. Alfalfa was to be compared with shorts with bran when either one-half or three-fourths of the food corn-meal. These mixed feeds were also compared with a ight corn ration. The corn was ground so that it might be mixed better with the cut or ground alfalfa, and all was moistened with water before PRES9 BULLETIN No. so. </seg>
+            <seg id="p002">and induced the pigs to eat up the alfalfa better than they would otherwise have done. E January 2, 1904, eight lots of pigs, with seven in each lot, separated as evenly as possible and placed for a week on a linary period of feeding, the experiment beginning on Janu - , 1904. The lots with their average weights and rations fed as follows: Ihese pigs were fed for twelve weeks on the ration named, be- every two weeks until the close of the experiment, pig in Lot 5 was withdrawn after ten weeks' feeding and weight credited to the lot. After the tenth wiek there were six pigs in Lot 5, and the earlier gains may have been some - .t affected by the presence of this pig in the lot. While bran is generally considered a good food for pigs, the results here ■n may be lower than would ordinarily be obtained when bran sed to dilute corn. ■ II shows the average feed and gain for one pig in 84 s (12 weeks). Kthis table, to secure the cost of gains, foodstuffs are figured as ws: Corn, $0.60 per 100 pounds, $0.33^2 per bushel. Shorts, $0.80 per 100 pounds. Bran, $0.75 per 100 pounds. Cut alfalfa. $0.40 per 100 pounds, $8.00 per ton. Ground alfalfa, $0.80 per 100 pounds, $16.00 per ton. ABLE I Lot. Number of pigs. Average weight. Ration. 1 7 85.7 Corn -meal. i 7 84.3 7 7 82.8 7 88.6 7 82.8 &gt;rn and J^ shorts. •rn and J 4 cut alfalfa hay &gt;rn and % alfalfa hay % corn and J£ bran. J^ corn and % shorts. : 7 85.7 7 86.8 % corn and % cut alfalfa hay. 3-j corn and j^ gr'nd alfalfa hay, </seg>
+            <seg id="p003">hav through tin ensilage cutter, but may be too low to pay the cost of grinding. Table II. — Average weights, food, and gains for one pig. alfalfa 3 ! 81.4 171.4 90.0 1.071 321.75 107.39 I 4.77 101 Ground alfalfa 4 82.8 ! 172.1 89.3 1.062 321.75 107.39 4.81 3.12 Bran 88.6 156.3 87.1 0.80 299.03 j 99.82 5.89 3.75 Shorts 6 82.8 158.5 75.7 0.901 207.5 ; 207.5 Cut alfalfa 8 86.8 161.4 74.6 0.888 211 211 5.66 This table shows that the largest daily gains were made on three- on Eths corn and one-fourth shorts, but that a gain practic /alent was made at a lower cost where either cut or ground fa was substituted for shorts in the ration. The cheapest gains made on corn and cut alfalfa. Bran does not prove equal to either shorts or alfalfa when fed as one-quarter of the ration to pi| f ration three-fourths corn and one-fourth alfalfa produces ter gains than when one-half alfalfa is fed. Where alfai: d on the farm, and when there is no particular need to hasten rth in the pigs, a ration one-half alfalfa hay and one-half corn give cheaper gains than when a heavier corn ration is fed. Hogs which have been raised largely on alfalfa pasture will learn to eat the hay in winter without cutting with a machine and to depend largely upon it where only a limited grain ration is fed, but a ration wholly alfalfa does not seem to give economical res This experiment shows that cut or ground alfalfa can be substituted -Jt Jft.ss H^t^s-czS: Pounds F'ounU ' &gt;unds [8T..7 172.1 86.4 1.028 428.5 4 96 $2.97 &gt;rts 84.3 176.4 92.1 1.096 321.75 1U7.39 4.66 3.03 Cut alfalfa 7 85.7 163.2 77.5 0.922 211 211 5.44 Ground </seg>
+            <seg id="p004">FEEDING ALFALFA TO KROOD SOWS. Along with the foregoing experiment two lots of brood sows were fed for a period of eight weeks, until some of them com - menced to farrow. One lot of twenty-two young sows was fed one-half corn and one-half ground alfalfa while another similar lot was fed one-half ground barley and one-half ground alfalfa. Both these lots made fine gains and at farrowing time produced large, strong litters, showing that the ration had been nearly ideal as a ration for brood sows. The record for these lots is as follows: alfalfa. They consumed two pounds of corn per day and six pounds it alfalfa. They continued on this ration throughout the win - ter, during the first five weeks without the withdrawal of any ani - mals. These sows commenced to drop litters after the fifth week, at records could not be kept after that time. At the end of the fifth week on the above ration the sows weighed an average of 264 pounds. As their weight one week earlier was a little less than the original weight, it may be assumed that these hogs got an extra good fill before the last weight and that the ration fed was practi - cally a maintenance ration. These sows kept in fine condition, far - rowing during February and March and saved large litters in every case. They were fed a ration one-half corn or barley and one-half alfalfa while suckling pigs. Bese several experiments, including one hundred thirteen ani - in all, give excellent proof of the high nutritive value of a supplemented by a small corn ration. ABLE verage weights and gains for one sow. Lot. ?eT Number in lot. First weight. Last weight. Average gain. gain. 10 M 22 Pounds. 120 150 Pounds. 175 197 Pounds. Pounds. 55 .96 47 .84 11 56 H A lot ere alsi 4 thirte placed tn mature brood sows weighing 258 pounds each on a ration of one-fourth corn and three-fourths </seg>
+            
+         </p>
+      </body>
+   </text>
+</TEI.2>

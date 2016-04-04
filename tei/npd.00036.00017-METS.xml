@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00036.00017">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the
+                            Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno>00036.00017</idno>
+            <availability>
+               <p> </p>
+            </availability>
+            <date>2007</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Second Biennial Report OF THE SUPERINTENDENT OF THE Hospital for Tuberculosis To the Governor and the Board of Commissioners of State Institutions FOR THE BIENNIUM ENDING NOVEMBER 20, 1914</title>
+               <date value="1914">1914</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+	        <change>
+	           <date>2007-09-19</date>
+	           <respStmt>
+	              <name>Katherine M. Heupel</name>
+	           </respStmt>
+	           <item>Enrichment</item>
+	        </change>   
+         <change>
+            <date>2006-11-28-05:00</date>
+            <respStmt>
+               <name>OCLC Online Computer Library Center Inc.</name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <seg id="p001"/>
+            <seg id="p002">Second Biennial Report OF THE SUPERINTENDENT OF THE Hospital for Tuberculous KEARNEY, NEBRASKA To the Governor and the Board of Commissioners of State Institutions FOR THE BIENNIUM ENDING NOVEMBER SO, 1914 </seg>
+            <seg id="p003">366 FIRST BIENNIAL REPORT OF OFFICERS Pearl F. Barker Superintendent (Resigned September 1, 1913) Nelle G. C. Deffenbaugh, M. D Superintendent (Resigned November 1, 1914) E. R.Van der Slice, M. D Superintendent </seg>
+            <seg id="p004"/>
+            <seg id="p005">THE BOARD OF COMMISSIONERS 367 To His Excellency, Honorable John H. Morehead, Governor, and to the Honorable members of the Board of Com - missioners of State Institutions, Silas A. Holcdmb, Howard Kennedy and Henry Gerdes. Gentlemen : The Nebraska State Hospital for Tuberculous was pro - vided for by an act of the legislature of 1911 and the pres - ent site was selected by the Board of Public Lands and Buildings. It is located on a thirty acre tract, one mile west of fhe city of Kearney at an altitude of 2100 feet. The grounds are generously studded with elm trees, making a pleasant outdoor environment. The recreation park for patients also contains artificial lakes, stocked with fish, thus furnishing a pleasant diversion for convalescing patients. The new hospital, which is nearing completion, is a fire - proof building of brick and concrete and is so constructed that direct sunlight can enter every room some time during the day, the rooms and wards being built in diamond shaped wings with a large light and air shaft in the center. This building fills a great need in the institution and marks the transition stage from the hospital to the sanatorium. It makes possible the segregation of cases in the different stages of the disease. The new building is intended for the treatment of cases in the advanced stages. The pavilion which is well fitted for the treatment of early cases will house only those who are able to do a part of their work and who do not need special nursing. The combined capacity of the institution will be about ninety beds. Since the opening of this institution, January 22, 1912, 246 patients have been treated. Most of these, however, have been far advanced cases and as a consequence the results of treatment have not been as gratifying as they otherwise would have been. During the past year, however, earlier cases have been admitted and there appears a de- </seg>
+            <seg id="p006">368 FIRST BIENNIAL REPORT OF cidedly larger percentage of improvements and apparent arrests among those discharged. With the added facilities and the increasing interest of the physicians of the State, the greater usefulness of this institution is assured. It will reimburse the State not only by the return of more people to the industries, but also by becoming a large factor in the prevention of the spread of tuberculosis. The arrested cases will go home to live and teach the rational life and will dispel the erroneous but widespread belief that tuberculosis is incurable. Respectfully, E. R. Van der Slice, Superintendent. Kearney, Nebraska, November 30, 191b. </seg>
+            <seg id="p007">1 I ' $ EC o i a. I f 5 r 6 , | 1 &lt; </seg>
+          
+        
+         </p>
+      </body>
+   </text>
+</TEI.2>

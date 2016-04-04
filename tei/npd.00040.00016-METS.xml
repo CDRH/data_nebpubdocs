@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00040.00016">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the
+                            Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno>00040.00016</idno>
+            <availability>
+               <p> </p>
+            </availability>
+            <date>2007</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Alfalfa Mixture for Silage</title>
+               <date value="1915-09-27">1915-09-27</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09-19</date>
+            <respStmt>
+               <name>Paul Fajman</name>
+            </respStmt>
+            <item>Enrichment</item>
+         </change>
+         <change>
+            <date>2006-11-28-05:00</date>
+            <respStmt>
+               <name>OCLC Online Computer Library Center Inc.</name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <seg id="p001">1 THE UNIVERSITY OF NEBRASKA Agricultural Experiment Station LINCOLN, NEBRASKA, U. S. A. PRESS BULLETIN No. 46. [Distributed September 27, 1915.) ALFALFA MIXTURES FOR SILAGE. By Fred W. Upson. There are often times when, owing to a wet season or an early frost, fanners experience difficulty in saving the last cutting of alfalfa. At such times a method for converting alfalfa into silage may bring about a saving of the entire last crop. During the fermentation process, which takes place im - mediately after the silo is filled, the sugar in the green crop is converted by bacterial processes into a mixture of acids. The most important acids formed in silage are lactic acid, the same acid which develops in the souring of milk, and acetic acid, the same acid which gives to vinegar its sour taste. Several other acids are also formed in lesser amounts, but they are of little importance in normal silage. These acids serve to preserve the silage mixture from further decomposition. The silage fermenta - tion is similar to the fermentation which takes place when cabbage is converted into sauerkraut. The alfalfa plant is deficient in fermentable sugars. For this reason, alfalfa alone does not make silage which will "keep." Acid is not produced in sufficient quantities to preserve the silage. Because of this deficiency of acid, putrefactive processes set up, and the silage acquires a disgusting taste and an odor somewhat resembling the odor of decaying meat. Bulletin No. 70 of the Storrs Agricultural Experiment Station, Connecticut, recounts some experiments in which alfalfa and </seg>
+            <seg id="p002">2 other legumes were successfully siloed when mixed with green oats, rye, or timothy. These latter crops furnish the necessary sugar for the fermentation process. More recently, similar experiments have been carried out by the Kansas Agricultural Experiment Station. It was found that corn meal or molasses mixed with alfalfa produced excellent silage. Corn was added to alfalfa in the ratios 1 to 10, 1 to 20, 1 to 30, and 1 to 40. Similar mixtures were made with molasses. The l-to-40 mixture kept just as well as the l-to-10 mixture. The molasses and corn furnish the necessary fermentable sugars from which the acids are produced. In September, 1914, the Nebraska Agricultural Experiment Station constructed six small silos having a capacity of about 1 ton each. These were filled, — 1 with corn, 1 with Black Amber cane, 1 with alfalfa, and 3 with alfalfa-cane mixtures in the proportion of 1 part alfalfa to 2 parts cane, equal parts of cane and alfalfa, and 2 parts alfalfa to 1 part cane, respectively. The sorghum cane contains a higher percentage of fermentable sugars and makes up the deficiency of the alfalfa in this respect. These silos were opened in August, 1915, after having been filled for nearly a year. The silage in all except the one con - taining only alfalfa was found to be in perfect condition. The silage made from 1 part cane and 2 parts alfalfa was just as good as that containing larger proportions of cane. The silo which was filled with corn contained, at the time of opening, normal corn silage. The moisture content was 67.25 per cent and the total acidity 1.61 per cent, expressed as acetic acid. These figures are normal for corn silage. By means of electrical resist - ance thermometers, temperatures in this silo were recorded for several weeks after filling. These agreed very closely with tem - peratures taken in one of the large silos at the Experiment Station. These facts would seem to indicate that the quality of silage is in no way related to the size of the silo. The amount of acid in the cane-alfalfa mixtures was less than that in the corn silage. The silo containing corn gave a silage carrying 67.25 per cent moisture and 1.61 per cent acid, calculated as acetic acid. The alfalfa 2 parts, cane 1 part, mix - ture gave a silage of 62.13 per cent moisture content and an </seg>
+            <seg id="p003">3 acidity of 1.30 per cent, calculated as acetic acid. The lower acid content in the alfalfa-cane mixture is a desirable quality. Alfalfa, 2 parts, mixed with cane, 1 part, makes a highly desirable silage. Siloing alfalfa with cane in the manner here described is recommended as a means of saving the last crop of alfalfa when conditions are such that it cannot be made into hay. Whether or not it will be profitable to silo alfalfa is a question which can only be answered by the farmer himself under the individual conditions. &lt;»-17-'15-20M.) </seg>
+         </p>
+      </body>
+   </text>
+</TEI.2>

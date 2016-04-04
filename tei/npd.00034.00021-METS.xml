@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00034.00021">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the
+                            Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno>00034.00021</idno>
+            <availability>
+               <p> </p>
+            </availability>
+            <date>2007</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>THE UNIVERSITY OF NEBRASKA AGRICULTURAL EXPERIMENT STATION LINCOLN, NEBRASKA, U. S. A.  SOME SUGGESTIONS REGARDING THE CARE OF MILK AND CREAM IN THE HOME</title>
+               <date value="1913">1913</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+	        <change>
+	           <date>2007-09-13</date>
+	           <respStmt>
+	              <name>Katherine M. Heupel</name>
+	           </respStmt>
+	           <item>Enrichment</item>
+	        </change> 
+        <change>
+            <date>2006-11-28-05:00</date>
+            <respStmt>
+               <name>OCLC Online Computer Library Center Inc.</name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <seg id="p001">Agricultural Experiment Station LINCOLN, NEBRASKA, U. S. A. PRESS BULLETIN NO. 42 Distributed June U. 1913 rE SUGGESTIONS REGARDING THE CARE OF MILK AND CREAM IN THE HOME By J. H. Frandsen DEPARTMENT OF DAIRY HUSBANDRY </seg>
+            <seg id="p002">AND CREAM IN THE HOME. By J. H. Frandsen Sanitary milk is milk produced from Healthy cows under condi - tions which prevent all outside contamination. The product ion of clean and healthful milk is the most important subject with which the dairyman has to deal. Considered from an economic standpoint, we find milk produced under absolutely sanitary con - ditions selling for practically double the ordinary price. Need - less to say, for the production of sanitary milk the dairyman must have healthy cows, a sanitary barn, clean bedding, dust-free air, a clean barnyard, and clean cows. He must have clean and healthy milkers, clean milk vessels, and pure water. He must feed clean, wholesome feeds and must have a sanitary milk-room and abun - dant facilities for cooling the milk and cream. However, if care - lessly handled in the home the milk or cream may quickly become unfit for food. The fact that such large quantities of good milk have been spoiled in the home by improper treatment after de - livery prompts the writer to emphasize some of the points regarding care of milk and cream in the home. I [ilk and cream readily absorb odors and collect bacteria and er impurities whenever they are exposed to the air or placed .itensils that are not scrupulously clean. If this fact is gen - lly understood it can easily be seen why it is so objectionable itore uncovered milk in refrigerators or cellars, where it comes contact with vegetables or other food products possessing &gt;ng odors. Milk is almost a perfect food for human beings. 8 also a perfect medium for the development of certain bac - a which may gain access to it from the dust-laden air, from i, and from unclean utensils. Some of these bacteria may be germs of contagious diseases; others may cause digestive orders, especially in infants and young children whose diet is jely milk. {xperiments have shown us that many germs which gain access he milk develop very rapidly while the milk remains warm this we mean at a temperature above 50 degrees Fahrenheit, instance, milk kept at 45 degrees F. may be kept perfectly et for twenty-four hours, while if kept at a temperature of 70 </seg>
+            <seg id="p003">the importance of low temperatures in the preservation of milk and cream. The following brief rules should enable the consumer so to care for the milk as to have an article that is at all times sweet and wholesome : I If possible, purchasers should insist on getting milk in a le or other originally sealed package. Milk dipped out of a in the street may gather large numbers of bacteria from the and impurities in the air falling into it. § Never allow the milk to stand in a warm place for any h of time, but place as soon as possible in a refrigerator, ice or other cool, clean place. 3. Keep the milk or cream in the original package until needed for use. 4. Carefully wipe the mouth of the bottle before pouring milk or cream from it. 5. Do not pour back into the bottle any milk which has been exposed to the air. 6. Keep the bottle covered with a cap or an inverted tumbler as long as any milk remains in it. 7. Do not expose uncovered milk in refrigerators containing foods having a strong odor. 8. Wash milk bottles as soon as empty and do not use milk utensils for any other purpose. KWash milk bottles in pure water and do not wipe with towel. It is better to scald them in clean water and set y unwiped to dry. 10. Special precautions should be taken with the baby's milk ties. They should first be rinsed in lukewarm water, then shed in hot water containing a little soda, and then scalded, selecting a feeding bottle, choose one with a wide mouth and corners. Never use rubber tube between the bottle and the pie. E. In case of contagious diseases in the house, such as oid, scarlet fever, or diphtheria, return no milk bottles to the man without the permission of the health officer. </seg>
+      
+         </p>
+      </body>
+   </text>
+</TEI.2>

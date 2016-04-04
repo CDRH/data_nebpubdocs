@@ -1,0 +1,2822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00003.00011">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title>Nebraska Public Documents Project</title>
+				        <author/>
+			      </titleStmt>
+			      <publicationStmt>
+				        <publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+				        <pubPlace>Lincoln, NE</pubPlace>
+				        <idno>00003.00011</idno>
+				        <availability>
+					          <p/>
+				        </availability>
+				        <date>2007</date>
+			      </publicationStmt>
+			      <sourceDesc>
+			         <bibl>
+			            <title>TENTH BIENNIAL REPORT OF THE SUPERINTENDENT OF THE Nebraska STATE INDUSTRIAL SCHOOL FOR JUVENILE OFFENDERS, KEARNEY, NEBRASKA.  FOR THE BIENNIAL PERIOD ENDING NOVEMBER 30, 1900.</title>
+			            <date value="1901">1901</date>
+			         </bibl>
+			      </sourceDesc>
+
+		    </fileDesc>
+		    <revisionDesc>
+				     <change>
+				        <date>2007-05-29</date>
+				        <respStmt>
+				           <name>Laura Weakly</name>
+				        </respStmt>
+				        <item>Validation</item>
+				     </change>
+				     <change>
+				        <date>2007-05-18</date>
+				        <respStmt>
+				           <name>Katherine M. Heupel</name>
+				        </respStmt>
+				        <item>Enrichment</item>
+				     </change>
+			
+				     <change>
+				        <date>2006-11-28-05:00</date>
+				        <respStmt>
+					          <name>OCLC Online Computer Library Center Inc.</name>
+				        </respStmt>
+				        <item>Initial Creation</item>
+			      </change>
+		    </revisionDesc>
+	  </teiHeader>
+	  <text>
+		    <body>
+         <p>
+            <seg id="p001">TENTH BIENNIAL REPORT 
+
+r the 
+
+SUPERINTENDENT 
+
+F THK 
+
+Nebraska State Industrial School 
+
+j 
+
+JUVENILE OFFENDERS, 
+
+KEARNEY, NEBRASKA. 
+
+FOR THE BIENNIAL PERIOD ENDING NOVEMBER 30, 1900. 
+
+INCOLN. NEB 
+
+E JOURNAL COUP ANT, PRINTBRX. 
+
+1WI1 </seg>
+
+            <seg id="p002">
+BOARD OF CONTROL. 
+
+Hon. \V. A. I'oyntei 
+
+BOARD OF Pl'BLir LANDS AND BUILDING 
+
+Hon. J. V. Wolfe, Commissioner. . . . 
+Hon. W. F. Porter, Secretary of State 
+Hon. C. J. Smvth 
+
+Cha 
+
+Si-i-ivlii 
+
+Attorney Genera 
+
+Hon. J. B. Meserve 
+
+Treasurer of the St; 
+
+Governor of the St </seg>
+
+            <seg id="p003">
+( 
+
+FFK.'ERS OF THE STATE INDUSTRIAL SCHOOL FOR 1900. 
+
+Jacob X. &lt; ampbell '. Superintendent 
+
+O. Hull Assistant Superintendent and Steward 
+
+&lt;'. C. &lt; 1arrig 
+
+Bookkeeper and STorekeei&gt;er 
+
+Rev. E. von Foiell Chaplain 
+
+Rev. E. von Foiell Chaplain 
+
+Dr. J. L. Bennett Physician 
+TEACHERS AND FAMILY MANAGERS. 
+
+TEACHERS AND FAMILY MANAGERS 
+
+\V. I.. Kuser Family B 
+
+\V. I.. Kuser Family B 
+
+YV. J. Yosburg Family C 
+
+\\ . J. Yosburg Family C 
+
+L. B. Fenner Family B 
+
+L. B. Fenner Family B 
+
+J. H. Bayston Family D 
+
+J. H. Bayston Family D 
+
+EMPLOYEES. 
+
+EMPLOYE! 
+
+X. \V. Culbeitson Chief Engineer 
+
+Chief Engineer 
+
+X. \V. Culbertson 
+H . A . Deets 
+
+H . A . Deets First Assistant Engineer 
+
+First Assistant Engineer 
+
+Martin McGuire Second Assistant Engineer 
+
+J. R. Farris Printing Office and Stenographer 
+
+Mat t Youngers Carpenter Shop 
+
+T. H. Stevens Tailor Shop 
+
+F. J. Jonas Shoe Shop 
+
+Luverne Bates Laundry 
+
+P. C. Moshei Garden 
+
+Martin McGuire Farm 
+
+F. -I. Holmes Stock 
+
+Mrs. Jennie Taylor Officers' Cook 
+
+J. H. Predeaux Baker and Boys' Cook 
+
+Arthur Handsacker Forceman 
+
+Mrs. A. Hnndsaoker Supervisor Officers' Dining Room 
+
+R. E. Thomas Boys' Dining Room 
+
+S. T. Bowman Outside Night Watch and Batcher 
+E. N. Bragg Night Watch. Dormitory E 
+
+L. &lt;!. Chevront Night Watch. Dormitorv 0 </seg>
+
+            <seg id="p004">
+«&lt; 
+
+LA.N1 
+
+•DJ1M1 
+
+IONKR S 
+
+REPOHT. 
+
+C. E. Helser Night 
+
+Watch. Dormil 
+Watch, Dormit 
+
+n-\ 
+
+E. W. Thomas Niffht 
+
+D 
+
+&gt;rv 
+
+Mrs. W. L. Kuser Housewife, Grade 
+
+I 
+
+Mrs. W. J. Vosburg 
+
+Housewife. &lt;li 
+
+uli 
+
+( 
+
+Mrs. L. B. Fenner 
+
+Housewife. Gi 
+
+id. 
+
+E 
+I) 
+
+Mrs. J. H. Bayston Housewife, Grade 
+
+Mrs. C. C. Carrig Housekeej»er Shop Buildin 
+
+Mrs 
+
+Harriet Lindslev 
+
+Housekeeper, Superiuteudeut's Quarter </seg>
+
+            <seg id="p005">
+REPORT. 
+
+l'n His Excellency, William A. Poynter, Governor of Nebraska: 
+
+I have the honor, pursuant to the law, to submit for yonr consideration 
+tht tenth biennial report for the period ending November 
+30. 1900, of the Superintendent of the Nebraska State 
+Industrial School for Juvenile Offenders (Boys), located at Kear 
+nev. Neb. 
+
+i events in the history of this institution have been rt 
+
+corded in previous reports. The act providing for the State Reform 
+School was passed by the legislature of 1879. The old main 
+building was completed in 1881, and the first boy was received 
+Julv 15. 1881. 
+
+Until 1891 both boys and girls were received at the institu- 
+Dii. The evils of a mixed school became so apparent that the 
+
+legislature of that year enacted a law providing for the establishment 
+of the Girls' Industrial School for Delinquents at Geneva, 
+and in the fall of the same year the girl inmates were 
+transferred to the latter institution, and this became a school exclusively 
+for boys. 
+
+In 1887 the legislature changed the title of this institution, 
+giving it the name of "Nebraska State Industrial School for Juvenile 
+Offenders." 
+
+COMMITMENTS. 
+
+Total number of boys received since the organization of the 
+hool. 1.328; released by parole or otherwise, 1,192; number in 
+
+chool November 30. 1900, 136. 
+
+Tht- number of boys received the past two years has been 
+considerably below the average for previous periods. 
+
+In my opinion, the reasons for this decrease are twofold: 
+First, more avenues of employment have been open to the people 
+on account of better times, and the ranks of the laborers have </seg>
+
+            <seg id="p006">
+98 
+
+mmissioxer's 
+
+LAND 
+
+REPORT. 
+
+been depleted by recruits for The army. Second, the last legis 
+lature, by clerical error, only appropriated #1,500, instead ol 
+$15,000, to pay the expenses 'of sheriffs in bringing boys to thf 
+school. This fund was exhausted in June, 1899. For all ex 
+
+penses incurred since then tht 
+ance by the next legislature. 
+
+y must await a deficient allow 
+
+When I took charge of the s 
+in vogue. The rules of the bo 
+and boys were being sent out 
+course^ operating in conjuncti 
+
+•hool I found no system of pai 
+ird on this matter were ijmoi 
+
+without authority -&gt;f law. Th 
+&gt;n with the decrease in connni 
+
+ments, had reduced the membership to 12~&gt;. By adhering 
+regulations for parole, provided for by law, the members 
+gradually ir.ci eased to 137, and has been higher. 
+
+the school plans to conform with the 
+any material reduction in the membe 
+
+AROLI 
+
+When a boy clears his record of d 
+
+erning his conduct, he is sent back to his parents, or a new home 
+found for him, where he can continue the line of work for which 
+his inclination and training while here have fitted him. If he 
+misbehaves, he can, without further legal proceedings, be taken 
+again into custody for further training. 
+
+The average term of service here is about two and one-half 
+years. Approximately. 75 per cent of those sent out become lawabiding 
+citizens. 
+
+The recent decision of the state supreme court, holdin 
+
+boy sentenced for incorrigibility on ex parte hearing 
+
+kept here after he is 16 years old. unless then tried by 
+
+sentenced for statutory offenses, and that no boy over 
+
+old can be sent here except by same process, it seems tc 
+
+reduce the usual number of commitments in the future 
+
+the counties will be loth to incur the expenses of a ji 
+
+.-xcept in a&lt;ifrravated cases What thf , , llrimaTo effert ()f 
+
+ing will have upon the school can only be determine 
+
+velopments under it. and the management can irradual </seg>
+
+            <seg id="p007">
+99 
+
+STATE INDUSTRIAL 
+
+SCHOOL. 
+
+l 
+
+i 
+
+St 
+
+\ 
+
+RELIGIOUS INSTRUCTION. 
+
+Religious instruction is given to the boys by a resident chap 
+in. His synopsis of the work done is included in this report 
+
+PHYSICAL HEALTH 
+
+V brief statement of the health conditions of. the school is 
+
+shed bv our physician. 
+
+My connection with the school dates from April 1, 1899, when 
+
+ntered upoc the duties of assistant superintendent. On Febiry 
+1. 1900, 1 became superintendent. It was my purpose to 
+
+i the hearty co-operation of all officers and employees, with 
+uiM'iiutendent. ;is well as with each other. Success attended 
+
+beyond my most sanguine expectations. 
+
+Ii would be impossible to attain to any measure of success in 
+is institution without such co-operation, because of the inde- 
+
+of all departments. All must stand together for the 
+purpose of good government, else all must feel the 
+
+adow of failure pursuing their labors. So I desire to acknowige 
+my indebtedness to all assistants, for the efficient support 
+
+. ami am sure they need no higher encomium for their 
+oval services than is furnished by the inmates them- 
+
+higher standard of deportment. 
+
+POLITICAL) CIVIL SERVICE. 
+
+Id my mite to the weight of opinion in r 
+
+work: that it is detrimental to the best interests of an 
+
+this kind to be controlled by politics. The shift- 
+
+if officers with every change in the political sentiment of 
+
+e state makes of these institutions political footballs cuffed 
+re and there for party advantage, too often with only secondary 
+gard for tht welfare of the helpless wards of the state. 
+While attending the National Conference of Charities and Corctions 
+held at Topeka in May, 1900, I noticed that the unanious 
+opinion among all the experts in sociology of the United 
+ates was that all public institutions should be officered under 
+*il service rules. </seg>
+
+
+            <seg id="p008">10(1 
+
+LAND COMMISSIONER'S REPORT. 
+
+I quote from a paper read by Superintendent Hancock, of the 
+Kansas Reform School, as follows: "A change of administration 
+always causes unrest among the inmates, disorganizes plans 
+for the future, creates a spirit of uneasiness, and generally demoralizes 
+the work. Discipline usually grows lax, and all the 
+thousand incidents of daily life are disturbed and interfered 
+with. Get the proper man for the place, allow him to surround 
+himself with good competent help, apply civil service rules, and 
+you need have but little fear but that your state institution will 
+be run on the highest possible plane." 
+
+Captain Hatch says, in discussing this subject, "that to sen 
+men for such work, by a partisan standpoint, is to rely uj 
+qualifications that are utterly worthless, and disregard tlv 
+which are essential." 
+
+I believe the legislature should be urged to provide for 
+creation of a non-partisan board of control for the governi 
+of our eleemosynary institutions. 
+
+It is a matter of regret and a source of consider 
+
+ance that a large portion of those having kin in this school arc 
+so misinformed in regard to its purposes that they persist in regarding 
+it a penal establishment where boys are sent for punish 
+ment rather than instruction. It should be thoroughly impressed 
+upon all citizens that this is a place where the wayward will 
+of the youth is gradually bended, rather than broken. It is a 
+place where the shiftless are aroused, the distracted, aimless 
+energy of the boy is marshalled, controlled and directed along 
+lines .of usefulness. The powers of mind and body are concentrated 
+upon a logical plan working for the accomplishment of 
+a definite purpose. In doing this, the boy must of necessity 
+check and restrain more and more his profligate tendencies, and 
+thus be gradually led into habits of rectitude and paths of honor. 
+This result is the more certainly attained here, because of the 
+constant surveillance under which the boy is kept day and night, 
+which prevents evil practices; and the regular habits established 
+by regular hours for working, playing, eating, and sleeping. Ton 
+much emphasis cannot be laid upon the physical advantages ac- </seg>
+
+            <seg id="p009">
+101 
+
+STATE INDUSTRIAL SCHOOL. 
+
+I 
+
+] 
+
+\\ 
+
+] 
+
+in 
+
+i 
+
+i 
+
+i 
+
+i 
+
+uing from the regularity of habit. Its beneficial effects are 
+i mediately noticeable, and as a healthy body makes for a 
+althy mind, then to establish vigorous strength of muscle is 
+
+make a long stride in the direction of moral reformation, 
+hen a boy is sent here the guardianship is virtually vested in 
+
+ie state. It is a grave responsibility for the state to assume, 
+id in discharging this trust the idea of self-support, very erneously 
+entertained by many of our citizens, should be entirely 
+ibordinated to the primary purpose of giving the charges the 
+ost efficient, moral, intellectual and industrial training. The 
+gislature should be urged to provide liberally for the mainnance 
+of tht school, that this work of character building mav 
+
+ippled by the sordid plan of saving dollars at the ex- 
+
+manhood 
+
+BUILDINGS AND GROUNI 
+
+'ven main buildings are in a bad state of repair. It is 
+nomy to allow buildings to deteriorate. There should 
+
+provisions made by the next legislature for pointing up the 
+nt- and brick work, and painting and oiling the wood work 
+
+de and outside. New floors must be laid in the playrooms, 
+hrooms, ;ind hallways of the grade buildings and in the shop 
+
+the shop buildin 
+
+grass on the lawns had died out in many places, giving a 
+. patched aspect to the grounds. Two hundred loads of 
+
+were used last spring squaring out and filling in the bare 
+cs around the buildings, giving a finished and graceful ap- 
+
+he lawn 
+
+The many flower beds scattered over the grounds grew fine 
+
+ion. The beauty of our lawns 
+*e from all the numerous visif 
+delight to the officers and in- 
+
+rs. and were a constant source 
+
+ii' 
+
+DEPARTMENT 
+
+This is a training school where skilled instructors, by precept 
+
+plants in great profu 
+
+1 forth the highest prai 
+
+Iii ISflit the old dilapidated walks were replaced with new </seg>
+
+            <seg id="p010">
+102 
+
+LAND 
+
+)MMISSIONEF 
+
+REPORT. 
+
+W 
+
+1 
+
+i 
+
+luoa 
+
+1 
+
+I 
+
+and example, teaches the ones in his care practical knowled 
+how to do and perform useful labor in his line. The boys, 
+the help and guidance of these instructors, do all the work 
+dent to the operation of all the departments. 
+
+All departments have been 
+out the biennium. I believe 
+allow any of them to be disc 
+tion the thing most essential t 
+into the world is to be master 
+
+kept in active operation thro 
+it would be very unfortunat 
+ontinued. Next to a good e&lt;3 
+o a bov's success when he goes 
+
+of the rudiments of some trac 
+
+ADI 
+
+UANAI 
+
+El 
+
+Two grades, B and D, are dc 
+
+1 to wor 
+
+1. 
+
+k ft 
+
+ur he 
+
+thirty-minute mea 
+
+taught in the common 
+for the purpose. He I 
+other recreations. H( 
+mouth, and censors all 
+
+\\ 
+
+The wife of the gradt 
+grade, looking after the &lt; 
+
+pairing of the clothing. Toj 
+multitude of details which i 
+large family, to keep them i: 
+lar in habit, and correct in d 
+
+it an 
+tort m 
+riled 
+
+I" 
+ai 
+
+li 
+
+At night the inmates ai 
+in the dormitory. 
+
+.\ 
+
+w 
+
+The boys are divided up ini 
+to avoid associating the smal 
+the task of classing them for 
+our students come to us with 
+
+id. 
+
+! 
+
+i 
+
+with the large ones. This make 
+
+meager knowledir 
+
+i very 
+
+The school is divided into four grades, each occupyi 
+arate buildin". The bovs rise at 0 a. m. and retire at 8 r 
+
+study quite difficult. In 
+
+morning, while C and E are in school. In the afternoo 
+
+cupation is reversed, so that each grade is in school 01 
+
+each workday arid works iu some department the othei 
+
+The grade manager has charge of his grade throug 
+
+day, except tlie four liours thev are under detail to worl </seg>
+
+            <seg id="p011">
+103 
+
+ATE IXDUSTRIAI 
+
+HOOL. 
+
+strong prejudice against acquiring any more. To overcome 
+listaste for study and accustom the hitherto unrestrained 
+
+1 
+
+&gt;f the bov to the confinement of the schoolroom requires 
+
+nee and tact of a skilled studeut of human nature. 
+ichers have been very successful in accomplishing this 
+
+( • 
+
+and the steady advance made by the students in all lines 
+
+V 
+
+v gratifying. Their deportment in the schoolroom 
+
+udv 
+
+xcellent. Once started right, their rivalry in class recitations 
+
+ntelligent grasp of the potent facts at issue show an underling 
+and capacity almost equal to the average found in the 
+
+lools of our land. Each grade gives periodical en 
+s of dialogues, declamations, and singing. Oui 
+
+Mils ot dialogues, ucciiiuiunuu^, »"- — o--^ 
+in fund has enabled us to provide, also, lectures and 
+
+ments by outside talent several times a year. 
+
+RECRKATION. 
+
+plan is followed calculated to afford our school 
+
+Youth's Companion and two copies of the 
+
+ire furnished each grade, besides the ex 
+
+ers arc distributed among the boys. After a shot 
+
+it affairs 
+
+the desire for reading and 
+
+mu 
+
+wledge is properly fed. On 
+
+inger for k 
+
+ulat 
+
+cm 
+
+shed for several years. By 
+
+have become badly worn or 
+
+in 
+
+1 for the purchase of a new 
+
+idinji matter in the playroom 
+
+hess, croki 
+
+or outdoor recreation the buys indulge mainly in the nationa 
+
+all and baseball, besides using the irrigation cana 
+
+1 pond foi swimming and boating, fishing, and skating 
+
+Outside ball teams are invited in. and rival games played bt 
+
+nvited </seg>
+
+            <seg id="p012">
+104 
+
+LAND COMMISSIONER 
+
+REPORT. 
+
+;ed to attain 
+
+is "•worth 
+
+Kite th 
+
+xeel. which 
+
+pen 
+
+11(1 1 
+
+x 
+
+i 
+
+1 
+
+tween grades. In all these sports the players are urge 
+the highest proficiency, on the principle that if a thin 
+doing at all, it is worth doing well." These contests 
+best effort and arouses the ambition of our boys to e 
+as a general principle in character building in indis] 
+they are made good men. 
+
+PRINTING OFFICI 
+
+This office is equipped with a steam power pr&lt; 
+cutter, and type for doing all kinds of printing 
+
+lU kinds of printing am 
+
+This department furnishes employment to 
+boys. They do repairing of the shoes, hai 
+
+footballs, make all the shoes for the inmates whilt 
+new pair of citizen's shoes for every boy going away 
+ably well equipped with tools and the work is do 
+stantial manner. 
+
+TAILOR SH( 
+
+This is a veritable bee-hive of industry where a larjj 
+boys are bus,\ repairing and pressing heavy clothing ai 
+up bedding of all kinds; manufacturing underclothes, s 
+and mittens for the inmates. 
+
+Lnder a competent instructor many boys have heron 
+
+the trade and have gone forth into shops where they 
+
+a livelihood. A neat eight page paper, called Tin 
+
+School Journal, is issued twice a month, having a c-ii 
+
+four hundred copies, which go into the homes of li 
+
+exchange with like publications in the Tinted Stat. 
+
+with some of the weekly papers of the state. For fea 
+
+considered more expensive ilian useful. I wish to s; 
+
+exchanges which are brought into the school for disti 
+
+almost, alone, worth the cost of maintaining the &lt; 
+
+besides the great advantage of keeping thus in 
+
+reformatory work all over tin- country and ;ils (1 1, 
+
+trade to a class of inmates. </seg>
+
+            <seg id="p013">
+105 
+
+STATE INDUSTRIAL SCHOOL. 
+
+I 
+
+\ 
+
+I 
+
+\ 
+
+1 
+
+\vl 
+
+1 
+
+A 
+
+i 
+
+i 
+
+s quite well equipped with six machines, shears, irons, and 
+The work is done under a professional tailor and is very 
+ind creditable. The garments fit neatly and are well made. 
+
+AKFBNTER SHO1 
+
+s department is outfitted with a complete set of carpenter 
+Not only does this class keep the buildings in repair, 
+hey build the fences, sheds, and repair all the furniture. 
+nice and useful work is also done in making chests, caband 
+tables. The amount of such work constantly coming 
+an institution, the age and magnitude of this one, is somesurprising, 
+and the skill and aptness shown by our apprenin 
+disposing of it is very gratifying. 
+
+II 
+
+LAUNDRY. 
+
+ariment is supplied with three tubs, centrifugal 
+
+¦r. mangle and ironer. all operated by steam power. Part 
+machinery is in such poor repair that it will have to be re- 
+
+I next veai 
+
+i very considerable, but under 
+so systematized thar a force 
+in a manner which jn finish 
+well with that turned out bv 
+
+tindrvman the labor i 
+
+it liovs do tins worl 
+
+will compare very 
+
+v laundi 
+
+M. GARDEN 
+
+w 
+
+K 
+
+These departments each have a man at the head who has 
+
+pared no efforts to improve and maintain them on scientific 
+
+iples. The three departments are also under the general 
+
+is 
+
+ht of the assistant superintendent, who, as a successful 
+
+and stock-raiser, understands, thoroughly, the application 
+
+in 
+
+the latest and most approved methods of soil culture and ani- 
+
+1 industry Thorough co-operation has marked the administion 
+of thest departments. 
+
+The garden yielded great quantities of the perishable varieties 
+vegetables this year, notwithstanding the severe dry spell 
+
+mdi'v work of the school i </seg>
+
+            <seg id="p014">
+the I 
+
+i 
+
+illev. A 
+
+Olltll 
+
+ill gr 
+
+mer wa 
+
+I 
+
+vea 
+
+i 
+
+I 
+
+lfm 
+
+LA XI 
+
+)MHISSIONER 
+
+REPORT. 
+
+which prevented the growth and maturity of most of 
+
+ing varieties 
+
+In 1891* we had rented L'oli acres of good land on the v 
+
+fairly good crop of all kind was raised. In 1900 we wert 
+
+in our operations to our own land. The corn and sm 
+crops were failures on account of the drought: the foi 
+cut up in fodder and the latter made into hav. The twe 
+
+of alfalfa yielded three cuttings last year and one thi 
+The institution has at present eleven draft and foil 
+
+horses, twelve milch cows, and one hundred and twenty 
+
+sizes: fifty of the latter will 1m- read 
+
+The school ought in lie provided 
+
+the worst effects of the droughts in i'. 
+The state sh&lt; uld purchase an addiiii 
+which is subject to irrigation and th 
+ture and hav. 
+
+The horse barn m 
+renewed. 
+
+tion ditch: the remainder of 
+
+pasture to run them &lt;&gt;u. as the supply of milk \&gt; 
+
+i: 
+
+81 
+
+¦i- 
+
+for the needs of the school. Our present pasture 
+
+forty acres of the poorest grazing land. A nev 
+
+ample dimensions is an absolute necessity for tin 
+
+as the old on( is unsafe and too small. 
+
+Provisions ought 1&lt;&gt; \&gt;o made for a new lm^ Im 
+
+" "—£,•" '&lt;¦ •" . H.H.* I - -I ,1 lir %» Mil Mil 
+
+modate plans fur swine breeding. 
+
+The outside fence line of the school farm has 
+
+reset with iron posts obtained from boiler flues. 
+
+having rotted away and the wire lying "ii the &lt;rr&lt; 
+
+fences have been jmt in jrood repair and new lot 
+
+pasture inclosed. 
+
+We now need to have a new lot of live acres fe 
+
+pasture in order to properly utilize waste ur«&gt;m 
+
+purposes. 
+
+It is pertinent here to call attention to the fac 
+
+teen acres of the State land is nn tin. v:ill..\ r.r mi 
+
+
+i 
+
+md 
+
+plen 
+
+\ 
+
+ll 
+
+pla 
+
+I 
+
+rtiuen 
+
+1 
+
+1 
+
+\ 
+
+lildin 
+
+wasl </seg>
+
+            <seg id="p015">107 
+
+STATE INDUSTRIAL 
+
+HOOL. 
+
+in a state bordering on collapse, and must be 
+
+is well furnished with driving vehicles, wagons, harnn 
+implements. The supply of gardening tools -will 
+
+hint 
+
+A.KERY AND BOYS* KITCHEN" 
+
+work in this department, and under a competent in 
+y soon acquire a trade which enables them to pro 
+is assistants in hotels and bakeries. No material im 
+have been made in this department. 
+
+officers' kitchen. 
+
+water heater, and steam cooker were placed in this 
+in 1899, at a total expense of three hundred and fifty 
+
+3NGINEER. 
+
+ind water plants have been installed just Ion 
+
+ii i he pipes, fittings, and fixtures are giving way to 
+of rust and wear; the expense of keeping them in 
+lite heavv. The water supply from the wells failed 
+
+year. The three old points in the wells were re 
+
+ind no future trouble need be ex 
+ome time. The plan of letting tht 
+
+d in running the pumps return on the water 
+of loss in power, and destructive of the pipes 
+
+pper return wires were put up, at an expense of 
+
+from power-house ninety 
+
+1 i*40O i dollars, runnin 
+
+imp-house. One thousand feet of hot water and steam 
+
+placed with new in the tunnels and buildings. Four 
+
+ilvanized pipe was put down to 
+
+.1 
+
+ck peiys, — a much needed addition to our 
+
+wenty-horse-power engine was installed in the shop 
+he old one having worn out. This engine-room anS 
+of the laundrv adjoining were refloored with cement. 
+
+
+n 
+
+11 
+
+! 
+
+I 
+
+untan 
+
+ir, and 
+
+Ml 
+
+\\ 
+
+Kl* </seg>
+            <seg id="p016">
+LAND COMMISSIONER 
+
+REPORT. 
+
+Four of our five large boilers, each carrying forty-six four-inct 
+
+flues, sixteen feet long, were reflued at an expense 
+
+thousand (fl,000) dollars, the other one must be reflued uext 
+
+year. To insure safety, boiler No. 1 had to be reset, and the set 
+
+tings of the others repaired during the past summer. 
+A fifty-horse-power engine and four-hundred-light dyn 
+
+furnishes the power for lighting and pumping water. The ei 
+
+gine is old. and the dynamo has been giving serious trouble. T 
+
+are very important adjuncts of our power plant, and if either 
+
+one should become inoperative, even temporarily, th&lt; 
+
+inconvenience would be deplorable 
+
+1 earnestly recommend that the engine house be ex 
+
+a duplicate plant be installed t&lt;&gt; do this work and tlu 
+
+kept as a reserve for emergency 
+Steam heat and electric liirliu 
+
+barn. 
+
+SANITA 
+
+work hav 
+
+but the sanitary condition of the buildings is now fairlv g&lt; 
+
+The two outdoor bov 
+
+uiserable mak 
+
+hould be replaced with new brick one 
+
+A I" PRO PR I A 
+
+The legislature of 1899 appropriated the total sum of '¦ 
+My predecessor asked for $21,088 for employees" wages. 
+$15,000 was allowed. It seemed impossible to keep all 
+ments running and come within this figure. The October 
+warrant exhausted this fund, and the last five months of 
+ennium will create a deficiency in this fund of $3,869.8&lt; 
+present arrangements are continued. The other items 
+appropriation would probably have been sufficient to m 
+the institution had it not been for the crop failure this ye 
+the exorbitant rise in prices occasioned by the trust coi 
+nearly all articles of use and consumption. The allowance 
+were based upon the then existing prices. Since then. h&lt; 
+
+The plumbing and sewers hi 
+
+pairing. The funds availal </seg>
+
+            <seg id="p017">
+109 
+
+STATE INDUSTRIAL SCHOOL. 
+
+1 
+
+( 
+
+1 
+
+\ 
+
+I 
+
+I 
+
+I 
+
+ti 
+
+Ofli 
+
+Em 
+
+Cur 
+
+Mat 
+
+coal has advanced from $:!.00 to $3.90 per ton, or 50 per 
+Piping, steam fittings, and electric supplies 75 to 100 per 
+As a consequence the fuel and light fund will show a de- 
+
+L&gt;out $4,000. Lumber, leather, dry goods, furniture, 
+ind iron supplies, and food stuffs have all advanced 
+»0 per cent. To partially offset this total of about 
+
+housand ($8,000) dollars deficiency, there will be surpluses 
+teachers', board, and other funds approximating three 
+
+md i $3,000) dollars. It is fair to add, that when I took 
+¦ t In- short funds were proportionately overdrawn. 
+
+ASH FCNI 
+
+perintendent ' received from all sources in cash.. f2,473 32 
+
+2,337 fil 
+
+ilance turned over to present superintendent $135 71 
+
+914 40 
+
+Total received 
+
+Paid out for sundries 713 69 
+
+lance on hand November 30, 1900 $336 42 
+
+itemized statement in regard to this fund I refer you to 
+mi annual reports. 
+
+have endeavored to economize in expenditures and conserve 
+resources of the school to the best possible advantage, tak 
+care nor to cripple the efficiency of the work. 
+
+APPROPRIATIONS NEEDED. 
+
+recommend the following appropriations for this institution 
+over expenses of the next two years, viz.: 
+
+cers' salarie 
+
+$15,800 00 
+
+ployees' wa^es 
+
+20.520 00 
+
+51,900 00 
+
+nt expen 
+
+rial and improvements 
+
+8,780 00 
+
+Total 
+
+$97,000 00 
+
+uiber 1 to January 31, l'JOO, the former 
+
+¦teived from sale of produce up to November 30 
+1900 
+
+fl,050 11 
+
+
+11 
+
+$3.(100 00 
+
+2,000 00 
+1,600 00 
+1,600 00 
+1,200 00 
+
+ti.40( 
+
+S15.8I 
+
+i;» </seg>
+
+            <seg id="p018">11(1 
+
+LAND COMMISSIONER'S REPORT. 
+
+An itemized statement of this summary is here givt 
+
+Officers' Salaries. 
+
+.Superintendent. $1,500 per year, two years 
+
+Assistant Superintendent, f 1,000 per year, two years 
+Bookkeeper, f 800 per year, two years 
+
+Chaplain, $800 per year 
+
+Physician, $600 per year, two years 
+
+Four grade managers, each #800 per year, $3,200, tw 
+
+years 
+
+Total 
+
+Emuloyi 
+
+Engineer, electrician, and steam fitter. $t&gt;5 per month 
+24 months 
+
+Second engineer, $40 per mouth. 24 months 
+
+Third engineer, $35 per month, 24 month 
+
+Carpenter and painter. $40 per month, 24 
+
+Shoemaker, $40 per month, 24 
+
+Printer and st^nographt 
+
+Tailor. #40 per month. 24 mor 
+
+Officers" cook. $40 per month, 24 mont 
+
+Baker and boys" cook, $50 per month, 24 months .... 
+
+1.200 nil 
+
+Laundryman, $40 per month, 24 months 
+
+!)tiO On 
+
+jardener, $40 per month, 24 months 
+
+!M&gt;0 OU 
+
+Porceman. $30 per month, 24 months 
+
+720 &lt;lo 
+
+Barn and stockman, $30 per month, 24 months 
+
+720 mi 
+
+Farmer, $30 per month, 24 mouths 
+
+7 I'll 00 
+
+Supervisor boys' dining room, $25 per month. 
+24 months 
+
+000 00 
+
+Supervisor officers' dining room, $25 per month, 24 
+
+months 
+
+uoo oo 
+
+3utside nightwatch and butcher, $35 per month, 24 
+
+months 
+
+S40 00 
+
+Pour dormitory nightwatchmen, each $25 per month, 
+
+flOO, 24 months 
+
+2,400 OU 
+
+?ix housekeepers, each $200 per year. $1,200; 2 years. 
+
+2.400 On 
+
+Total 
+
+.$20,520 00 </seg>
+
+            <seg id="p019">
+Ill 
+
+ATE 1XDUSTRIAI 
+
+HOOL. 
+
+Current Expenses. 
+
+and light, water supply, and boiler house |16,000 00 
+
+Board, dining room and kitchen supplies 24,000 00 
+i 'lothing, bedding and furniture 8,000 00 
+
+brary books, periodical papers and 
+
+tationery 1,000 00 
+
+\ 
+
+licines, paints, oils, and druggist supplies 1,000 00 
+
+1'elephone, telegraph, postage, and office supplies. . . . 600 00 
+
+ng expenses 600 00 
+
+eight, express and incidentals 700 00 
+
+$31,900 00 
+
+Material and Improvement. 
+
+)i-se power engine $1,500 00 
+
+ht dynamo 400 00 
+
+flues for one boiler 250 00 
+bing, sewerage, and steam fittings 800 00 
+
+ngme room 500 00 
+
+main building -,g0 00 
+
+\&lt;-\v rout' and repairs for barn 400 00 
+
+ind fencing 400 00 
+
+w 
+
+nmates 1,200 00 
+
+w barn 
+
+*(MI (Ml 
+
+350 00 
+
+new laundi 
+
+000 00 
+
+juipping trade departments 1 000 00 
+
+S8,780 00 
+
+I 
+
+nservative, if the school increases in mem- 
+
+la 
+
+hip and prices remain where they are. 
+
+T 
+
+he last two legislatures did not make sufficient appropria- 
+
+keep up repairs and improvements, as a consequence 
+
+i 
+
+allowance made for this purpose must be liberal if the 
+
+unds and building are to be put in proper condition. 
+
+
+
+ii 
+
+ii 
+
+i </seg>
+
+            <seg id="p020">LAND COMMISSIONS] 
+
+KEPOR 
+
+Ji: 
+
+LAW AND RU 
+
+There are many applications made for copies of the law a 
+rules under which This institution is operating. This inf 
+illation should be freely disseminated. 
+
+I offer a copy of the rules adopted by the Board of Pul 
+Lands and Buildings this year, and a transcript of the law. 
+
+In conclusion I wish to express my grateful appreciation 
+the confidence you have reposed in me. I have conscientiot: 
+
+CHAPLAINS REPORT 
+
+Dear Sir: I respectfully submit my second biennial 
+chaplain of the State Industrial School. 
+
+While the work here is largely seed sowing, we have reaso 
+to believe that much of the soil is fertile and capable of briugi 
+Forth a good harvest. Many of the boys who have gone out fr&lt; 
+this school during my labors here, are doing well, though soi 
+have relapsed into their old habits. While we meet with ma 
+liscouragements, we also have great reasons for rejoicing tli 
+the general trend is upward, and hope based on ftods promis* 
+is our reward. 
+
+I wish to express my gratitude to the officers and employ* 
+vho have given a helping hand in this great work. 
+
+~&gt;ur regular services consist of Bible school in the 
+
+1 1 ii 
+
+publication as an appendix to this i-epo 
+
+Kearney, Neb.. November 20, 11MM). 
+
+Hon. J. N. Campbell. Superintendent State Industria 
+
+labored to justify your trust. The work has been agreeable 
+
+myself and I hope profitable to the state. Whatever of succ&lt; 
+
+has attended my administration I feel is owing in great measu 
+
+to the encouraging support and direction given by the executi 
+
+officers of the state, and the fidelity of the officers and employe 
+
+of the school. To all these, for their forbearance, courtesy a 
+
+help I extend my sincere thanks. 
+
+J. N. Campbell. Superintendent. 
+
+November 30, 1900. 
+</seg>
+
+            <seg id="p021">113 
+
+TATK INDl'STKIAI 
+
+SCHOOL. 
+
+mil 
+
+1 
+
+\ 
+
+i 
+
+I 
+
+Id 
+
+i 
+
+J w 
+
+preaching in the afternoon. Daring the past year. Bible 
+.1 services were held in each of the grades, with Assistant 
+
+rintendent ( &gt;. Hull, Mrs. Hull. Mr. Handsai-ker. and Mrs. 
+11 as teachers. After thirty minutes of recitation at the 
+
+les. all met in the chapel for thirty minutes" song service and 
+ew. This method has created an enthusiasm in Bible study 
+
+eh could not be realized by the old method, when the chapwas 
+the only teacher. For this assistance I wish to express 
+highest appreciation. 
+
+too often thought that the boys in this school are convicts 
+most wholly debased. This is true only in a few cases. 
+
+y come to us who are orphans, or have homes in which they 
+iot again be placed. For these unfortunates we must find 
+
+reat care cannot be given to this department of 
+
+work 
+
+me that our responsibility does not end wher 
+
+boy is placed on the train h 
+onsibilitv increases. He is 
+
+uneward bound, but rather our 
+the ward of the state until he 
+until that age is reached his 
+to the school if the acquiring 
+
+cached his majority; and 
+abouts should be known 
+
+uch knowledge is possible, 
+note, with regret, that the 
+
+haplain is no longer the active 
+ing after the interests of the 
+
+igent for the school, loot 
+s paroled wards, and tindin 
+
+homes for the honit 
+
+lAl'KI 
+
+to the fact that there is grea 
+services. The room in whiel 
+mild possibly be used for tha 
+
+wish lo call vour attention 
+
+in fitted for cha 
+le oulv one thai 
+
+rv low. and no windows 
+
+pose. In this room th 
+
+the south. During the sum 
+
+ner months the heat is aimos 
+
+have found it difti 
+
+ndurable. 1'nder the circum 
+
+tau 
+
+HOME FIXDIXn 
+
+to carry on chapel services during the summer months 
+mild therefore urge that a chapel, tastily furnished, bt </seg>
+
+            <seg id="p022">
+OMMI88IOXER S 
+
+HEl'OKT. 
+
+114 
+
+LAND 
+
+jrk, 1 au 
+
+ph\ 
+
+erected, where it may be a pleasure to meet and worship God 
+Thanking you for your kindness, and interest in my work, 1 au 
+
+Kespeetfully yours, 
+
+E. vox Fokki.i.. Chaplain 
+
+PHYSICIAN'S REPORT. 
+
+trial School for Boys. Kearney. Nebraska. 
+
+Dear Sin: I herewith submit the following report a 
+
+To the Honorable J. X. Campbell,, Superintendent State Iudu 
+
+from November :?0. 1898, to November :JO, 1900, inclusive: 
+
+Number of visits made "" ; 
+
+Number of examinations '•''•' 
+
+Number of prescriptions \AH 
+
+I am glad to be able to say that during ilie past two years w&lt; 
+
+have had no deaths in the school. To report the name of the dis 
+
+ease in each case would be to make my report too lengthy. Suttii- 
+
+it to say that we have had quite a number of cases of minor sui 
+
+gery, fractures and dislocations, pneumonia, diphtheria, inflau 
+
+inatory rheumatism — two cases where the heart was especiall 
+
+involved, and the diseases usually met with in this climate. 
+
+1 take pleasure in expressing my sincere thanks for the intei 
+
+est you have always shown, and the promptness and cheerfulnes 
+
+with which you have procured the necessaries for the can- an 
+
+treatment of the sick and thus greatly aiding me in the pel 
+
+formance of my work. 
+
+Our relations have always been pleasant ami cordial. 
+
+Aery respectfully. 
+
+Joseph L. Uexxett. IMivsician. 
+
+i: 
+
+I'll 
+
+
+ATE INDUSTRIAL SCHOOI 
+
+115 
+
+i,, 
+
+l 
+
+li 
+
+l 
+
+» 
+
+i.l 
+
+t 
+
+loll 
+
+i 
+
+h;i 
+
+ii 
+
+i 
+
+v 
+
+I </seg>
+
+            <seg id="p023">APPENDIX. 
+
+the Government of the Nebraska Stats 
+
+i; 
+
+Industrial School for Juvenile Offenders, 1900. 
+
+LAW. 
+
+f Nebraska. 1899, ch. 75, art. 1 — Reform 
+
+1 Suit 
+
+Title — Location.] That "the state industrial 
+
+l s 
+
+for juvenile offenders," located near Kearney, in the 
+of Buffalo, is hereby recognized and continued as a school 
+
+he retention, education, discipline, industrial training, and 
+million of juvenile offenders. [1887, chap. 74.] 
+
+Officers.] The governor shall appoint a superin 
+
+Se 
+
+ut, who shall before entering upon the discharge of his ofrive 
+a bond to the state of Nebraska in the sum of ten 
+
+&gt;un&lt;l dollars with sureties, satisfactory to the governor, conjed 
+for the faithful discharge of his duties. The governor 
+
+on the nomination of the superintendent, appoint an as 
+superintendent who may be removed by the superintend- 
+
+governor. All teachers and other employees shall 
+d by the superintendent with the advice aud con- 
+
+School 
+
+ir of i lie governor, and may be removed by either the super- 
+
+eiideni or the governor. The superintendent shall couduet 
+
+•h institution under rules and regulations prescribed by the 
+
+iird of public hinds and buildings, and said board shall have 
+
+sver to rix all salaries for teachers and employees when not 
+
+•scribed by statute. [Amended 1S07. chap, ."&gt;7; IX9!t. chap. 55.] 
+
+Hi:'. Sec. :&gt;. [Instruction.] The boys and girls committed to 
+
+¦ school shall he instructed in the principles of morality and 
+
+such useful branches of knowledge as are taught in the public 
+
+lonls of the stale They shall also be instructed in the princi- 
+
+¦s of the mechanical aits and such practical trades as are 
+
+;t suited to their age. strength, and capacity, and best adapted 
+
+secure them a livelihood after leaving the school. </seg>
+
+
+            <seg id="p024">i 
+
+i 
+
+i 
+
+\ 
+
+l 
+
+commissioner's 
+
+110 
+
+LAND 
+
+RETORT 
+
+shall have the control and the management of the school 
+
+ject, however, to the rules and regulations established 
+
+board. At the close of each month he shall present to tli 
+
+&gt;oard a written report showing the general eondit 
+
+hool. the number of inmates in attendance, the mini 
+
+mitments and tickets of leave granted, and such oilier in 
+tion, together with such suggestions and recomniendatii 
+mav subserve the best interests of the school. lie shal 
+
+harge of all the property belonging to the institution, and 
+
+ep an account of all monthly 
+
+xpenditures, which expendi 
+with the monthlr report. 
+
+ii 
+
+shall be certified to the boat 
+shall have power to appoint e 
+
+nplovees to till such p&lt; 
+
+the board may determine, and 
+
+hall keep a register show 
+at the time committed. 
+
+ioeial condition of each inma 
+
+417o Sec. .I. ["Commitment 
+
+district court. ] Whei 
+p of eighteen years sh 
+
+girl of sane mind under the a 
+
+found guilty of any 
+mniited under the a&lt; 
+
+teen years, or who for want of 
+
+,\ 
+
+up in mendicancy and vagrancy 
+is thereof made and properly 
+
+or is incorrigible and com] 
+ustained. the court mav. 
+
+ts opinion the accused is a proper subject therefor, in 
+
+)f entering judgment or committing said boy or girl 
+
+tentiary, he shall cause an order to be entered that said b 
+
+girl be sent to the State Industrial School, in pursuan 
+
+provisions of this act, and a copy of said order, under 
+of said court, shall he sufficient warrant for carrvina 
+
+irrv 
+
+irl to said school, and for his or her commitment tl 
+
+the custody of the superintendent I hereof. [Amei 
+
+applying to persons over sixt 
+¦ted. by jury trial, of a statut 
+
+rears old, unless they be con 
+jffense.i 
+
+4174 Sec, 4. [Superintendent — Duties.] The sfcperintenden 
+
+•unit of record in rliis state. 1&gt; 
+
+t-ept murder or manslaughtei 
+
+proper parental cai 
+
+rbap. oil.] 
+(Note. — The Supreme Court in October. 1900. dc( 
+rion unconstitutional, so far as applvinsr to person 
+
+417l» Set-. t&gt;. [Same, inferior court— Order to guardian. 1 Wh </seg>
+
+
+            <seg id="p025">117 
+
+\Tt 
+
+INDUSTRIAL 
+
+HOOL. 
+
+le mm 
+
+ist 
+
+i 
+
+i 
+
+s 
+
+I'll 
+
+A 
+
+I, under the age of sixteen years, shall 
+
+ice of the peace or 
+
+her inferior court, 
+•risibility, it shall 
+he or she may be 
+together with all 
+under the control 
+d. who shall issue 
+&gt;y or girl, or such 
+with whom he or 
+¦ nearly related to 
+Hess, then to such 
+guardian for the 
+
+o 
+
+y, vagrancy, or in 
+istrate, before who 
+end such boy or j; 
+ttice on the snbje&lt; 
+
+i 
+
+
+t»i 
+
+! 
+
+1 
+
+U(I 
+
+sai 
+
+liv said bov or girl 
+
+rial School for train 
+
+order. I Said ord 
+
+bv del 
+
+hall be made to said 
+
+mediate return 
+
+The fet 
+
+in 
+
+ils.] At the time and place men 
+
+ice to which it may b 
+lorn said order niav b 
+
+¦diau 
+
+uipetent pe 
+
+. and such testimony 
+and if upon such exbe 
+satisfied that the 
+
+¦ •(! 
+
+ilipear at a rum 
+
+r shall be served by 
+riiifi a &lt;-opy Thereof. 
+
+whom it is addressed, or by leaving 
+lgc at the (ilace of residence or busi- 
+
+ardiai 
+
+proceed 
+
+indue slia 
+
+have him or her in charjre, or 
+
+¦sided, or any one known to be 
+
+if lie or sin- be alone and friem 
+
+1*1 * 
+
+I judjje may appoini to art as 
+
+e case, requiring him or her to 
+
+¦&lt;1 in said order, to show cause w 
+
+¦ominitted to the State Indusiri; </seg>
+
+            <seg id="p026">
+118 
+
+AN 
+
+LM 
+
+NEI 
+
+REPOr 
+
+boy or girl is a fit subject foi 
+
+commit him or her to said school by warrant 
+
+4179 Sec. 9. [Warrant of commitment.] The judge sh; 
+
+tify in the warrant the place in which the b&lt; 
+
+pa i 
+
+11! 
+
+he or she was 
+
+I 
+
+\ss 
+
+state indusl 
+
+4182 Sec. 12. [Es&lt; 
+
+the time of his or her arrest, also Ins or tier age as near 
+
+be ascertained, and command t lit- said officer to take il 
+
+bov or girl and deliver him or her without delay to the s 
+
+tendent of said school or oilier person in charge 1 hereof. 
+
+place where the same is located and established, and sue 
+
+fieate. for the purpose of this act. shall be conclusive evid 
+
+his or her residence or ago. Accompanying; this warra 
+
+judge shall transmit to the superintendent by the officer 
+
+ing it, a statement of the nature of the complaint, togeth 
+
+such other particulars concerning the hoy or girl as tin 
+
+is able to ascertain: Provided, the expense of conveying ; 
+
+or girl so -committed to said State Industrial School or of 
+
+ing them to their parents or guardian after their rel.-as, 
+
+from, shall be at the expense of the state. 
+
+41SII Sec. 1(1. [Wriis of error. j The proceedings lied 
+
+judge or the county court may be reviewed on writ of e 
+
+the district court, and proceedings before any district c 
+
+judge thereof may be reviewed by the supreme citiirt 
+
+manner provided by law for reviewing criminal cases i 
+
+courts. 
+
+4181. Sec. 11. [Term of commitment.] Each boy or gi 
+
+milted to the school shall remain there until he or she 
+
+ar the aire of t went v -one. unless sooner paroled or lega 
+
+i i 
+
+n 
+
+in 
+
+
+11 
+
+1 
+
+\1&gt;1 </seg>
+            <seg id="p027">
+I1IA 
+
+1! 
+
+»r attempt to entice awav from said school 
+
+ommitted to the same, or shall knowingly 
+
+1 in harboring or concealing anv bov or girl 
+
+lished bv tine nor exceeding two hun- 
+
+Vnv sheriff or oilier officers authorized 
+
+\ 
+
+y officer or employee of the school shall 
+: is hereby made his duty, to arrest any 
+escaped from said school and return him 
+ipeiintendent shall use all proper means 
+f such escaped inmates, and for this pur- 
+
+»\ver. jii 
+
+Authority is hereby 
+
+s 
+
+Is and buildings to transfer all 
+
+nded children who are now committed to the industrial 
+
+after be committed thereto to the N 
+
+minded vouth ai Beatrice, Xt 
+
+L'pealed.] Thar chapter 7."&gt;. entitled Rere 
+existing is hereby repealed; Provided 
+
+all not affect any person heretofore ordered 
+
+he provisions of section ."&gt;. of said chap 
+
+lull 
+
+)lov» 
+
+bodl. such persons shall, upon 
+
+ii dollars, or iuipristmiueut in the state penitentiary 
+
+ward, not to exceed twentv-five l&amp;Mi dol- </seg>
+
+            <seg id="p028">
+120 
+
+l.AMt 
+
+OJIMISSION'KK 
+
+KKI 
+
+tT. 
+
+1 
+
+All employees are appointed by the superintendent with 
+advice and consent of the Governor. All employees and 
+
+assistant superintendent arc subject to removal bv 
+or the superintendent. 
+
+The assistant superintendent 
+
+\ 
+
+aid the sup 
+lowing inli 
+
+stance w 
+
+t 
+
+IioipI 
+
+Ie shal 
+
+1. The niniil 
+
+Tlic u 
+
+4. Tli. 
+
+Am su 
+
+He shall cans 
+
+I to; 
+
+Hoard witl 
+
+n. 
+
+When re 
+From wli 
+
+4. Cause of commitment, 
+¦x From whom received. 
+
+-&lt;aiids ;ii)( 
+
+Tlic number of pan 
+
+ivhicli shall lie certified i.&gt; tin- Huari 
+
+nd of each monil 
+
+He shall dr. </seg>
+
+            <seg id="p029">
+121 
+
+TRIM 
+
+II 
+
+I 
+
+ATI 
+
+M 
+
+l'.v what authority committed. 
+
+oudition. 
+
+ive power to temporarily relieve from duty the as- 
+
+,\ 
+
+mployee for incorupetency, im- 
+
+lation of auv rule, which action 
+
+tied to the Governor for his con- 
+
+shall have power to excuse the assistant 
+
+duty on account of absence or sickness, not 
+
+davs in one year, and any employee not 
+
+AN'I 
+
+KRINTHNUKN 
+
+¦ of the superintendent the assistant superinten- 
+
+111 all the duties of the superintendent. 
+
+he superintendent 
+
+eward of the institution. 
+
+ward of the in 
+
+titution 
+
+general oversight of flu- farm, garden, and stock 
+
+of the farm, garden, and stock 
+
+h 
+
+id peiform such duties as the superintendent may 
+
+1 perform such chit ies as the superintendent may 
+
+r.niiKKKKl'KK AM&gt; STOKEKEEl'EH. 
+
+•r shall be ex-otticio secretary of the school. 
+accounts of all fluaucial transactions and shall 
+
+ex-otticio secretary of the school 
+
+ncial transactions and shall 
+
+Mill 
+
+tiu 
+
+is are properly made out at the end of each 
+
+iperlv in 
+
+de out at the end of each 
+
+(¦keeper he shall receive all supplies purchased 
+
+1 supplies purchased 
+
+hi and distribute the same upon proper requisi- 
+
+n proper requisi 
+
+keep a cash account of everything sold from the 
+
+vthiii" sold from the 
+
+it oil the premises, and report the same to the 
+Lands and Buildings on the 1st day of January 
+
+tin 
+
+ds and Buildings on the 1st day of January 
+
+ear. 
+
+n- shall perform any clerical duties the superin- 
+FAMILY MAXAliEKS. 
+
+leacher of each familv shall be called the ¦•family 
+
+Tlie general supervision of those under his char 
+
+niself in a proper 
+
+lei </seg>
+
+
+            <seg id="p030">122 
+
+LANK COMMI88IOXEI 
+
+i:i:i'ni:i 
+
+i 
+
+3. To maintain proper cleanliness of each inniiit 
+4. To give such instruction in the schoolroom a 
+
+5. To lake charge of his grade when detailed 
+
+work. 
+
+r sickness to the superintend* 
+the physician are carried out 
+
+see that the requirements of 
+
+7. To report to the sup 
+rules on the part of those o 
+
+iitciident any infringement 
+ipying rooms in the buildin 
+
+shall be held responsible for 
+the rules pertaining thereto 
+
+building, and the en 
+
+8. To advise as to each im 
+9. To keep a daily record 
+
+ate's diet, especially wh 
+
+pile same at the en&lt; 
+general behavior. 
+
+The hous 
+
+grades, and sha 
+mates" clothing 
+
+The physician si 
+three times a week 
+
+Upon the request of 11 
+
+1' 
+
+the condition of an inmate when received 
+
+All medicine intended 
+and may be delivered to 
+of the physician. 
+
+When necessa 
+
+inent or diet and 
+
+reference thei 
+
+1. It 
+
+rvices on Sunday, 
+
+be the librarian of tlu 
+
+2. He shall carry </seg>
+            <seg id="p031">
+tendent niav require 
+
+6. To report any disea 
+
+
+1-' 
+
+it- parents of boys subject to parole, as 
+
+fine 
+
+oin 
+
+aroled bovs at their homes 
+
+of the superintenden 
+
+&gt;i 
+
+lady-like decorum must be observed at 
+i-es, and a courteous disjiosition toward 
+
+Vfter i Ik- inmates retire, all unnecessary noise, both in tht 
+
+n the premises, must cea 
+
+ill lights in the employee 
+
+From -Mav 15 to October 1 
+
+ill r. m., except where permis 
+
+xtiuguished at 
+
+in 
+
+1 to the contrary by the superintendent; and fron 
+
+all lights in the employees" rooms must be 
+
+In 
+
+l-wise arranged, 
+
+it from their rooms after tht 
+
+jms after tht 
+
+nt from 
+
+lsed by the superintendent. 
+
+\ 
+
+?s are detailed shall see ttnv 
+
+,\ hom inmates are detailed shall see tha 
+
+roper discipline, or that they do not use imprope 
+
+that they do not use impropei 
+
+t 
+
+)ther, or injure their own or th 
+
+ler, or injure their own or th&lt; 
+
+iu^u 
+
+i 
+
+e any property of the institu 
+
+tl 
+
+
+report in writ ing to the grad 
+
+'port in writing to the grad&gt; 
+
+rules of behavior; the repor 
+
+is or her denartment withou 
+
+in. 
+
+ng 
+
+icle be tak€ 
+
+jnsent of the party in charg* 
+
+1. 
+
+letailed 
+
+poi 
+
+urtht </seg>
+
+            <seg id="p032">
+LAM) COMMISSIONER'S RBPOBT. 
+
+124 
+
+ill inmate* mu 
+the person ha 
+
+' auperintendei 
+nuilv manager 
+
+hall attend 
+
+lou 
+
+1 
+
+i! 
+
+ii 
+
+i 
+
+i 
+
+i 
+
+
+]es. attend 
+
+9. When the time for regular detail expires, i 
+be promptly reported to the family manager, by 
+ing charge, unless permiuioD is granted by the 
+or bis assistant, to keep them longer, and the f;i 
+duly notified l&gt;y the person asking the favor. 
+
+10. All persons employed at ihe institution 
+religious services on Sunday, or whenever relig 
+held, unless excused by the superintendent. 
+
+11. The superintendent shall assign to eacl 
+ployee the regular duties required of him or her. 
+duties as he niav see lit. 
+
+111. &gt;o&gt; intoxicating liquor shall be brought t 
+except for medical purposes, and no person ( 
+school shall at any time or in any place make u 
+beverage For a single act of intoxication the &lt; 
+immediately discharged. 
+
+13. Nil regular employed person in 
+
+from duty without the permission of the superi 
+14. If through carelessness, neglect, or viol 
+
+in mma 
+
+the reward or expense, not to exceed the amoi 
+1"). Any officer or employee has the power 
+
+made his duty, to arrest any inmate who shall 
+the school and return him thereto. The super 
+
+($H&gt;i dollars in each case. 
+It;. Tlie night watchman 
+
+h. 
+
+l i Id i n 
+
+I! 
+
+on 
+
+&gt;ui 
+
+1 I 
+
+ill occurrences in and 
+
+ml ihe Imildin 
+
+n 
+
+17. Tl 
+
+duty between the hours 
+
+that order is maintained in their r&lt; 
+
+wants of the inmates in their respective dormitoi 
+
+pes. the person in &lt;-liai 
+
+ill i&gt;ro]ici- iii&lt; 
+
+ind f«n- tliis jHirjK 
+</seg>
+
+            <seg id="p033">125 
+
+STATK INDUSTRIAL SCHOOL. 
+
+m&gt;erinten(lent may assign to 
+
+orni such other duties as the 
+
+hem. 
+
+RULES FOI 
+
+INMATES 
+
+When an inmate is received and recorded, the sujrtM-intendent 
+;ill assign him to one of the following classes: 
+
+Class 1. — For burglary, obstructing railroads, forgery, rape, 
+¦rjnrv. and larcenv each inmate so committed shall receive six 
+
+housand demerits. 
+
+Class 2. — For incorrigibility, assault, disorderly conduct, and 
+uisdeineanoi each inmate shall receive five thousand demerits. 
+
+'lass :&gt;. — For vagrancy, medicancy, and the like each inmate 
+•4 1 receive four thousand demerits. 
+
+!. If the commitment papers do not specify the nature of the 
+¦use, the superintendent shall assign him to the class he may 
+
+liink just 
+
+•".. For industrious habits, good deportment, and careful at- 
+i t-ut ion to studies each inmate shall receive ten merits each day, 
+which shall cancel a like number of demerits. 
+
+4. For a perfect record during an entire month an inmate 
+hall receive twenty-five extra merits; and if a perfect record is 
+
+maintained during three consecutive months, an additional reward 
+of one hundred merits shall be given. "No extra merits 
+shall be given, except by the superintendent, and then only for 
+
+xtraordinarv services 
+
+."). For an attempt to escape all merits due such inmate will 
+be cancelled if. in the judgment of the superintendent, the cir- 
+
+cumstances require it. and he shall receive such additional 
+punishment as the superintendent may order. 
+
+• i. No demerits shall be given by any employee, but may be 
+recommended. Such recommendation shall stand, unless re- 
+
+oki'd bv the officers 
+
+The officers shall every month inspect the daily record 
+ich inmate's conduct as kept by the family manager. From 
+
+such showing they shall decide upon the number of merits to 
+which each inmate is entitled, and so mark upon the record. </seg>
+
+            <seg id="p034">
+126 
+
+LAND COMMISSIONER'S RETORT. 
+
+8. For misdemeanors committed while in school the inmates 
+shall receive punishment according to their offense. 
+
+9. Corporal punishment can only be inflicted upon the order 
+of the superintendent, and then only under his personal supervision. 
+
+
+10. When all the demerits of an inmate have been cancelled, 
+and he has been perfect during one month, called the "honor 
+month," by consent of the Board, a leave of absence for four 
+months may be granted, which will entitle the holder to leave 
+the school, provided a suitable home is found. If good conduct 
+and industrious habits are maintained, 'this leave of absence 
+will be renewed for one year, and annually thereafter until 
+majority is attained. Nothing in the foregoing rule shall prevent 
+the Board from giving the superintendent the authority to grant 
+leave of absence at any time, whenever the best interests of the 
+inmate will be subserved thereby. 
+
+11. Each inmate is furnished a stamp and writing material 
+to write home each month. An inmate may write an additional 
+letter each month if parents furnish stamp and material. Letters 
+written to the inmates of an unlit nature will be destroyed. Address 
+all letters "Care of the Industrial School." 
+
+12. Parents may visit their children semi-annually. but must 
+not expect to be entertained more than one night at a time. No 
+visiting allowed on the Sabbath nor during the holidays, except 
+by special arrangement. 
+
+1.3. All necessary clothing is furnished each inmate, bin relatives 
+may send such articles as suspenders, handkerchiefs, slippers, 
+mittens and scarfs, neckties, or any kind of innocent amusements. 
+Suitable reading matter is furnished inmates, but if is 
+recommended that copies of the home paper, or some good 
+weekly like Youth's Companion, be sent, in case relatives wish to 
+show their children special favor. 
+
+14. As far as practicable, each inmate attends school fiv 
+hours each day. Ample time is given for recreation and readinj 
+Regularity of meals and hours of sleep is observed. 
+
+These rules and regulations mav be altered, amended, or r </seg>
+
+            <seg id="p035">
+127 
+
+STATE INDUSTRIAL SCHOOL. 
+
+¦aled at 
+
+uildings 
+
+\dopt 
+
+\pprov 
+
+any regular meeting of the Board of Public Lauds and 
+
+¦d this 14th day of March, 1900. 
+
+J. V. Wolfe, 
+
+Commissioner of P. L. &amp; B. 
+
+W. F. Porter, 
+Secretary of State. 
+
+State Treasurer. 
+
+Attorney General. 
+
+ed the 19th day of March, 1900. 
+
+W. A. POYXTEK, 
+
+Governor. </seg>
+
+
+         </p>
+		    </body>
+	  </text>
+</TEI.2>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00030.00023">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the
+                            Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno>00030.00023</idno>
+            <availability>
+               <p> </p>
+            </availability>
+            <date>2007</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>THE UNIVERSITY OF NEBRASKA AGRICULTURAL EXPERIMENT STATION LINCOLN, NEBRASKA, U. S. A.  CATCH CROPS FOR HAY AND PASTURE</title>
+               <date value="1911">1911</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+	        <change>
+	           <date>2007-09-13</date>
+	           <respStmt>
+	              <name>Katherine M. Heupel</name>
+	           </respStmt>
+	           <item>Enrichment</item>
+	        </change> 
+        <change>
+            <date>2006-11-28-05:00</date>
+            <respStmt>
+               <name>OCLC Online Computer Library Center Inc.</name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <seg id="p001">Agricultural Experiment Station SCOLX, NEBRASKA I PRESS BULLETIN No. 35 I luly, lull CATCH CROPS FOR HAY AND PASTURE in v. &gt;■ MOVTUOJIEBY </seg>
+            <seg id="p002">•he very dry weather w hicli lias prevailed I in that part of Nebraska south of the l'latte river an«l in tan part of the state north of the l'latte rivi niw* to lie &lt;|iiite a shortage of Carafe and fall pasture If ireiieruiis rains by July 2~&gt; »r even AuffMt 1. it will not • trr.iw a larjre (|uaniity of foray this season. me of the forage crops \\ ;tt this time. The )•■ millet. - •■arly varieties of field corn or of sweet corn. In - item pap i about • i-li crops .it tins t;me of the | but these have not I Mil profitable for a catch era) : and tic I. Oalj ■ps will _ idly dwiag the and must h ■ -rtility available. ■til M trghum t It reipiires onl.\ •&lt;&gt; mat u i mi .lul - would kill ■orghnm 'all. probably the best pn would .eral hundred p then drill in tli ,m at th&lt; liushel per | MILLET Tli four kinds of millets grotri] in ■ union millet. Hungarian ilet. and moo millet and Hither of these will make ;i erofJ &gt;ixty days and will mat' ry. pn» conditions are favorable. If the land is u fjood condition, thoro diskinjr will lie sufficient prepar.v luit if it is weedy nr hard .' will In- i,. k as thoroly as possible </seg>
+            <seg id="p003">ug of the early sweet MtM, Iowa in the third July "ill easily make frimi one to two tons of cured ft. If conditions arc very favorable and a killing ild not eimie until the H*h of October, tliis yield of iy he doubled A very jrood way of sowing is to broad ■f about three pecks or a bushel per acre, de liag on ti I. and then turning under very shallow ?in«r plow. If possible it would lie best not to plow than two to three inches deep. Altar plowing, thoroly . 1 1 1 &lt; I . still better, roll the land in order to repack. If niie up with the corn, it can be driven one harrowing the corn is up. ( 'HOI'S UHKH M.IV ItK SOWN I &lt;K KALL I'ASTl HK. MILLJCT AND UAI'K An\ of the above forage crops will make a fair amount of - ure after September 1. if the season is favorable. How millet is probably the best of the three, as it will be morn ire by that time and will probably stand the early npiiitr of cattle with less damage. Hape is some: this time tot fall pasture and has the advantage of not g killed by hard frost and will continue fTOWIBg until I her A very good niixtuie is to use three peck two pounds of rape per acre. If handle. 1 carefulh r| i.-ely. the rape will continue growing tu weeks after the millet, and the mixture should furnish re from about September in to the tii-st of November. WINTER BYE Ki-r rye sown the last of -Inly will make yood pasture any er the middle of September until freezing weather. The rantrement for fall pasture would probably he to sow of the available land with ;: mixture of millet and rapt - other half with winter rye </seg>
+        
+         </p>
+      </body>
+   </text>
+</TEI.2>

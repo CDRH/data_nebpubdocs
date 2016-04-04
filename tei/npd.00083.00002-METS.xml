@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00083.00002">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno/>
+            <availability>
+               <p/>
+            </availability>
+            <date>2010</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Biennial Report OF THE SECRETARY OF STATE OF THE State of Nebraska FOR TWENTY-FOUR MONTHS ENDING JUNE 30, 1938</title>
+               <date value="1938-06-30">1938-06-30</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02-18</date>
+            <respStmt>
+               <name>Katherine Heupel</name>
+            </respStmt>
+            <item>Enrichment/Validation</item>
+         </change>
+         <change>
+            <date>2009-11-04</date>
+            <respStmt>
+               <name>ByteManagers, Inc. </name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <seg id="p001">Biennial Report OF THE SECRETARY OF STATE OF THE State of Nebraska FOB TWENTY-FOUR MONTHS ENDING JUNE 80, 1038 Harry R. Swanson, Secretary of State TO THE GOVERNOR </seg>
+            <seg id="p002">Department of State Lincoln, Nebraska July 12, 1988 To His Excellency, R. L. Cochran, Governor of the State of Nebraska Sir: Conforming to the Statutes of the State of Nebraska, I submit herewith my report as Secretary of State, for the State of Nebraska for the twenty-four months ending June 30th, 1938. This report sets forth the amount of receipts and expenditures of this department, together with a list of companies licensed under Chapter 45, Section 113 of the Compiled Statutes of Nebraska for 1929. Respectfully submitted, HARRY R. SWANSON, Secretary of State </seg>
+            <seg id="p003">FINANCIAL STATEMENT OF HARRY R. SWANSON SECRETARY OF STATE This office collects fees for filing articles of incorporation, cor - poration permits, notary public commissions, registration of brands, certificates of transcripts, trade marks, loan licenses under provision of House Roll No. 44, Session Laws of 1915. The following is a true and correct exhibit of moneys deposited during the past twenty-four months: RECEIPTS 1936-1937 1937-1938 Corporation Pilings: Domestic $ 17,186.72 $ 7,561.00 Foreign 5,755.00 2,570.00 Corporation Permits: Non-Profit 960.00 1,035.00 Domestic 98,608.21 95,395.90 Foreign 38,153.00 39,459.25 Notary Public Fees 2,326.00 1,494.00 Miscellaneous Receipts 1,111.15 968.55 Loan License 6,240.00 5,580.00 Trademarks 753.00 539.60 Statutes 996.00 360.35 Supplements 23.00 9.00 $172,112.08 $154,962.65 Brand Registration, Slaughter's Permits, Brand Books 2,692.51 16,472.50 Real Estate Receipts .*. 11,284.00 11,378.05 $186,088.59 $182,813.20 EXPENDITURES 60 Salary, Secretary of State 5,000.00 5,000.00 61 Salary, Deputy 2,640.00 2,640.00 62 Salaries &amp; Wages 5,750.00 5,217.18 63 Maintenance 2,565.19 2,212.75 65 Real Estate 8,877.89 6,841.70 66, 67, 68 Brand 4,304.81 4,200.91 $ 29,137.89 $ 26,112.54 </seg>
+            <seg id="p004">BIENNIAL REPORT OF THE SECRETARY OF STATE LOAN AGENCIES Section 45-113, Compiled Statutes of Nebraska for 1929, pro - vides for the licensing of loan agents or agencies and is designed to regulate the loaning of money in small quantities upon chattel securities. The bond to be given by the company is in the sum of $2,000.00, to be renewed and filed annually on March 1st. The companies now operating, their place of business, and the amount of money loaned, follow: Acme Loan Co 105 No. 16th St $ 8,568.40 Omaha Allied Securities of Norfolk 119 So. 4th St 2,163.13 Norfolk American Loan Plan 219 City Nat'l Bk Bldg 277,685.38 Omaha (The) American National Bank 901-10th Ave • i of Sidney Sidney American Securities Co 210 No. Wheeler.. 17,607.40 Grand Island Auto Loan &amp; Finance Co 1634 O Street 25,297.68 Lincoln Banking House of A. W. Clark Papillion 6,000.00 Capital Credit Co 538 Stuart Bldg 53,556.00 Lincoln Central . Credit Corporation 2044 Harney St 18,126.32 Omaha Central Finance Corporation Columbus 59,929.51 Central Finance Corporation 417 Norfolk Ave... * Norfolk Century Finance Corporation Fed. Sec. Bldg • Lincoln Citizens Mutual Loan Co ....Rm. 212 Arcade.... 9,231.63 Beatrice City Investment Company 509 E Street.... 18,980.05 Fairbury C &amp; G Finance Co. 211 No. Locust St. 8,314.16 Grand Island Colfax Finance Co Schuyler • (H. W.) Davison.% 9 West 17th st 45,148.98 Scottsbluff Dee Atherton Loan Co 112% No. frth St... » Beatrice DeVore Finance Company 516% Dewey St * North Platte Douglas Finance Co City Nafl Bk. Bldg. • Omaha </seg>
+            <seg id="p005">&gt; BIENNIAL. REPORT OF THE SECRETARY OP STATE Elkhorn Valley Finance Co 102 I.O.O.F. Bldg. 80.026.37 Fremont Federated Finance Co 1503 O St 63,310.18. Lincoln Fidelity Acceptance Corp 236 Keeline Bldg. • Omaha Fidelity Credit Corporation 1810 Vinton St * Omaha Fidelity Finance Co 115 So. 6th St 4,406.54 Beatrice Finance &amp; Savings Corp 1527 Harney St * Omaha First Finance &amp; Loan Co 560 Omaha Nat'l Bk * Omaha First National Bank Bayard • ''rst National Bank of Omaha Omaha 243,003.00 Fremont Securities Company 6th &amp; Park * Fremont Fremont State Company 132 East Fifth St. • Fremont General Finance Co Bm. No. 8 • Beatrice General Financial Service 2001 Central Ave. 16,651.85 Kearney General Loan Corp 108 W. 15th St * Falls City General Loan Service 510 Fed Sec. Bldg. • Lincoln General Securities Co., Inc 4805% So. 24th St. 120,941.66 Omaha General Securities Co., Inc 1803 Dodge Street f Omaha Globe Finance Company 223 So. 13th St 70,574.91 Lincoln Globe Financial Service 1217 First Nat'l Bk. Bldg. • Omaha Goodwill Loan Co Scottsbluff • Grand Island Finance Company 212 No. Locust 103,403.18 Grand Island Greater Investment Corporation Electric Bldg * Omaha Great Western Finance Corp 1030 First Nat'l Bk. Bldg 193,140.83 -; Omaha Hastings Investment Company 627 W. 3rd St 17,563.15 Hastings </seg>
+            <seg id="p006">BIENNIAL REPORT OF THE SECRETARY OF STATE . - ° ■ . ■ ■ . Home State- Bank Humboldt * Household Finance Corp 15th &amp; Farnam St. 318,211.40 Omaha (F. R.) Hussong Finance Co.. Lincoln 14,629.17 Industrial Finance Co 620 World Herald Bldg , 294,031.75 Omaha Kearney Loan &amp; Finance Co Kearney State Bk. Bldg 39,876.30 Kearney Lincoln Finance Company 403 Kresge Bldg... 38,013.75 Lincoln Lincoln Investment and Safe Co 126 No. 11th St &gt; Lincoln Loan Service Corporation 460 Omaha Nat'l Bk. Bldg 38,505.63 Omaha Local Investment Service 412 Omaha Loan &amp; Bldg. Ass'n.... • Omaha (W. A.) McCain Scottsbluff 15,588.20 McCook Finance Company 101 W.-B Street.... 17,755.42 McCook Mack Investment Co 1812 Broadway 77,505.52 Scottsbluff Mercantile Credit Co 125 E. 5th St 21,319.20 . Fremont Merchants Investment Co 819 First Nat'l Bk. Bldg 215,931.66 Omaha Meridian Finance Company McCloud Hotel 119,708.96 York Miller Finance Co Crete 21,813.21 Motors Finance 1524 O St 24,342.26 Lincoln Motors Securities Corp 1530 City Nat'l Bk. Bldg • Omaha National Finance Co 4802 Baldwin Ave. * Lincoln National Loan System Keeline Bldg * Omaha Nebraska Finance Company 205 Baldwin Ave. 17,130.88 Lincoln Nebraska Finance Co 305 Fed. Sec. Bldg. • Lincoln ' Nebraska Finance Company Nebraska City 23,505.12 </seg>
+            <seg id="p007">i BIENNIAL REPORT OF THE SECRETARY OP STATE Nebraska Finance Co 1910 Farnam St * Omaha Nebraska Securities Company 16th and Broad - way 97,289.96 Scottsbluff J North Platte Loan &amp; Finance Co Ill E. 5th St 46,316.96 f North Platte x* Omaha Finance Company 301 Orpheum Theatre Bldg • J£ Omaha Omaha Wimsett System Co 200-202 So. 19th.. 620,047.71 \ Omaha \ Personal Finance Company 113 No. 11th St... 198,803.00 ' Lincoln Personal Finance Company 204 So. 17th St 146,433.88 Omaha Personal Loan &amp; Finance Co Ogallala 3,846.67 Personal Loan &amp; Investment Co Alliance * Plainview Loan Company Plainview • Platte Valley Finance Co First Nat'l Bk. Bldg. 14,523.83 &lt; Columbus Platte Valley Finance Co 511% Dewey St t North Platte Prairie Loan Company 1220 First Nat'l Bk. Bldg 233,821.61 Omaha Provident Loan Society 432 Sec. Bldg 322,487.89 Omaha Reliable Loan Co Seward • Reliance Finance Company 4719 So. 24th. St... 43,501.73 Omaha Saunders County Finance Co., Inc 533 No. Linden St. 15,040.00 Wahoo Securities Acceptance Corp Kipp Bldg 461,777.26 Hastings Securities Acceptance Corp 1640 O St -f- Lincoln Securities Acceptance Corp 0104 North 4th St. -f- Norfolk Securities Acceptance Corp 216 Ins. Bldg + Omaha Service Finance Corp 120 E. 6th St • Lexington South Side Finance Company 2401 N Street 29,698.15 Omaha 4j_ </seg>
+            <seg id="p008">BIENNIAL REPORT OF THE SECRETARY OF STATE Standard Finance Company 603 Redick Tower 138,361.83 Omaha Standard Finance Company Ill No. Hastings Ave 13,127.97 Hastings State Finance Company 323 Securities Bldg 44,313.10 R.&lt;- Omaha tate Loan Company of York 629% Lincoln Ave. • York State Securities Company 124 So. 12th St 580,469.15 Lincoln Triangle Finance Company Wayne • Underwriters Acceptance Corp 1119 First Nat'l Bk. Bldg 84,699.85 Omaha Union Credit Corporation 206-08 Faidley Bldg * Omaha United Finance Company 1515 O St 8,832.86 Lincoln United Finance Corp 2422% 13th St 27,160.02 Columbus United Financial Service Grand Island 296,178.00 United Financial Service...... Fairbury t United Financial Service North Flatte f United Financial Service Omaha t United Financial Service Hastings t United Securities Company of Omaha.. 601 Farnam Bldg. 53,023.68 Omaha Valley Loan Company Red Cloud.... * (Curry W.) Watson 735 Stuart Bldg... • Lincoln Western investment Company 11 E. 17th St • Scottsbluff Western Loan Company Enders • (C. C.) Worden Ogallala • Companies which have been licensed the required length of time have been examined annually, as provided by law. Respectfully submitted, HARRY R. SWANSON. SECRETARY OF STATE •New licenses. No reports. t Reports consolidated in Main Office report. </seg>
+         </p>
+      </body>
+   </text>
+</TEI.2>

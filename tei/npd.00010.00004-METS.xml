@@ -1,0 +1,3320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00010.00004">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title>Nebraska Public Documents Project</title>
+				        <author/>
+			      </titleStmt>
+			      <publicationStmt>
+				        <publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+				        <pubPlace>Lincoln, NE</pubPlace>
+				        <idno>00010.00004</idno>
+				        <availability>
+					          <p/>
+				        </availability>
+				        <date>2007</date>
+			      </publicationStmt>
+			      <sourceDesc>
+			         <bibl>
+			            <title>THE UNIVERSITY OF NEBRASKA FIFTEENTH ANNUAL REPORT OF THE Agricultural Experiment Station OF NEBRASKA, PRESENTED TO THE GOVERNOR JANUARY 30, 1902.</title>
+			            <date value="1902">1902</date>
+			         </bibl>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change>
+			         <date>2007-07-18</date>
+			         <respStmt>
+			            <name>Laura Weakly</name>
+			         </respStmt>
+			         <item>Validation</item>
+			      </change>
+			      <change>
+			         <date>2007-06-15</date>
+			         <respStmt>
+			            <name>Katherine M. Heupel</name>
+			         </respStmt>
+			         <item>Enrichment</item>
+			      </change>
+			      <change>
+				        <date>2006-11-29-05:00</date>
+				        <respStmt>
+					          <name>OCLC Online Computer Library Center Inc.</name>
+				        </respStmt>
+				        <item>Initial Creation</item>
+			      </change>
+		    </revisionDesc>
+	  </teiHeader>
+	  <text>
+		    <body>
+         <p>
+            <seg id="p001">
+FIFTEENTH ANNUAL REPORT 
+
+or thi 
+
+Agricultural Experiment Station 
+
+( *W 
+
+NEBRASKA 
+
+Presented to the Governor January 30, 1902. 
+
+LINCOLN, NEBRASKA </seg>
+
+
+            <seg id="p003">
+LETTER OF TRANSMITTAL. 
+
+U. S. Agricultural Experiment Station, 
+
+The University of Nebraska. 
+
+To His Excetlency, H. P. Savage, Governor of Nebraska : 
+Sir : — In accordance with the act of Congress approved 
+
+Kh 2. 1887, and the act of the general assembly of the 
+: of Nebraska approved March 31, 1887, establishing and 
+ating experiment stations, I have the honor herewith 
+omit the Fifteenth Annual Keport of the U. S. Agricul- 
+Experiment Station of Nebraska. 
+
+DimUrr. 
+
+The University of Nebraska, January 29, 1902. 
+
+GOVERNOR'S CERTIFICATE. 
+
+State of Nebraska, Executive Department, 
+
+Lincoln, January 30, 1902. 
+
+KA. Burnett, Director V. S. Agricultural Experiment Staqf 
+Nebraska : 
+: — I hereby acknowledge receipt of the Fifteenth An- 
+
+nual Report of the U. S. Agricultural Experiment Station 
+of Nebraska. Ezra P. Savage, 
+
+
+E. A. Burnett, </seg>
+
+            <seg id="p004">
+THE OFFICIAL ROSTER OF THE STATION. 
+
+THE GOVERNING BOARD (THE REGENTS OF THE UNIVERSITY). 
+
+E. v. Fokell, Kearney, President Term expires 1904 
+
+Geo. F. Kenower. Wisner Term expires 1904 
+
+Edson C. Rich, Omaha Term expires 1906 
+
+Juo. L. Tketeks, Lincoln Term expires 1906 
+
+Elisha C. Calkins, Kearney Term expires 1908 
+
+Carl J. Eksst, Lincoln Term expires 1908 
+
+J. S. Dales, Lincoln, Financial Secretary • 
+
+THE EXECUTIVE COMMITTEE 
+
+E v Fokell E. Benjamin Andrews E. A. Burnett 
+
+THE VISITING COMMITTEE. 
+
+4. WS K Bror «,. | "- Board of Agriculture 
+
+E. F. Stephens The State Horticultural Society 
+
+THE STATION OFFICERS 
+
+E. A. Burnett, B. Sc Director and Animal Husbandman 
+
+T. L. Lton, B. S. A Attuciate Director and Agriculturist 
+
+Wm W. Marshall Extcutive Clerk 
+
+THE WORKING STAFF 
+
+A. T. Petbrs, D. V. M Animal Pathologist 
+
+Charlks E BmM, Ph. D Botanist 
+
+m H. Nicholson, M. A Chemist 
+
+A U Haeckek, B. Sc. A Dairy Husbandman 
+
+Lawrence Bblner, B. Sc Entomologist 
+
+E. H. Barbouk, Ph. D Geologist 
+
+R. A. Emerson, B Sc Horticulturist 
+
+O. V. P. Stout, C. E Irrigation Engineer 
+
+G. D. Swezey, MA Meteorologist 
+
+A. T. Wiancko, B. 8. A Assistant Agriculturist 
+
+H. R. Smith, B. Sc Assistant Animal Husbandman 
+
+J. H. Gain, M. D. C Astittant Animal Pathologist 
+
+Henry B. Slade, B. A Assistant Chemist 
+
+S. W Perin Assistant in Agriculture and Foreman of Farm 
+
+1 By an act of the Legislature of the State of Nebraska approved and 
+
+in effect February 16, 1899, the State Treasurer became exofflcio custodian 
+
+of the Experiment Station fund on and after July 1, 1899. </seg>
+
+            <seg id="p005">
+TABLE OP CONTENTS. 
+
+Report of the Director — page 
+
+Experimental Work 7 
+
+Staff 7 
+
+Improvements 8 
+
+Cooperative Experiments 8 
+
+Station Extension 9 
+
+Publications » 
+
+Acknowledgments 10 
+
+Financial Secretary's Report 11 
+
+Some Forage Plants for Summer Feed— T. L. Lyon and A. L. 
+Haecker 18 
+
+Preliminary Account of Variation in Bean Hybrids — R. A. Emerson 80 
+
+Study of Sorghum Poisoning in Cattle (Preliminary Report)— A. T. 
+Peters N 
+
+A Study of the Enzyms of Green Sorghum (Preliminary lleport)— 
+Henry B. Slade 56 </seg>
+
+
+            <seg id="p007">
+FIFTEENTH ANNUAL REPORT. 
+
+EXPERIMENTAL WORK. 
+
+The work of the Experiment Station for the current year 
+has been directed along the lines followed in previous years. 
+Some new problems have been taken up along lines of animal 
+pathology. The work in agriculture, animal husbandry 
+and animal pathology has been strengthened by the addition 
+of new workers. Special work has been done in immunizing 
+hogs against cholera, in sorghum poisoning, and in cornstalk 
+disease. Problems in soil culture, rotations of crops, 
+forage, and cereal improvement are receiving attention 
+in agriculture. The questions of hardy varieties of 
+fruits, of mulches, of irrigation, and of hybridizing are 
+under investigation in horticulture. The relative value of 
+different kinds of roughness is engaging the attention of 
+the departments of Animal Husbandry and Dairying. The 
+Station Chemist is co-operating with other departments in 
+analysis of grains and forage plants and with the department 
+of Animal Pathology in an effort to discover the poisonous 
+principles which sometimes cause death of horses and cattle 
+on stalk fields and of cattle pastured on sorghum. 
+
+STAFF. 
+
+A number of changes in the staff have taken place. 
+Chancellor E. Benjamin Andrews resigned the position of 
+Director July 1, 1901. Mr. E. A. Burnett was elected to succeed 
+him. 
+
+Mr. A. L. Haecker was elected Dairy Husbandman and 
+given full charge of the Department July 1. 
+
+Br. R. W. Thatcher, Assistant Chemist, resigned August 
+accept a position as Assistant Chemist of the Experi- 
+I Station of the State of Washington. Mr. Henry B. 
+e succeeded Mr. Thatcher on October 1, 1901. 
+
+Dr. J. H. Gain was elected as Assistant in Animal Path- </seg>
+
+            <seg id="p008">
+8 
+
+Agricultural Expcrimt anka 
+
+ojogj •"iU^iisiij J.S7V/J.J aijQ iwr. yv . xi. J. licit r6siiTD©d. us T jfth 
+oratory Assistant in Animal Pathology August 1, 1901. 
+
+Mr. H. R. Smith was elected Assistant in Animal Husbandry 
+and entered upon his duties October 1, 1901. 
+
+On July 1, Mr. S. W. Perin was promoted to the position 
+of Assistant in Agriculture, and Mr. A. T. Wiancko was appointed 
+Assistant Agriculturist November 1. 
+
+K. A. A. Hunter is doing special work in cornstalk diswith 
+the Departments of Animal Pathology and Botunder 
+appropriations granted by the Legislature of 
+for special investigations of cornstalk disease. 
+
+IMPROVEMENTS. 
+
+E-ing the current year many improvements in equipment 
+been made. The construction of a cattle barn by the 
+irsity has increased the facilities for feeding cattle and 
+iven better quarters for stock. 
+
+§ Director's office has been moved to the northwest 
+of the Station building, formerly occupied by the 
+, and the Station library has been removed to the 
+floor, directly above. 
+
+Eie work of the Station has been promoted by the special 
+•opriation of the Legislature of $2,500 for experiments 
+ornstalk disease to be expended under the supervision 
+le Department of Animal Pathology in co-operation with 
+Departments of Botany and Chemistry. This work is 
+? carried on and progress is reported. 
+
+B Station has been furnished animals and feed by the 
+rsity to carry on experiments in animal husbandry, so 
+ttle expense was incurred by the Station in such work. 
+
+CO-OPERATIVE EXPERIMENTS. 
+
+Co-operative experiments have been undertaken by the Departments 
+of Agriculture and Horticulture with the Agricultural 
+Students' Association upon deep and shallow plowing 
+of corn and with tests of mulches in the garden. The 
+Department of Agriculture has furnished seed to carry on 
+about five hundred tests of winter wheat m various parts of 
+the State, especially in the west and north, in an effort to extend 
+theTwinter wheat area. </seg>
+
+
+            <seg id="p009">
+9 
+
+EU. S. Department of Agriculture is co-operating with 
+llowing Departments of the Station ; Agriculture, in 
+tring seeds of forage and grass plants for testing; 
+&gt;1 Pathology, in distribution of blackleg vaccine; Horre, 
+in cross-breeding certain varieties of corn ; Entoy, 
+in distribution of the grasshopper fungous disease. 
+
+STATION EXTENSION. 
+
+Seven members of the Station staff have assisted in Farmers' 
+Institutes during the past season. The addresses at 
+these meetings furnish a means of disseminating information 
+of the experiments conducted at the Station. It also furnishes 
+the opportunity for Station men to become acquainted 
+with the needs and conditions of the farmer, and enables him 
+to bring out the practical features of the subject under investigation. 
+Much is to be hoped for in this acquaintance of 
+the experimenter with the practical conditions under which 
+the farm operations are carried on, and much benefit will result 
+from a mutual acquaintance and confidence between the 
+Station experimenter and the producer who is to benefit by 
+the results obtained. 
+
+The Experiment Station is in close touch and sympatny 
+with the work of all State societies which meet at the University 
+each year, including the State Board of Agriculture, 
+the State Horticultural Society, the State Dairymen's Association, 
+the State Live Stock Breeders' Association, the State 
+Swine Breeders' Association, the State Veterinary Medical 
+Association, the State Poultry Association, etc. 
+
+PUBLICATIONS. 
+
+I accommodate the increased mailing list, bulletins are 
+published in fifteen and twenty thousand editions, and 
+Annual Report, containing the financial statement and 
+i of the more technical experimental work of the Departs, 
+is published in an edition of 2,500 copies. 
+
+The publications of the Station during the period covered 
+by this Report are as follows : 
+
+Fourteenth Annual Report. Presented to the Governor 
+January 24,^901. </seg>
+
+            <seg id="p010">
+10 
+
+
+Fin No. 68 (Vol. XIII, Art. III). Feeding Skim- 
+Calves. By A. L. Haecker. Distributed March 22, 
+
+Bulletin No. 69 (Vol. XIII. Art. IV). Some Forage 
+Plants for Summer Feed. By T. L. Lyon and A. L. Haecker. 
+Distributed March 30, 1901. 
+
+Bulletin No. 70 (Vol. XIII, Art. V). Locusts or Grasshoppers. 
+By Lawrence Bruner. Distributed March 30, 
+
+Kletin No. 71 (Vol. XIV, Art. I). Sheep Feeding Exents 
+in Nebraska. (Second Experiment.) By E. A. 
+itt. Distributed September, 1901. 
+
+ACKNOWLEDGMENTS. 
+
+The Station is indebted to the following persons or corporations 
+for favors received during the year : 
+
+1M. Allen, land and labor for sugar beet experiments. 
+)paganda for Nitrate of Soda, fertilizer. 
+
+German Kali Works, fertilizer. 
+Swift &amp; Co., fertilizer. 
+
+Wohanka &amp; Co., sugar beet seed 
+
+American Steel and Wire Co., 80 rods woven wire fence 
+and gate. 
+
+Eureka Grain Grader Co., grain grader. 
+
+Kansas Experiment Station, winter wheat and inoculated 
+
+Iowa Experiment Station, winter wheat. 
+Ohio Experiment Station, winter wheat. 
+Burlington &amp; Missouri River R. R. 
+
+IE. &amp; M. V. Ry. 
+ion Pacific Ry. 
+R. I. &amp; P. Ry. 
+
+Missouri Pacific Ry. Co., etc. 
+
+Ee number of home and foreign newspapers on agrisubjects 
+are exchanged with the Station for bulle- </seg>
+
+            <seg id="p011">
+11 
+
+Fifteenth Annual Report 
+
+FINANCIAL SECRETARY'S REPORT 
+
+THE UNIVERSITY OF NEBRASKA 
+
+FINANCE OFFICE 
+
+The Agricultural Experiment Station of Nebraska 
+
+in Account with the United States 
+
+Appropriation of 1900-1901 
+
+RECEIPTS 
+
+Received by the State Treasurer, from the Treasurer 
+of the United States, the Congressional appropriation 
+for the year ended June 30. 1901 116,000 00 
+
+EXPENDITURES. 
+
+Salaries I 8.368 88 
+
+Labor 2,62166 
+
+Publications K*3 *1 
+
+Postage and stationery 499 94 
+
+Freight and express 129 SI 
+
+Chemical supplies 116 43 
+
+Seeds, plants and sundry supplies 646 08 
+
+Fertilizers 5 00 
+
+Feeding stuffs 160 00 
+
+Library 226 fi« 
+
+Tools, implements and machinery 201 28 
+
+Furniture and fixtures 91 60 
+
+Scientific apparatus 442 26 
+
+Live stock 66 75 
+
+Traveling expenses 265 *» 
+
+Contingent expenses 24 IS 
+
+Building and repairs 574 16 
+
+$15,000 00 S15.000 00 
+
+J. S. Dales, 
+
+Financial Secretary. </seg>
+
+            <seg id="p012">
+12 
+
+
+FINANCIAL SECRETARY'S REPORT 
+
+The Agricultural Experiment Station of Nebraska 
+
+Supplemental Statement 
+
+Receipts and expenditures for the benefit of said Station, 
+of moneys received from other sources than the United 
+States, for the fiscal year ended June 30, 1901 ; received and 
+disbursed by the State Treasurer as a part of the University 
+Cash fund : 
+
+SI, 894 78 11,894 78 
+J. S. Dales, 
+
+Financial Secretary. 
+
+State of Nebraska, | 
+Lancaster County, f 
+
+It is hereby certified that the accompanying report of the 
+Financial Secretary of the Agricultural Experiment Station 
+of Nebraska, for the year ended June 30, 1901, together with 
+the supplemental statement thereto, has been carefully compared 
+from time to time, by the finance committee of the 
+Board of Regents of the University of Nebraska, with the 
+books of account and the vouchers filed, found correct and 
+approved. (Signed) E. v. Forell, 
+
+President of the Board of Regents of the 
+I'nivernty of Nebraska and the Gov- 
+
+erning Board of said Station. 
+
+Lincoln, Nebraska, January H, 1902. 
+
+Balance June 80. 1900 
+Farm products, stock, services, etc 
+
+t 689 01 
+1,205 77 
+
+EXPENDITIRES 
+
+Band stationery 
+and express 
+riants and sundry supplies 
+stuffs 
+mplemen ts and machinery 
+re and fixtures 
+«k 
+June 80, 1901 
+
+I 
+
+170 28 
+10 60 
+148 16 
+81 04 
+268 17 
+127 66 
+7 16 
+148 88 
+M M </seg>
+
+            <seg id="p013">
+13 
+
+
+SOME FORAGE PLANTS FOR SUMMER FEED.' 
+
+BY T. L. LYON AND A. L. HAECKER. 
+
+A very important phase in the present trend of farm practice 
+is the substitution of annual forage plants for permanent 
+pastures and meadows. This is especially pronounced in 
+the trans-Missouri and other western states. It is the result 
+of an attempt to obtain a larger amount of pasturage or 
+rough feed for winter use from a given area of land, and is 
+naturally most largely followed in regions where perennial 
+grasses and clovers grow less luxuriantly and where the 
+natural fertility of the soil is sufficient to endure such treatment. 
+To be immediately profitable the increased feed produced 
+must more than counterbalance the added yearly expense 
+for tilling the soil and planting the seed. In estimating 
+the ultimate profit, the latter charge must have added 
+to it the greater deterioration in the soil when cropped continuously 
+than when periodically seeded to grasses or clovers. 
+
+OBJECT OF THESE EXPERIMENTS. 
+
+kin conducting the experiments to be described, the object 
+s been to gather information on the following points of inrest 
+to farmers and others : 
+
+1. The relative values of certain forage plants for pmsturage 
+by milch cows. 
+
+I The relative values of some of these forage plants for 
+soiling milch cows. 
+
+»The values of certain of these crops for milk and butt 
+production when pastured, as compared with the value 
+3 same crops when soiled. 
+
+The pasturage tests carried on in 1900 were a repetition of 
+
+¦An abstract or this report wu published as Bulletin No 89 of this </seg>
+
+            <seg id="p014">
+14 
+
+Agricultural Experiment Station of Neb, 
+
+those made in 1898, ' the intention being to note such variaation 
+as might be induced by a difference in climatic conditions 
+or in the individual preference or aversion of animals 
+for a certain feed. 
+
+PLAN OF THE EXPERIMENT. 
+
+Plots of land, one-fifth acre in size, were sown to each of 
+the forage crops to be tested. The crops raised on these 
+plots were sown at the time of year considered most favorable 
+for the germination of the seed and development of the 
+plant. This had been ascertained approximately in previous 
+
+When a crop on a test plot intended to be pastured reached 
+a stage of growth at which it was considered fit to pasture, 
+it was fenced by a system of movable fencing, and one of the 
+dairy cows was placed 'in the enclosure. The cow was allowed 
+to remain on the plot day and night as long as it afforded 
+sufficient pasturage. She was then removed, and the 
+number of days she was kept on the plot was taken as indicating 
+the length of time that one-fifth acre of the crop in 
+question would maintain one cow. One acre may then be regarded 
+as affording pasturage for five cows for the period of 
+time determined by the test. Water was brought to them in 
+tbe paddocks, and during midsummer shade was provided in 
+the corner of each plot. 
+
+!hen the crop was to be soiled, cutting was begun on the 
+e day that the cow was turned on the similar crop fenced 
+lasturage. As much green forage as was needed for one 
+was cut daily until the entire crop on trie plot was coned. 
+In some cases a one-tenth acre plot was used for the 
+ng test. The cow used in the test was kept in a box 
+in a cool, darkened barn and received the green feed 
+h daily. Both in the pasture and in the barn the cows 
+ived durine the summer of 1900 no other feed except a 
+If ul of grain at milking time. In 1898 each cow received 
+pounds of bran and two of ground corn daily. 
+
+Each cow was pastured, in 1900, on a mixed grass pasture 
+composed of prairie grasses, blue grass, brome grass and 
+
+'Nebr. Station. Bull. 58. </seg>
+
+            <seg id="p015">
+15 
+
+
+wdiig clover, ior st ie&amp;si on© ffloniiu oeiore Deing placed od 
+the test crop whether soiled or pastured, and for at least one 
+month afterwards. An exception to this occurred in the 
+tenon of the cows pastured on rye, for which test they were 
+taken off of dry feed. For convenience the time is divided 
+into Periods I, II, and III. 
+
+Period I constitutes the month previous to the time the 
+cow was put on the test crop. 
+
+Period II is the time she was on the test crop, with the exception 
+of the first five days. The first five days were not 
+included in this period because it was desired to ascertain 
+the effect of the feed upon the animal, and it was considered 
+that this could not be definitely noted until five days after 
+the change in feed had been made. The second period varies 
+in length, depending upon the time during which the animal 
+was pastured or soiled upon the test crop. 
+
+Period III is the month following the time she was taker 
+off the test crop, excluding the first five days. 
+
+During Period I, the cows were weighed once a week: 
+during Period II, twice a week; and during Period III, once 
+a week. It was desired to ascertain whether the animal lost 
+or gained in weight on the test crop, as compared with the 
+mixed grasses. It was therefore necessary to show whether 
+she was gaining or losing during Periods I and III, and to 
+compare this with the gain or loss during Period II. For 
+this purpose the average of the first two weighings of each 
+period was compared with the average for the last two, as 
+indicating a gain or loss in live weight. It was considered 
+that this would show the tendency to increase or decrease in 
+weight more accurately than would a comparison of the 
+average weights for each period. A gradual increase in 
+weight might be expected, owing to the advance in the 
+period of lactation. The cows were milked twice a day 
+throughout the three periods. Each milking was weighed, 
+all milkings for each period added and divided by the number 
+of days in the period to show the average daily, milk production 
+for that period. The average daily milk yield for 
+the three periods may then be compared to indicate the effect 
+of the feed upon the milk flow. A gradual falling off is to </seg>
+
+            <seg id="p016">
+16 
+
+
+be expected owing to the advance in the period of lactation. 
+
+The percentage of butter fat was determined semiweekly 
+in composite samples of the milk. The total weight of milk 
+for the period multiplied by the average per cent of butter 
+fat was taken as representing the total weight of butter fat 
+produced, and this figure divided by the number of days in 
+the period as giving the average daily production of butter 
+fat. This may also be expected to decrease gradually with 
+the advance in the period of lactation. 
+
+Ke fact that the cows pastured differed from one another 
+ly in respect to the amount of milk and butter fat prol 
+does not, of course, invalidate the experiment, for 
+test crop is compared directly with the mixed grasses, 
+Dnly indirectly with the others, through their relations 
+i mixed grasses taken as the standard. 
+
+Table I shows side by side the results obtained with each 
+crop in 1898 and in 1900. It must be remembered, however, 
+that in 1898 the cows were pastured on alfalfa during Periods </seg>
+
+
+            <seg id="p017">
+17 
+
+I 
+
+•Jt»jiv «nnr a^inr sr^.T 8 S3 
+
+imdMOQ ! -ft Xinf SI *nv S SS * 5 § 
+
+SMdj.00 1 « 1&lt;J»8 
+
+¦6!-ld*B '¦ ES g * 
+
+X!D *• 
+
+QJOO 
+
+&gt; Sny ?i^™* * *? 
+
+¦&gt;B«H SliQAl *' f Inf 
+
+Cans *»¦ 
+
+oet- 
+
+mnqSJog 9 
+
+i 
+
+n any ji"S S 8 SS 
+
+ronq&amp;ios si Xinf 
+
+ismw Kaonr -Sl^inf | t: 2 *^ 
+
+S3 
+
+?I 3-1 
+
+3 5 5 3 
+
+19IIIK 41 t IOf 
+
+? Utiv 
+
+
+njoo nsipni gg aanf 'iXinf *"^^ ' * 1* 
+
+O X X 
+
+*^ia 8Xinf ! » 1 *™ | **Z* R e S 
+
+J»«X™iqM »*™ W 1 ""- -fLl *¦ 
+
+! ojoo n»|pni oeaonr ft *P&gt;r S^ 8 * 8 6 S3 
+Z-l ' saa - 
+I P « M^o «"* «~«r z**% * » S2 
+
+1 »Jgo »°"f w igg g ¦ «S 
+I »*h ttnt u*m s^5 t s ss 
+
+i ¦ 
+- 
+
+a 
+
+»^a 
+
+I *»K 
+
+IS **K 
+
+S»3 
+
+s a? 
+
+— 
+
+g i 
+
+ai 
+
+aXH 
+
+&lt;H 
+
+SS» 2 2 SJC 
+838 - - - 
+
+* I 
+
+: 
+
+| 
+I 
+
+E 
+I 
+I 
+
+¦ : . a" : a : a . : 
+: : : .3 is :¦§ ; ; 
+¦ -m o • o ¦ a 
+siiis || i| || 
+ifftfiptii 
+z«^.&lt; &lt; &lt; a 
+
+3 
+I </seg>
+
+            <seg id="p018">
+18 
+
+
+ANALYSIS OF PASTURAGE TESTS IN 1900. 
+
+Relative Amounts of Pasturage Furnished. 
+
+A glance at Table I shows that the crop furnishing the 
+largest amount of pasturage auy one year was sorghum in 
+the summer of 1898. In 1900 a much smaller amount of feed 
+was secured from this plant. The crop giving the greatest 
+amount of feed in 1900 was rye. The annual plants furnished 
+considerably more feed than the perennials, alfalfa 
+and Bromux inn- mix. Cowpeas furnished a third more pasturage 
+than alfalfa, and of fully as good quality. This, however, 
+was during a limited period, to which pasturage on 
+cowpeas must be confined more or less closely. Alfalfa and 
+Bromus inermis can, on the other hand, be pastured early and 
+late. It will be noticed that five one-fifth acre plots were 
+required to furnish pasturage continuously from May 1 to 
+August 13. This is, in other words, one acre of land for 
+each animal during that period, which is not a particularly 
+large feed production, nor would it seem to be a very profitable 
+use of the land when the cost of annually preparing the 
+soil and sowing the crop is taken into consideration. To be 
+sure, the amount of pasturage obtained from one-fifth acre 
+of alfalfa or Btmmtu tmtrmk does not compare favorably even 
+with these figures, as it would require two acres of alfalfa 
+and nearly four acres of Bromiw inermin to furnish pasturage 
+for the same length of time when calculated in the 
+same way. As far, therefore, as can be judged from these 
+experiments the permanent pastures require from two to 
+four times as much land for each animal as do the annuals. 
+
+One important feature of the annual plants is the season at 
+which they furnish abundant succulent feed. 
+
+Many of the permanent pastuie grasses cease growing during 
+the hot and dry weather of midsummer and early fall. 
+
+Bsuch times cows are tormented with flies, and with the 
+i dry grass for feed they are apt to greatly decrease in 
+milk flow and thus spoil them for profitable fall and 
+r producers. </seg>
+
+
+            <seg id="p019">
+19 
+
+~ 
+
+I 9 af« *- •« « 
+I Z 8i H o + 4- 
+
+- 
+
++ 
+
+* 
+
+a 
+
+'l. 
+
+r 
+
+&gt; 
+
+a : £ 
+
+fS 
+
+tt 
+
+i 
+
+?: 
+
+I : t £ 
+
+? S 
+
+&gt; 
+
+_a . — ¦ ; 
+as a - a 
+S « a c &lt; 
+
+7 
+
+i 
+
+I 
+
+"3 
+
+I 
+
+
+*~i : re = 
+
+atnoi}] 
+
++ 
+
+¦4 
+
+1 
+
+"¦il'llV I 
+
+S 
+
+8 
+
+I 
+
+m*i«o3 
+
+?T 
+
+I 
+
+svadMo.-) I $ 
+
+I 
+
+7 
+
+S 
+
+•moo 
+
+? 
+
+— 
+
+•UJO3 
+
+1 
+
+9 
++ 
+
+~55" 
++ 
+
+T 
+
+f 
+
+5 
+
+III II q?f.li &gt;s 
+
+•1»II!K I 
+
+inii|j(jiis I ijl *y 
++ 4- 
+S " S~ 
+-v&gt;nm % + * 
+•wihk [I 5. t + 
+njoa 2 § S 
+n«!POI 1 + + 
+
+! i 
+
+S I 
+
+5 
+
+If 
+— 
+
+•QJ0.1 
+nBiinq - 
+SB.lJ 
+pg« »i«o I 
+SKOll I J 
+
++ 
+T" 
+
+I 
+I: 
+
+B </seg>
+
+            <seg id="p020">
+20 
+
+
+average gain or loss in live weight for Periods I and 
+III as expressed in the second line of the table is determined 
+by adding the gain or loss in live weight for each of these 
+periods, and dividing by two. It indicates the average gain 
+or loss on the mixed grasses for one month, and by eliminating 
+any change due to advance in the period of lactation 
+gives a result which may with perfect fairness be compared 
+with the loss or gain for Period II. The latter period varies 
+in length in different tests, but this does not affect the significance 
+of the comparison. 
+
+"The third line shows the increased gain or loss of weight 
+on the test crop. 
+
+Ki figures obtained in 1900 are not of much significance. 
+o»nt indicated is a greater loss of weight when legumicrops 
+were fed, confirming in this the results of I 
+ass on Kafir corn was, however, greater than on either 
+i legumes, but this is possibly due to an error in weigh* 
+to the animal losing in condition. 
+
+Kspt in the case of Kafir corn the crops that occasioned 
+rease in the production of butter fat occasioned the 
+; falling off in live weight. 
+
+It will be noticed that there was considerable variation in 
+the loss of weight on the duplicate plots of rye. 
+
+A great difficulty was experienced in obtaining accurate 
+weights, due to the irregular habits of the animals on the test. 
+For although the animals were weighed before watering, 
+they varied greatly as to their time for grazing and this 
+feature alone would cause a difference of from fifty to sixty 
+
+
+a </seg>
+
+            <seg id="p021">
+, I 
+
+i nfjf dcnojg j 
+
+I 
+
+0 W JL 
+
+«»!«;iv 
+
+! 
+
+S»*lMOJ 
+
+¦i • I 
+
+1 
+
+SIjdMO.I 
+
+3 B . « 
+2 2 -j- 
+
+§ 
+
+« fc 8 
+» 00 j 
+
+i 
+
+njoo 
+
+s « a 
+« 43 — 
+
+¦ 
+
+-r 
+
+s a s 
+S 2 7 
+
+I 
+
+| 
+
+uinqSJOS 
+
+f 
+
+i 
+
+I 
+
+mnqAios 
+
+19II1H 
+
+S « ? 
+s w s 
+:¦ £ ?• 
+Sc 8 Z 
+887 
+
+I 
+s. 
+
+I 
+
+latHH 
+
+I 
+
+I 
+
+* S 8 
+* « i 
+
+oioo unipui 
+
+i 
+
+« S 3 
+S 8 7 
+s »; i 
+
+oj&lt;» o*ipni 
+
+OJOO Olipnl 
+
+is a s 
+5 8 7 
+
+1 T 
+
+r»sdpnnBi«o 
+
+= S 8 
+2 !! I 
+
+II 
+
+I 
+
+8 S 8 
+8 8" S 
+" ; » 
+
+I 
+
+! 
+
+»*H 
+
+= * 1 
+
+| 
+
+a.«M 
+
+S 8 « 
+8 S ~ 
+
+H 
+
+1: 
+ill 
+¦:ll 
+o : o jj 
+5 ? I 
+6 5 J 
+1= 1 5 
+I- I I 
+
+! 
+
+- </seg>
+
+            <seg id="p022">
+22 
+
+
+In order to make a fair comparison of the milk flow on the 
+test crops and on the mixed grasses the average daily milk 
+flow for Periods I and III is given. The decrease due to advance 
+in the period of lactation is thus compensated. 
+
+Itcept in the case of cowpeas, alfalfa, and Bromus inermis 
+e was a decrease in the milk flow when the cows were 
+ured on the test crops. This decrease, except in the case 
+wnus ine /-»«!&gt;, distinguished the leguminous crops from the 
+rs. White Kafir corn occasioned the least falling off of 
+of the other crops, and rye, oats and peas, Indian corn, 
+sorghum had a nearly similar effect upon the milk flow, 
+e millet ranked somewhat below the others as a milk 
+ucer. 
+
+Elie tendency of the cows to shrink in milk and butter 
+production while on the plot would be more likely to ocowing 
+to the changed environment. 
+
+E nearly all cases the animal was taken from the herd 
+re she had an abundance of rich pasture of mixed grasses 
+placed on the plot, where she remained night and day 
+i but one kind of forage to eat. 
+
+The flies and heat were nearly always bad at this season of 
+the year, which in itself often causes a shrinkage in flow- </seg>
+
+            <seg id="p023">
+a 
+
+1 
+
+miSMKUg 
+
+,. 
+
+l 
+
+«»I*JIV 
+
+8 
+
+jL 
+
+. . 
+
+T 
+
+T-l! 
+
+I 
+
+nadMOQ 
+
+»• 
+
+Z 2] 
+
+bixlaoj 
+
+-Ll 
+
+¦ 
+
+1g U1O3 
+
+2 
+
+I 
+
+fc 
+
+Tl 
+
+UJO.1 
+
+E 
+
+I 
+
+I 
+
+mnqSJCS 
+
+t 
+
+I 
+
+I 
+
+T" 
+
+mnqaios 
+
+~¥ 
+
+«~8 
+I 
+
+1 
+
+I 
+
+»»IHH 
+
+1' 
+
+1 
+
+T 1 s t i 
+i»init - 1 
+g uoo a« pa I j 1 
+
+1 
+
+I 
+
+I " 
+
+uoo a«ipai 
+
+~ff 
+
+I 
+
+,= 
+
+I " 
+
+pu» »i»o 
+
+8 
+
+3 S 
+I 
+
+c 
+
+pin n«o 
+
+8 
+
+r 
+
+1 
+
+i 
+
+1 
+
+*h| 
+
+~8 
+
+s = 
+I 
+
+~8 
+
+l" 
+
+1 
+
+«i 
+
+s 
+
+I 
+
+WtH 
+
+= 8 
+- + 
+
+3 
+
+I 
+
+a : a 
+3 i 31 ¦ 
+ill 
+fill 
+ijj i| ] </seg>
+
+            <seg id="p024">
+24 
+
+
+alfalfa and cowpeas, again accentuating the value of leguminous 
+plants for feeding milch cows. 
+
+Ere in 1900 proved to be one of the poorest feeds for proog 
+butter fat, while in 1898 it was one of the best. The 
+for 1898 was with a cow that was nearly fresh and that 
+increasing in milk and butter production when put on 
+jlot. This without doubt largely accounts for the inse 
+as shown in the table. 
+
+Millet was the poorest in 1898 and one of the two poorest 
+
+Oats and peas, Indian corn, sorghum, and Kafir corn were 
+of intermediate value both years. 
+
+COMPARISON OF SOILING AND PASTURING CERTAIN CROPS. 
+
+Eiring the summers of 1899 and 1900, tests were made with 
+; of these crops to determine the relative amounts of 
+furnished by a given area of land when used for pasig 
+and when used for soiling ; also the effect upon the 
+weight, milk flow and butter fat production when the 
+s crops were fed in each of these ways. Table V shows 
+•esults obtained during each period in these tests. </seg>
+
+
+            <seg id="p025">
+25 
+
+
+
+5 S S 5 S§g 8 S 
+
+njoo 
+
+n«,p nl ; P^n'".! 
+
+I o» ao I in 
+
+«JI«JIV S 5 8 8 55 ¦ 
+
+X 
+
+» 
+
+«JI"JIV 
+
+« 
+
+S 39 
+
+I a »7 
+
+I 
+
+"•JWIV paituwj • ***.*-. S S 
+
+I 
+
+?» 
+
+j_ Tl ?J 
+
+W 
+
+njoo § S 2 I S3 
+n«T Pni P 8 "^ - | § goo 
+
+,isr 
+
+i 
+
+1 
+
+¦mnqjjjoy 
+
+P9IJOS 
+
+¦ 
+
+Z 
+
+S l' 
+
+arnqJijos 
+ranqSjog 
+
+P9|ios 
+
+I 
+
+I 
+f 
+I 
+
+s 
+
+— e 
+8 I 
+
+8 
+
+C i 
+
+i 
+
+i\* 
+
+ranqjljos 
+
+paaaiBVj 
+
+I 
+
+s 
+
+s 
+l" 
+
+90 
+f, 
+
+S3 
+
+? 
+
+! 
+
+I 
+1 
+
+1 
+! 
+
+i 
+¦ 
+a 
+
+a '. 
+Ij 
+22 
+k. a 
+— — 
+il 
+il 
+T3CU 
+¦ 
+
+3 : ft. g :g 
+O O x a&gt; 
+© «" © ® •"" ® ¦-" © ( „ c J4 </seg>
+
+
+            <seg id="p026">
+Agricultural Experiment Station of Neb\ 
+
+'/ j.*i 
+
+ll 
+
+pfl[lOS 
+naoo iiBipui 
+
+* 
+
+s 
+
+x 
+I 
+
+- 
+
+I'- 
+
+'pajn)S'«(l 
+njo.) nBipnj 
+
+OS 
+7 
+
+s 
+r 
+
+f 
+
+i 
+
+pajujsBd 
+
+7 
+
+§ 
+
+o&gt; 
+
+i 
+
+5 
+
+«JI«JIV 
+
+T 
+
+t 
+
+£ 
+
+4 
+f 
+
+pajn)B«d 
+
++ 
+
+I 
+
+! 
+
+«JI«JIV 
+
+I 
+I* 
+
+paiios 
+
+X 
+
+I 
+I 
+
+S 
+
+ninq8jo§ 
+
+tnnq&amp;ioc; 
+
+1-1 
+
+o 
+1 
+
+S 
+
+i 
+i 
+
+cnnqftios 
+
+P9[IOS 
+
+nnu|2tj(&gt;s 
+
+m 
+i 
+
++ 
+
+ee 
+
+7 
+
+o 
+7 
+
+t 
+
+H 
+J 
+3 
+
+I 
+I 
+
+I . t : | : 
+~3 ~ : o : 
+¦!¦ ° : — " 
+a : : 
+5 * m ' ~ - 
+»J k] «l 
+l £ &gt; </seg>
+
+
+            <seg id="p027">
+
+pa[ios 
+nao3 I 
+
+I 
+
+s 
+
+I 
+
+'pdjnisvd 
+
+1 
+3&gt; 
+
+00 
+
+s 
+f 
+
+ajoo 
+
+I 
+
+f 
+
+pajnisBcI 
+
+5 
+
+I 
+
+pa(ios 
+
+-p3[IO8 
+
+i 
+
+¦ 
+
+I 
+
+I 
+
+! 
+
+_ 
+
+r 
+painisBd 
+
+s 
+I 
+
+i 
+
+1 
+
+P3|IOS 
+lunqiljos 
+
+I 
+
+¦ 
+
+I 
+
+pajnjsBd 
+ninq2jotj 
+p«[!os 
+mnq8aos 
+
+I 
+so 
+
+s 
+I 
+I 
+
+s 
+09 
+s 
+T 
+
+p«[!os 
+mnq8aos 
+
+I 
+I 
+
+s 
+T 
+
+* 
+
+tnnq3jo«; 
+
+O 
+a 
+
+s 
+CO 
+
+I 
+
+¦3 : -g : "g : 
+.2 : -c : -c : 
+t* 33 • I 
+£ : &lt;2 : (£ : 
+| I I*! lj 
+• : i I ! 
+I : ¦ • I : 
+&gt;? '¦ "o : 
+1= I j • ; 
+H ?= 1= 
+4 4 1 
+
+I </seg>
+
+            <seg id="p028">
+M 
+
+Agricultural Expermttmk station of Nebr 
+
+¦k 
+
+x 
+
+pajios 
+
+ajoo 
+
+3 § § 
+
+pajniped 
+
+ojoo 
+
+* 
+
+»- » e 
+
+pajnjsBil 
+
+«JI«JIV 
+
+¦&lt; 
+
+71 
+
+»} 
+
+•pa|ios 
+
+oj ao « 
+eo sfi o 
+
+•paarnssd 
+
+«JI«J[V 
+
+K 
+
+g 2 E 
+
+
+pa[ios 
+
+
+mnqiijot; 
+
+: 
+
+|&gt; pajnimd * B 
+
+&lt;B 
+
+»- t- 
+
+uinqajos 
+
+« 
+
+2 
+
+pojinsBd 
+mnqSaog 
+
+3 » o 
+
+= 
+
+s 
+
+c 
+
+? : I 
+
+£ : g . S 
+
+&amp; : £ 
+
+3 
+
+J!-o i : -2 
+s~ Id § 
+5-8 *¦« E 
+
+&gt; 
+
+
+eS 
+
+J&amp;l I 
+
+I 
+
+|§ §8" 1 : 
+
+! 
+
+¦&gt;&gt;¦ M 
+
+C" to 3; sj 
+
+5t = c </seg>
+
+
+            <seg id="p029">
+29 
+
+AMOUNTS OF FEED PRODUCED. 
+
+Erill be noticed that the difference in food production 
+from less than two to more than three times as much 
+soiled as when pastured. Economy in the use of land 
+arked feature in the practice of soiling. 
+
+Kan corn produced less feed when soiled than did either 
+um or alfalfa. Sorghum produced the greatest amount 
+
+Ere is very little to be learned from this table of live 
+ts. There seems to be no uniformly greater or less 
+n in weight from either soiling or pasturing. Alfalfa 
+oned, on the whole, a greater loss of weight than either 
+other crops. (See Table VI. ) 
+
+I all tests, with but one exception, the amount of milk 
+need daily by the crops when pastured was greater than 
+i the same crops were soiled. The average difference 
+Ik yield for the pasturing over the soiling was 2.95 lbs. 
+lay for each cow. (See Table V. ) 
+
+I ere was uniformly a greater amount of butter fat pro-1 
+daily by each crop when pastured than when soiled, 
+average increased production of butter fat occasioned 
+asturing all crops tested was . 14 lbs. per cow per day. 
+would amount to about .16 lbs. butter calculated to an 
+¦un of one-sixth. (See Table V.) 
+
+Accepted for publication March 25, 1902. </seg>
+
+            <seg id="p030">
+30 
+
+
+PRELIMINARY ACCOUNT OF VARIATION IN BEAN 
+HYBRIDS. 
+
+BY K. A. EMEKSON. 
+
+INTRODUCTION. 
+
+Now that practical plant breeding is being given more attention 
+than ever before by horticulturists generally and 
+particularly by Experiment Station workers, it is important 
+that the principles underlying plant improvement be given 
+special study. At present there are few well-established 
+laws of plant improvement. The assertion that there are no 
+laws of hybridization, that the whole subject is empirical, 
+is perhaps true at present, but it does not follow that laws 
+will never be found. Work like that of Gregor Mendel with 
+peas 1 must be done with many groups of plants before it can 
+be said that there are no laws of variation in hybrids. Likewise 
+the direct effect of a plant's environment in originating 
+definite variations must be studied extensively before any 
+general statement can be made regarding it. 
+
+The writer's work in hybridizing beans is the beginning 
+of what it is hoped may some day yield important results. 
+The work was begun at Washington, D. C, in 1898, and has 
+been continued at Lincoln, Nebr., since the spring of 1899. 
+The study has now progressed far enough to afford a fairly 
+accurate idea of the quality of variation in bean hybrids. 
+The next step must be a quantitative study of variation. 
+From such study only can we hope to arrive at general laws 
+of variation and inheritance. Statistical studies, however, 
+
+E'Abhandlungen des Naturforschenden Vereines in Briiun, Bd. IV, 
+(1866), translated in Journal of Royal Horticultural Society, Vol. 
+VI. pp. 8 88, (1901). </seg>
+
+
+            <seg id="p031">
+31 
+
+Buire large numbers of individuals. Certain characters 
+iously yield themselves to quantitative determination 
+re readily than others. 
+
+SELECTION OF KACES. 
+
+The work has been confined for the most part to dwarf 
+and semidwarf races of the common kidney bean, Phaseohu 
+vulgaris. Some work has been done with dwarf races of the 
+small and large Lima beans, P. lunutus and P. lunatw* macrocarpus 
+respectively, but this has not been carried far enough 
+to yield important results. Attempts at crossing Lima 
+beans with kidney beans have so far been unsuccessful. 
+This paper, therefore, has to do only with racial hybrids 
+of kidney beans. 
+
+For the first work, races were chosen which differ as widely 
+as possible from each other in one or more of their characters. 
+Some of the more important characters that have 
+been combined in various ways are yellow, green, and bluegreen 
+pods, stringy and stringless pods, long and short pods, 
+round and flat pods, white, red, brown, black, and variously 
+mottled seeds, oblong and nearly round seeds, etc. In later 
+work, which has had some practical as well as theoretical 
+bearing, races have been united to secure in their hybrids 
+certain definite preconceived combinations of characters. 
+
+METHODS OF WORK. 
+
+The parent races once selected, several seeds are planted 
+in flowerpots in the greenhouse and each plant is given a 
+number to distinguish it from other individuals of the same 
+race, as, for instance, (1) Davis, (3) Mohawk. The numbers 
+are recorded with the names of the races on all labels and in 
+all notes. The plants are started at any time during winter, 
+the only precaution necessary being to have them mature 
+their hybridized seeds in time for spring planting out of 
+doors. Repeated attempts to hybridize beans in the field 
+during summer in this climate have resulted in almost total 
+failure, while success has always followed the greenhouse 
+work. Under more favorable conditions field work would 
+have the important advantage over greenhouse work of af- </seg>
+
+            <seg id="p032">
+32 
+
+
+
+fording large numbers of individuals from which to select 
+parent plants of special merit. 
+
+Kidney beans are perfectly self-fertile. In a warm, dry 
+atmosphere the anthers begin discharging pollen as soon as 
+anner petal of the flower bud begins to unfold and behe 
+bud has opened sufficiently to expose the wing petals 
+(PI. I, fig. 3). The writer has often observed pollen grains 
+on the stigma of a partially expanded flower, though the 
+main part of the.'pollenjs caught by the hairs on the style 
+just beneath the stigma."^ It therefore becomes necessary to 
+emasculate the flower buds before they begin to open. Since 
+emasculation — a difficult operation in bean flowers at best — 
+is more difficult in case of very small buds (PI. I, fig. 2), and 
+the Bower buds increase in size rapidly just before 
+opening, emasculation is delayed until shortly before the 
+bud opens (PI. I, fig. 4). The bud is carefully opened (PI. 
+I. fig. ."(with a small pair [of forceps. The spiral keel is 
+torn open at the upper end, exposing the stigma and anthers 
+(PI. I, fig. 6). The latter are carefully pinched off without 
+injuring the pistil (PI. I, fig. 7). The stigma is usually receptive 
+at the time emasculation is performed. Pollen from 
+another race is therefore applied at once. To accomplish 
+this a pistil with its load of pollen (PI. I, fig. 8) is torn from 
+a mature flower (PI. I, fig. 1) of the race which is to be used 
+as staminate parent, and the pollen is rubbed off onto the 
+stigma of the emasculated flower bud. If pollen is scarce, a 
+single anther is held on a pin point and pollen adhering to 
+: ubbed off onto the stigma. A label bearing the record 
+of |the hybridization'and a number corresponding to a notebook 
+entry is then fastened to the flower stalk and the hybridized 
+flower is covered with a paper sack (PI. I, fig. 10), 
+to afford protection*against insect pollination. This protection 
+is often unnecessary in'the greennouse^but is always 
+used to insure against possible accident. After a few days, 
+when the pods have set, (PI. I, fig. 9,) the sacks are removed 
+in order that the pods may develop normally. 
+
+¦ien ripe, the hybridized seed is gathered and compared 
+self -fertilized seed from] the two parent plan ts to deterwhether 
+any tendency toward xenia exists. When all </seg>
+
+
+            <seg id="p033">
+33 
+
+danger of frost is past (about June 1), the seed is planted 
+in the garden. At first it was the custom of the writer to 
+plant the seed and grow the first generation of the hybrids 
+in the greenhouse and then grow the second generation out 
+of doors, thus growing three generations in a single season, 
+but the practice has been abandoned. It is good where 
+quick results are desired, as, for instance, in teaching hybridization 
+to students, but much more satisfactory results 
+are secured in the long run by growing the hybrids in the 
+garden, where they usually yield a larger crop than in the 
+greenhouse. 
+
+Before the hybrid plants growing in the garden begin 
+blossoming, each individual is covered with a cage of wire 
+netting (PI. I, fig. 11) to prevent cross-pollination by insects. 
+This is necessary where the object of hybridization is the 
+study of variation in the hybrids, but is probably unnecessary 
+where the object is merely the improvement of beans 
+by hybridization. The writer has found only about four per 
+cent of hybrid forms in lots of bean plants the preceding 
+generation of which was grown in a field with over one 
+hundred races most of which were in blossom at one time. 
+Notes are kept of the peculiarities of the hybrid plants. 
+When ripe, the seed is gathered and compared with seed of 
+the parent races. Samples of the seeds and pods and sometimes 
+of other parts of the hybrid plants are saved for comparison 
+with future generations. The rest of the seed is 
+kept until the following spring and suwn to produce the 
+second generation. Plants of the second and third generations 
+and sometimes of the fourth generation are treated 
+like those of the first generation. 
+
+When the hybrids have passed their period of great variation 
+and appear fairly well fixed, which usually occurs in the 
+fourth or fifth generation, the seeds of any plant which it is 
+desired to test further are planted together at a considerable 
+distance from other beans and the plants are grown without 
+protection from insects. 
+
+Be the object of the writer's work with hybrid beans 
+en mainly to study variation, he has not practiced seuntil 
+satisfied that the new types had become fairly </seg>
+
+            <seg id="p034">
+34 
+
+
+B"" 11 established. When the object is the improvement of 
+s by hybridization, selection could well be started in the 
+I generation and sometimes even in the second generaonly 
+plants showing desirable qualities being preserved. 
+
+VARIATION IN THE FIRST AND LATER GENERATIONS. 
+
+Gaertner believed that variety hybrids show marked dissimilarities 
+even in the first generation, while specific hybrids 
+are quite uniform. Focke' agrees with Gaertner only 
+if by variety is meant an unstable form, and states that racial 
+hybrids are commonly as uniform in the first generation as 
+are specific hybrids. Webber and Swingle say :* 
+
+"Almost all who have worked extensively in hybridizing 
+plants have noted the curious fact that races of cultivated 
+plants, even though very diverse, produce very variable hybrids 
+in the first generation, while usually by crossing wild 
+species closely resembling each other hybrids are obtained 
+which are constant in the first generation." 
+
+In a later article, however, Webber says :• 
+
+''In the crossing of races and species the hybrids in the 
+first generation are usually nearly alike, exhibiting in general 
+the same intermediate characters. In the second generation 
+of these hybrids, however,' there is almost invariably 
+iter variation." 
+
+All racial hybrids of beans yet produced by the writer 
+show little variation in the first generation and pronounced 
+variation in the second and third generations. A few examples 
+will illustrate this. PI. II, figs. 3-6, show sample 
+seeds from four hybrid individuals of the first generation of 
+Golden W&lt;*x x Mohawk. While not exactly alike, they are 
+as nearly so as the individuals of either parent race (PL II, 
+figs. 1, 2). In the second geneisation (PI. II, figs. 7-21) great 
+variation is seen in size, shape, and color markings. The 
+pods produced in the second generation are as diverse as the 
+seeds, some being green, some yellow, and some greenishyellow, 
+some being stringy, like those of Mohawk (PI. II, 
+fig. 40), some nearly stringless, like those of Golden Wax 
+
+¦ Pflanzen-Mtschlinge, pp. 472. 489 
+
+'United States Department of Agriculture Yearbook. 1897. p. 8M. 
+'Cyclopedia of American Horticulture. Vol. HI. p. 1865. </seg>
+
+            <seg id="p035">
+Fifteenth Animal Report 
+
+35 
+
+(PI. II, fig. 39), and others showing various intermediate 
+forms. In the third generation the variation is continued 
+(PI. II, figs. 22-30). The twenty individuals (PI. II, figs. 
+) grown from seed, like that shown in PI. II, fig. 14, are 
+certainly remarkably uniform in color markings but exhibit 
+considerable difference in shape. Furthermore, the pods of 
+these same individuals were very unlike. Those bearing the 
+seeds shown in PI. II, fig. 24, were stringy, while those bearintrthe 
+seeds shown in PI. II, fig.25,-were nearly string 
+some of the pods were green, some yellow, and some greenish-yellow. 
+In the fourth generation the same striking uniformity 
+in color markings is seen (PI. II, figs. 33, 34). There 
+11 some difference in shape of seeds, however. One 
+plant of each group had stringy pods, all the others having 
+practically stringless ones. In color the pods were uniformly 
+greenish-yellow. In the fifth generation (PI. II, fig-18) 
+the individuals of each group were as uniform as those 
+of most races. (Compare PI. II, figs. 1, 2.) The plair 
+each group were uniform in habit of growth. The pods were 
+all rather long, flat, yellow, nearly stringless. The seeds of 
+each group are uniform in shape, size, and color markings. 
+This uniformity is the more remarkable when it is noted that 
+the characters of these fifth-generation hybrids appeared in 
+the third generation. (Compare PI. II, figs. 36, 31, 23, 13; 
+37, 32, 23, 13; 38, 35, 30, 21.) Davis x Blue Pod (PI. Ill, figs. 
+19, 20).and reciprocally Blue Pod x Davis (PI. Ill, fig-28) 
+gave rise to seven individuals of the first generation (PI. 
+Ill, figs. 21-23, 29-32), all of which were remarkably alike 
+not only in seeds but also in plants, pods, and flowers The 
+second generation (PI. Ill, figs. 24-26, 33-36), was made up 
+of very dissimilar individuals. Keeney x Davis (PI. Ill, 
+figs. 1,2) yielded a few forms in the second generation (PI. 
+Ill, figs. 4-8). One of the individuals of the second generation 
+(PI. Ill, fig. 6) produced several quite distinct thirdgeneration 
+forms (PI. Ill, figs. 10-17.) Uniformity in the 
+first generation is shown in PI. Ill, fig. 56, the result 
+of Navy x Challenge Black (PI. Ill, figs. 54, 55), and in PI. 
+Ill, figs. 62, 63, the progeny of Currie x Golden Wax (PI. Ill, 
+figs. 61, 60). The uniformity in all these cases is just as 
+well marked in plants, pods, and flowers as it is in seeds. </seg>
+
+            <seg id="p036">
+36 
+
+
+CHARACTERS OF HYBRIDS. 
+
+Common ('harurtern. — Characters common to both parent 
+races are usually reproduced in the hybrids with little variation. 
+In some cases, however, new or atavistic tendencies 
+assert themselves, as will be noted later, producing hybrid 
+characters unlike those common to the two parents but the 
+rule is as first stated. When two races both having yellow 
+pods are crossed, the hybrids of the various generations as 
+a rule produce nothing but yellow pods, and when both the 
+parent races have green pods the hybrids have pods similarly 
+colored. Examples of the former are, Wardwell x Golden 
+Wax, Golden Wax x Keeney, Jones x Golden Wax ; and of 
+the latter, Stringless Green x Warwick, Stringless Green 
+x Giant Stringless, etc. In case both parents have striDgy 
+pods, as, for instance, Davis x Blue Pod, Davis x Scarlet 
+Flageolet, Mohawk x Scarlet Flageolet, or both have nearly 
+stringless pods, as Golden Wax z Keeney, Wardwell x Challenge 
+Black, Jones x Golden Wax, etc., the resulting hybrids 
+show the characters common to their parents. Similarly, 
+dwarf races produce dwarf hybrids, races having seeds of 
+the same shape produce hybrids having the same shaped 
+seeds, etc., etc. 
+
+I&gt;if&gt;r&lt;nti&lt;i&lt;iny Ckmrmekn. — Characters which differentiate 
+two parent races usually unite in hybrids of those races to 
+form intermediate characters. These hybrid characters are 
+made up of the parental characters, either blended together 
+or united unchanged in mosaics of small or large pattern. 
+(See Webber and Swingle, "Hybrids and Their Utilization 
+in Plant Breeding." 1 ) 
+
+it — Blue Pod x Davis yields hybrids the ground color 
+of whose seeds is light brown, a blending of the brown color 
+of the Blue Pod seeds^with the^, white color of the Davis 
+Many individuals of the second and later generations 
+show a perfect blending of color between the white flowers 
+of Davis and the dark bluish-purple'flowers of.BUie Pod and 
+between .the light-green leaves and stems of Davis and the 
+
+Biited States Department of Agriculture Yearb &gt;ok, 1897, pp. 880. 
+0. </seg>
+
+            <seg id="p037">
+nth Annual Report 
+
+37 
+
+dark blue-green leaves and stems of Blue Pod. The white 
+seeds of Navy unite with the black seeds of Challenge Black 
+to form spotted seeds the light spots of which, however, appear 
+gray, a blend of black and white. 
+
+When a nearly stringless podded race, like Golden Wax, 
+is crossed with a stringy podded race, like Mohawk, many 
+of the hybrid individuals of generations later than the first 
+have stringy pods the strings of which are less strongly 
+developed than those of Mohawk. The perfectly stringless 
+podded Challenge Black crossed with the stringy podded 
+Navy produced hybrids which in the first generation developed 
+very weak fibers along the sutures of the pod (PI. II, 
+figs 42-44). Currie, stringy podded, (PI. II, fig. 45,) 
+crossed by Golden Wax, nearly stringless podded, (PL II, fig. 
+46,) produced first-generation forms having pods with shorter 
+and weaker strings than Currie. 
+
+Intermediate shape in seeds of hybrid beans is common. 
+Examples are, Navy x Challenge Black (PL III, figs. 54-56), 
+Currie x Golden Wax (PI. Ill, figs. 60-63), Golden Wax x 
+Mobawk (PI. II, figs. 1-6, 10, 15, etc.). The intermediate 
+shape of seeds is well shown in hybrids of Stringless Green 
+x Warwick. The ratio of length to thickness of seeds in 
+Stringless Green was found to be about 2.26, in Warwick 
+1.92, and in hybrids of the first generation 2.11. 
+
+Mosaics. — When the white-seeded Davis (PL III, fig. 40) is 
+crossed with the red-seeded Scarlet Flageolet (PL III, fig. 
+41), the seeds of the first generation (PL III, fig. 42) and 
+some of those of later generations (PL III, fig. 44) are 
+spotted — red and white. At first sight the light-colored 
+spots on these seeds seem tinted with red, as though formed 
+by a blend of the red and white of the parent races, but, upon 
+inspection with a lens it is found that the reddish tint is 
+produced by very small specks of red on a white ground 
+color. Small white specks are also often found scattered 
+through the red spots of the hybrid seeds. An exactly similar 
+mixing of colors occurs in hybrids of Currie x Golden 
+Wax (PL III, figs. 60-63) and Ward well x Challenge Black 
+(PL III, figs. 57-59), where small specks of black and purple 
+give the white ground color of the light spots a shaded or </seg>
+
+            <seg id="p038">
+38 
+
+
+E appearance. In these color mosaics the patches of 
+vary from very fine specks to large spots and stripes, 
+ings of this sort are common in the seeds of such r 
+jhawk, Warwick, Refugee, Valentine, etc., which are 
+only said to be mottled. 
+
+From these small-pattern color mosaics we may pass by 
+irrados to mosaics of a larger pattern. Seeds of hybrid 
+beans, instead of presenting a mosaic of the seed colors of 
+the parent races, may show the color of one parent combined 
+with the seed shape of the other parent, thus exhibiting a 
+sort of large-pattern mosaic. Examples of this are seen in 
+PI. Ill, figs. 12. 18, third-generation forms of Keeney x Davis 
+(PI. Ill, figs. 1,2), and in PI. II, figs. 11, 12, 14, 17, etc., second-generation 
+forms of Golden Wax x Mohawk (PI. II, figs. 
+1, 2). Going a step further, hybrids may produce seeds 
+which take all their characters (colors, shape, size, etc. ) 
+from one parent, and pods having the characters (color, 
+shape, stringiness, etc. ) of the other parent. Or, a hybrid 
+may closely resemble one parent in the habit of plant and in 
+all characters of pods, and the other parent in seed characters. 
+A case of this kind is seen in PI. Ill, fig. 9, thirdgeneration 
+hybrid of Keeney x Davis (PI. Ill, figs. 1, 2). 
+This individual was perfectly dwarf and produced white 
+seeds like Davis. Its pods were shorter than those of Davis, 
+more like those of Keeney, and also as stringless as the 
+Keeney pods. 
+
+Mosaics may also be formed of characters of one parent 
+united with the blended characters of the two parents. For 
+instance, in fifth-generation hybrid forms of Golden Wax x 
+Mohawk (PI. II, fig. 38), the seeds are plainly intermediate 
+between the parent races in shape, while the pods of these 
+individuals were like Golden Wax in having a yellow color 
+and being nearly stringless, etc. In first-generation forms 
+of Navy x Challenge Black (PI. Ill, figs. 54-56) the colors of 
+the two parent races are blended to form gray spots, as noted 
+previously, and with these gray spots occur spots of pure 
+black. When mosaics are made up of the separate characters 
+of both parents and the blended characters of both, there is 
+a sort of triple mosaic, or perhaps it is sufficient to say that </seg>
+
+
+            <seg id="p039">
+39 
+
+saic in the same individuals. A few individuals of the thirdgeneration 
+hybrid, Blue Pod x Davis, had perfectly green 
+leaves and stems, like Davis, brown seeds, like Blue Pod, 
+and flowers in which the dark bluish purple of Blue Pod 
+was plainly diluted by the white color of Davis. In some of 
+the fourth-generation forms of Golden Wax x Mohawk (PI. 
+II. fig. 33) the seeds have the color of Golden Wax and the 
+shape of Mohawk, and the pods are nearly stringless like 
+Golden Wax but are greenish-yellow in color, in which the 
+two parent colors blend. 
+
+Entire Return to One Parent. — From blends and small -pattern 
+mosaics where the characters of the two parents are united 
+more or less equally in all the parts of the hybrid forms, to 
+mosaics of large pattern where the characters of one parent 
+may be dominant in one organ, the characters of the other 
+parent may be dominant in another organ, and characters 
+of both parents may blend in a third organ, passage 
+is effected by easy stages. Similarly, the passage from 
+hybrids having nearly all their parts like one parent and 
+only a few parts like tbe other parent, to plants which cannot 
+be distinguished from the one parent or the other, re 
+quires no great leap. In second- and third-generation hybrids 
+of Blue Pod x Davis numerous individuals were so 
+nearly like Davis and several were so nearly like Blue Pod 
+that they could scarcely be distinguished from those races 
+by any characters of plant, pod, flower, or seed. The considerable 
+number of reversions in this case is specially noteworthy 
+because of the fact that the two parent races differ 
+in nearly all their characters. In case the two parent races 
+are differentiated by a few characters only, as, for instance, 
+Keeney and Golden Wax. which, except for a very slight difference 
+in shape of seeds, are distinguished mainly by the 
+dwarf habit of Golden Wax and the semidwarf habit of 
+Keeney, it might natural ly be expected that a considerable 
+number of hybrid individuals would closely resemble the 
+parent types (PI. Ill, figs. 50, 51, 53). 
+
+Dominant and Recessive Character*. — When hybrid forms of 
+second and later generations return to a parent race in any </seg>
+
+            <seg id="p040">
+40 
+
+
+character, the reversion seems to be in accord with no law 
+unless there be a definite numerical relation, not yet established, 
+between the various hybrid types. As regards the 
+first generation, on the contrary, certain parental characters 
+seem to dominate the hybrids. Mendel' discovered this in 
+pea hybrids and termed dominant those characters which 
+were transmitted entirely or almost unchanged, and recess -ve 
+those which became latent in first-generation forms but reappear 
+in later generations. In the single combination that 
+he effected between races of kidney beans a long plant axis 
+and green pods were dominant characters. This observation 
+is borne out by the writer's study. When semidwarf 
+races like Keeney and Navy have been crossed with dwarf 
+races like Davis, Golden Wax, and Challenge Black the firstgeneration 
+forms were all semidwarf. The recessive character, 
+strictly dwarf plants, appeared in the second generation. 
+Similarly, when green-podded and yellow-podded races 
+are crossed, the green color of the pod is dominant, occurring 
+alone in the first generation, the recessive color appearing, 
+together with intermediate forms, in the second and 
+later generations. 
+
+Other characters which, while not strictly dominant, yet 
+tend to impress themselves strongly upon the first-generation 
+hybrids are dark seed colors and stringless pods. The 
+following examples will illustrate the tendency as regards 
+dark-colored seeds: Golden Wax x Mohawk yielded hybrids 
+the seeds of which closely resemble Mohawk in color 
+(PI. II, figs. 1-6); Davis x Scarlet Flageolet produced hybrids 
+with mottled red-and white seeds in which the red predominates 
+(PI. Ill, figs. 40-42). In a similar way black is the 
+predominant color in seeds of first-generation hybrids of 
+Navy x Challenge Black (PI. Ill, figs. 54-56), Wardwell x 
+Challenge Black (PI. Ill, figs. 57-59), and Currie x Golden 
+Wax (PI. Ill, figs. 60-63). The same tendency is even more 
+strikingly brought out in Keeney x Golden Wax, the hybrid 
+
+¦Abhandlungen des Naturforschenden Vereines in Brflnn, Rl IV, 
+1886, translated in Journal of Royal Horticultural Society, Vol. XXVI, 
+pp. 7. », (1901). </seg>
+
+
+            <seg id="p041">
+41 
+
+(PI. Ill, figs. 50-52), and in Keeney x Davis (PI. Ill, figs. 
+1-3), where the latter parent has pure-white seeds and the 
+former parent seeds which are at least one-half white and 
+where the hybrid seeds have the dark color of the Keeney 
+seeds over their entire surfaces. 
+
+In the matter of stringiness of pods, that is, the development 
+of fibers along the sutures of the pods, hybrids of the 
+first generation usually have stringless pods or pods with 
+the strings feebly developed. Keeney x Davis (PI. Ill, figs. 
+1-3) yields hybrid pods that approach the nearly stringless 
+character of the Keeney pods, though pods with prominent 
+strings like those of Davis appear in later generations (PI. 
+Ill, figs. 5, 10). Golden Wax x Mohawk yields hybrid pods 
+(PI. II, fig. 41) resembling in stringiness Golden Wax (PI. 
+II, fig. 39) much more clusely than Mohawk (PI. II, fig. 10). 
+The stringy-podded Navy (PI. II, fig. 42) crossed by the perfectly 
+stringless-podded Challenge Black (PI. II, fig. 43) 
+produces hybrid pods (PI. II, fig. 44) with verv weak strings. 
+The perfectly stringless-podded Stringless Green (PI. II, fig. 
+48) crossed by the very stringy-podded Warwick (PI. II, fig. 
+49) yields hybrid pods (PI. II, fig. 50) which are practically 
+stringless. An exception to the general rule is Currie x 
+Golden Wax (PI. II, figs. 45-47), where the hybrid pods are 
+about midway between the parents in stringiness. It is possible 
+that a more extended study will show that certain varieties 
+are preponderant as regards stringiness and that this 
+is not a matter of dominant and recessive characters at all. 
+
+¦ or Atavistic Characters. — Occasionally hybrids exhibit 
+characters which neither parent race possesses. In Davis 
+x Blue Pod (PI. Ill, figs. 37, 38) the dark blue-green 
+color pf the pods of the latter race is dominant in the firstgeneration 
+hybrid forms. On this blue-green ground color 
+appear numerous spots and splashes of red (PI. Ill, fig. 39), 
+which fade to dull purple as the pod dries, the blue-green 
+color at the same time fading to brown as in the case of the 
+Blue Pod race. In the second-generation forms the recessive 
+pod color, yellow, appears sometimes alone but often 
+Dearly covered with red or purple spots which were proiui- </seg>
+
+            <seg id="p042">
+42 
+
+
+nent in the first generation. This peculiar coloration has 
+appeared in every first-generation hybrid where Davis has 
+been used as a parent race; as, for instance, Keeney x Davis 
+(PI. Ill, lip. 3), Davis x Scarlet Flageolet (PI. Ill, figs. 42, 
+44, 4J), in which cases the ground color cf the pods is yellow, 
+I ilor common to the two parents, making the red or purple 
+markings very noticeable. This coloration likewise appears 
+whenever Mohawk is used as a parent race, and the 
+same tendency has been noticed in hybrids of certain other 
+Red or purple spots are not prominent in the pods 
+of any of the races noted : and yet traces of red can occasionally 
+be found in pods of Mohawk and Davis. So far, when 
+any indication of these colors has been seen in the pods of 
+the parent race the colors have become very prominent in 
+
+An even more peculiar circumstance is the coloration of 
+hybrid seeds corresponding to that of the pods. In Davis x 
+Blue Pod the ground color of the seeds of the first-generation 
+hybrids is apparently, as noted before, a blend of 
+brown and white, but on this ground color are spots and 
+stripes of red which fade to bluish purple (PL III, figs. U'-36). 
+The same colors are seen, with the same tenancy 
+toward stripes, in second-generation forms of Davis x 
+Scarlet Flageolet (PI. Ill, figs. 45, 47). In' this case the 
+ground color of the seeds is yellow or light brown, unlike 
+the colors of either parent race. This yellow or brown 
+ground color, striped and spotted with red or purple, is common 
+in the seeds of several races of beans, such as Horticul 
+tural. Dwarf Horticultural, Goddard, etc., all of which have 
+pods spotted with red. It therefore seems probable that 
+such races as Davis and Mohawk came originally either directly 
+or indirectly from races similar to Horticultural, Goddard, 
+etc. Another striking resemblance between the seeds 
+of these races and those of the hybrid forms in question is 
+the occasional occurrence, in both the races and hybrids, of 
+seeds with very little of the red color, and again, of seeds almost 
+entirely red. In PI. Ill, fig. 49, are shown three types 
+of se«»ds occurring in the Dwarf Horticultural race and in PI. 
+TTF Her AA tYin aBmQ itmnc f-w*\Tr\ a H^rK^i/1 i r\A i \7iA nol r\t 4-Iia 
+111. lip. ** » Lilt? SttlJJtJ L y 1IUU1 a ll\ ul 111 UlUIVlUUal Ul vll(? </seg>
+
+            <seg id="p043">
+43 
+
+
+third generation of Davis x Scarlet Flageolet. In both cases 
+the striped seeds are most common. The occasional very 
+light or very dark colored seeds occur on the same individual 
+plant and sometimes in the same pod with the striped ones. </seg>
+
+
+            <seg id="p045">
+
+EXPLANATION OF PLATE I. 
+
+Fig. I. 
+
+Mature flower of common kidney bean. 
+Flower buds too small for emasculation. 
+Flower bud with banner petal beginning to open 
+Flower bu&lt;] ready for emasculation. 
+
+I 
+
+ft 
+
+4 
+
+Flower bud with banner and wings turned back, showing keel. 
+
+5. 
+ft 
+
+Flower bud, keel torn open, exposing stigma and anthers. 
+
+Flower bud emasculated. 
+
+Style of mature flower. 
+
+si 
+
+Young pod. 
+
+Bean plants, with paper sacks protecting cross-fertilized flowers 
+from insects. 
+
+10. 
+
+Bean plants, covered with wire netting to prevent cross-pollination 
+bv insects. 
+
+11 </seg>
+
+
+
+            <seg id="p047">
+
+EXPLANATION OF PLATE II. 
+
+l. 
+
+Seeds of Golden Wax. 
+
+¦&gt; 
+
+Seeds of Mohawk. 
+
+Ml 
+
+Representative seeds from four individuals of first-generation 
+hybrids of Golden Wax x Mohawk. 
+
+7-12. 
+
+Seeds of six second-generation hybrids from seed like that 
+shown in fig. 8. 
+
+1S-21 
+
+Seeds of nine second-generation hybrids from seed like that 
+shown in fig. 6. 
+
+Seeds of thirty third-generation hybrids from seeds like 
+those shown in tigs. 18, 14. 17. 19, 21. 
+
+»-» 
+
+31-35 
+
+Seeds of 37 fourth-generation hybrids from seeds like those 
+shown in figs. 33. 26. 27. 30. 
+
+86-38 
+
+Seeds of 63 fifth-generation hybrids from seeds like those 
+shown in tigs 31, 32, 36. 
+
+Part of a pod of Golden Wax. 
+
+: 
+
+Part of a pod of Mohawk. 
+
+Part of a pod of first-generation hybrid, Golden Wax x 
+Mohawk. 
+
+41 
+
+Part of a pod of Navy. 
+
+5 
+
+Part of a pod of Challenge Black 
+
+Part of a pod of first-generation hybrid, Navy x Challenge 
+Black. 
+
+Part of a pod of Currie. 
+
+s 
+
+Part of a pod of Golden Wax. 
+
+Part of a pod of first-generation hybrid, Currie x Golden 
+Wax. 
+
+47 
+
+Part of a pod of Stringless Green 
+
+;; 
+
+Part of a pod of Warwick. 
+
+Parts of pods of first-generation hybrids. Stringless Green x 
+
+50. </seg>
+
+
+
+            <seg id="p049">
+EXPLANATION OF PLATE ITL 
+
+Fig 1 
+
+Seed and part of pod of Keeney. 
+Seed and part of pod of Davis. 
+
+¦ 
+
+H. 
+
+Seed and part of pod of first-generation hybrid Keeney x 
+Davis. 
+
+4-s 
+
+Seeds and parts of pods of five second-generation hybrids. 
+
+0-18. 
+
+Seeds and parts of pods of ten third-generation hybrids. 
+
+Seeds of Davis. 
+
+Seeds of Blue Pod 
+
+Seeds of three first-generation hybrids of Davis x Blue Pod. 
+
+Seeds of eight seeond-generatiin hybrids. 
+
+Seeds of four first-generation hybrids of Blue Pod x Davis. 
+
+Seeds of 26 second-generation hybrids. 
+
+I 
+
+Part of pod of Davis. 
+
+Part of pod of Blue Pod. 
+
+Part of pod of first-generation hybrid, Davis x Blue Pod. 
+
+: 
+
+Seed and part of pod of Davis. 
+Seed and part of pod of Scarlet Flageolet. 
+
+Seed and part of pod of first-generation hybrid, Davis x 
+Scarlet Flageolet. 
+
+M 
+
+Seeds and parts of pods of three second-generation hybrids. 
+
+43-45. 
+
+Seed and part of pod of third-geDeration hybrid. 
+
+M. 
+
+47,48. 
+
+Seeds of two third-generation hybrids. 
+
+Seeds of Dwarf Horticultural. 
+
+: 
+
+Seed of Keeney. 
+
+51,60 
+
+Seeds of Golden Wax. 
+
+Seed of firtt -generation hybrid, Keeney x Golden Wax. 
+
+I 
+
+Seeds of three second-generation hybrids 
+
+Seed of Navy 
+
+Seeds of Challenge Black. 
+
+.V..57. 
+
+Seeds of three first-generation hybrids. Navy x Challenge 
+Black. 
+
+Ml 
+
+n. 
+
+Seed of Wardwell. 
+
+M. 
+
+Seeds of first-generation hybrid, Wardwell x Challenge 
+Black. 
+
+n. 
+
+Seed of Currie. 
+
+Seeds of two first-generation hybrids, Currie x Golden Wax. 
+
+¦,«. 
+
+Accepted for publication May 8, 1902. </seg>
+
+            <seg id="p050">
+50 
+
+Agricultural WtpmrtmtmA Station of Nebraska 
+
+STUDY OF SORGHUM POISONING IN CATTLE. 
+(PRELIMINARY REPORT.) 
+
+BY A. T. PETERS. 
+
+Eie experiments with sorghum to determine the cause of 
+ti from cattle running in sorghum fields were undertaken 
+le Department of Animal Pathology during the summer 
+901, as the result of numerous inquiries which came to 
+Station asking for remedies and reporting deaths of ans 
+that had been pastured on sorghum or bad broken 
+sorghum fields. In most cases these animals did not 
+larly pasture upon sorghum but broke into the fields 
+i adjacent pastures or as they were being driven past 
+fields of sorghum. Investigation proved that the animals 
+did not die from bloat as has been reported by many agricultural 
+papers. Many cases were reported where death occurred 
+without .bloat and in so short a time that no other 
+theory except that of poison seemed tenable. In most instances 
+where losses of this kind were reported, the sorghum 
+had been stunted in its growth and was not entirely healthy 
+and vigorous in its appearance. 
+
+We visited many fields where animals had died, but generally 
+found these animals in so advanced a stage of decomposition 
+that satisfactory post mortems could not be held. 
+Often the animals had been buried, and when other animals 
+were turned into these fields they refused to eat the sorghum 
+and no infomation could be secured. 
+
+Analyses of sorghum from many of these fields, in the laboratory, 
+failed to show any poisonous principle in the sample, 
+which had necessarily been cut several hours before it 
+could be submitted to a chemical examination. 
+
+In the spring of 1901, special effort was made to further </seg>
+
+
+            <seg id="p051">
+51 
+
+placed in the leading State papers to the effect that the Experiment 
+Station would send a veterinarian to investigate all 
+cases of so-called sorghum poisoning, if notified in time to be 
+of assistance or to secure any information. We responded 
+to numerous calls of this kind, but in most instances where 
+animals were turned upon the sorghum for the express purpose 
+of poisoning them they refused to eat, and no data 
+could be secured. 
+
+In response to one of these calls, received through Dr. W. 
+A. Thomas, State Veterinarian, I reached the farm of Mr. 
+Foss, near Aurora, at 7:30 a. m., on August 3, 1901. Two 
+days previous, fifteen head of his cattle had broken into a 
+sorghum field, where they had remained twenty minutes. 
+They were then driven into another field and were not seen 
+again for several hours. When seen, three were sick, all of 
+which died within a few hours. The symptoms were drowsiness, 
+running at the eyes, twitching of the muscles, numbness 
+Of the limbs, staggering gait, animal could not stand, 
+involuntary passing of urine. On August 2, two more cows 
+broke through the fence and were on the sorghum field five 
+minutes. One hour later, one of these animals, a four-yearold 
+cow, was very sick, but finally recovered. The animal 
+ed liberal doses of alcohol as an antidote and had fully 
+recovered on the morning of August 3, when I arrived at the 
+
+We turned a small yearling steer on the sorghum at 8 :30 
+A. M., but he refused to eat any sorghum, and after thirtyfive 
+minutes two more animals were turned into the sorghum, 
+where they remained until 10 a. M., when only one, 
+a small, red steer, had taken any sorghum, and he had eaten 
+only a few leaves. They were then turned back with the 
+herd. At 10:35 a. m. the small, red steer acted somewhat 
+drowsy, but soon recovered. 
+
+At 11 a. M. we turned ore red heifer and one yearling 
+steer on the sorghum. The heifer was the only animal that 
+ate any quantity, and, as subsequent examination showed, 
+she ate only one and one-half pounds of green sorghum. At 
+11 :10 A. M. this animal dropped to the ground. Upon close </seg>
+
+            <seg id="p052">
+52 
+
+
+examination it was found that she had stopped chewing her 
+cud and there was a peculiar twitching of the muscles of the 
+nose and head and also of the body. The animal was very 
+dull. At 11 :15 sbe was taken out of the sorghum field and 
+allowed to lie in a stubble field. When lying down her head 
+was turned toward the abdomen, presenting the symptoms 
+of a horse having the colic. The eyes seemed dull and gave 
+off a watery discharge. There was a partial paralysis of the 
+tongue and great quantities of saliva running from the 
+mouth. The limbs and ears were cold. The pupils of the 
+eyes dilated, pulse not perceptible, mucous membrane of 
+the rectum protruding, involuntary discharge of urine and 
+faeces. Upon pricking the animal with a knife on the lower 
+limbs it showed no feeling. This animal was closely watched 
+in the field by Mr. Foss and myself and we feel sure that 
+she did not take any weeds, but simply a small amount of 
+sorghum, eating only the tops of the leaves. At 1 : 30 v. m. 
+the animal was still lying on its right side, all the musrlo 
+of the head were contracted and showed involuntary twitch 
+ing. The limbs were paralyzed and the animal was uncunscious; 
+the mucous membrane of the mouth was of a salmon 
+color. At 2:35 p. m. the animal was in great pain, and it 
+was apparent that she would not recover. At the sugges 
+tion of Mr. Foss the animal was killed in order to hold a 
+post-mortem examination. 
+
+Post-Mortem Examination. — Animal still warm. The bowels 
+were opened and contents of paunch carefully noted : 
+there was in all one pound and a half of sorghum leabe 
+found in the paunch. No sourness of the contents. The 
+same was immediately put up in Mason fruit jars with clean 
+water and brought to the laboratory. The blood had a pe&lt; u 
+liar sweet smell like that of mint (?). It coagulated slowly. 
+The mucous membrane of the intestines normal, all 
+other conditions of the animal normal. Made particular examination 
+of the pharynx (throat), epiglottis, and esophagus 
+and found that there were no leaves lodged over the same. 
+If this had occurred the animal would have died instantly 
+and not within three or more hours as our record shows, and 
+would have died in the state of asphyxia and not presenting </seg>
+
+            <seg id="p053">
+53 
+
+&gt;•'/&lt; Annual Report 
+
+Pif acute poisoning. In eleven post mortems 
+ted, careful search has always failed to rees 
+obstructing the pharynx, epiglottis, or 
+ch would have caused death by asphyxia or 
+We brought two jars full of the leaves taken 
+rhere the animal died, and took them to the 
+chemical examination, which is not yet corn- 
+
+One case of sorghum poisoning is reported from sorghum 
+that had been cut several hours before feeding. Mr. E. F. 
+Stoner, of Chester, cut sorghum at 8 o'clock p. M. August 2, 
+which was fed to three milch cows at 8 A. m., August 3. 
+About 9 o'clock A. M. these animals were first noticed to be 
+sick. One died within an hour and fifteen minutes. The 
+other two recovered within twelve hours. On August 6 I 
+visited this sorghum field and made an examination of the 
+sorehum, which was not fully matured. It was comparatively 
+free from weeds. At 5:45 we placed a cow in this 
+sorghum field and allowed it to eat as much cut sorghum as 
+it would, up to 8 p. M., when it had consumed about twenty 
+pounds. At 7 a. m., on August 7, the animal showed no 
+effects of sorghum poisoning, and no bad effects followed. 
+
+f'tution. — While a number of animals have died from 
+sorghum poisoning in various fields, they constitute only a 
+small percentage of the animals that have been pastured on 
+sorghum each season. So far as our records go, they indicate 
+that if animals are poisoned from eating sorghum it occurs 
+when they are first turned in the field and is not likely 
+to follow after they have been on the pasture some days It 
+would therefore seem safe to turn a single animal upon the 
+sorghum for a few hours and if it does not suffer any bad 
+effects it will be safe to turn in the balance of the herd. 
+Care must be taken in this case to observe that the animal 
+turned in actually eats some of the sorghum, as it is very 
+often true that an animal taken out of a herd and turned into 
+a strange field does not eat on account of its strangeness 
+under the new conditions. 
+
+The investigation of this subject is not complete and the 
+work will be prosecuted during the coming season in an </seg>
+
+            <seg id="p054">
+r&gt;4 
+
+Agricultural Experiment Station of Xvbraska 
+
+II to determine accurately the cause of this disease. A 
+number of chemical analyses have'already been made 
+many analyses remain to be completed. In this work, 
+i has been carried on by the Department of Chemistry 
+injunction with the Department of Animal Pathology, 
+Chemical Department has been able to separate cervegetable 
+enzyms from sorghum. A report of such 
+is herewith attached. </seg>
+
+
+            <seg id="p055">
+55 
+
+rDY OF THE ENZYMS OF GREEN SORGHUM. 
+(PRELIMINARY REPORT.) 
+
+BY HENRY B. SLADE. 
+
+The continued loss to farmers of valuaole stock, especially 
+in years of drouth, from green sorghum has Jed to various 
+theories as to the cause, but as yet no reliable explanation 
+has been advanced. The fatal effects have been quite generally 
+ascribed to an unknown poison of a virulent character. 
+The characteristic symptoms of the disease are those 
+of a toxic substance acting upon the central nervous system. 
+Somewhat similar effects have been observed by Hildebrand 
+1 from the subcutaneous injection of such ferments as 
+emulsin and myrosin in rabbits as also from the products of 
+their activity. ' In Northern Africa cattle have been affected 
+in a similar manner by certain species of the Egyptian 
+vetch (Lotus arol/ifits). Dr. Wyndham R. Dunston* has 
+found that the poisonous properties of the [plant are [due to 
+the prussic acid formed by the action of a new enzym, lotase, 
+upon lotusin, aglucoside present in considerable auantities 
+up to the time of the ripening of the seed. The glucoside 
+then disappears leaving the plant perfectly harmless. 
+Tsuno, a Japanese investigator, has found in ordinary hemp, 
+Oorchorus capsularis, a poisonous glucoside, corchorin, which 
+affected horses and cows in Japan with much the same 
+
+•H. Hildebrandt, Zur Kentnisa der pbysiologischeu Wirkung der bydrolytischen 
+Fermente, VirchoWs Archiv, Bd. 121, Hft. 1, S. 1, (1890). 
+
+K Hildebrandt, Wciteres a. hydrolytische Fermente, ibid., Bd. 1*1, 
+S. 5, (1898). 
+
+•Wyndham R. Dunstan, The Nature and Origin of the Poison of Lotus 
+arabieus. Royal Society Proe, Vol. 67, p. 224, (1900); Vol. 68, p. 874, </seg>
+
+            <seg id="p056">
+56 
+
+
+symptoms as in the case of sorghum or cornstalks." Blyth 5 
+states that the death of many cattle in England in the fall of 
+the year is due to colchicine, the alkaloid of Colchicum autiiiiiHule, 
+or common meadow saffron. Investigations of this 
+problem in the Western States have shown that in many 
+canon poisonous weeds are the source of the trouble." 
+Whether ordinary sorghum can elaborate such a poison 
+through an abnormal process of plant growth is the main 
+problem in the research which has been undertaken on the 
+fatal effects of green sorghum. 
+
+B considering this question, three closely related lines of 
+' have been planned : 
+
+(1) What enzyms are present in green sorghum ; 
+
+¦ What poisonous products may be formed thereby 
+the constituents of the plant ; 
+
+BWhat poisonous substances, if any, may be present in 
+of abnormal growth. 
+
+In case a poison is present through a pathological metabolism 
+of the cane the unformed ferments present may play 
+an important part in its production. A study of the 
+enzyms of green sorghum hence becomes necessary. The 
+role of these substances in cereal plants makes it probable 
+that at least several enzyms are present. The only research 
+bearing upon the enzyms of common sorghum I have thus 
+far found is the study of glucase made by Beyerinck in 
+1895.' Beyerinck found glucase in sorghum and in other 
+grasses as well as in corn which was the main cereal investigated. 
+The author followed the procedure of Geduld* in the 
+preparation of the enzym. He outlines the method as fol- 
+
+Three and one-half kilos of the horny endosperm from 
+
+•K Tsudo, Ueber das giftige Prineip in den Samen von Corchorus 
+capsularis. Monatsh. f. praktiscbe Tbierheilkunde. Bd. 6, S. 456. (1890). 
+
+•A. W. Blyth, Poisons; Effects and Detection, 1884. p. 891. 
+
+•The Poison Parsnip in Western Washington, Wash. Exp. Sta., Ball 
+46. (1M1). 
+
+KW. Beyerinck, Ueber Nachweis und Verbreitung der Glukase, das 
+der Maltose, Centralb. f. Bakteriologie und Parasitenkunde, 
+Abth., Bd. 1, S. 829. (1896). 
+
+•Ibid., b. 888 </seg>
+
+            <seg id="p057">
+Fifteenth Annual Report 
+
+57 
+
+six kilos of corn were ground fine and extracted 
+at 15° C with five liters of distilled water with the 
+addition of 500 cc of 96 per cent, alcohol and two 
+grams of tartaric acid. At the end of thirty hours 
+the liquid was filtered and precipitated by mixture 
+with a like volume of 96 per cent, alcohol. This process was 
+repeated and the second precipitate thus obtained used for 
+enzym experiments. The first precipitate was treated in ex~ 
+cess with distilled water containing four grams of tartaric 
+acid per liter and some alcohol. The precipitate proved but 
+little soluble even after standing and frequently shaking. 
+The insoluble portion was separated by filtration and the 
+filtrate precipitated with alcohol. The three precipitates 
+were dried and pulverized. Of these the least soluble 
+proved richest in glucase. » 
+
+&gt; 
+
+E cording to the experiments of Beyerinck the glucase 
+obtained is quite insoluble in water so that its presence 
+ater extracts is apt to be overlooked. It changes malinto 
+glucose, and starch into glucose and a dextrin 
+h is then further altered to glucose. It is present in 
+endosperm of the sorghum seeds before germination in 
+quantities. 
+
+Glucase gives a blue coloration with guaiac and hydrogen 
+peroxid according to J. Reynolds Green* who nevertheless 
+disputes the value of this reaction as a reliable test for enzyms 
+10 According to the same authority glucase acts upon 
+glucosides 11 splitting up amygdalin with the production of 
+another glucoside and grape sugar. It differs from the 
+action of emulsin in producing no prussic acid. 
+
+Rthe present instance a number of preliminary experis 
+as yet unfinished have been planned. The sample of 
+mm used in the first series of experiments was gathered 
+from a patch of second-growth cane on the University 
+farm. The stalks were from one to two feet high and were 
+growing vigorously as the result of the rain of the two days 
+
+•J. Reynolds Green, The Soluble Ferments and Fermentation, p. 196, 
+
+¦"Ibid., p. 396. 
+"Ibid., p. 180. </seg>
+
+            <seg id="p058">
+58 
+
+
+previous. The cane appeared to be perfectly normal but 
+was refused by a young steer which had been put on short 
+rations for two days and then turned into the patch. The 
+leaves and stalks of the sample were separated, reduced to a 
+pulp, macerated for 18 hours with water and a second lot 
+with a 10 per cent, solution of sodium chloride, 500 cc of the 
+solvent being used to 100 grams of the pulp. A little chloroform 
+was added in each case to prevent fermentation. The 
+extracts were then filtered and their diastatic activity tested 
+with a dilute starch paste made by boiling one gram of 
+powdered starch in a little water and making up to 500 cc. 
+One cc of the starch paste thus contained 2 mg. of starch. 
+15 cc of each extract were heated in a water bath at 45° -55° 
+C for one-half hour with 5 cc of the starch paste and one 
+cc tested from time to time with 2 cc of a .2 per cent, solution 
+of iodine in potassium iodide. As a control, 2 cc of the 
+iodine solution were mixed with an amount of starch equal 
+to that in the 1 cc tested, and the relative action upon the 
+starch determined by the difference in the color between the 
+test and the control. A rough comparison of the strength 
+of the various solutions tested was thus attained without resorting 
+to the more lengthy method with Fehling's solution 
+which would have involved a correction in each case for the 
+reducing power of the original extract. 
+
+Under these conditions extracts were obtained which in 
+each case showed more or less action upon starch. The water 
+extract of the leaves gave only a slight blue color with 
+iodine while the water extract of the stalks gave no reaction. 
+In the saline solutions the reverse was the case. The saline 
+extract of the leaves gave no reaction while the saline extract 
+of the stalks still gave a blue color. A control in each 
+case with amounts of starch and iodine equal to those of the 
+original tests gave the usual dark blue reaction. In a second 
+test after an hour's digestion with only half the amount 
+of extracts, similar results were obatined. 
+
+Osborne and Campbell" state that sodium chloride may 
+
+"Green, p. 67. </seg>
+
+
+            <seg id="p059">
+59 
+
+increase the activity of a diastase sevenfold while Name" 
+finds that the favorable action of salt in the case of malt 
+diastase is maintained until the proportion reaches 4 per 
+cent. As the above tests were made within the percentage 
+limit of increased activity the saline extract in each should 
+have been the more "active. Moreover, the proteids extracted 
+by the saline solutions should have increased their diastatic 
+effect." However, in the case of the stalks the water 
+yielded a more active extract than the 10 per cent, sodium 
+chloride solution. This'Jack of uniformity in the strength 
+of the various extracts as determined by their action upon 
+starch suggests a qualitative difference in the enzyms extracted 
+by the two solvents in both the stalks and the 
+leaves, a point which remains to be investigated. 
+
+With guaiac and hydrogen peroxid each extract yielded a 
+blue coloration. These reactions could not be obtained after 
+a few hours in the case of the water extract of the leaves 
+while the same extract preserved out of contact with the air 
+continued to give the characteristic color of the reaction 
+after several weeks. This could be accounted for on the 
+supposition that the color in the first instance was produced 
+by an enzym such as an oxidase which loses this original 
+property through its gradual oxidation, while in the other 
+cmob the reaction may have been due to the presence of plucase 
+or some other enzym. The observed darkening of the 
+pulp and juice of the sorghum together with the peculiar 
+odor evolved after a time is additional evidence that an 
+oxidase is present as also that the enzyms of the water extract 
+of the leaves is not the same as in the other extracts. 
+Wi'h guaiac alone no color was developed with any of the 
+extracts. 
+
+Catalase 1 -' did not appear to be present in any of the extracts. 
+Loew describes an insoluble form, a-catalase, 1 * 
+
+1 "Green, p. 67, 
+"Ibid., p. 66. 
+
+¦D. Loew, Catalase. A New Enzym of General Occurrence, Departof 
+Agriculture, Washington (1901). 
+
+¦•Ibid , p. 18. </seg>
+
+            <seg id="p060">
+60 
+
+
+•which could easily be overlooked on account of this property. 
+A further test was therefore made with the sorghum 
+pulp itself. 100 grams of pulp treated with 300 cc of water 
+and 50 cc of hydrogen peroxid yielded 17 cc of oxygen in 
+fifteen minutes. The expressed juice of the cane also showed 
+a vigorous catalytic action upon hydrogen peroxid. The 
+presence of the insoluble form of catalase was thus clearly 
+indicated. Since « -catalase may be extracted most readily 
+by dilute alkaline solvents 17 an extract was prepared by digesting 
+for three days 5 grams of the dried and powdered 
+sorghum from a second sample with 500 cc of a .2 per cent, 
+solution of sodium carbonate and the usual small addition of 
+chloroform. 40 cc of this extract with 10 cc of hydrogen 
+peroxid yielded 7 cc of oxygen in 15 minutes. In the same 
+length of time an extract of tobacco under like conditions 
+yielded 18 cc of oxygen. The alkaline extract thus obtained 
+showed a diastatic activity in a greater degree than the water 
+extract, despite the known hindering action of sodium 
+carbonate on diastase. '" In half an hour the same amount 
+of starch was wholly converted into erythrodextrin. I-ioew 
+found no diastatic activity in his preparation of catalase." 
+The diastatic ferment in the sorghum extract hence appears 
+to be present as an admixture. Its activity in an alkaline 
+medium, however, seems to indicate that its nature is different 
+from that of the enzym extracted by water. This conclusion 
+has not been verified. In agreement with the results 
+of Loew &gt;0 this preparation of catalase gave no blue 
+coloration with guaiac and hydrogen peroxid. 
+
+K* enzym answering to the glucase of Beyerinck was 
+ired from the sorghum by expressing the juice from the 
+sand stalks, decanting the clear liquid from the depossediment, 
+filtering through cheese cloth and treating 
+an equal volume of 95 per cent, alcohol. The flocculent 
+pitate.(A) separating after a short time was caught 
+
+E.oew, p. 14. 
+ireen, p. 68. 
+ioew, p. 10. 
+bid., p. 10. </seg>
+
+            <seg id="p061">
+nth Annual Report 
+
+61 
+
+upon a filter and thoroughly washed with 95 per cent, alcohol. 
+The alcoholic washings were made up to a volume 
+equal to the filtrate and the two mixed. A still larger precipitate 
+(B), separating more slowly than the first, was thereby 
+obtained. By repeating the process a third precipitate (C) 
+was obtained. These were dried, powdered and preserved 
+for further experiments. With guaiac and hydrogen perioxid 
+A gave no reaction and C gave only a faint blue color. 
+B, while still moist, gave a fine blue color like that of the 
+original juice and appeared to contain most of the substance 
+affording this reaction. The dried preparation failed to 
+yield this reaction although it still possessed a diastatic 
+
+With starch paste prepared as described above, a solution 
+of B containing 2 mg. in each cc showed a distinct reaction. 
+10 cc of this solution completely altered 5 cc of starch paste 
+to erythrodextrin in one hour. The activity of this preparation 
+appeared to be influenced to some degree by the 
+strength of the solution. Thus in a given time 10 mg. of 
+starch were easily changed to a soluble form by 10, 5 or 4 
+mg. of the enzym in 20 cc of water while 1 mg. had little or 
+no effect on the same amount of starch. Sodium carbonate 
+checked the activity of the enzym, .05 per cent, being more 
+than sufficient for this purpose. Hydrochloric acid in quantities 
+from .25 to .0025 per cent, appeared to have no effect 
+upon the activity of the enzym. The evidence as to the 
+action of acids upon diastase is conflicting" and in this case 
+needs further verification. 
+
+The same preparation acted upon a solution of maltose so 
+that a given amount of this substance gave almost twice the 
+amount of reduction with Fehling's solution after digestion 
+for an hour at 38° C. Amygdalin after several hours' digestiou 
+with the enzym remained unchanged. Saponin, santonin, 
+and digitalin were tried with similar results. A solution 
+of egg albumen was likewise unchanged by the 
+
+From the above preliminary experiments it is apparent 
+
+Green, p. 67. </seg>
+
+            <seg id="p062">
+62 
+
+
+that green sorghum contains a number of enzyms. Diastase, 
+glucase, n-catalase, and an oxidase appeared to be 
+present with considerable certainty. Variations observed in 
+the course of these experiments may be due to mixtures of 
+these enzyms but are suggestive and may lead to the isolation 
+of others than the foregoing. In the light of the results 
+obtained a more extensive series of tests are planned. 
+None of the enzyms thus far found in the sorghum appear to 
+be the source of poisonous products but until a more thorough 
+examination is made no definite conclusions can be 
+formed. The work thus far has been of a most general 
+character and is preliminary to the main research which 
+still remains to be undertaken. 
+
+Accepted for publication March 2O,'19O2. </seg>
+
+         </p>
+		    </body>
+	  </text>
+</TEI.2>

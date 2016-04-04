@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00062.00026">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the
+                            Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno>00062.00026</idno>
+            <availability>
+               <p> </p>
+            </availability>
+            <date>2007</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Hardy Alfalfa for Nebraska</title>
+               <date value="1925-08">1925-08</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09-11</date>
+            <respStmt>
+               <name>Paul Fajman</name>
+            </respStmt>
+            <item>Enrichment</item>
+         </change>
+         <change>
+            <date>2006-11-28-05:00</date>
+            <respStmt>
+               <name>OCLC Online Computer Library Center Inc.</name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <seg id="p001">Circular 32 August, 1925 Hardy Alfalfa for Nebraska T. A. KIESSELBACH AND ARTHUR ANDERSON Comparative Test Plats of Varieties and Regional Strains of Alfalfa THE UNIVERSITY OF NEBRASKA COLLEGE OF AGRICULTURE EXPERIMENT STATION LINCOLN E. A. BURNETT, Director </seg>
+            <seg id="p002"/>
+            <seg id="p003">Hardy Alfalfa for Nebraska T. A. KIESSELBACH AND ARTHUR ANDERSON The winterkilling of alfalfa is a source of serious loss on Nebraska farms in years of unusually severe winters. Altho reliable statistics concerning the average loss from this source are not available for Nebraska, its magnitude is readily appreciated when one recalls what a large acreage of alfalfa was winterkilled during the winter of 1916-1917 and again this past winter (1924-1925). Comparative tests of varieties and regional strains of Common alfalfa at the Nebraska Experiment Station have clearly indicated that winter hardiness is an important factor to be considered when purchasing alfalfa seed. Much of the seed sold in the United States has proved inferior in this regard for Nebraska conditions. The use of southern-grown domestic seed or seed imported from countries with a much milder climate than that of Nebraska should be avoided in this state. On the other hand, reliance may be placed on the seed of hardy varieties or hardy regional strains of Common alfalfa grown in Nebraska or in other northern and western states. Altho Nebraska now exceeds all other states in alfalfa acreage, it is surpassed by several in seed production. Dur - ing the 3-year period 1922-1924, the average annual seed production in Nebraska was 7,020,000 pounds, 1 which is equivalent to about 6 pounds for each acre of alfalfa grown within the state. Most of this seed is produced in the central and western counties, where climatic conditions are relatively favorable for seed production. A considerable part of this seed is shipped out of the state and other seed is brought in from various sources to meet our requirements. The 1924 alfalfa seed production in the United States has been estimated at 45,000,000 pounds. Crop statistics * indi - cate an importation of 12,818,000 pounds of alfalfa seed from other countries during the year ending June 30, 1924. Of this amount, 56 per cent was listed as having come from Argentina, 23 per cent from France, 10 per cent from South Africa, 7 per cent from Canada, and 4 per cent from other sources. During the preceding year 8,784,000 pounds were imported, 88 per cent of which came from Argentina. 1 These data were furnished by the Federal and Nebraska State Departments of Agriculture, cooperating. 1 Data from Crops and Markets, published by the United States Department of Agriculture. </seg>
+            <seg id="p004">Nebraska Experiment Station, Circular 32 4 Argentina has an alfalfa acreage about 2'/o times that of the United States. The greater part of the seed exported, according to H. L. Westover of the Bureau of Plant Industry, United States Department of Agriculture, is produced in a rather limited area having a latitude comparable to that of northern Nebraska. The climate is, however, much milder. This seed exporting area of Argentina has an average annual temperature of 55° F. as contrasted with 49° F. for Nebraska. Its minimum temperature is 12° F., while temperatures as low as minus 40° F. have been recorded in Nebraska. Alfalfa grown in Nebraska from seed produced under these con - ditions has proved relatively susceptible to winterkilling. THE NEBRASKA TESTS Two seedings have been made of 8 widely recognized alfalfa varieties and of 18 regional strains of Common alfalfa. The Fig. 1. — Nebraska-grown Common alfalfa at left and Peruvian alfalfa at right, seeded May 16, 1922. Both varieties seemed equally good during 1923 and 1924, but the Peruvian winterkilled almost com - pletely in the winter of 1924 to 1925, while the Nebraska Common was uninjured. Photographed May 25, 1925. </seg>
+            <seg id="p005">Hardy Alfalfa for Nebraska 5 seed for these tests was obtained thru the Office of Forage Crop Investigations of the United States Department of Agriculture and from various state Experiment Stations. The varieties included Common, Grimm, Cossack, Baltic, Canadian Variegated, Turkestan, Sand Lucern, and Peruvian. The regional strains of Common alfalfa were represented by seed from North Dakota, South Dakota, Central Nebraska, Western Nebraska dry-land, Western Nebraska irrigated, Kansas, Oklahoma, Texas, Montana, Wyoming dry-land, Wyoming irrigated, Colorado, New Mexico irrigated, Russia, Provence (France), Italy, Spain, and Argentina. These were sown in the spring of 1922 in twentieth-acre field plats on comparatively uniform land. The seed was drilled at the rate of 20 pounds per acre. Splendid uniform stands were obtained from all sorts. No winterkilling was apparent until the past winter, when Peruvian was almost completely killed, as shown in Figure 1. The stands of Fig. 2.— Argentine seed of Common alfalfa at left and Nebraska Com - mon at right, planted May 16, 1922. The Argentine seed has proved unhardy for Nebraska conditions, winterkilling severely in the winter of 1924-1925. Photographed May 25, 1925. </seg>
+            <seg id="p006">6 Nebraska Experiment Station, Circular 32 Fig. 3. — Left to right: (1) Spanish-grown, (2) French-grown (Pro - vence), and (3) Italian-grown seed of Common alfalfa; seeded May 16, 1922. The Spanish and Italian strains winterkilled severely in the winter of 1924 to 1925. Photographed May 25, 1925. Argentine, Italian, and Spanish were materially reduced, the reduction averaging about 50 per cent, as shown in Figures 2 and 3. Results were similar in duplicate plats. No appre - ciable loss in stand has resulted with any of the other varieties or strains included in this test. There has been no marked difference in productiveness be - tween the American-grown Common alfalfa and the 4 varie - gated varieties — Grimm, Cossack, Baltic, and Canadian Variegated. No striking differences have been found in their growth characteristics or winter hardiness during the three years of this test. On the other hand, Peruvian, Sand Lucern, and Turkestan have been somewhat less productive than Com - mon alfalfa during the two years that the stands were com - parable, and therefore should not be seeded in Nebraska. A second seeding of these varieties and regional strains was made in smaller (nursery) plats in the fall of 1924. Uni - form stands and good fall growth were obtained for all sorts. The nursery results as to winter hardiness exactly duplicated those previously described for the plats seeded in 1922. </seg>
+            <seg id="p007">Hardy Alfalfa for Nebraska 7 Peruvian, Argentine, Spanish, and Italian winterkilled de - cidedly, as shown in Figure 4, whereas the others came thru in splendid condition. These tests have not been of sufficient duration to measure fully the inherent differences in productiveness and hardiness. The past winter was sufficiently severe to prove that the Peruvian, Argentine, Spanish, and Italian were not hardy enough for Nebraska conditions. A more severe winter may eliminate additional varieties or strains, since such variegated sorts as Grimm and Cossack are considered to be more winter hardy in the northern states. Until such data are available for Nebraska conditions, it would not seem justifiable to pay a large premium for seed of the variegated varieties when seed of a hardy strain of Common alfalfa is available. In Fig. 4. — Nursery test of alfalfa varieties and regional strains showing winterkilling in winter of 1924 and 1925. Seeded September 6, 1924. Extreme left to right: (1) North Dakota-grown Common, (2) Argentine, (3) Spanish, (4) Nebraska-grown Common, (5) French (Provence), (6) Italian, (7) Russian, and (8) extreme right, Peru - vian. The winterkilling results in this nursery test were identical with those of the field plats seeded in 1922. Photographed May 25, 1925. view of the fact that certain of the alfalfas in these tests have proved relatively unhardy when moved to more severe conditions, it is believed advisable to restrict seed to that grown for several seed generations under climatic conditions as severe as those prevailing in Nebraska. Since an extensive demand exists for recognized hardy alfalfa, especially for the variegated varieties, sueh as Grimm and Cossack, the pro- </seg>
+            <seg id="p008">8 Nebraska Experiment -Station, Circular 32 duction of such seed might prove especially profitable in the seed-producing areas of this state. These alfalfa investigations are being continued and results will be published in greater detail when more information is available. [8-1S-CI1] </seg>
+         </p>
+      </body>
+   </text>
+</TEI.2>

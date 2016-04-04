@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00037.00017">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the
+                            Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno>00037.00017</idno>
+            <availability>
+               <p> </p>
+            </availability>
+            <date>2007</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>STATE OF NEBRASKA First Biennial Report OF THE Board of Examiners of Defectives To the Governor and the Board of Commissioners of State Institutions For the Biennium ending November 30, 1916</title>
+               <date value="1916">1916</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         
+	        <change>
+	           <date>2007-09-19</date>
+	           <respStmt>
+	              <name>Katherine M. Heupel</name>
+	           </respStmt>
+	           <item>Enrichment</item>
+	        </change>
+         <change>
+            <date>2006-11-28-05:00</date>
+            <respStmt>
+               <name>OCLC Online Computer Library Center Inc.</name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <seg id="p001">STATE OF NEBRASKA First Biennial Report OF TH* Board of Examiners of Defectives To the Governor and the Board of Commissioners of State Institutions For the Biennium ending November 30, 1916 </seg>
+            <seg id="p002">SECOND BIENNIAL REPORT OF MEMBERS OF THE BOARD OF EXAMINERS OF DEFECTIVES B. F. Williams, M. I)., Chairman Superintendent, Nebraska Hospital for the Insane, Lincoln . S. Fast, M. D., Secretary Superintendent, Ingleside Hospital for the Insane, Ingleside Gbobge E. Chablton, M. D Superintendent, Hospital for the Insane of Nebraska, Norfolk G. Griffiths, Superintendent, Nebraska Institution for Feeble-Minded Youth, Beatrice H. Winnett Orr, M. D Superintendent, Orthopedic Hospital, Lincoln </seg>
+            <seg id="p003">THE BOARD OF COMMISSIONERS BOARD OF EXAMINERS OF DEFECTIVES To His Excellency, Honorable John H. Morehead, Governor, and to the Honorable members of the Board of Commis - sioners of State Institutions, Howard Kennedy, Henry Gerdes and Silas A. Holcomb: Gentlemen: We, the members of the Board of Examiners of Defectives, desire to submit our report covering the period of time from the creation of the Board to the 30th day of November, 1916. It has been the policy of the Board of Examiners of De - fects to adopt a conservative policy in dealing with all appli - cants for sterilization. We have ever kept in mind the con - tention of the critics to sterilization, that the so-called genuises are sometimes victims of acute neurosis. In each of our institutions we observe the crimnal, the delinquent and otherwise defective individual, a ward of the state through no fault of his, but by reason of an endowment the product of faulty mating and ancestral defec - tion. This fact has convinced the Board that a certain duty confronts us in each applicant for sterilization ; first, to deter - mine in the ancestral strain the tendency to insanity or feeble-mindedness ; second, to carefully weigh the probable result of procreation and its effect upon the coming genera - tion and to act with the thought of protecting the individual and safeguarding the interests of the state. We recognized the feeble-minded class as the most pro - lific class and potentially the most dangerous from the stand - point of race standards. We have, therefore, unhesitatingly authorized the sterilization of the male feeble-minded wher - ever application was made. With the female feeble-minded we have recognized complications which made the task of disposing of these applicants less simple. In the first place </seg>
+            <seg id="p004">SECOND BIENNIAL REPORT OF ti surgical procedure is much more complicated and after rilization the social problem is a complicated one as such individuals may become prostitutes and carriers of venereal diseases. We have, therefore, advocated custo - dial care rather than sterilization in the case of the feeble - minded female. In the applicants in which the condition was one of frank insanity we have been guided largely by the wishes of the patient and relatives in authorizing sterili - zation. We have refused parole without sterilization in some instances, have refused sterilization or parole in other in - stances and have permitted some cases to be paroled without sterilization, being guided by the family history as well as the specific form of mental alienation from which the appli - cant was suffering. We are pleased to report that universal good results have been obtained in all cases sterilized. In each institution extreme care has been exercised and in no instances have difficulties or complications arisen. We include herewith a table which will reveal in a general way the efforts of the Board. Respectfully submitted, B. F. Williams, Chairman W. S. Fast, Secretary George E. Charlton D. G. Griffiths H. WlNNETT ORR. TABLE CONTAINING PATIENTS COMING UNDER THE OBSER - VATION OF THE BOARD OF EXAMINERS OF DEFECTIVES FOR THE PERIOD ENDING NOVEMBER 30, 1916 Men Women Total Whole number of patients passed upon 40 49 89 Number ordered sterilized 15 20 35 Sterilized according to law _ 9 6 15 Number authorized paroled without sterilization 20 26 46 Number examined action, deferred 5 3 8 No patient examined from the penitentiary, either of the industrial schools or industrial home </seg>
+            <seg id="p005">TABLE OF CONTENTS • Paste Board of Commissioners of State Institutions, Lincoln 5 Board of Examiners of Defectives 503 Girls' Industrial School, Geneva 147 Hospital for the Insane of Nebraska, Norfolk 277 Hospital for Tuberculous, Kearney 311 Ingleside Hospital for the Insane, Ingleside 207 Nebraska Home for Dependent Children, Lincoln 477 Nebraska Hospital for the Insane. Lincoln 237 Nebraska Industrial Home, Milford 391 Nebraska Institution for Feeble-Minded Youth, Beatrice 129 Nebraska School for the Blind, Nebraska City 411 Nebraska School for the Deaf, Omaha 449 Nebraska Soldiers' and Sailors' Home, Burkett 185 Orthopedic Hospital, Lincoln 333 Soldiers' and Sailors' Home, Milford : 197 State Industrial School, Kearney 165 State Penitentiary, Lincoln 353 </seg>
+           
+         </p>
+      </body>
+   </text>
+</TEI.2>

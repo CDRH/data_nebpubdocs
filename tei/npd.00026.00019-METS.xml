@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00026.00019">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the
+                            Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno>00026.00019</idno>
+            <availability>
+               <p> </p>
+            </availability>
+            <date>2007</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>THE UNIVERSITY OF NEBRASKA AGRICULTURAL EXPERIMENT STATION LINCOLN, NEBRASKA, U. S. A.  CONSTRUCTION AND USE OF THE ROAD DRAG</title>
+               <date value="1910">1910</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+	        <change>
+	           <date>2007-09-13</date>
+	           <respStmt>
+	              <name>Katherine M. Heupel</name>
+	           </respStmt>
+	           <item>Enrichment</item>
+	        </change> 
+        <change>
+            <date>2006-11-28-05:00</date>
+            <respStmt>
+               <name>OCLC Online Computer Library Center Inc.</name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <seg id="p001">THE UNIVERSITY OF NEBRASKA Agricultural Experiment Station LINCOLN, NEBRASKA, U. S. A. PRESS BULLETIN No. 33 {Distributed May 19, 1910) CONSTRUCTION AND USE OF THE ROAD DRAG BT L. W. CHASE </seg>
+            <seg id="p002">kin general, Nebraska has a soil which is especially well adapted for 1 earth roads, and with the proper care the earth road will be more sfactory than any other type of road construction for many years. The split-log drag, or, as it is commonly called, the "King" drag, is without doubt the best implement for keeping roads in shape and in many instances is as efficient as any other implement in the construc - tion of earth roads. THE CONSTRUCTION OF THE "KING" DRAG. The King drag can be constructed of either a split log or a plank. bat in this state the plank is much easier to obtain than the log, hence this brief description pertains to the construction from planks. Fig. 1. — Road before dragging. The ruts in this road were so deep that it was impossible for the camera to show the depth of both, so a Tiew of only one rut was taken. Select a good yellow pine, ash, or oak plank two inches thick, twelve inches wide, and fourteen feet long. Cut this in two at an angle so that one edge of each piece is seven feet and six inches long and the other edge is six feet and six inches long. Spike to the back and along the cen - ter of each of these planks a two-inch by six-inch piece, which rein - forces the plank. Bore the holes for the cross stakes about twenty-six Inches apart and four inches from each end with a two and one-half inch auger, using care to keep the auger perpendicular to the plank. The two- </seg>
+            <seg id="p003">which is generally made of stock cutter steel, should be given the proper cutting slope by placing a wedge-shaped strip between it and the plank. One end of the chain is fastened to a cross stake and the other pum thru a hole in the plank and is held in position by means of a pin. USE OF THE DRAG. The use of the drag is more satisfactory if the road has first been crowned with a blade grader, but whenever this is not convenient and the traffic is not too heavy the road may be gradually brought to a crown by means of the drag. Fig. 2. — The same road after having been dragged three years. I be surface of the average country road should be covered in one with the drag. One horse should be driven on the inside of the track and the other on the outside, the drag being set, by means i chain, so that it is running at an angle of about 45 degree* the wheel track and working the earth toward the center of the In the spring when the roads are more likely to be rutty and t is generally better to go over the road twice and in some places times. The drag should be floored with boards which are separated by open spaces of sufficient width so that the dirt which falls over will rattle </seg>
+            <seg id="p004">LTo insure the successful operation of the drag it is necessary for driver to use careful judgment. Sometimes it is essential that the blade be held down so that the drag will cut roots and weeds, while at other times the front edge should not bear too heavily upon the surface as it will dig out a soft place which would be better if left undisturbed. This regulation of the cutting edge can be accomplished by the driver moving back and forth or to the right and left on the drag. Klf the road is to be crowned with the drag it is often well to plow light furrow along the sides and work this loosened dirt to the center. roads with heavy traffic the drag should be used much oftener with more care than on roads with light traffic. The distance from the drag at which the team is hitched affects the cutting. A long hitch permits the blade to cut deeper than a short hitch, likewise a heavy doubletree will cause the cutting edge to settle deeper than a light one. Strange as it may seem, the heavier the traffic over a properly dragged road the better the road becomes. WHEN TO USE THE DRAG. E There are very few periods of the year when the use of the drag not benefit the road, but it does the best work when the soil is and yet not too sticky. This is frequently within a half-day's time after a rain. When the earth is in this state it works the best, and the ef - fects of working it are fully as beneficial as at any other time. The Ne - braska soils when mixed with water and thoroly worked become remark - ably tough and impervious to rain and if compacted in this condition they become extremely hard. This action of the soil in becoming so hard and smooth not only helps to shed the water during a rain but also greatly retards the forma - tion of dust. WHAT MAY BE EXPECTED FROM THE USE OF THE DRAG. So much has been written and said pertaining to the great benefits from the use of the road drag that many people beginning the use of It become discouraged before they are well started. They should not feel thus as it often takes a whole season for the road to become properly paddled and baked to withstand the rains and traffic. After a road has been worked with a drag only a short time it is not well to expect it to stand up to heavy traffic during a continued damp spell without being affected. However, it will take far heavier traffic than most earth roads receive to more than scuff up the surface. During the four years that the writer has observed the road shown in figures 1 and 2, only once has It ever become so soft that teams were not hauling a ton and a half of coal in each load over it. Even in the fall of 1909, teams were deliv - ering 3,500 pounds of coal at a load to the University Farm boiler house before the roads became frozen. It is not well to consider the benefits from a good road as solely con - fined to heavy traffic, for there is no doubt but that the time saved to light vehicles and the greater pleasure derived from their use over good roads far surpasses the economy in heavy hauling. While driving over a well-crowsed, smooth road the team does not have to follow the usual rut, no slacking has to be made for irregulari - ties in the surface, and it matters not whether one or two horses are </seg>
+         </p>
+      </body>
+   </text>
+</TEI.2>

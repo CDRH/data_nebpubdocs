@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00071.00015">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno/>
+            <availability>
+               <p/>
+            </availability>
+            <date>2010</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>RURAL ELECTRIC SERVICE SUPPLIED FROM CENTRAL STATIONS IN NEBRASKA IN 1927</title>
+               <date value="1929-07">1929-07</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02-11</date>
+            <respStmt>
+               <name>Katherine Heupel</name>
+            </respStmt>
+            <item>Enrichment/Validation</item>
+         </change>
+         <change>
+            <date>2009-11-04</date>
+            <respStmt>
+               <name>ByteManagers, Inc. </name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <seg id="p001">Bulletin 236 JuIy&gt; 1929 RURAL ELECTRIC SERVICE SUPPLIED FROM CENTRAL STATIONS IN NEBRASKA IN 1927 E. E. Hrju-kktt and E. B. Lewis Agricultural Engineering Department THE UNIVERSITY OF NEBRASKA COLLEGE OF AGRICULTURE EXPERIMENT STATION LINCOLN W. W. Burr. Director </seg>
+            <seg id="p002">CONTENTS Introduction 3 Sources 3 Charts and graphs 4 Rates and rate contracts '. : 5 Average annual revenue per consumer — municipalities 6 Average annual revenue per consumer — private utilities 7 Average revenue per mile on rural service lines S Average kilowatt-hours per year per consumer 9 Average revenue per kilowatt-hour 10 Average number consumers per mile on pole lines serving farms only (not inter-town) .11 Average number consumers per mile of line, 13,200 volts or less 12 Pertinent data from three farm lines 13 Average kilowatt-hour consumption per month over a two-year period 14 Kilowatt-hour consumption per month over a three-year period..^ 16 Farm line transmission losses 16 Electric equipment that the farmer uses.. : : 17 </seg>
+            <seg id="p003">Rural Electric Service Supplied from Central Stations in Nebraska in 1927 E. E. Bbackett and E. B. Lewis A substantial foundation for progress is often made upon a study of present and past conditions. It is with the pur - pose of establishing, or at least helping to establish, some such a foundation that the present study of one year of rural electric service from central stations throughout Nebraska has been made and is here presented. The. movement for rural electric service is becoming definite, active, and national in character. It is being fostered by such organizations as the U. S. Departments of Agriculture, Commerce, and the In - terior ; the American Farm Bureau Federation ; the American Society of Agricultural Engineers; the National Electric Light Association ; and the Manufacturers of Electrical Equip - ment. The whole subject readily divides into the following parts, each of which- has an important bearing on the spread of the use of electricity in the industry of agriculture: the average annual revenue to central stations, the average num - ber of consumers per mile of line, and the average annual consumption in kilowatt-hours per consumer. Each of these is covered by the charts, which form the major part of this bulletin. If the development of rural electric service is to be a steady rather than a spasmodic movement, it must be placed on a sound economic basis. The 3,000 Nebraska farmers who, according to assessors' reports of January 1, 1928, were re - ceiving service from central stations have not acquired this service by a steadily growing extension of power lines but by the spasmodic action of city councils, private-company officials, or by the farmers themselves. There has been a lack of definiteness everywhere. SOURCES Two sources have been depended on for the material of this bulletin. A questionnaire was used for the gathering of much of the data. In the spring of 1928 a copy of it was sent to every municipality having electric service and to every privately owned central station giving service in Nebraska. Keen interest was shown and nearly complete returns were received from almost all of the sources. The figures sent in represent 1927 operation. The various rates and charges are all of that year. In addition some facts have been gathered from the line of the First Farmers Electric District, near Wahoo, Nebraska. The Agricultural Engineering Department has been watching and helping this line since it was built in 1924. </seg>
+            <seg id="p004">Nebraska Experiment Station, Bulletin 236 charts and graphs The charts and graphs in this bulletin, together with the explanatory notes under each one, present most of the facts that have been collected. The aim of the authors has been simply to present the material. The first 8 charts were made from the data from the questionnaire. Figures 9, 10, and 11 were made from data taken from the line at Wahoo. Figure 12 is of no great importance to those who expect only to finance the building of farm lines. It will help those who are interested in, but not intimately acquainted with, farm con - ditions, because it shows which uses of electricity are chosen first by farmers. If similar charts are made in the future, changes in the desires of farmers regarding the use of elec - tricity will be made apparent. In the supplying of service, many policies have been fol - lowed. An attempt has been made to arrange the charts so as to show the results of these policies. A classification of the municipalities has been made according to their methods of financing and maintaining the rural lines. (See Fig. 1.) Class A towns did all the financing and owned and maintained the lines serving rural consumers. Class B towns financed the building of the farm lines but did no maintaining. Class C towns allowed the farmers to do all the financing and main - taining. Class D towns aided the farmers, both in financing and maintenance. In this bulletin the private companies are given identification numbers. (See Fig. 2.) Most of the private companies financed a certain amount of electric pole line to reach the farmer, the farmer financing any part of the line in excess of a stated amount, and the company owned and maintained all the line after it was put into service. It is impossible to know whether all rural connections are represented here but the number cannot be far wrong. Of the 280 Nebraska municipalities having electric service, 245 sent in reports and of the 16 private companies doing some electrical business in the state, 13 reported. The towns and companies from which no reports came did not represent possibilities for many rural connections. A total of 2,142 rural consumers were being served by 73 towns and 11 private companies. Only about 200 of these consumers were on pole lines connecting towns; the re - mainder, 1,900 or more, were on exclusively rural service lines. There were about 1,500 miles of pole lines connecting towns, on which the voltage was 13,200 or less, and about 600 miles built especially for farm connections. Besides these lengths of line many farmers were allowed connections just outside the city limits. Several more miles of line would be </seg>
+            <seg id="p005">Rural Electric Service From Stations in Nebraska added to the total available to rural service if these short lengths were added to the figures given. Only 7 municipal - ities reported revenue from rural consumers on lines connect - ing towns. The sum of $1,994.98 was received from 48 con - sumers on 82 miles of inter-town lines. From data of the preceding paragraph some deduction can be drawn of some further possibilities for farm connections on lines connecting towns. There were 9 farm lines in the state managed by farmers. These were the Liberty Electric Company and the Riverview Company at Cedar Bluffs, the First Farmers Electric Com - pany at Wahoo, the Dannebrog Community line at Danne - brog, two short farm lines at Alliance, the Platte Valley Farms at Grand Island, the Eden Valley Light and Power Company at Plainview, and a short line near Wayne. In making up the charts to show. points of interest and value it was found that some would show values only in private-company business. This fact is not due to any un - willingness or lack of co-operation in giving figures but to the fact that the companies had separated the rural business on their books and most of the towns had not done so. This is the reason the charts were made from data from 11 com - panies, 34 towns, and 3 farm lines, instead of all of them. RATES AND RATE CONTRACTS Two of the most important influences in the advance of rural electrification are rates and rate contracts. Rates and rate contracts have taken up the time of many sessions of officials in charge of central stations. Many have tried to move city-proved rates and schedules out to the country. Troubles developed. Returns were too low. Losses similar to that shown in Figure 11 were encountered. Rates were boosted. Then consumption wavered and sometimes became stunted and prevented the central station as well as the rural consumer from benefiting. New rates and contracts were being tried out by those most interested in rural electrification. In the questionnaires sent out to all the municipalities and companies a request was made for the rate contracts and schedules. In many cases there were no contracts but rather an agreement that the farmer should purchase current at city rates plus 1 to 3 cents per kilowatt-hour. This was true in one or two instances where current was. metered at the plant and the rural consumer was standing the transmission losses. Charges as high as 18. cents per kilowatt-hour for the first block and as low as 7 cents were noted. Where contracts were entered into, the rate schedules were not only built upon very diverse lines but also the charges for various amounts of current varied considerably. Minimum and fixed charges </seg>
+            <seg id="p006"/>
+            <seg id="p007">7 Rural Electric Service From Stations in Nebraska ' AVERAGE ANNUAL REVENUE PER CONSUMER -1927 CQMtW$Y__ * ■•■■■■■■■l *i*.&amp;.7S~i&lt;a coWsuMc-iji 5 ■■■■ "fe^.so- A coaJ^vjmeqs "^ ■■■■ *&amp;1.*5~*5 COWSUMEtiS '60.e;~57 co/^SjUMcrjc, 6 ■■■■ 'sS.TI-cjTcOAJiUMririe, 4 7 ■■■■ 58.53-111 consumer?, 10 MB so.ra~»&gt;iA ccWsumcijs I • 11 tBS «6.t7~30 coNsuMcrjs Av. Atil f COWSUMEDsBBHi \9.SX~UU CtviSuMtTJS, Fig. 2— These values were secured from Nebraska utility companies' lines. Each company is represented by a number. torapames </seg>
+            <seg id="p008"/>
+            <seg id="p009"/>
+            <seg id="p010"/>
+            <seg id="p011"/>
+            <seg id="p012">Nebraska Experiment Station, Bulletin 236 AVERAGE NUMBER OF CONSUMERS PER MILE OF LINE I2£OO VOLTS OR LES5H927 CtVMIWiY I ■ .H CO^SUMtQ PCQ MI.-O5 MI.1O ClVjSUMCB-15.3 Mt. X. ■■■.17 ccWyjMtt* PCQ MI.-^&gt;.B6 ML 10 COrtSUMEQ- I 1 0.9.73 MUSS S ■■ .29 COfcUMtQ PtO MI.-SA5 Ml. TO CO/iSOMEO - I ■ ' 5 ■ -19 Ca*bUMtH PER Ml.- 5-I&amp; ML TO CO^SUMtP - 7 ■■■■■■■■ Ub5 CO&gt;1*&gt;UMEI» PER MI.-.7A M1.T0 C&gt; ■■■■■■■■I LSI CCWIUMCQS PtIJ MI.-.7&amp;MI.T0 . C0rtSV)»MS»l-$»7M&gt;. I ■ - - - . 9 ■■■■■■.OS COAllUMCtl PE0.MI.~l.0i Ml TO 10 ■■^■H.gb CCWSUMtR WEV Ml.~-l.0A Ml. TO II ■ .IS C&lt;wtaUMCP t&gt;tt} Mt~&amp;.&amp;7 MI.TO C0M5UMtIi~ | X\0 MILES ■■ . I • 12. ■■■ .55 CO/&lt;SUMCO Rtt} Ml.- I.BO ML10 CO/i - | SUMH-A-7 Ml. Fig. 7. — These items are quoted from data from the private companies' reports only. Their reports were the only ones complete enough for the purpose. The charts in this figure were made to try to show whether there were chances of more revenue from the lines in ex - istence without too great an addition of investment costs. </seg>
+            <seg id="p013"/>
+            <seg id="p014"/>
+            <seg id="p015"/>
+            <seg id="p016"/>
+            <seg id="p017"/>
+         </p>
+      </body>
+   </text>
+</TEI.2>

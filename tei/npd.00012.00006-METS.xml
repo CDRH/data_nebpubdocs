@@ -1,0 +1,4731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00012.00006">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title>Nebraska Public Documents Project</title>
+				        <author/>
+			      </titleStmt>
+			      <publicationStmt>
+				        <publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+				        <pubPlace>Lincoln, NE</pubPlace>
+				        <idno>00012.00006</idno>
+				        <availability>
+					          <p/>
+				        </availability>
+				        <date>2007</date>
+			      </publicationStmt>
+			      <sourceDesc>
+			         <bibl>
+			            <title>FOURTEENTH BIENNIAL REPORT OF THE Commissioner OF Public Lands and Buildings TO THE GOVERNOR OF THE STATE OF NEBRASKA DECEMBER 1, 1904.</title>
+			            <date value="1904">1904</date>
+			         </bibl>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change>
+			         <date>2007-07-20</date>
+			         <respStmt>
+			            <name>Laura Weakly</name>
+			         </respStmt>
+			         <item>Validation</item>
+			      </change>
+			      <change>
+			         <date>2007-06-22</date>
+			         <respStmt>
+			            <name>Katherine M. Heupel</name>
+			         </respStmt>
+			         <item>Enrichment</item>
+			      </change>
+			      <change>
+				        <date>2006-11-29-05:00</date>
+				        <respStmt>
+					          <name>OCLC Online Computer Library Center Inc.</name>
+				        </respStmt>
+				        <item>Initial Creation</item>
+			      </change>
+		    </revisionDesc>
+	  </teiHeader>
+	  <text>
+		    <body>
+         <p>
+            <seg id="p001">
+— OF THE— 
+
+Commissioner 
+
+—OF — 
+
+Public Lands and Buildings 
+
+—TO THE— 
+
+Governor of the State of Nebraska 
+
+DECEMBER 1, 1904. 
+
+GEO. D. FOLLMER 
+
+COMMISSIONER OF PUBLIC LANDS AND BUILDINGS </seg>
+
+
+
+            <seg id="p003">
+
+Geo. D. Follmer, Oak Commissioner 
+
+II. If. Eaton, Fremont Deputy 
+
+Brad P. Cook, Lincoln Chief Clerk 
+
+Robert Harvey, St. Paul Draughtsman 
+
+Frank J. Fitle, South Omaha Bookkeeper 
+
+Frank W. Hollingworth, Oak Bookkeeper 
+
+Maggie Kroese, Hickman Lease Contract Clerk 
+
+Annette dalbraith, Hebron Delinquent Clerk 
+
+Cora A. (Jarber, Red Cloud Vssijrnment Clerk 
+
+Mary F. Holland, Lincoln Vssignment Clerk 
+
+John Lyon, Aurora Stenographer </seg>
+
+
+            <seg id="p004">
+Office of^j 
+
+Commissioner of Public Lands and Buildings, 
+
+Lincoln, Neb., December 1, 1904. 
+
+BHis Excellency, John H. Mickey, Governor of Nebraska : 
+Sir — I have the honor to submit herewith the fourteenth 
+
+biennial report of the office of Commissioner of Public Lands 
+and Buildings for the two years ending November 30, 1904, 
+together with the reports of the several state institutions 
+under the general control and management of the Board of 
+Public Lands and Buildings, in compliance with the requirements 
+of the constitution of the state of Nebraska, as stated 
+in sec. 22, art. 5. 
+
+Yours respectfully, 
+
+Geo. D. Fom.mkr. 
+
+Commissioner of Public Lands and Buildings. </seg>
+
+            <seg id="p005">
+BOARD OF PUBLIC LANDS AND BUILDINGS. 
+
+MEETS FIRST MONDAY IN EACH MONTH. 
+
+Geo. D. Follmer, Commissioner of Public Lands and 
+Buildings President 
+
+(ho. W. Ifanh, Secretary of State Secretary 
+
+Peter Mortensen State Treasurer 
+
+Frank N. Prout Attorney &lt; leneral 
+
+BOARD OF EDUCATIONAL LANDS AND FUNDS. 
+
+MEETS SECOND TUESDAY OF EACH MONTH 
+
+John H. Mickey, Governor Chairman 
+
+Geo. D. Follmer, Commissioner Secretary 
+
+Peter Mortensen State Treasurer 
+
+Geo. W. Marsh Secretary of State 
+
+Frank N. Prout Attorney General 
+
+BOARD OF PURCHASE AND SUPPLIES. 
+
+MEETS FIRST WORKING DAY IN JANUARY, APRIL, JULY AND 
+
+OCTOBER. 
+
+John H. Mickey, Governor Chairman 
+
+Geo. D. Follmer, Commissioner Secretary 
+
+Geo. W. Marsh Secretary of State 
+
+Peter Mortensen State Treasurer </seg>
+
+
+            <seg id="p006">
+BOARD OP PHARMACY. 
+
+r SECOND WEDNESDAY IN FEBRUARY, MAY, AUGUST AND 
+NOVEMBKB. 
+
+&lt; 'liarles Weston, Auditor Chairman 
+
+W. Marsh, Secretary of State Secretary 
+
+Frank N. Prout Attorney General 
+
+Peter Mortensen State Treasurer 
+
+Geo. D. Follmer. 
+
+Commissioner of Public Lands and Buildings 
+
+BOARD OF CHARITIES AND CORRECTIONS. 
+
+MEETS THIRD TUESDAY IN JANUARY, APRIL, JULY AND OCTOBER 
+
+OF EACH YEAR. 
+
+John H. Mickey, Governor Chairman 
+
+Wm. K. Fowler, State Superintendent Secretary 
+
+Geo. D. Follmer Commissioner 
+
+BOARD OF IRRIGATION. 
+
+MEETS FIRST WEDNESDAY IN APRIL AND SEPTEMBER 
+
+John H. Mickey, Governor Chairman 
+
+Geo. D. Follmer. 
+
+Commissioner of Public Lands and BuiMinjjs 
+
+Frank N. Prout Attorney General </seg>
+
+            <seg id="p007">
+i 
+
+OFFICIAL ROSTER 1905-1907. 
+
+John H. Mickey Governor 
+
+Edmund G. McGilton Lieutenant Governor 
+
+Algernon Galusha Secretary of State 
+
+Peter Mortensen State Treasurer 
+
+Edward M. Searle, Jr Auditor of Public Accounts 
+
+Xorris Brown Attorney General 
+
+Henry M. Eaton 
+
+Commissioner of Public Lands and Buildings 
+
+Jasper L. McBrien Superintendent of Public Instruction </seg>
+
+            <seg id="p008">
+NAME AND LOCATION OF STATE INSTITUTIONS 
+AND SUPERINTENDENTS IN CHARGE. 
+
+Nebraska Hospital fob the Insane — Lincoln. 
+Dr. J. L. Greene. 
+
+Asylum fob the Incubable Insane — Hastings. 
+
+Insane Asylum at Norfolk. (Reconstructed.) 
+
+Not Appointed. 
+
+rRASKA Soldiers' and Sailors' Home — Grand Island. 
+W. S. Askwith. 
+
+SOLDIEBS' AND SAILORS' HOME — MlLFOBD. 
+
+Colonel Charles Penn. 
+
+Home for the Friendless — Lincoln. 
+Sarah B. Sohus. 
+
+State Industrial School — Kearney. 
+B. D. Hayward. 
+
+Gmtf Industrial School — Geneva. 
+Horace M. Clark. 
+
+Nebraska Industrial Home — Milford. 
+Margaret Kealy. 
+
+State Penitentiary — Lincoln.- 
+A. D. Beemer, Warden. 
+
+Nebraska Institution for Feeble-Minded Youth — 
+
+Beatrice. 
+Dr. A. Johnson. 
+
+Institute for the Deaf and Dumb — Omaha. 
+R. E. Stewart. 
+
+Institute for the Blind — Nebraska City. 
+J. F. Mon 
+
+Dr. W. B. Kern. </seg>
+
+            <seg id="p009">
+ESTIMATED EXPENDITURES FOR THE NEXT BIEN 
+NIUM, BEGINNING APRIL 1, 11)05, AND 
+
+ENDING MARCH 31, 1907. 
+
+commissioner's office. 
+
+Salary of Commissioner f 4,000 &lt;•(&gt; 
+
+Salary of deputy 3,600 00 
+
+Salary of chief clerk 2,600 &lt;x» 
+
+Salary of draughtsman 2,600 00 
+
+Salary of two bookkeepers 4,800 00 
+
+Salary of lease contract clerk 2,000 00 
+
+Salary of delinquent clerk 2,000 00 
+
+Salary of stenographer 1,680 00 
+
+Salary of two assignment clerks 4,000 00 
+
+Furniture and repairs SM 00 
+
+Telephone and telegraph 2.~&gt;() 00 
+
+Postage 1,000 00 
+
+Stationery and other expenses 60" ' 
+
+Total f29,380 00 
+
+BOARD OP PUBLIC LANDS AND BUILDINGS. 
+
+Fuel, light, and engine house expenses f 6,000 00 
+
+trovements, repairs, and care of capitol buildings 
+and grounds 7,000 00 
+
+Employees' wages 15.000 00 
+
+Incidentals 2,000 00 
+
+Total 130,000 00 
+
+BOARD OF EDUCATIONAL LANDS AND FUNDS. 
+
+tinses for serving school land notices, school 
+land supplies to county treasurers, etc $5,000 00 
+
+BOARD OF PURCH \SK AND SUPPLIES. 
+
+Expenses for publishing notices, printing, p 
+etc 1400 00 </seg>
+
+            <seg id="p010">
+10 
+
+
+APPROPRIATIONS. 
+
+The estimates of appropriations for the Board of Educational 
+Lands and Funds, the Board of Purchase and Supplies, 
+Board of Public Lands and Buildings, and Land Commissioner's 
+office, as stated, are conservative, and, in the light 
+of four years' experience, I believe that the various amounts 
+will be necessary to meet the expenses of the current l»i-ennium. 
+These amounts were appropriated by the two previous 
+legislatures, and there has not been in any case a deficiency 
+created, but, instead, a small amount has lapsed to the 
+state as an unexpended balance. While I do not believe it 
+a wise plan to make a large or unnecessary appropriation, so 
+as to perhaps create a demand or a desire to increased expenditures, 
+I do believe that a sufficient amount should be 
+appropriated to pay the usual running expenses and to meet 
+any unlooked for expense that may arise. In the event the 
+appropriation is more than necessary to meet expenses, the 
+same will revert to the state treasury, as heretofore. 
+
+Iy law it is made the duty of the Board of Educational 
+ds and Funds to furnish to the county treasurers of the 
+ous counties receipt books, ledgers, blanks, and all other 
+plies necessary for them to properly perform their duties 
+tive to the collection of interest and rental upon the 
+K)l lands of the state and enable them to keep the accounts 
+lame uniformly, as well as to meet the expenses of the 
+imissioner's office incident to forfeiture of contracts and 
+ling of auctions upon lands not leased, and to pay for reraising 
+lands as lease contracts expire. I would, there¦, 
+ask that the full amount of |5,000 be allowed. 
+
+It will be necessary that an appropriation of |30,000 be 
+de for the use of the Board of Public Lands and Buildings 
+meet the expenses for heating and lighting the capitol 
+lding, for care, repair and necessary improvements to the 
+?itol building and grounds. 
+
+Etie Board, during the past two years, has practiced the 
+•test economv, but at this time find that the appropriation 
+e bv the last legislature is nearlv exhausted. </seg>
+
+            <seg id="p011">
+APPROPRIATED BY THE LEGISLATURE 1901 
+
+11 
+
+STATEMENT OF EXPENDITURES. 
+
+During my four years" service as Commissioner of Public 
+
+Lands and Hnildinjjs I have at no time used any of the money 
+
+of the state where same was not absolutely necessary, and 
+
+have been able to Met expenses incurred without a single 
+
+deficiency in any department, and at the same time to return 
+
+as lapsed a small balance as unused from the appropriation 
+
+allowed by the legislature. 
+
+I submit a rejmrt of amounts appropriated and egpcadwl 
+
+for each of the biennial periods, also the amount lapsed or 
+
+returned to the state as unused balance. 
+
+APPROPRIATION BIENNIUM 1901-1902. 
+
+FOB USE OF LAND COMMISSIONER'S OFFICE 
+
+Appropriated for office expenses $2,300 00 
+
+Total expenditure two years 1&gt;" V 
+
+Amount unexpended and lapsed to state $ f&gt;21 7»i 
+
+USE OF BOARD OF EDUCATIONAL LANDS AND FUNDS. 
+
+Amount appropriated $5,000 00 
+
+Total amount expended two years 3,220 4."» 
+
+Amount unused and lapsed from appropriation 
+$1,779 55 
+
+BOARD OF PURCHASE AND SUPPLIES. 
+
+Appropriation made $ 400 00 
+
+Total amount used entire biennium 237 4 1 
+
+Amount lapsed to state $ 16- 
+
+Total amount unexpended and lapsed to state. $2,4&lt;i: </seg>
+
+            <seg id="p012">
+12 
+
+LAND COMMISSIONER'S REPORT. 
+
+BIENNIUM 1903-1904. 
+
+Appropriated for office expenses $ 600 00 
+
+Amount expended 268 14 
+
+Amount on hand December 1, 1904 f 331 86 
+
+Pot postage and postal expenses f 1,000 00 
+
+Amounted expended 600 on 
+
+Balance on hand December 1, 1904 f 400 00 
+
+For telephone and telegraph $ 250 00 
+
+Amount used 177 75 
+
+Unexpended balance December 1, 1904 $ 72 25 
+
+Furniture and repairs allowed $ 250 00 
+
+Used _ 31 14 
+
+Balance on hand Deceml&gt;er 1, 1904 f 21 v 
+
+Total appropriation Commissioner's office $ 2,100 00 
+
+Total amount expended 1,022 97 
+
+Total unexpended balance f 1,077 03 
+
+BOABD OF PURCHASE AND SUPPLIES. 
+
+Amount appropriated I 300- 00 
+
+Expended 69 70 
+
+Balance on hand December 1, 1904 f 230 30 
+
+BOABD OF EDUCATIONAL LANDS AND FUNDS. 
+
+Total amount appropriated |4,000 00 
+
+Amount used $ 955 51 
+
+Balance on hand December 1, 1904 $3,044 49 </seg>
+
+            <seg id="p013">
+APPROPRIATED BY THE LEGISLATURE 1903. 
+
+13 
+
+Appropriated for reappraisemeiit school lands. . .|1l\im mi M 
+Expended reappraising forty-nine counties {&gt;:SM .\ 
+
+6,234 -2\ 
+
+Unexpended balance December 1, 1904 f 5,7Uo T% 
+
+Total unexpended balance, all funds. December 1, 
+1904 fKi.o. 
+
+Total unexpended balance four years |12.."»27 :&gt;;• 
+
+The above statement includes all debts contracted by this 
+
+department during the four years, a'nd same will coincide 
+with books in the Auditor's office when all warrants ar 
+
+sued against the vouchers on tile there 
+
+The last legislature passed a fee bill, an abstract of which 
+
+is here given : 
+
+For recording lease or contract of sale of school lands. M 
+
+
+For copy of any instrument, paper, or record in this office. 
+
+Knts for each 100 words, 
+r certificate and seal, 25 cents. 
+
+For filing and recording assignment of lease or contract of 
+
+sale of 500 words or less, 60 cents, and 10 cents for each 100 
+
+words in excess of 500. 
+
+For notice of forfeiture of lease or sale contract, 50 c 
+For reinstatement of lease or sale contract, 50 cents. 
+For recording order of forfeiture, 50 cents for each trad el 
+
+forty acres or less. 
+
+Where news]&gt;aper publication is had, all costs to be paid 
+
+by party redeeming. 
+
+Copies of maps or plats, 40 cents per hour for time re- 
+
+quired for copying or preparation. 
+
+This bill was passed with the emergency clause and signed 
+
+Be Governor March 28, and immediately became a law. 
+wing the instructions of this law, this office has col- 
+
+lected as follows : 
+
+¦ field notes, certified copies, assignments, delinquent 
+notices, etc.. from March 2ti. 1903, to 
+
+December 1, 1904 $4.4 1 </seg>
+
+            <seg id="p014">
+14 
+
+LAND COMMISSIONER'S REPORT. 
+
+CollecU&gt;d from December 1, 1902,to March 2(»,1903.| 48 85 
+
+¦ived from miscellaneous sources 12S (Ml 
+
+Rental on penitentiary land 1,415 00 
+
+Total collected to December 1, 1904 |6,005 10 
+
+All funds received have been turned over to the State 
+
+Treasurer, and his receipts to correspond are held on lie in 
+
+ill is office. 
+
+I am of the opinion that the income from fees will continue 
+
+to increase from year to year, as: 
+
+1. Hundreds of lease contracts that have run the full 
+
+twenty-five years must be reissued. 
+
+2. A large number of lease contracts will be converted 
+
+into sale contracts. 
+
+3. The work of the department of surveying will Increase 
+
+as the people of the state, realize its importance. 
+
+4. As the state grows older the importance of having cop- 
+
+ies of abstracts of the records of school land, in order to ob- 
+
+tain good title, will become evident. 
+
+It is a matter of satisfaction to this department to know 
+
+that the fees collected will render an income equal to the ex 
+M of the Land Commissioner's office, the Board of Educa 
+tional Lands and Funds, and at the same time pay the salaries 
+of the two assignment clerks, whose work produces the 
+
+iter amount to the total fees collected. 
+
+I would recommend no change whatever in the law unless 
+
+it would be to allow county treasurers a small fee for their 
+extra trouble in collecting and remitting same to this office. 
+
+PENITENTIARY LAND. 
+
+The state still holds title to the southeast quarter (S.E. J) 
+of the southwest quarter (S.W. +,) and the southeast quarter 
+i SB. 4,) of section twenty-six (20), township eight (8), 
+range five (5), east; the northwest quarter (N.W. 4J of section 
+thirty (30), township nine (9), range, five (5) ; the </seg>
+
+            <seg id="p015">
+15 
+
+
+I! (E. i) of the southeast quarter (S.E. ) | section thirty• 
+(34), township nine (9), range four (4), and the northt 
+quarter (N.W. J) of section twenty-eight (28), township 
+en (11), range four (4), situated in Seward and Lancascounties 
+and containing OTG.Tl acres in all, this l&gt;eing a 
+t of the original grant of fifty sections of land by the 
+eral government to the state for the purpose of erecting 
+¦nitentiary. Although there is no law for so doing, I have 
+ed this land from year to year and have collected and 
+led into the state treasury f 1,415 as rental for the Men 
+m just closing, and have on hand two promissory notes 
+1100 each, payable to the state of Nebraska on or before 
+first day of December, 1905. 
+
+As the state penitentiary has need of lands for farm purposes, 
+I would recommend that the ( 1 onunissioner of Public 
+Lands and Buildings be authorized to sell this land and purchase 
+from the proceeds lands close to the penitentiary, so 
+that same may be used for farming purposes, or to lease same 
+for ¦ term of years to the highest bidder, in order that better 
+improvements may be placed thereon, and to encourage the 
+lessee to take better care of the land. 
+
+There is now in the penitentiary land fund the sum of 
+91,415, which I would respectfully recommend that the coming 
+legislature, by appropriate legislation. Afreet the State 
+Treasurer to credit money received to either the temporary 
+school fund or the state general fund. 
+
+KEAPPRAISEMENT SCHOOL LANDS HELD UNDER 
+
+LEASE CONTRA* T. 
+
+Pursuant to the direction of the legislature, which appropriated 
+fl2,000 for the reappraisement of school lands, and 
+under direct instruction from the Board of Educational 
+Lands and Funds, by resolution adopted June 9, 1903, instructing 
+the Commissioner of Public Lands and Buildings, 
+to take direct charge and to use his best judgment relative 
+to the method and manner of reappraising said lands, I have </seg>
+
+            <seg id="p016">
+L6 LAND COMMISSION 
+
+lEB'S REPORT. 
+
+•aused to be reappraised the la 
+
+ads of forty-eight counties, 
+
+ftith the following results: 
+
+TABLE OF REAPI 
+
+•RAISEMENT 
+
+COUNTY 
+
+No. Acres 
+
+Old Value 
+
+New Value 
+
+Increased 
+Value 
+
+Increased 
+
+Cumins? •¦•••¦¦ 
+
+2,240 00 
+9,678 45 
+12,34:5 63 
+11,205 30 
+460 00 
+765 20 
+200 00 
+6,885 05 
+620 00 
+483 23 
+120 0U 
+76,789 58 
+706 06 
+21,209 55 
+946 95 
+62 00 
+40 00 
+11,829 00 
+16,091 60 
+367 00 
+9,278 00 
+15,432 00 
+3,031 25 
+8,317 77 
+9,458 57 
+3,709 73 
+400 00 
+4,716 86 
+26,471 45 
+3,231 28 
+3,880 00 
+295 00 
+912 10 
+160 00 
+5,554 50 
+5,718 68 
+2,329 10 
+670 00 
+134 50 
+380 00 
+603 64 
+14,942 32 
+2,000 00 
+2,328 23 
+11,884 38 
+1,524 60 
+12,402 39 
+320 00 
+
+* 
+
+7,720 00 
+11,198 47 
+17,674 59 
+30,649 67 
+2,180 03 
+5,370 20 
+1,400 00 
+16,395 18 
+1,160 00 
+1,885 46 
+890 00 
+66,752 10 
+2,729 79 
+15,937 76 
+6,979 50 
+470 00 
+160 00 
+33,068 50 
+30,627 25 
+1,475 00 
+14,855 00 
+2T),504 00 
+15,032 25 
+16.840 32 
+27,303 30 
+10,875 52 
+2,800 00 
+10,240 32 
+56,595 78 
+20,551 29 
+7,071 20 
+1,291 88 
+2,367 36 
+440 00 
+11,228 00 
+24,356 04 
+12,543 70 
+1,985 00 
+694 97 
+2,280 00 
+3,955 48 
+32,370 37 
+6,590 00 
+6,291 42 
+8,711 82 
+11,823 25 
+23,383 60 
+1,120 00 
+
+9 29,200 00 
+64,652 80 
+83,034 18 
+51,793 76 
+7,890 00 
+17,050 20 
+7,220 00 
+43,900 67 
+5,370 00 
+16,184 16 
+4,390 00 
+120,184 38 
+11,553 62 
+79,508 40 
+15,523 77 
+940 00 
+200 00 
+68,044 00 
+62,822 00 
+9,795 00 
+40,788 00 
+33,854 00 
+26,285 75 
+40,497 15 
+70,321 30 
+41,316 99 
+8,400 00 
+26,722 61 
+167,583 81 
+30,111 84 
+13,600 00 
+5,995 00 
+10,121 15 
+4,800 00 
+47,433 13 
+52,803 50 
+19,583 70 
+11,306 40 
+883 97 
+12,000 00 
+17,672 80 
+119,082 64 
+37,760 00 
+39,221 76 
+71,109 11 
+27,376 00 
+100,227 36 
+4,600 00 
+
+S 
+
+21,480 00 
+53,454 33 
+65,359 59 
+21,149 09 
+5,710 00 
+11,680 00 
+5,820 00 
+27,505 49 
+4,210 00 
+14,298 70 
+3,500 00 
+53,432 28 
+8,823 83 
+63,570 «4 
+8,544 27 
+470 CO 
+40 00 
+34,975 50 
+32,194 75 
+8,320 00 
+25,933 00 
+8350 00 
+11,253 50 
+13,656 83 
+43,018 00 
+30,441 47 
+5,600 00 
+16.482 29 
+110,988 03 
+9,560 55 
+6,528 80 
+4,503 12 
+7,753 79 
+4,360 00 
+3fi,2O5 13 
+28,447 46 
+7,040 00 
+9,311 40 
+189 00 
+9,720 00 
+13,717 32 
+86,712 27 
+31,170 00 
+32,930 34 
+62,297 29 
+15,552 75 
+76,843 76 
+3,480 00 
+
+$1,288 80 
+3,207 26 
+3,921 58 
+1,268 95 
+342 60 
+700 80 
+349 20 
+1,650 33 
+252 60 
+857 92 
+210 00 
+3,205 94 
+529 43 
+3,814 24 
+512 66 
+28 20 
+2 40 
+2,098 53 
+1,931 69 
+499 20 
+1,555 98 
+501 00 
+675 21 
+819 41 
+2,581 08 
+1,826 49 
+336 00 
+998 94 
+6,659 28 
+573 63 
+391 73 
+270 19 
+465 23 
+261 60 
+2,172 31 
+1,706 85 
+422 40 
+558 68 
+11 34 
+583 20 
+823 04 
+5,202 74 
+1,870 20 
+1,975 82 
+3,737 84 
+933 17 
+4,610 63 
+208 90 
+
+Lancaster 
+Nuckolls '. '. '. '. '. '. 
+Washington . . . 
+
+323,208 95| 
+
+It 623,735 34l 
+
+l»l,T76,6O0 45l 
+
+If 1,156,584 57 
+
+•0t,8K 1-2 </seg>
+
+
+            <seg id="p017">
+17 
+
+As stated above, forty-eight counties have been reappraised, 
+together with numerous reviews of said appraisement, at a 
+total cost of f 6,234.24, there being a balance of $5,765.76 of 
+the f 12,000 appropriated by the legislature for reappraising 
+purposes. 
+
+There are several counties, such as Saline, Antelope, Holt, 
+Otoe, Hamilton, Merrick, and Red Willow, which should be 
+reappraised as soon as the business of the office will permit. 
+The reason that this has not been done is that it was impossible 
+to do so, owing to the increase of office work and the accumulation 
+of business incident to the reappraisal of the 
+forty-eight counties. In the event that the reapprai«ement 
+can not be done before the unexpended balance of the appropriation 
+lapses, it would be well for the legislature to appropriate 
+f3,000 for a continuation of the reappraisal. 
+
+I am convinced that the raise in valuation has fully justified 
+the recommendation made by this department to the last 
+legislature, and, while the appraisement as made is very 
+nearly uniform and equitable at this time, still, in the majority 
+of counties, the valuation as placed by the appraisers is 
+entirely too low when the true value of the land is taken into 
+consideration. The fact that the state had been negligent in 
+not appraising the lands every five years, as prescribed by 
+the law and as stated in the lease contract itself, caused a 
+false commercial value to be placed upon the lease contract, 
+and many lessees had sold their contracts to other parties for 
+a large bonus, the party buying the contract presuming that 
+the state would continue to be as careless in the future as it 
+had been in the past; hence, the raise in valuation is very 
+gratifying to us, and just to the assignee, from the fact that 
+it still leaves a small commercial value in the contracts, and 
+the loss will not fall so heavily upon any one person. It 
+would be, in my opinion, a wise plan to hay,e this land reappraised 
+every five years, in accordance with the intent and 
+letter of the law and the reappraisement clause of the contract 
+as entered into by the lessee. After the appraisements 
+had been received and accepted bv the Board of Educational 
+
+1 </seg>
+
+            <seg id="p018">
+18 
+
+LAND COMMISSIONER'S REPORT. 
+
+Lands and Funds, this department received many requests 
+
+for review stating that there had been inequality in appraise- 
+
+ment, or that the appraisers had made error that would ma- 
+
+terially change the value as given had they known of the true 
+
+farts or conditions. After careful deliberation by the full 
+
+Board of Educational Lands and Funds, slight changes were 
+
+made in the counties of Franklin, Howard, Jefferson, Bojd, 
+
+JMatte, Pierce, Sherman, and Valley, upon recommendation 
+
+under oath of the appraising board and a review by the land 
+
+department. The changes affect the general total valuation 
+
+but very little. 
+
+INDEMNITY SCHOOL LANDS. 
+
+In the thirteenth biennial report of this department we find 
+
+that the state of Nebraska had not received its full amount 
+
+of land, by reason of loss by Indian allotments, homestead 
+
+entries, and other appropriations of the original sections 16 
+
+and 36, which were granted to the state by the general govern- 
+
+ment for school purposes. After a careful computation by 
+
+a previous administration it was found that the amount due 
+
+the state for above-mentioned causes was. . . . 6,554.51 acres 
+
+Amount confirmed to December 1, 11)02 5,814.75 acres 
+
+Amount still due the state 739.76 acres 
+
+Confirmed during this biennium list No. 3, 
+
+O'Neill district 299.47 acres 
+
+List No. 3, Valentine district 240.00 acres 
+
+Total confirmed during biennium 539.47 acres 
+
+Amount still to be confirmed 200.29 acres 
+
+Total, as per last report 739.76 acres 
+
+The attention of the Interior Department has been called 
+
+to the fact that this small amount is still due the state, and </seg>
+
+            <seg id="p019">
+BOYD COUNTY CONTEST. 
+
+19 
+
+we trust to receive confirmation list of remainder at an early 
+
+INDEMNITY LANDS FORT RANDALL MILITARY 
+
+RESERVATION. 
+
+|)n March 3, 1893, Congress passed a law giving the state 
+right to Klect from the Port Kandall military reservation 
+ds, in lieu of other lands lost in place; provided, the state 
+¦cted same from odd-numbered sections, and within oiie 
+r from the filing of the plats, in consequence of this law ami 
+[er the direction of the state legislature, my predecessor 
+cted from this reservation (5,434.48 acres. Up to this time 
+18.32 acres have been confirmed to the state, and the en 
+•amount continued is under lease contract and bringing 
+ncome into the state treasury for the use of the teinjMirarv 
+x&gt;l fund of the state, with the exception of 1,318.00 m 
+r which there is a contest as to title. The cases involving 
+question are now before the supreme court of the state 
+their decision. 
+
+BOYD COUNTY CONTEST. 
+
+In my previous report the Boyd county contest cases were 
+*n up and discussed in detail; and I again call same to 
+r especial attention. Since then little advancement ha* 
+i made looking toward their settlement, although the 
+ter has been before the Board of Educational 
+ds and Funds several times during the past two \&gt; 
+a difference of opinion as to the manner of conducting 
+cases were had by some members of the Board, and ti 
+lions, subject to change from time to time on short not 
+*e, little has been done by the Board to effect a settlement. 
+
+The position I have taken in these rases lias, in every instance, 
+been approved by the General Land Office of the 
+United States, and the Honorable Secretary of the Interior </seg>
+
+            <seg id="p020">
+20 
+
+LAND COMMISSIONER'S REPORT. 
+
+has in each instance upheld my contention and approved the 
+decisions of the General Land Office. Therefore, so far as 
+the Interior Department of the United States is concerned, 
+it has fully confirmed the title of the state to all school lands 
+embraced within the Fort Randall military reservation, including 
+those in controversy. 
+
+I would say, in defense of the position that I have takrn 
+ai the beginning of the contest, that I have honestly envored 
+to protect the state's interest in these lands, and 
+e resisted every effort made to divert these valuable lands 
+place the title thereto with private parties as far as it lay 
+ny power so to do. This I have done without malice or 
+jntion of injury to the persons who settled thereon. I 
+e always believed, and still believe, that these parties are 
+?n the land without any color of right, and can not be 
+*sified or looked upon in any other way than as tressers. 
+
+
+The injunction cases of the alleged settlers, which has been 
+Umg pending in the district court of Boyd county, have been 
+taken to the supreme court of the state, and are now pending 
+therein. 
+
+I trust that the decison of the supreme court will fully set 
+forth the rights of the state and the rights of the settlers, if 
+they have any, in such a manner as to leave no doubt as to the 
+ownership, in order that the matter may be closed and litigation 
+ended. 
+
+FACTS AND FIGURES. 
+
+I again submit some facts and figures that will carry out 
+statements made in my last report that the tendency of 
+income from interest on sale contracts is to decrease from 
+r to year, and this in proportion to the amount of principaid 
+upon school land contracts in excess of the amount 
+rincipal received and unpaid, secured by issuing new sale 
+ntracts, and that the rent obtained from lease contracts will </seg>
+
+            <seg id="p021">
+21 
+
+
+increase only in proportion to the raise of valuation caused 
+by reappraisement of old contracts. Rental can not increase 
+from additional leasing of vacant lands, as there are but 
+496.28 acres now vacant. 
+
+While the Laud Commissioner does not collect the money 
+directly, the policy that he pursues greatly influences the &lt;•&lt;•! 
+lections as made by the various county treasurers; but neither 
+the Land Commissioner nor the county treasurers cam colled 
+more than is due the state, and, if the Commissioner does his 
+duty as the law directs relative to notit-e and forfeiture, the 
+sum total of any one year's collection can not vary under 
+normal condition other than the gradual reduction of ii 
+
+est, as shown elsewhere. 
+
+FIGURES. 
+
+1897-1898 
+
+BIENNIUM 
+
+Rental collected on leases: 
+
+Interest collected on sales : 
+
+May, 1897 f 153,622 77 
+
+May, 1897 f 44,2' 
+
+December, 1897.. 146,239 20 
+
+December, 1897.. 71,8*7 99 
+
+May, 1898 47,441 M 
+
+May, 1898 208,279 35 
+
+December, 1898.. 104,534 65 
+
+December, 1898.. 4r&gt;.i:tl 24 
+
+Total collected. f 208,723 46 
+
+Total collected. f 612,675 97 
+
+1899-1900. 
+
+BIENNIUM 
+
+May, 1899 f 128,877 10 
+
+May, 1899 f 42,726 45 
+
+I &gt;ecember, 1899.. 69,482 08 
+
+December, 1899.. 54,874 SI 
+
+Total collected. f 220,085 75 
+
+Total collected. f 453,695 50 
+
+t, 1900 10~&gt;,409 06 May, 1900 60,10." 69 
+¦mber. 1900.. 89,027 2G Detertec, l!M»0.. 62,379 47 </seg>
+
+            <seg id="p022">
+22 
+
+LAND COMMISSIONER'S REPORT. 
+
+BIKNNIUM 1901-1902. 
+
+May, 1901 1 106,203 85 
+
+May, 1901 f 55,988 31 
+
+December, 1901.. 72,081 71 
+
+I &gt;«•• -ember, 1901.. 11,356 27 
+
+December, 1902.. 36,001 06 
+
+Total collected. $33(5,568 40 Total collected. $242,42S 56 
+
+BIRNNIUM 1903-1904. 
+
+May, 1903 f 111,650 98 
+
+May, 1903 $ 111,650 98 
+
+May, 1903 $ 86,065 92 
+
+May, 1903 $ 86,066 !»2 
+
+December, 1903.. 42,791 27 
+
+December, 1903.. 56,34s 4&gt; 
+
+December, 1903.. 42,791 27 
+
+December, 1903.. 56,348 4&gt; 
+
+Ma.v. 1904 112,873 63 
+
+May. 1904 112,873 63 
+
+May, 1904 87,077 88 
+
+May, 1904 87,077 88 
+
+December, 1904.. 30,504 75 
+
+December, 1904.. 30,504 75 
+
+December, 1904.. 78,150 83 
+
+Deeeaber, 1904.. 78,150 83 
+
+Total collected. f 297,820 63 
+
+Total collected. $297,820 63 
+
+Total col leeUHl.f30fi,r&gt;43 11 
+
+Total collected. $300,643 11 
+
+TOTAL INTEREST COLLECTED OX SALE CONTRACTS. 
+
+Biennium '97-8 . . |612,675 97 
+Biennium '99-00. 453,695 50 
+
+Biennium '97-8 .. $612,675 97 
+
+Biennium '99-00. f453,695 50 
+
+Biennium '99-00. f453,695 50 
+
+Biennium '99-00. 453,695 50 
+
+Biennium '01-02. 336,568 40 
+
+Biennium '01-02. 336,568 40 
+
+Decrease 1903 to 1904. .$ 38,747 77 
+
+INTEREST ON SALE CONTRACTS DECREASING RAPIDLY. 
+
+FACTS. 
+
+From the above table it will be seen that interest paid on 
+sale contracts is decreasing rapidly, and it will be but a few 
+
+May, 1902 122,281 78 May, 1902 78,331! !^ 
+
+I)(&lt;iinber, 1902.. 46,751 10 
+
+Erease 1808 Decrease 1901 
+? 1900 fl58,980 47 to 1902 $117,127 10 
+Biennium 1901-2 f33fi,568 40 
+Biennium 1903-4 297,820 63 
+
+tections— 1897-98, $612,675.97; 1899-00, $453,695.50; 
+1901-2, $336,568.40; 1903-4, $297,820.63. </seg>
+
+            <seg id="p023">
+23 
+
+PACTS 
+
+K*s until the income from interest upon sale contracts will 
+rely cease. 
+
+The amount of money received as payment of principal for 
+the past two years is $851,052.15. This amount has Ix-cn 
+turned into the state treasury and is now a part of the j&gt;erinanent 
+school fund, and, instead of drawing interest as heretofore 
+at (5 per cent per annum, it now brings to the state 
+hut from 3 to 3J per cent; hence, the interest upon school 
+lands will decrease as collected from this department at a 
+rate equal to 6 per cent upon the amount paid. During the 
+juist two years this department has issued sale contracts uptm 
+21,906.38 acres of land which was formerly held under leas*' 
+contract, the purchase price of same being $307,42&lt;.». 05, while 
+lhis will tend to increase the interest to this extent, it will 
+decrease the rental now coming in upon lease contracts to an 
+amount equal to 6 per cent upon the valuation as named in 
+the lease contracts. 
+
+From the face of the sale ledger accounts I find that IfceM 
+was due the state as principal upon sale contracts not deeded 
+12,752,335.44, instead of the estimated value of $2,257.27.-). 1 1. 
+as given in our last report. Adding to this, $307,429.05, increase 
+from new sale contracts issued this biennium, we will 
+have a total principal of $3,059,764.49. From this take the 
+$851,052.15, the amount received as principal paid upon these 
+contracts for the past two years, and we find that there will 
+be $2,208,712.34 of principal still due the state from sale contracts 
+and upon which interest is received at 6 per cent. Even 
+this amount will rapidly decrease from the fact that the contract 
+holders have had good crops and splendid prices for the 
+past few years, and, if same continues as they have in the 
+past, contract holders will rapidly pay off principal upon 
+their contracts, and obtain deeds in place. Another material 
+element to the continued reduction of principal is that money 
+can be secured from loan companies at a much less per centum 
+than the regular rate of 6 per cent, the amount that is charged 
+by the state upon the unpaid principal, in consequence of 
+which many contract holders are taking advantage of this re- </seg>
+
+            <seg id="p024">
+24 
+
+LAND COMMISSIONER'S REPORT. 
+
+duction in rate and paying principal due and taking dettls 
+and obtaining loans elsewhere. 
+
+In order to lie more specific as to the rapidity of payment 
+of principal, I find that in the Land Commissioner's report of 
+1898, on p. 9, the total amount due the state as principal on 
+sale contracts was f4,G52,l 23.00. The sum total of all princi 
+pal now, including valuation received for new contract - 
+sued to December 1, 1904, is $2,208,712.34, a decrease in six 
+years of $2,443,410.66 — a decrease of over 50 per cent. 
+
+TOTAL RENTAL COLLECTED ON LEASE CONTRACTS. 
+
+Biennium '97-8. .$208,723 46 Biennium '99-00 . f 220,085 "&gt; 
+Biennium '99-00. 220,085 75 Biennium '01-02. 242,428 56 
+
+Increase f 11,362 29 Increase f 22,342 81 
+
+Biennium 1903-4... 306,643 11 
+
+Increase f 64,214 55 
+
+RENTAL ON LEASE CONTRACTS INCREASING RAPIDLY. 
+
+rections— 1897-8, f 208,723.46; 1899-00, f 220,085.75; 
+1901-2, f242,428.56; 1903-4, $306,643.11. 
+
+AMOUNT RENTAL COLLECTED YEARLY. 
+
+COMMENTS. 
+
+Es contemplated, the rental upon lease contracts has steadincreased 
+through each biennium, due to the fact that 
+rly all of the vacant lands in the state have been leased, 
+to the reappraisement of lands held under lease contract. 
+
+It is with pride that I am able to report that there is but 
+496.28 acres of vacant school lands in the state, and I hope 
+
+Biennium 1901-2. . .$242,428 56 
+
+F— ?116,15U 29 1898 — f 92,572 17 1899 — f 97,6UU 76 
+— 122,484 99 1901— 117,344 58 1902— 125,083 98 
+1903—1141,414 40 1904-^165,228 71 </seg>
+
+            <seg id="p025">
+25 
+
+
+to have this placed under lease before mj term of offio 
+
+The tendency as to the amount of rental to be received l»v 
+tin- state for the next biennium from rental on lands beM under 
+lease contract will be to increase in the event that reap 
+praisement is had in the counties that have nut as jtA ben 
+reappraised, and to decrease in an amount equal to t&gt; per 
+cent on valuation of lease contracts that will be converted 
+into sale contracts during the coming biennium. In my opinion 
+the increase from rental on lease contracts from con 
+tinned reappraisement will be of some less value than the 
+decrease caused by loss of valuation t*hrough converting I 
+into sale contracts; therefore, the income from rental for the 
+next two years will remain practically the same. 
+
+It will be noticed that during this administration the .May 
+collections of rental are larger than those in December. This 
+is due to two reasons: First, that it has been the policy of 
+this office to request contract holders to pay a year's rental in 
+advance, beginning with the January payment, as this would 
+avoid taking the time of the lease holder from his work at a 
+very busy time of year. Second, delinquent contract* holders 
+are notified from this office of their delinquency immediately 
+after the first day of January of each year. This calls the 
+t holder's attention to the fact that rental has not been 
+paid, and in making payment for the delinquent rental usually 
+one payment is made in advance. It can make no dUTUUMC 
+to the schools of the state as to whether the apportionment is 
+made in December or May. The main question is, how much 
+is the total apportionment for the year? At the same time it 
+lessens the work of the county treasurers and this office by 
+making payment but once a year. </seg>
+
+            <seg id="p026">
+26 
+
+LAND COMMISSIONER'S REPORT. 
+
+PERMANENT SCHOOL FUND. 
+
+The permanent school fund is composed of interest bearing 
+
+Bted States and state securities, registered county bonds, 
+state general fund warrants, and was obtained from the 
+
+following sources : 
+
+1. Sale of educational lands. 
+
+2. Fire per cent sale of government lands of the state. 
+3. Escheated estates. 
+
+TABLE. 
+
+It will be noted from the table given that the entire per- 
+
+manent school fund is invested: 
+
+IVrinanent common school securities $ 5,767,293 23 
+
+Total interest bearing value permanent 
+
+fund $11,617,483 33 
+
+At the rate of increase as indicated by roippraisement, 
+when all lease contracts are raised to a reasonable value, and 
+those that are capable of being converted into sale contracts 
+are so transferred and fully paid, it will increase the total 
+interest bearing value of the permanent school fund of the 
+state to nearly $20,000,000. 
+
+TEMPORARY SCHOOL FUND. 
+
+Khe temporary school fund is obtained from the following 
+•ces: 
+
+t Interest on permanent school securities. 
+Rental on educational lands under lease. 
+
+3. Interest on valuation of lands held under sale contracts. 
+
+4. State school tax of not less than i per cent, nor more 
+than 1£ per cent on the assessed valuation. 
+
+Permanent university securities 12(5,1 4."i 21 
+
+Kicultural college securities 331,32(5 TJ 
+mal endowment securities tt^25 86 
+
+Tokd securities Prrffcrr 1, 1903 f 6,293,(591 02 
+
+Principal unpaid sale contracts 2,208,712 34 
+
+Valuation lease contracts 3,115,079 97 </seg>
+
+            <seg id="p027">
+27 
+
+SCHOOL FUND. 
+
+5. Bonus received as a premium to secure lease contr 
+
+&lt;». Interest on delinquent rental. 
+
+7. .Money received for state licenses, fines, fees, etc 
+
+This temporary school fund is apportioned twice a year 
+
+I i.v the State Superintendent to the different counties in the 
+
+state for the support of the public schools, and is known as 
+
+the semi-annual apportionment. 
+
+This semi-annual apportionment, with local license feel 
+
+and fines, and the direct district tax, which can not ex&lt; 
+
+2.~&gt; mills, compose the ways and means by which the public 
+
+schools of the state are supported. 
+
+STATK Kl»r&lt; ATIONAL LANDS 
+
+Total number of acres acqoired 2,07»i,244.4."&gt; 
+
+Total number of acres deeded 735,951.94 
+
+Amount remaining 
+
+2,240,292.51 
+
+Number acres under sale contract 314.H7 
+
+Number acres under lease contract 1,920,46 
+
+Number acres vacant in entire state 497.13 
+
+Number acres in supposed right of way 107.83 
+
+Number acres paid out, but not deeded 24.". .~&gt;4 
+
+Number acres in contest 1,339.20 
+
+Number acres lost in river 369.00 
+
+Number acres in model farm 1,280.00 
+
+Number acres in city lots 320.00 
+
+Number acres given to Lincoln Hospital for 
+Insane 699.04 
+
+Total acres now held by state 2,240,292." l 
+
+WORK OF THE BIKNMIM. 
+
+Number auctions held 57.00 
+
+Number contracts divided 45.00 
+
+Number contracts extended 291. 00 
+
+Number certified copies issued 990.00 
+
+Number reinstatements made 264.00 
+
+Number- assignments recorded 5,626.00 </seg>
+
+            <seg id="p028">
+28 
+
+LAND COMMISSIONERS REPORT 
+
+Number delinquent registered notices issued. . . . 2,964.00 
+
+Number of tracts of land reviewed 1,292.00 
+
+Number letters prepared by State Surveyor 159.00 
+
+Letters prepared, lease clerk 1,425.00 
+
+Letters prepared, chief clerk, for deeds 2,504.00 
+
+its prepared, assignment clerks 3,365.00 
+
+Number letters general correspondence 15,260.00 
+
+Number individual notices served 28,000.00 
+
+Number acres forfeited 58,853.90 
+
+Number acres reinstated 20,202.78 
+
+Number acres sold 21,902.38 
+
+Number acres leased 90,070.07 
+
+Number acres extended 36,873.61 
+
+Number acres deeded 121,304.81 
+
+TOTAL COLLECTIONS. 
+
+Total rental collected lease contracts f 312,284 89 
+
+Total interest collected sale contracts 352,415 90 
+
+Total bonus and added interest collected 8,246 31 
+
+Total principal collected sale contracts 851,054 09 
+
+Total fees collected 4,413 25 
+
+Total collections for the biennium $ 1,528,414 44 </seg>
+
+            <seg id="p029">
+EDUCATIONAL LANDS. 
+
+29 
+
+01 
+
+
+5 
+
+
+i 
+
+31 
+
+05 
+
+fUNTY 
+
+1] 
+3s 1 
+
+h 
+
+Si! 3 
+
+c a 
+SSI 
+
+— 
+I 
+— - 
+
+a 
+s 
+2 
+
+Adams 20,480.00 
+Antelope 31,400.00 
+Banner 26,880.00 
+Blaine 25,530.45 
+Boone 23,675.28 
+BoxButte 40,960.00 
+Boyd 22,652.72 
+Brown 40,998.90 
+Buffalo 30,813.29 
+Burt 17,487.88 
+Butler 21,687.10 
+Cms 19,7aj.98 
+Cedar 26,804.36 
+Cbase &amp;%280.00 
+Cherry 244,104.09 
+Cheyenne 106,253.02 
+Clay 21,240.00 
+Colfax 14,459.69 
+Cuming 19,044.70 
+Cnster 92,017.98 
+Dakota 7,163.19 
+Dawes 49,280.00 
+Dawson 36,105.15 
+Deuel 82,567.31 
+Dixon 15,931.20 
+Dodge 18,481.89 
+Douglas 9,170.23 
+Dundy 33,257.01 
+Fillmore 20,648.51 
+Franklin 20,471.85 
+Frontier 34,560.00 
+Furnas 25,602.80 
+Gage 24,637.31 
+Garfield 20,480.00 
+Gosper 16,640.00 
+Grant 29,000 00 
+Greeley 20,475.30 
+Hall 19,507.71 
+Hamilton 20,487.56 
+Harlan 20,400. C9 
+Hayes 25,600.00 
+Hitchcock 25,494.87 
+Holt 87,376.60 
+Hooker 26,158.59 
+Howard 23,041.44 
+Jefferson . 20 484 08 
+
+1 14,600.00 
+1 5,4S-2.1&gt;.{ 
+I 
+
+3,640.00 
+6,997.77 
+
+2,240.00 
+18,920.00 
+2f&gt;,SSO (10 
+25,530.45 
+8,314.97 
+40,238.00 
+21,188.33 
+40,904.90 
+11,687.86 
+700.00 
+765.20 
+BO. 00 
+3,813.36 
+31694.52 
+243,584.09 
+104,602.02 
+620.00 
+634.43 
+85.00 
+81,045.98 
+1,409.13 
+48,787.57 
+21,209.55 
+81,957.66 
+1,156.35 
+
+9,064.76 
+722.00 
+107.69 
+11.00 
+11,264.96 
+13,924.91 
+18,163.10 
+18,434.40 
+15,551.00 
+903.48 
+93.92 
+451.00 
+16,504.02 
+11,371.81 
+13,692.79 
+3,286.00 
+3,002.37 
+452.43 
+6,114.60 
+14.06 
+9,629.61 
+16,754.20 
+8,130.19 
+1.00 
+18,920.00 
+4,670.39 
+1,362.00 
+2,56:2.00 
+21.072.81 
+560.00 
+3,362.00 
+
+6,279.54 
+
+37.80 
+83.00 
+7,848. -0 
+2,662.97 
+2,758.80 
+1,079.58 
+7,440.00 
+682.00 
+383.06 
+1,200 00 
+4,075.38 
+2,438.45 
+5,256.91 
+7,606.00 
+2,710.49 
+40.00 
+8.781.00 
+M6.60 
+5,073.93 
+1,7-27.69 
+828.45 
+080.00 
+1,688.51 
+3,446.10 
+1,920.00 
+6,229.20 
+3,170.00 
+120.00 
+4,400.00 
+
+:::::** 
+
+(4) 200 
+
+40.66 "('»)' 3 
+46166 '.'.'.'.'..'. 
+(6 
+en io 
+(«) 80 
+(») 41 
+
+:::::: :::::::: 
+(10) 71 
+
+181.54 
+32,576.01 
+40.00 
+12,355.36 
+31,278.00 
+16,811.60 
+391.50 
+19800.00 
+8,878.00 
+29,000.00 
+15,668.67 
+3,066.56 
+487.56 
+8,576.83 
+24.852.20 
+23,756.65 
+84,637.63 
+26 038.59 
+10,457.39 
+
+'.'.'.'.'.'. (ii)"30 
+
+' '3.00 '.'.'.'.'.'.'.'. 
+
+I 
+
+1,888.10 
+12.387.60 
+17,922.59 
+5,571.80 
+193.31 
+673.62 
+1,658.97 
+
+2,918.53 
+4.053.55 
+2.077.41 
+6,252.06 
+554.49 
+1.064.60 
+1,080.00 
+120.00 
+7,101.67^ 
+
+i ii 
+
+::::::::::*:: 
+
+"5,482.38 
+12,093.38 </seg>
+
+            <seg id="p030">
+30 
+
+LAND COMMISSIONERS REPORT. 
+
+% 
+
+an 
+t jjt; 
+
+- 
+
+COUNTY 
+
+"•3 
+IS" 
+
+S"8 
+•31. 
+r 
+
+11 
+
+i 
+a 
+
+I 
+
+Madison .... 
+McPherson . 
+Richardson . 
+Saunders . . . 
+Sheridan . . . 
+Wayne 
+Webster .... 
+Wheeler .... 
+
+13,440.00 
+18,581.40 
+45,662 90 
+26,222.46 
+36,618.88 
+42,893.81 
+31,236.84 
+97,890.93 
+20,480 00 
+20,393.28 
+24,639.43 
+56,320.00 
+14,976.21 
+11,792.34 
+21,019.10 
+21,992.44 
+20,034.85 
+31,523.75 
+20,228.60 
+20,480.00 
+23,655.48 
+16,787.68 
+25,485.30 
+10,400.00 
+40,232.40 
+20,480.00 
+8,988.27 
+26,390.99 
+25 467.65 
+20,560.00 
+94,627.74 
+20,477.20 
+80,972.22 
+15,360.00 
+20,472.35 
+25,600.00 
+20,474.88 
+13,851.86 
+15,360.00 
+20,480.00 
+20,480.00 
+20,474.00 
+
+11,234.67 
+8,821.44 
+45.00 
+413.30 
+
+10,524.09 
+24,812.87 
+1,776.68 
+
+56O!66 
+13,963.66 
+
+7,844.86 
+10,573.49 
+13,273.76 
+18,044.44 
+17,056.53 
+
+7,268.32 
+6,804.74 
+16,514.81 
+10,958.58 
+1.831.35 
+8,230.00 
+120.00 
+18,520.00 
+7,035.69 
+23,179.46 
+231.11 
+17,199.21 
+367.87 
+1,678.00 
+80.00 
+8,866.09 
+13,011.65 
+
+1,802.00 
+4,960.00 
+1,079.40 
+20 70 
+80.00 
+10,468.03 
+5,090.00 
+5,994.20 
+
+mo .'66 
+7,555.77 
+
+3,625.06 
+HWI.(K&gt; 
+7,095.34 
+3,418.00 
+2,818.32 
+
+7,035.78 
+6,435.26 
+5,491.57 
+4,107.80 
+4,452.45 
+1,240.00 
+40.00 
+1,360.00 
+1,667.70 
+2,843.21 
+831.20 
+2,757.15 
+205.00 
+4,426.08 
+
+403.33 
+4,796.96 
+44,538.50 
+25,788.46 
+36,400.00 
+21,901.69 
+1,244.45 
+90,104.06 
+20,480.00 
+19,593.28 
+3,120.00 
+56,320.00 
+3,495.84 
+225.65 
+680.00 
+510.00 
+160.00 
+31,323.75 
+5,954.50 
+7,240.00 
+1,649.10 
+1,721.30 
+19,201.50 
+930. CO 
+40,072.40 
+600. CO 
+284.88 
+360.00 
+24,365.34 
+603.64 
+94,054.87 
+14,373.12 
+80,892.22 
+3,800.00 
+2,625.23 
+25,600.00 
+9,953.51 
+1.814.90 
+
+i38.88 .'.'.'.'.'.'.'.. 
+;«) 16.00 
+
+~= 
+
+...... CM) i6.43 
+34.4OU5) 78.80 
+'.'.'.'.'.' U«j "20.66 
+I206.66 '.'.'.'.'.'.'.'.'.'. 
+
+1 
+
+.'.'.'.'.. im"i'.ia 
+40.00 
+ji:::::::::::E 
+
+" 4,693 \.&lt;d\ 
+4,835.47 
+
+5,814.78 
+10,890.00 
+10,760.00 
+6,526.00 
+3.00 
+15,680.61 
+
+4,706.59 
+1,126. C6 
+4,600.00 
+8,079.00 
+40.00 
+3,360.00 
+
+5,875.00 
+20,437.00 
+1,433.39 
+
+1!!".!!! iw'io'.ab 
+
+I:::::::::::::::: 
+
+2,796,061.97 
+
+1638,628.14 
+
+1261,052.11 
+
+1,893,844.31 
+
+1496.28 
+
+2,041.13 </seg>
+
+            <seg id="p031">
+EDUCATIONAL LANDS. 
+
+31 
+
+
+Total I 89,149. 2l| 47,920 .461 30,865.971 10,342 .3*1 | '20 U 
+
+SALINE 
+
+Lancaster 45,594.24 22,425.35 5,637.39 2,427.66 0)15,103.84 
+
+NORMAL 
+
+Lancaster 12,904.80 10,131.20 2,593.60 80.00 
+
+La 
+
+COUNTY 
+
+• 
+
+k 
+
+CO fj 
+•as 
+2 &gt;- 
+2* 
+
+a a 
+II] 
+
+a 
+| 
+
+! 
+
+Antelope 1,600.00 449.98 830.02 
+Cedar 1,920.00 1,440.00 80.00 
+Dakota 330.00 320.00 
+Dixon 640.00 360.00 280.00 
+Holt 8,322.10 1,720.00 440.00 
+Knox 4,480.00 1,680.00 1,360 00 
+Madison 2,240.00 760.00 720.00 
+Nuckolls 4,916.68 1,206.66 3,558.9; 
+Pierce 3,197.67 2,319.44 878.23 
+Webster 17,802.58 6,911.71 6,360.72 
+Total 45,439.03 16,846.79 14,827.89 
+
+830.02 
+80.00 
+320.00 
+280.00 
+440.00 
+1,360 00 
+720.00 
+3,558.9; 
+878.23 
+6,360.72 
+
+320.0q 
+400.00J 
+
+6,162.10 
+1,440.00 
+760.00 
+152.10 
+
+• ••¦•.]•»••••••••¦- 
+
+'MMJli 
+
+"\m '.'.'.'.'.'.'.'.'.'.'.'. 
+
+i 14,827.891 
+
+13,763.50| 
+
+.85|. 
+
+AGRICULTURAL COIXX 
+
+AL COIX' 
+
+:ge 
+
+Burt 640.00 480.00 160.00 
+Cedar 25,405.47 14,204.21 8,529.58 
+Cuming 960.00 960.00 
+Dakota G40.00 603.92 
+Dixon 2,240.00 1,433.90 676.00 
+Knox 33,500.20 14,585.86 12,678.44 
+Pierce 10,114.56 4,017.18 4,818.70 
+Wayne 15,648.18 11,635.39 4,003.25 
+
+'.'.'.'.'.'.. 
+" x.m .'.'.'.'. '.'.'.'.'.'.'.'.'.I'.'. 
+120.00 (») 10.10 
+6,235.90 
+1,278.68 
+»S» 10.^1 </seg>
+
+            <seg id="p032">
+32 
+
+LAND COMMISSIONER'S REPORT. 
+
+1. 16.01 acres, supposed right of way, Omaha, Niobrara &amp; 
+Black Hills Ry. 
+
+K 1,318.90 acres confirmed to the state, but awaiting reof 
+contest. 
+
+t 1,227 acres U. P. right of way. 
+200 acres in river. 
+
+5. 3.02 acres held by F., E. &amp; M. V. right of way. 
+6. 15 acres principal paid, but deed not issued. 
+7. 10 acres paid, but not deeded. 
+
+t80 acres paid, but not deeded. 
+41.20 acres in river. 
+
+10. 49 acres in river, and 22.31 acres supposed right of 
+way, Chicago, St. Paul &amp; Minneapolis Ry. 
+
+11. 30.05 acres supposed right of way U. P. Ry. 
+12. 89.52 acres principal paid, but deed not issued. 
+13. 16 acres supposed right of way U. P. Ry. 
+14. 10.43 acres principal paid, but not deeded. 
+15. 78.80 acres in Platte river. 
+
+16. 20 acres principal paid, but deed not issued. 
+17. 8.32 acres principal paid, but deed not issued. 
+18. 20.30 acres awaiting decision court in Iowa. 
+19. 10.10 acres supposed right of way Chicago, St. Paul &amp; 
+
+Minneapolis Ry. 
+
+20. 10.34 acres supposed right of way Minn., St. Paul &amp; 
+Chicago right of way. 
+
+t 15,103.84 acres of Saline land was set aside by the legre, 
+as follows: State University and city lots, 320 
+; Lincoln Hospital for Insane, 099.04 acres; model 
+1,280 acres; Normal school, 12,804.80 acres. 
+
+This department has written to various railroad companies 
+(hat have not secured deeds to their lands, and an effort is 
+being put forth toward the state receiving compensation for </seg>
+
+            <seg id="p033">
+33 
+
+
+NG 
+
+WORK OF TH 
+
+BI 
+
+CO 
+
+IMON SCHOOL 
+
+ODNTY 
+
+&lt; 
+
+I 
+
+s 
+
+ll 
+
+I. 
+P 
+a 
+HI 
+
+5 • 8 
+SI* 
+
+it 
+I! 
+
+Box Butte 
+praaklta"" 
+GaiWld.. '.'.'.'. 
+Hamilton... . 
+Hitchcock 
+Ktva Fa'ha!' 
+Kimball 
+Lancaster . .. 
+
+2,440.00 
+
+12,058 20 
+7,751 40 
+1,453 31 
+1.572 46 
+4,148 02 
+5,102 85 
+8 890 62 
+3.954 63 
+5.910 43 
+791 80 
+8s8 21 
+459 10 
+1.879 68 
+2.130 36 
+20,403 86 
+8,418% 
+245 19 
+1,054 98 
+263 41 
+12.688 97 
+7;i5 74 
+5,205 49 
+4.824 95 
+5,7*3 20 
+1,267 50 
+180 06 
+110 94 
+2 0.0 59 
+45 60 
+5.930 26 
+X.U".7 'M 
+6.290 89 
+1.431 76 
+4,117 20 
+1.002 48 
+3633 95 
+UN 68 
+143 04 
+4.32* 92 
+3,636 5K 
+3.533 33 
+13 BM 77 
+1.933 96 
+5.593 41 
+3,061 49 
+763 20 
+2.087 54 
+6.290 80 
+3,755 99 
+1,629 68 
+9,195 47 
+1.566 85 
+8,761 90 
+1 ..596 83 
+2,162 23 
+1.105 10 
+1.757 K8 
+2.733 70 
+767 10 
+M 9". 
+2.80K04 
+
+I 4 255 77 
+5,614 49 
+
+% 47 30 
+M «0 
+40 51 
+37 53 
+80 71 
+155 58 
+773 98 
+103 68 
+211 42 
+302 
+4 65 
+I 8* 
+39 25 
+48 09 
+M « 
+M ¦ 
+1 ¦ 
+6 7S 
+53 
+363 39 
+12 72 
+132 10 
+«6» 
+131 9T» 
+20 54 
+2 8-&gt; 
+396 
+47 65 
+a 
+in 37 
+327 34 
+lit «) 
+2 63 
+28 29 
+58 06 
+11 78 
+56 96 
+44 57 
+91 
+302 74 
+X9 41 
+1U98 
+341 44 
+48 14 
+188 11 
+34 73 
+3 fi6 
+38 14 
+217 6» 
+97 08 
+3* (5* 
+229 M 
+13 40 
+168 92 
+52 01 
+60 53 
+22 04 
+35 70 
+m 92 
+5 10 
+16 07 
+5 22 
+32 
+28 22 
+58 27 
+93 ¦ 
+
+$ 15.163 Of) 
+3 632 00 
+
+'II 
+l.t»«9H 
+26,68i 78 
+5.ZM 4:1 
+9,912 20 
+4.13 31 
+3S.4S2 55 
+15.102 41 
+18.52 04 
+MB 25 
+32,783 Ot 
+2.710 69 
+21,191 71 
+10.519 12 
+2S.H5S9I 
+15.287 76 
+16.240 &amp; 
+29,608 12 
+10.713 57 
+5,344 27 
+82.713 66 
+6,526 45 
+25.793 62 
+6,573 0^ 
+1,291 79 
+2.827 92 
+U.445 08 
+14,702 04 
+11.849 .8 
+16,474 98 
+12,315 12 
+2.S30S7 
+23.170 57 
+1.014 26 
+10,419 15 
+22.244 64 
+16,724 W 
+19 848 93 
+4.014 25 
+4.110 35 
+15.V0 90 
+2,157 08 
+21.229 57 
+28,014 19 
+7.06&gt; 83 
+33.370 82 
+6,987 OS 
+5.086 70 
+1.752 K 
+47.4W S3 
+28 279 64 
+19 322 63 
+1.748 84 
+5.101 91 
+mm 
+1.7VSO8 
+12.7a a 
+4.1112 90 
+35 482 02 
+13 207 62 
+21.608 5S 
+
+i.680!6(H 
+2,160.00 
+
+i,98o!6o 
+
+i,360 66 
+
+"¦5,928O5 
+
+"16,529 OM 
+'"ai'oi 
+
+"a!» 
+
+"iiiBW 
+
+"e'ioioo 
+'120 low 
+
+4.440.00 
+2.127.15 
+2.8S0.0O 
+130.00 
+120. U) 
+
+28 56 
+65 00 
+9.124 49 
+4.307 59 
+4.218 11 
+1.310 27 
+7,761 58 
+5T2 24 
+38 ! 24 
+1,330 56 
+r, 636 7X 
+5.43rt 01 
+s.an 27 
+9 l.sii 7rt 
+2,922 21 
+6S&gt; 
+9,840 66 
+597 30 
+5 198 58 
+2,111 72 
+1.176 89 
+7(19 R8 
+2.3x7 80 
+3.:kX2 41 
+2 257 10 
+5.191 13 
+3,353 72 
+201 65 
+5.196 31 
+
+21.246 21 
+10.000 00 
+13 441 04 
+6.450 00 
+23.102 50 
+
+3,236.70 
+1.430.70 
+1.416 W 
+680 00 
+2,730.00 
+
+'50.66 
+
+i,3'o;6o 
+
+1.00 
+3,560.01) 
+610.00 
+1.701.80 
+1,040.00 
+1.293.92 
+
+ilooj 
+
+640.00 
+80.00 
+160 00 
+199.92 
+
+198.00 
+21.433.10 
+4,760.00 
+WI.OO 
+120.00 
+40. U) 
+1.240.00 
+3.93 
+3,840.00 
+160.00 
+2,720.00 
+
+51100 
+22,975 00 
+8,790 00 
+10.969 00 
+7,375 00 
+7,052 90 
+"ii,'sBz*66 
+14 0 1 
+19,307 00 
+4,278 45 
+
+2,640.00 
+2.00 
+2,990.00 
+276 U 
+
+i'.ixA 
+
+"sao'.m 
+
+1.815 68 
+580.00 
+160.00 
+520.00 
+1,850.00 
+78.67 
+2,080.00 
+
+" 'iio'.iu 
+
+' "io'.om 
+
+11,031 09 
+5.078 00 
+1.208 00 
+4.839 Srt 
+8,221 20 
+i»» 67 
+13.797 00 
+
+i.sbo'ow 
+
+'"iax'.inl 
+
+eo?6cJ 
+760.001 
+
+'"Hn'.m 
+
+640.00 
+2.2SV3O 
+2,006.00 
+1,745.10 
+
+¦"jioloo 
+80.00 
+
+moo 
+40.0d 
+
+2,658 24 
+4.911 38 
+2.556 75 
+6,574 77 
+;ss :'s 
+298 04 
+861 84 
+174 96 
+6,698 05 
+6,210 56 
+1,911 97 
+6,302 92 
+478 55 
+97 05 
+30 48 
+11,047 25 
+6.097 39 
+5,007 44 
+
+4.068 00 
+14.929 01 
+14 024 00 
+MM ¦ 
+
+i'.m 
+13.55 
+
+" 'm.ool 
+
+""»!6m 
+13.55 
+
+160.00 
+1.16.H us 
+1,707.07 
+3.280.00 
+960.00 
+5.03 
+207.20 
+24O.0O 
+
+¦"isi'oJ 
+100 85 
+
+1.400.00 
+2,799.06 
+aaon 
+3,382.16 
+
+3.90 
+
+8 750 00 
+18.707 41 
+4 3*4 Hi 
+24,942 22 
+
+' 56 3.66 
+
+' 2,88 i! 67 
+
+1.146 60 
+56 Oi 
+27.027 57 
+20 «C (M 
+5,384 97 
+
+" ia.oiJ 
+
+" 8o!(6 
+960.00 
+
+4.S2O.O0 
+445.90 
+m.» 
+2 720 00 
+9fiO.«0 
+720.00 
+
+4. sir 3i 
+• 315 OW 
+1,275 88 
+
+'246!6tM 
+2.155.74 
+
+47617 
+7.125 87 
+
+"i'40306 
+13.4S9 38| 
+
+1,078.00 
+•» o» 
+4.27J.OO 
+1 118.90 
+2.060.00 
+
+19319 
+
+10.00 
+
+800.00 
+80 00 
+40.00 
+200 00 
+80.00 
+920.00 
+
+3,548 00 
+1030 70 
+8.34.' 10 
+3.846 53 
+4,471 29 
+
+6 435 01 
+2 300 00 
+H 4!* M 
+I.C79 47 
+turn 52 
+
+3.'.m50 
+l.seo.ool 
+
+8o!6a 
+
+"8!9S6'97 
+«,?S5 83| 
+
+22 3US 99 
+« 310 00 
+
+I </seg>
+
+            <seg id="p034">
+TABLE SHOWING WORI 
+
+: OF TH 
+
+IB BIENNIUM— Continued 
+
+co: 
+
+fUON SCI 
+
+HOOL 
+
+COUNTY 
+
+•a 
+V 
+¦a 
+I 
+&lt; 
+
+I 
+&lt; 
+
+J 
+
+m 
+CO 
+02 
+P 
+B 
+
+III 
+Si 0 " 
+
+xa 
+a. ¦ 
+w 
+
+Red Willow.'. 
+Scatu'mnff. 
+Washington. 
+wJbmv..... 
+Wheeler 
+
+2082.60 
+1.423.00 
+343 30 
+12O.00 
+40.00 
+933.00 
+4(1.00 
+2 M H 
+53.65 
+800.00 
+
+160.00 
+80.03 
+640.00 
+
+"aoioo 
+
+"eooiob 
+960.0(1 
+
+79.12 
+240.00 
+1, .63.56 
+
+* 1 29) 11 
+1.659 U 
+4.780 46 
+1,452 33 
+3.657 10 
+532 00 
+171 61 
+721 60 
+3,235 36 
+993 70 
+10.061 09 
+6 562 15 
+7,645 78 
+2.192 41 
+1.823 60 
+1 240 98 
+3,270 0; 
+210e$ 50 
+
+i 
+i 
+i 
+
+$ 5.473 10 
+4,497 66 
+3.965 80 
+1,722 24 
+48 00 
+2.247 07 
+1,964 3d 
+5,154 24 
+574 35 
+2,667 93 
+IKS 60 
+4.377 64 
+
+$ 29 95 
+20 92 
+178 45 
+2 13 
+93 06 
+5 40 
+97 
+17 6S 
+127 94 
+7 65 
+231 58 
+147 01 
+151 30 
+42 ?9 
+52 82 
+34 18 
+41 8' 
+28 59 
+
+$ 1SJM Tl 
+10, 129 (M 
+6i»» 7:( 
+2,124 00 
+6K) (XI 
+7.079 40 
+558 00 
+18,520 7.". 
+921 CO 
+5.830 00 
+
+16.912 To 
+14.9BI 44 
+4!a9S 16 
+9.863 87 
+2.694 94 
+24.414 22 
+4.S.X 65 
+9.499 28 
+10.491 27 
+21.377 39 
+7.7W7 08 
+21,681 26 
+21.U46 84 
+1275 16 
+22.761 18 
+11.623 88 
+16 057 84 
+27 463 02 
+4.071 91 
+20,101 63 
+
+""40.00 
+367.20 
+
+1,181. '4»l 
+
+fiao.'dol 
+
+5,364" 99 
+
+"i6,»6'» 
+
+1880 00 
+2 218.30 
+
+"486.06 
+410.00 
+
+S.200.00 
+20.00 
+240.00 
+800 00 
+
+" 6,&lt; ; 40'56 
+4,720 S4 
+
+13,«O6o6 
+15,349 58 
+
+1.886.50 
+591.20 
+1.K40.IU 
+2,119.00 
+
+1960.06 
+
+'iaoi!6o 
+
+562.86 
+56i I ! 00 
+320.00 
+
+8,284 09 
+3.928 40 
+1,717 92 
+
+4.430 98 
+2 759 36 
+5,6i'l 84 
+6,8&amp;) 17 
+43 36 
+4.602 32 
+
+14,998 31 
+6,727 43 
+10 456 00 
+17,r»5 20 
+
+i,952.'37 
+
+'"aa'.ia 
+
+ei 56 
+98 1 ¦&gt; 
+17 28 
+
+"i4.'r64'hl 
+
+W7.288.23 
+
+15 396.48J 
+
+8». 104. T, 
+
+¦¦MB ¦ 
+
+$289,047 43 
+
+|$7.796 6l|«688.816 68 
+
+$1,282.12S U 
+
+tabl: 
+
+SHOWING WOR 
+
+OF 
+
+THE BIENNIUM— CONTIOTBD 
+
+irvi 
+
+;rsity 
+
+COUNTY 
+
+I 
+
+— 
+I 
+¦r 
+
+I 
+
+h 
+Si 
+a u 
+
+h 
+V 
+a 
+
+"= a 
+•o'a 5 
+fig; 
+
+§1 
+
+II 
+
+160.00 
+lbO.OOj 
+
+800.0M 
+400.0M 
+80.0M 
+
+4o!oo 
+
+$ 185 00 
+2Ti2 00 
+
+8,677 57 
+664 80 
+97 90 
+155 12 
+
+f 585 98 
+96 75 
+M 92 
+224 64 
+983 44 
+1.398 10 
+HI H 
+2.757 00 
+X83 10 
+5,769 03 
+
+$ q 
+
+56 28 
+15 13 
+1 26 
+4 60 
+
+$ 706 CO 
+1,000 00 
+
+4.528 00 
+2,520 00 
+504 00 
+850 00 
+2.125 31 
+12,468 9K 
+
+221 64 
+8,245 29 
+4.598 03 
+1,156 12 
+3.266 72 
+3.008 41 
+20.9S2 30 
+
+596. 59 
+1.689.60 1 
+
+isi'.m 
+
+2.68i'59 
+
+' 'ffiTO 
+
+1.418J8 
+
+3 6*. 19 
+
+1.418.18 
+
+,?25.S0 
+
+»6 6t&gt;3 M 
+
+$13,395 92|*147 87 
+
+$24,202 29| $44,410 08 </seg>
+
+
+            <seg id="p035">
+GENERAL COMMENTS. 
+
+Auctions Uave been held in fifty-seven counties during the 
+two vears, and I have leased 90,070.07 acres in all. At 
+the time of my last report there were 1,339.50 acres of vacant 
+land in the state that were capable of being leased. The 
+Board of Educational Lands and Funds have forfeited 
+&gt;".',. 90 acres during the two years. I have issued lease c&lt;mtracts 
+where old leases have expired amounting to 29,880 
+acres, and there are still vacant in the state 497.13 acres. 
+
+I also find that lessees are paying their rental mmc 
+promptly than they formerly did, from the fact that school 
+land leases are more valuable, crops have been good, and 
+money easier to obtain. Another fact that is pleasing to me 
+is tliat when lands are forfeited they are, in a majority of 
+cases, released at an increased valuation. 
+
+1,166 22 661.65 «,200 17 $11,536 20 $ 64 25 $18,128 22 $33,028 M 
+
+LEASE COXTK \ 
+
+EDUCA 1 
+
+lONAL L. 
+
+1NDS. 
+
+TABLE SHOWING WORK 
+
+OF THE 1 
+
+3IENNIUM — Continued 
+
+AGRICU 
+
+,TURAL COL 
+
+cege 
+
+— 
+
+COUNTY 
+
+•s 
+&amp; 
+8 
+I 
+
+— 
+I 
+¦j 
+
+-3 
+3 
+: 
+o 
+
+s. 
+
+v 
+° s 
+V 
+a 
+M 
+
+" - s 
+si"" 
+
+¦ 
+
+'.'. awa'.is l.oaiw 
+M0.00 
+'.'. "iio.U) ".'.'.'.'.'.'. 
+¦ ¦ 9 816.69 397.50 
+.. 1.313.15 
+.. 2,299.13 
+
+w.«a'3M 
+
+M 98 
+140 04 
+3,222 8* 
+999 * 
+
+I 120 96 
+9 4«! (O 
+14 61 
+
+16 4 1 ". 91 
+4.636 49 
+«3DX&gt;5 3 
+
+*'*'6S 
+
+I 
+I 47 
+3 95 
+74 85 
+29 4" 
+
+t i»m 
+i.8uu oo ; 
+"¦-'woo i 
+58.8.^26 &gt; 
+11447 00 I9.i 83 49 
+
+Toe,... 
+
+mm m 
+
+*137 37 
+
+*1IO,461 14 *151,S34 C 
+
+17.762.2M 1,428.07 
+
+NORMAL 
+
+[^ticastcr. 
+
+1398.97 80.no 
+
+$74 40 $3,081 CZ to 21 J9.445 76 112,601 3 
+
+SALINE </seg>
+
+            <seg id="p036">
+36 
+
+LAND COMMISSIONER'S REPORT. 
+
+SALE CONTRACTS. 
+
+In the roar 1897 a bill passed the legislature taking from 
+the market the unsold school lands of the state, but the law 
+under which lease contracts were made since May 26, 1879, 
+ajid tlie taking effect of this law in July, 1S!»7, pwt the lessee 
+the right to surrender lease contract and to take in its place 
+a sale contract upon complying with certain provisions ami 
+i tiie appraisement of the land at its full value. The law 
+of 1897 could not. of course, abrogate this provision. I find 
+a number of contracts were issued prior to May 2&lt;&gt;, 1879, and 
+under the law which was in effect at the time these 1 
+contracts were entered into the right to purchase by V 
+not given. It seems to me to be just, under the circumstances, 
+that the legislature should make some provision 
+whereby these old lease holders might purchase the lands 
+held by them as lease contracts for so long a time. They have 
+1 upon this land for a quarter of a century or more, have 
+builded homes and placed valuable improvements thereon 
+under the impression that they had a right at any time before 
+their contract expired to surrender the lease contract and 
+obtain a sale contract, upon which deed would ultimately 
+e. Many of these people have placed every cent that they 
+have on earth in improvements upon these lands, and the 
+new appraisement has raised the price of same to such a valuation 
+that it would be money in the lease holder's pocket to 
+purchase. 
+
+inasmuch as these lessees were pioneers of the state, and 
+so much toward its material development, I fully trust 
+a bill will be passed by the coming legislature removing 
+ictions upon all lands held under lease contract prior 
+lay 26, 1879, thus putting these old settlers on an equal 
+ing with those that took out lease contracts after May 
+1879. 
+
+During the biennium just closed I have issued sale contracts 
+upon 21,906.: - which have been held under lease 
+contracts bearing date since May 26, 1879. It was found </seg>
+
+            <seg id="p037">
+37 
+
+GENERAL COMMENTS. 
+
+DpOB investigation that the parties who appraised this land 
+were not placing the mine at a price sufficient to warrant 
+the state to pan title, but at a value much less than other 
+lands of the same kiud were selling for in the vicinity of the 
+lamls sought to be purchased. The Board of Educational 
+Lands and funds, at a regular meeting, adopted a resolution 
+that no lands held under lease contract should be sold until 
+they had been reviewed by the Land Commissioner, his deputy, 
+or some member of the Beard having authority, and 
+i']&lt;in the recommendation of the reviewing party that the 
+appraisement was somewhere near its true value. 
+
+In conformance to this resolution, myself and deputy have 
+reviewed I,2!t2 different tracts of laud during the past two 
+yeafl, traveling thousands of miles by team and train to 
+carry out the instructions of th&gt;e Board, and in no case has 
+a sale contract been issued without this review. I tind it to 
+be the tendency of the appraisers, through sympathy, 1 
+influence, or otherwise, to place the valuation at a much 
+price than the land is really worth. They do not seem to 
+appreciate the fact that the lessee has had the use of this 
+land for many years at a nominal sum, and that, by an appraisement 
+less than the real value, they are taking the 
+amount from the permanent school fund and transferring it 
+to the pockets of an individual. They do not seem to fully 
+realize, or at least understand, that they are working against 
+their own interests, as well as that of the people of the entire 
+state by such action, as it increases their own tax by reducing 
+the amount which is to become a part of the permanent school 
+fund from which the semi-annual apportionment is received, 
+and reducing the amount to be paid each year to the school 
+children of the state for all time to come. 
+
+If the State Treasurer, the Land Commissioner, or any 
+other state officer, would give to an individual an equal 
+amount of funds which belonged to the permanent school 
+fund, there would, indeed, be, and justly, too, a cry of offl </seg>
+
+            <seg id="p038">
+38 
+
+LAND COMMISSIONERS REPORT. 
+
+value one of the greatest dangers which threatens the school 
+funds of the state at this time. It also means an immense 
+amount of criticism from people who do not understand the 
+situation, and does, indeed, work a hardship to this departliH-iit, 
+because it is necessary in the majority of cases to report 
+adversely upon the appraisement as made by the commoners. 
+As an evidence of the facts stated above, I have 
+in this office the necessary proofs, and these have been presented 
+to the Board of Educational Lands and Funds from 
+time to time for their action. Whenever the Board of Educational 
+Lands and Funds has rejected an application on account 
+that the valuation as stated is not sufficient to warrant 
+t hem to pass title, they have, at the request of the lessee, appointed 
+three freeholders who live in the county where the 
+land is located to act as arbitrators, and to review and reappraise 
+the land in question, and in only two instances have 
+the freeholders agreed with the previous appraisers, and in 
+the majority of cases have placed the value above the estimate 
+made by the reviewing party. The fact that this land 
+has been reviewed and reappraised has added to the permanent 
+school fund thousands of dollars. I would recommend 
+that the same system be carried out in the future. In one 
+county alone, and upon a comparatively small acreage, an 
+increase of |26,000 was made, and then, in my opinion, the 
+lands sold did not bring their true value. 
+
+OFFICE FORCE. 
+
+I addition to the commissioner and deputy, the office force 
+mposed of a chief clerk, state surveyor, two bookkeepers, 
+se contract clerk, delinquent clerk, two assignment clerks 
+a stenographer. It can be seen from this report that the 
+t of the land office has greatly increased during the past 
+years, and that the clerical force has remained the same, 
+ill be absolutely necessary for the entire force to be re?d 
+in order that the work of the department may be done </seg>
+
+            <seg id="p039">
+OFFICE FORCE. 
+
+39 
+
+I lie past two years myself and deputy have done a large 
+unt of field work, have held fifty-eight auctions, and rrred 
+a large number of tracts of school land that lessees 
+converting from lease into sale contracts. We have on 
+at this time 1,500 applications for review, which would 
+cate that the work for the next two years in this line will 
+reater than it has been in the past. This work, as statcil. 
+taken a considerable amount of the time of the commis 
+er and deputy from the regular office work, and th« 
+work has been, to some extent, in the hands of the office 
+
+Et is the duty of the chief clerk to issue all deeds and. in 
+absence of the commissioner and deputy, to attend to 
+general correspondence, and take charge of the other work 
+he office. He has issued deeds to 122,702.88 acres of land, 
+has written from his desk 2,504 letters pertaining to 
+1 work during this biennium. 
+
+I Che state surveyor performs all surveys upon application 
+ere disputes arise between parties. He also makes calcuion 
+for the office of Commissioner of Public Lands and 
+ildings relative to school land, and performs such work 
+is assigned him by the different boards of the state, which 
+ong to his department. He also takes direct care of the 
+ts and field notes belonging to the state under the direction 
+the Commissioner of Public Lands and Buildings. A deled 
+report of his work is given elsewhere in this report. 
+
+The two bookkeepers keep the accounts of 65,000 lease and 
+sale contract holders. During the last two years they have 
+entered upon the school land ledgers 27,000 receipts, have 
+registered them, and turned the same over to the Auditor, 
+and, in addition to this regular work, have furnished much 
+information to thousands of contract holders and various 
+county treasurers, which deal directly with their work. 
+
+It is the duty of the two assignment clerks to enter of 
+record the assignments and various transfers of lease and 
+sale contracts and to record wills, affidavits, and letters of 
+administration. During the biennium they have recorded </seg>
+
+            <seg id="p040">
+40 
+
+LAND COMMISSIONER'S REPORT. 
+
+5,626 assignments, written 3,365 letters of transmittal. and 
+have issued sale contracts to 21,906.38 acres of land. 
+
+I he delinquent clerk takes charge of the delinquent m 
+its, sends out notices to delinquent contract holders, pie 
+» the delinquent list, serves registered notices of lorire, 
+reinstates forfeited contracts, makes out the auction 
+(, and goes carefully over the 65,000 accounts of the stntf 
+lote every account that is behind with the interest or 
+al due the state. During the past two years 28,000 first 
+ce cards have been issued, 2,964 registered notices serveil. 
+several thousand notices of forfeiture have been sent; 
+02.78 acres of land have been reinstated, besides the cor(ondence 
+which deals directly with this department of 
+work. 
+
+Iie lease contract clerk makes out lease contracts, issues 
+es of the various contracts lost, divides contracts, and 
+» certified copies of the records of the office, extends 
+contracts, and, during the next biennium, will hare 
+ge of the sale contract work. During the past two jean 
+rO.07 acres of land have been leased, 200 certified copies 
+xi, 45 contracts divided, contracts to 36,873.61 acres of 
+have been extended, 925 letters of transmittal written, 
+the work of reappraising 54 counties performed, toer 
+with a large amount of information given to the oftiee 
+
+It is the duty of the stenographer to do the work Incident 
+to a stenographer for all the departments of this office, to 
+copy and file letters, to send out information to bidders for 
+the Board of Purchase and Supplies, and, when the 20,000 
+and more of letters which have left this department are taken 
+into consideration, it can readily be seen that it has been a 
+very busy biennium. 
+
+Ee Commissioner of Public Lands and Buildings is the 
+tary of the Board of Educational Lands and Funds. 
+ill the work of this board outside of the regular board 
+ms is done bv the Commissioner and his force. II </seg>
+
+            <seg id="p041">
+41 
+
+SURVEYING. 
+
+also .secretary of the Board of Purchase and Supplies, whicb 
+\ery three months to open and let the hids for fur 
+nishing supplies to the various state institutions. These bids 
+an carefully figured over in older to lie sure that some item 
+has not been left out, the cost of each item is carefully ¦ 
+inized, total inspected, and all compared with the estimate 
+furnished hy the heads of the institutions. This takes up the 
+lime of the entire office force for several days of each qtUU 
+
+There are many and varied other duties which have to lie 
+performed from day to day that are of greal importance. hut 
+are only incidental, and it would he impossible to enum« 
+them in this report. 
+
+KEL'AKTMENT OF SURVEYING. 
+
+fie statutes of Nebraska •place the government field n 
+plats in charge of the Commissioner of Public Lands and 
+dings, and. in addition to this, the last legislature passed 
+following hill, which was signed by the &lt;lovernor and 
+me a law -7ul v I, LM8: 
+
+An act providing for the appointment- of a state sun 
+and draughtsman in the office of the Commissioner of Public 
+Lands and Buildings, and to prescribe his dir 
+li&lt; it cnuctrd hi/ the leffiflatun of the xlate of .\&lt; broak*: 
+
+|«'tion 1. The Commissioner of Public Lands and Build- 
+I shall appoint a competent and experienced land 
+?r, who shall also "no a competent draughtsman, who shall 
+known and designated as the "State Surveyor ami 
+ughtsman," to take charge nnder the supervision of the 
+unissioner of Public Lands and Buildings of the field 
+¦s, maps, charts, and records of the United States suri, 
+and to perform such other duties as may lie pi 
+he Commissioner of Public Lands and Buildings. 
+
+¦. 2. The Commissioner of Public Lands and Build 
+shall refer to the said surveyor all questions or inquirit 
+lating to sir rievances, or disputes growing out of C6B&gt; 
+flicting surveys of lands or lots. Said surveyor and drang 
+ma;: snail issue and prepare the advice, instruction, and opin </seg>
+
+            <seg id="p042">
+42 
+
+LAND COMMISSIONER'S REPORT. 
+
+I and issue the same under the approval of the Commiser 
+of Public Lands and Buildings. In case a survey is 
+tioned for, he shall "perform that duty and report the 
+e, with the necessary notes and maps, to the Commiser 
+of Public Lands and Buildings, and, when said notes 
+maps are so approved and filed and recorded in the office 
+he county surveyor of the county in which the survey was 
+, shall be prima facie evidence of the correctness thereof. 
+[ it shall be the duty of said county surveyor to record 
+file said notes and maps in the county surveyor's record* 
+he county in which the survey is made. 
+
+Provided, Any person or persons having an interest in the 
+lands affected by such survey may appeal therefrom in the 
+manner provided by law. He shall also prepare and issue 
+under the authority and direction of the said Commissioner 
+of Public Lands and Buildings a circular of instructions to 
+the county surveyors of the state, for their direction and 
+guidance, in the restoration and establishment of lines and 
+preservation of corners in conformity with the laws, rules 
+and regulations governing the surveys of the United States, 
+and established rules of surveying; and for the concise and 
+comprehensive preparation and recording of field notes and 
+maps of surveys. He shall also perform such other duties 
+as the Commissioner of Public Lands and Buildings may 
+require. 
+
+Sec. 3. There shall be paid to the State Treasurer for each 
+day the said surveyor is necessarily absent from the office in 
+making any survey the sum of six dollars per day for the 
+services of said surveyor, and the necessary expenses incurred 
+in making the same. All such fees so received to be paid into 
+the state treasury for the use of the general fund of the state. 
+
+E4. In case of any dispute among owners of land aris¦, 
+or by reason of, any survey of boundaries of lands 
+this state; or, in case of dispute or disagreement besurveyors 
+as to said surveys or boundaries, the same 
+e referred to the said "state surveyor and draughts- </seg>
+
+            <seg id="p043">
+SURVEYING. 
+
+43 
+
+I" for settlement, and he is hereby appointed as arbitrator 
+*ttle and determine such disputes or disagreements as to 
+surveys and boundaries, and whose decision shall be 
+1a facie evidence of the correctness thereof. There shall 
+&gt;aid to the State Treasurer for the services of the said 
+e surveyor and draughtsman in settling and disposh' 
+said disputes and differences the sum of six dollars pet 
+for each day's services actually performed by the - 
+B surveyor and draughtsman, to be paid by the j&gt;;r 
+ctly interested in the said controversy, and said sur 
+aid boundaries, and said sum or sums of money so reed 
+therefrom shall be paid into the state treasury for the 
+tfit of the general fund of the state. 
+
+Sec. 5. All acts and pjfrts of acts in conflict herewith are 
+hereby repealed. 
+
+Acting under the direction of this new law, I appointed 
+and commissioned Mr. Robert Harvey, of St. Paul, Nebraska, 
+state surveyor and draughtsman, the same to take effect mi 
+and after the 10th day of July, 1903. A large amount of 
+work had to be done in classifying, arranging, correcting, and 
+preparing the books, plats, and records belonging to the department, 
+actual field work in various portions of the - 
+in definitely finding obliterated corners and fixing boundary 
+lines where disputes had arisen and reestablishing lost corners. 
+This, with the regular routine work of the coin 
+sioner's office and the services demanded by the Board of 
+Public Lands and Buildings, has occupied the entire time of 
+Mr. Harvey, and, at this time, we have several applications 
+on file requesting his services for field work, which will be 
+taken up in their regular turn and receive proper attention. 
+
+The outside work of this department will steadily increase 
+in proportion as knowledge of its purpose and importance 
+becomes known to the people of the state. In consequence 
+of the performance of this field work the fees to be rec« 
+will increase. However, the work done for the people of the 
+state outside the office, for which fees are received, is incon- </seg>
+
+            <seg id="p044">
+44 
+
+LAND COMMISSIONER'S REPORT. 
+
+siderable in comparison to the regular work required by the 
+l.ind olhYe and the state boards. I attach hereto the report 
+of the state surveyor, which will be of interest to the legMatme 
+and the people at large. 
+
+(From Mr. Harvey's Report.) 
+
+INVENTORY. 
+
+'•The following inventory was taken of the valuable records 
+
+the oAce pertaining to U. B. surveys of Nebraska, which 
+govei nmt'iit, many years ago and since, presented to the 
+
+slate, to-wit: 
+
+4 volumes of field notes of state boundary lines. 
+
+] volume of connections of Nebraska with Iowa and Missouri 
+survc* 
+
+rlume of Standard Parallels cast of the 6th Principal M&lt;ridian. 
+
+
+rume of the Guide Meridian east of the 6th Principal 
+ridian. 
+
+I volumes of the township exterior lines east of the Gth 
+Principal Meridian. 
+
+97 volumes of the township subdivisions east of the 6th Principal 
+Meridian. 
+
+&gt;f the Standard Parallels west of the 6th Principal 
+Meridian. 
+
+7 volumes of the Guide Meridians icest of the 6th Principal 
+.Meridian. 
+
+K volumes of the township exterior lines west of the 6tlr 
+Principal Meridian. 
+
+4 » . -^ volumes of the township subdivisions icest of the 6th 
+Principal Meridian. 
+
+tlume of T. 82 N., Ranges 45 and 46 icest of the 5th Principal 
+Meridian. 
+
+1 volumes of retracementa. 
+
+!&gt; volumes &lt;»f the Pawnee Indian reservation. 
+
+B volumes of theOtoe and Missouri Indian reservation. 
+
+8 volumes of the Winnefaago Indian reservation. </seg>
+
+            <seg id="p045">
+SURVEYING. 
+
+45 
+
+1 volume of the Sioux Indian reservation. 
+
+Eume of the Port McPherson military reservation 
+OM of the abandoned Fort Kearney reservation 
+al of 700 volumes. 
+
+It was discovered that the tield notes and nia|&gt;s of the 
+ey of tlie Sac and Fox Indian reservation had never I 
+with the other records, the surveys baring been executed 
+* contracts with the Commissioner of 'Indian Affa 
+lication was, therefore, made to the Honorable Conimiser 
+of the General Land Office for copies of said notes and 
+s. The notes were borrowed from the 'Indian Bun 
+lie Commissioner, and an excellent typewritten copy was 
+llj forwarded to this office. These were compiled and 
+id into one volume. 
+
+"There were stored away and on the shelves the unbound 
+tii Id notes in MS. the following field notes of surveys, to-wit : 
+
+Survey of the Iowa Indian reservation. 
+
+Bwvey of the Omaha and WinnebagO Indian reservation i f 
+1867. 
+
+Survey of the abandoned Fort McPnenon military reservation. 
+
+
+tnall books of the survey of the '.Missouri River cut 
+near Sioux City. 
+
+¦ resuvveys of IV,\ townships in Grant, Hooker, Cheyenne. 
+and Cherry counties. 
+
+Survev of 'Ash Island.' in Mei-rick countv 
+
+Survey of an island in T. 11 X., II. 8 W.. Merries: county. 
+Survey of an island in Loup River, T. 15 N ., B. 10 W., How- 
+
+ard county. 
+
+tey of an island in Niobrara Kiver, in T. 99 N . Eta. Lfl 
+and 19 \\\, Rock county. 
+
+Survey of additional lines and mffatttli IS in T. -V2 N\. K. •"&gt; \\ . 
+in 1890. 
+
+Survey of T. 31 N., U. 32 W. 
+
+"Of the above there have been compiled and bound the following 
+to-wit: </seg>
+
+            <seg id="p046">
+46 
+
+LAND COMMISSIONERS REPORT. 
+
+1 volume of Sac and Fox Indian reservation. 
+
+1 volume of Iowa Indian reservation. 
+
+rlumes of Omaha and Winnebago Indian reservation, survey 
+of 1867. 
+
+rlume of abandoned Fort McPherson military reservation, 
+survey of 1897. 
+
+1 volume of 'Missouri River cut off,' survey of 1870. 
+
+2 volumes of township exterior lines of nmurtja of Grant, 
+Hooker, Cheyenne, aud Cherry counties. 
+
+rl, 9 volumes, which, added to the 700 volumes, m;ikes a 
+total of 709 volumes of field notes bound in leather. 
+
+-7&gt; original maps of state boundary lines. 
+
+8 original maps of the 6th Principal Meridian. 
+
+¦ original maps of the connection of Nebraska with Iowa 
+and Missouri surveys. 
+
+14 original maps of Indian reservations. 
+
+:; original maps of military reservations. 
+
+34 original maps of Standard Parallels and Guide Meridians 
+watt of the 6th Principal Meridian. 
+
+¦ original maps of township exterior lines east of the 6th 
+Principal Meridian. 
+
+f original maps of township subdivisions and fragmentary 
+surveys. 
+
+»". original maps Ts. 88 and 89 N., Its. 47 and 48 W., 5th P. M. 
+
+f original maps of Standard Parallels and Guide Meridians 
+west of the 6th Principal Meridian, 
+
+t original maps of township exterior lines tccst of the 6th 
+Principal Meridian. 
+
+rl original maps of township subdivisional lines west of 
+the 6th Principal Meridian. 
+
+Total, 2,S86 original maps of government surveys. 
+
+f certified copies of original maps of township subdivisions 
+east of the 6th Principal Meridian — bound in 13 volumes. 
+
+4.'t(&gt; certified copies of original mops of township subdivisions 
+west of the 6th Principal Meridian — bound in 12 vol- </seg>
+
+            <seg id="p047">
+47 
+
+SURVEYING. 
+
+2 certified copies of state boundary lines. 
+
+241 certified copies township subdivisional lines, unbound. 
+Total, 1,144 certified copies of original maps. 
+
+5 letter books. 
+
+1 l)ook of instructions to deputy surveyors. 
+
+rok of statements, estimates of surveys, and annual reports. 
+
+
+2 books of invoices. 
+2 ledgers. 
+
+;} account books. 
+1 record of surveys. 
+1 register of contracts. 
+4 books of computations. 
+
+242 duplicate contracts with deputy surveyors. 
+
+f correspondence of the Commissioner of the OtOMral Land 
+Office and Deputy Surveyors with the Surveyors Goteral, 
+and miscellaneous papers. 
+
+"OFFICE Y\ OKK. 
+
+"A circular of instructions to county surveyors was prepared 
+and printed in pamphlet form and a copy sent fee each 
+county surveyor in the state. In this circular emphasis was 
+given to the subject of the restoration of lost and oblit«i 
+corners; the evidence of, and how to find government corners 
+which are not marked by durable material, witness tea - 
+surface indications; how to divide sections into their legal 
+subdivisions, especially the fractional north and west tiers 
+of sections of the township; for past experience has shown 
+that by far the greater number of questions, disputes, and 
+complaints referred to this office have grown out of a lack of 
+knowledge, or, perhaps, rather a lack of application of tli&lt;&gt; 
+law governing the restoration of corners and subdivision of 
+sections. And closely associated with these subjects is the 
+question of a careful, intelligent and sufficient examination 
+to establish the fact of the non-existence of corners, before 
+proceeding to restore or reestablish lost or obliterated cor- </seg>
+
+            <seg id="p048">
+48 
+
+LAND COMMISSIONER'S REPORT. 
+
+"In order to explain certain matters relating to the - 
+eminent surveys, it is often Decenary to refer to the correspondence 
+of the Commissioner of the General Land Ottce, 
+an&lt;l deputy surveyors witli the Surveyor General, and to lender 
+this more accessible ilnd convenient it was assorted and 
+rearranged. The field notes of the resuivey of thirty nine 
+•iships in Grant, Hooker, Cheyenne, and Cherry counties 
+¦ filed in manuscript, and consist of 3,760 pagea &lt;¦,{' descriptive 
+notes. These have been examined and compared 
+with the forty six accompanying mapfl to insure strict con 
+fortuity therewith. 
+
+Irhe leather bindings of many of the older volumes of Held 
+¦s are greatly damaged by use and deterioration of the 
+her. Ten of those most seriously injured have been rend 
+in order to preserve their contents and render them 
+icealile. Numerous requests for information regarding 
+ind surveying have been referred to this department, 
+er by mail, wire, or in person. Such requests have reed 
+special attention, and all have received answers to 
+r iuquiries, excepting one, which, for want of the neces• 
+data, has been referred to the proper department at 
+
+"Complaint! have been received by the Commissioner from 
+is of school lands in townships resurveyed in Grant, 
+kei\ Cheyenne, and Cherry counties, that the ijoverniiient, 
+¦\iiis did not survey school sections Li and M from the 
+original corners found, but from new corners, and 'surveyed 
+out" claims of settlers within the original boundaries of certain 
+school sections, thus causing a loss of land to the lessee 
+and the state. 
+
+"The matter was referred to this department for information, 
+and upon examination of the field notes it was found 
+that the snrveyin&lt;; deputies had not been required to survey 
+said sections from original corners found. The position was 
+taken that inasmuch as the state by t lie enabling act \\ 
+donee of the government, of sections ir» and 86 when sur- </seg>
+
+
+            <seg id="p049">
+49 
+
+veyed, and subsequent camgnrnkmtd legislation, departmen 
+tal decisions or inst rut-t ions could not deprive it of these 
+vested rights, and that the deputy surveyors should have 
+turn required by instructions to survey school sections 1 ?» 
+and 36 from the original government cornel's when found. 
+The facts as ascertained we#e reported to the Commissioner. 
+In the matter of supplying applicants with certified copies 
+of field notes and maps, this has been attended to as promptly 
+as time and the work of the office would permit. It fre 
+ipiently occurs that applications for field notes are a&lt; •&lt; -om 
+panied by special requests for copies of the 'Sped*! Instruc 
+; ions' issued to the contracting deputies, and also the requirements 
+of the printed manual governing them in the execution 
+of certain surveys. Frequently the reports of special exam 
+inations in the field by the inspectors of surveys, the correspondence 
+of the deputies, and even that of the Commissioner 
+of the General Laud Office must be examined to secure the 
+necessary data, all of which requires time and considerable 
+research, and it emphasizes the necessity for continued effort 
+to place all of the records of the office in the l&gt;est possible eon 
+dition. in order to make them not only valuable, but available 
+and convenient for ready use. In addition there has 
+been the general work of supplying the office force with such 
+information as may be required from the maps and field 
+notes; also of furnishing drafts of special surveys and allotments 
+pertaining to the state lands, and such other duties as 
+have been required by the Commissioner. Recently there has 
+been commenced, under his instructions, the construction of 
+r of maps of the different state institutions to show the 
+location, description, when and how acquired, and the exact 
+it umber of acres of each tract of land set apart or acquired 
+1&gt;\ the state for their use. This work has not yet been com-1 
+CU. </seg>
+
+            <seg id="p050">
+50 
+
+LAND COMMISSIONER'S REPORT. 
+
+"FIELD WORK. 
+
+"Before the law providing for the appointment of a state 
+
+surveyor and draughtsman and prescribing his duties, became 
+
+operative, applications were received by the Commissioner 
+
+requesting the services of the state surveyor to settle con- 
+
+troversies over disputed lines and corners. These were re- 
+
+ferred by him to this department for adjustment and, to- 
+
+gether with complaints received to date are tabulated below, 
+
+giving&gt;«the name of complainant, location, time required, and 
+
+the per diem charged and paid to the Commissioner of Public 
+
+Lands and Buildings, together with other field work required 
+
+by the Commissioner for the benefit of the state. 
+
+tl, M. B. Trussell et al., T. 25 N., R. 26 W., Cherry 
+county, 9 days |54 00 
+
+No. 2, County clerk of Wheeler county, 5 days 30 00 
+
+No. 3, County attorney Greeley county, 2 days 12 00 
+
+No. 4, John Reis, Scotia, Greeley county, 1 day 6 00 
+
+f5, Casper H. Meier, lot 3, 16-11-8 W., Merrick 
+county, 3 days 18 00 
+
+§6, Theo Seivers, S.E. I S.E. } and lot 8, 16-10-9 
+W., Hall county, including examination in March, 
+
+3 days 18 00 
+
+No. 7, August Jeudes, by his attorney, M. H. Weiss, of 
+Thayer county, 3 days 18 00 
+
+fS, Geo. Mulligan, North Loup, Valley county, by 
+his attorneys, Clement Bros., 6 days 36 00 
+
+No. 9, W. B. Green, North Loup, Valley county, $ day 3 00 
+
+BIO, John Brennick, North Loup, Valley county, 
+3 days 18 00 
+
+No. 11, Geo. Mulligan, North Loup, Valley county, 
+
+1 dav 6 00 
+
+No. 12, W. E. Meagley, supt. Santee Indian agency, 
+Knox county. 
+
+No. 13, W. If. Parker, Cotesfield, Howard county. </seg>
+
+            <seg id="p051">
+SURVEYING. 
+
+51 
+
+"ORDERS RECEIVED FROM THK COMMISSIONER OF PUBLIC LAM'S 
+
+AND BUILDI 
+
+tl, To survey fract. W. } N.W. 15-7-10 \\\. south of 
+M. P. R. R., for Hastings Asylum 4 dftjl 
+
+t2, To run levels for new buildings at Norfolk Asylum 
+2. la\s 
+
+t3, To survey foundations for buildings at Norfolk 
+Asylum 2 (bn &gt; 
+
+t4, To survey fract. E. | N.W. 15-7-10 W., for Hastings 
+Asylum - daj i 
+
+t6, Preliminary examination of road W. \ 16-20-8 
+W Sdayi 
+
+HISTORY OF COMPLAINTS AND ORDERS 
+
+Complaint No. 1 was filed by M. 15. Trussell et al. of Ch&lt; 
+county, alleging that the county surveyor had ignored Umg 
+recognized government cornel's and established new corners, 
+causing uncertainty and doubt as to the identity of their 
+boundaries. I left Lincoln on the evening of Septembc 
+'.. and began to survey September 30, returning to Lincoln 
+October 9. During the seven days of work fifteen 
+eminent corners were found and perpetrated, out of twenty 
+two for which search was made. The principal corner in 
+dispute (4, 5, 8, and 9, T. 25 N., R. M W.) was found at the 
+foot of a bank or terrace, and near the edge of a swamp. It 
+had been covered up for many years by the fallen walls 
+sod house, and overgrown with rank grass. There has ' 
+no appeal from my findings. 
+
+Complaint No. 2, filed by the county clerk of Wheeler 
+county, was for the purpose of settling a dispute between adjacent 
+land owners in order to enable the county to locate a 
+road on the line between sections 31 and 32, T. 22 N., R. 11 
+W. This survey was begun August 13, 1908. It was claimed 
+at the time that there was not an authentical government 
+corner in the township. The original survey was made in 
+
+r5, To survey fract. N. of B. ft M. K. R. in W. £ 
+N.W. 15-7-10 W., for Hastings Asvlum 1 «1m\ </seg>
+
+            <seg id="p052">
+52 
+
+LAND COMMISSIONER'S REPORT. 
+
+1 and 1872. The surface of the country is rolling and 
+sandy. In three days six of the seven corners for which 
+search was made were found, some on the slopes of the sand 
+hills, and others on Hat ground, or in small basins. All of 
+the parties acquiesced in the survey. 
+
+OmpUini No. .1, made by the county attorney of Greeley 
+ity, was on account of a dispute growing out of a county 
+road located by the county surveyor. This dispute originally 
+grew out of the action of a county surveyor establishing the 
+corner of sections 15, 10, 21, and 22, T. 18 N., K. 11 W., in 
+the bottom of a ravine, several years before. Some of the 
+adjacent land owners claimed that the original corner stood 
+on the slope of a hill about two rods away. The contro\ 
+carried into the district court, appealed to the supreme 
+court, tried the second time in district court, and taken under 
+advisement, when the trial judge died. The accrued ¦ 
+amounted to about $500. The survey was begun August If, 
+on my return from Wheeler county, and resulted in finding 
+the original corner in dispute on the slope of the hill, about 
+40 feet east of the corner located in the ravine by the excounty 
+surveyor. The total cost of the examination to the 
+county was $."58.50. I returned to Lincoln August 17, and 
+have not heard of an appeal being taken from my findings. 
+
+"Complmint No. J/, filed by John Keis of Scotia, (Jn-eley 
+county, was a dispute over the location of the original corner 
+¦ it ions 21, 22, 27, and 28, T. 18 N., H. 12 W., alleging 
+that the county surveyor had ignored the existence of a corner 
+which had been long recognized as the original, and had 
+established a new corner about three rods west. On November 
+12, 1903, I made search for the corner at the place pointed 
+out to me as the generally recognized corner. Although the 
+ground had been mutilated by road grading and previous 
+digging, evidence of a corner was found, but this was not considered 
+conclusive as to its original character. However, Mr. 
+8, who owned the N.E. \ of section 28, elected to stand on 
+his right of adverse, peaceable, and uninterrupted possession </seg>
+
+            <seg id="p053">
+53 
+
+
+by himself ami grantors, for more than twenty years, to establish 
+his title without the intervention of further surv« 
+
+I .'om plaint So. .7 was tiled by Casper II. Meier of section 
+T. 11, li. S W., Merrick county, alleging t tint la- was 
+lessee of lot 3 of said section, and eomplauung t hut tlute 
+river had washed away about one-half of said lot, and 
+; he ought not to be made to pay for the same. On March 
+ind 30, 1904, I surveyed the lot, and, from the data ob 
+ed, calculated the area and found it had been mli 
+ii 3»&gt;.95 acres to lt&gt;.17 acres, a loss of 20. 7S a&lt; r 
+
+"GompimiHt BTO. (&gt; was lied by Tkeo Seivers, the lessee of 
+the S.E. I B.E. •, and lot 8 section Hi, T. 10, B. !&gt; W., Hall 
+county, alleging that the IMatte river channels had washed 
+away a large tract of land, and that he OVght not to be made 
+to pay for the loss. On August 16 and 17. 1964, I subdivided 
+
+KS.E. $ of said section Hi, meandered the banks of the 
+mels, and found the area ;&amp;lt;» be t&gt;4.M anvs, a loss of - 
+s from the original amount. 
+
+•nnplaint \o. 7, tiled for August Jeudes of Thawr 
+county, by his attorney, M. II. Weiss of Hebron, alleging that 
+lie was the owner of the S.W. { of section t, T. 1, II. '¦'&gt; W., 
+containin&lt;r LB1JM acres, and that his neighbor on the N.W | 
+had 141S.S(&gt; acres by government survey, and that, thiouuh 
+the action of surveyors and neighbors, he was wrongfully de 
+privetl of several acres of his land. On June 30, 1904, I made 
+a preliminary examination of the matter in dispute by running 
+a random line from'the northwest corner of amid section 
+6 south to the Kansas Nebraska line, and found the distance. 
+by my chaining, to be 1.72 chains less than six miles. pra&lt; ti 
+¦ ally agreeing with II. E. Headley. county surveyor, who prorated 
+hi* distance and established the corner of sections 1. ti. 
+7. and 12, and the \ section corner between sections 1 and ti. 
+by measuring off his calculated distance from the aorta 
+coi nir of section t'». The examination showed that the farms 
+( f l(»0 acres were each practically 40 chains, or half a mile 
+li ng north and south, from the Kansas line, north •" 
+to where Mr. Jeudes' fence had formerly been placed. But </seg>
+
+            <seg id="p054">
+54 
+
+
+he had permitted his neighbor on the N.W. \ to move his 
+e south to the \ section corner set by the county surveyor. 
+The owners of sections 7 and 12 claimed their S.W. and S.E. 
+corners, respectively, to be a stone set by a private surveyor 
+ut eighteen years ago. The distance from this stone north 
+to the corner of sections 1, 6, 7, and 12, established by Mr. 
+illey, was about seven rods too short, but the owner of 
+W, } of section 7 had claimed his north line to be about 
+u rods north of said corner, and had held peaceable possession 
+for more than ten years. Mr. Jeudes was ? therefore, 
+caught between these two opposing systems of measurement. 
+and wrongfully made to lose several acres of valuable land. 
+A copy of my field notes and maps were sent to Mr. Jeudes' 
+rney, who has the matter under advisement. 
+
+f'omplaiiit Wo. 8, filed for Geo. Mulligan, by his attorn 
+lent Bros, of Valley county, alleged that the south side 
+east end of the N. £ S.W. }, section 4, T. 17 If., B. 13 W.. 
+in dispute, and requested a survey by the state surveyor. 
+
+"The survey was begun July 12, 1904, and found that the 
+principal cause of dispute was over the location of the original 
+\ section corner on the south line of said section 4. Previous 
+to this time, two county surveyors, acting jointly, had 
+decided that the original corner was lost or obliterated, and 
+reestablished it. The line was examined by the county surveyor's 
+successor and the work affirmed. Afterward, a private 
+surveyor reviewed the work and established another \ 
+corner more than two rods distant from the first Having 
+&gt;ured the entire line, and having heard the representations 
+of the parties, I concluded that the original corner was 
+still in existence, and proceeded to make a thorough examination 
+for the same. After one day's search with six men, we 
+found it in the middle of the traveled road, more than twenty 
+from either of the corners heretofore established, as de- 
+Wed. Original corners were found at the N.W. and NJS. 
+corners of the section, and the \ section corner on the east 
+line. Tl tion corner on the north line having been destroyed 
+by a wagon road, was reestablished. This enabled </seg>
+
+            <seg id="p055">
+55 
+
+SURVEYING. 
+
+tto subdivide the section into quarters, and the S.v. 
+N. \ and S. \, by running a line east and west through 
+center as required. I am informed that the disputant* 
+i put their fence on the line so established. 
+
+"Complaint No. 9, filed by W. B. Green of North Loup, Val 
+ley county, alleged that the county surveyor had, in the surv.v 
+of the line between sections 8 and 9, T. 17 V. B. IS W . 
+established a section corner between said sections about t \\ &lt;&gt; 
+rods west of the original corner, and that he ignored and infused 
+to search for the same. At the close of the survey under 
+complaint No. 8, on July 16, I proceeded to make an examination 
+of the matter in dispute. Mr. Green contends 1 
+that there existed an original corner; that he had known it 
+for thirty years; that, while yet plainly to be seen, he had 
+driven a red cedar stake in the corner. At the place pointed 
+out I removed the earth to a depth of about 15 feet loi 
+feet wide and 1£ feet deep, and found the original wit 
+pits, and midway between was the mark of the original post. 
+About one foot northeast was found a red -cedar stake as described 
+by Mr. Green. I perpetuated the corner at the j 
+indicated by the mark of the post. The adjacent owners acquiesced 
+in my decision. 
+
+"Complaint No. 10, filed by John Brennick et al. of North 
+Loup, Valley county, alleged that the county surveyor had 
+established \ section corners on the four sides of section 9, 
+T. 17 N., R. 13 W., and subdivided the section therefrom, and 
+that since the original J section corners had been found on 
+the north and west lines there was a dispute in regard to the 
+J corners on the east and south lines, and requested the I 
+surveyor to settle the controversy. I began the survey September 
+12, and, after a half day's search, found the original 
+\ section corner on the south line, at the edge of a pi" 
+field, where it had been plowed over for thirteen years. It 
+was more than two rods distant from the corner establiby 
+the county surveyor. After a half day's search the 
+inal section corner on the east line was found at the 
+of a plowed field, where it had been plowed over for twenty- </seg>
+
+            <seg id="p056">
+56 
+
+
+Kr years. The section was then subdivided into quai 
+I the N.W. I and S.W. i divided into E. } and W. i, as 
+uired. The parties in dispute acquiesced in the surve.\ . 
+
+"Complaint No. 11, filed by Geo. Mulligan of North Lou p. 
+Valley county, alleged that the county surveyor, in the sur&lt;&gt;f 
+the line between sections 31 and 32, failed to find the 
+original corner of sections 5, 6, 31, and 32, of townships 17 
+and 18 N., range 13 W., and had established a new corner, 
+and requested the state surveyor to settle the dispute. At 
+the close of the survey of section 9, under complaint No. 10, 
+I proceeded to make a search for said original section corner. 
+The point claimed as the location of the corner was under a 
+wagon grade about 18 inches high and at the edge of a slough. 
+The grade was removed, and at the bottom, which was the 
+surface of the original ground, was found the decayed point 
+of the original post and the four witness pits to the corner. 
+The corner was perpetrated with durable material. This corner 
+was eight feet south of the corner established by the 
+county surveyor. All of the adjacent owners conceded the 
+(&lt;»iner found to be the original corner. 
+
+'out plaint Wo. 12 was recently filed by the superintendent 
+of the Santee Indian agency, Knox county, who complained 
+of a dispute between the Indians and white settlers on account 
+of a conflict of boundary lines, and requested that the 
+state surveyor be sent to make a survey. This case is held 
+in abeyance awaiting action, looking to a joint survey of pnrernment 
+surveyors and this department. 
+
+Eotnplaint No. 13 was recently filed by W. M. Parker of 
+ifield, Howard county, requesting a survey of section is. 
+! N., R. 11 W., on account of a disagreement with tlie 
+ty surveyor. This case is still pending. 
+
+En all of the above surveys, excepting Nos. 5, 6, and 7, the 
+notes and maps have been sent to the county surveyors 
+e respective counties for record. 
+
+Knhr Xo. 1 was received October 16, 1903, from the Coinoner 
+of Public Lands and Buildings, authorising a SOT&gt;f 
+the fractional A\ . i N.Y\ ion 15, 1. &lt;, K. 10 </seg>
+
+            <seg id="p057">
+57 
+
+
+t South of the M. P. 1{. II., Adams county, for the purpose 
+itabtiaaing the boundary lines and ascertaining the area 
+¦eof, preliminary to the purchase of said tract l&gt;y the state 
+the use of the asylum at Hastings. Nebraska. The work 
+I)erformed October 17-20, 1903. 
+
+1&gt;nl&lt; r .\ o. 2 was received from the Commissioner DtCf ¦ 
+38, 1968, to run the preliminary levels at the Norfolk 
+, to enable the architect to draw the plans for the four 
+buildings to he elected. The work was performed he 
+her 29 and 30, 1903. 
+
+t Order No, ¦&gt; was received from the Commissioner IYhru-11, 
+1904, to survey the fractional B. 1 N.W. \ section ir&gt;, 
+N., IJ. 10 W., Adams county, for the fmTfOWK &lt;&gt;t estabing 
+tJie boundary lines and ascertaining the arcii of 
+t, preliminary to the purchase thereof by the state for 
+use of the asylum at Hastings. The work was \)utwmvi 
+ruary 12 and 13, 1904. 
+
+t')rdcr A'o. -) was received from the Coinmissio'iier March 
+1904, to survey the lines for the foundations of the four 
+bttildillga to lie erected at Norfolk Asylum, according 
+lie plans of the architect. The work was performed March 
+.nd 18, 1904. 
+
+••O/v/rr No. 5 was received from the Commissioner Jul 
+l ( .t04, to survey fractional \Y. \ N.W. ] section IS, T. 7. 
+H. 10 W., Adams county, belOBging to Win. Kerr, lyiag south 
+M. P. H. 1{. and north of the I?, ft M. H. ]{., for the pvpOK 
+of establishing the boundary lines and MC f rtalliiag the 
+thereof, preliminary to purchase by the state for the uthe 
+asylum at Hastings. The work was performed on Julv 
+
+"Order No. 6* was received from the Commissioner November 
+14, l!&gt;04, to make an examination of a county road running 
+across the YV. ] section K"&gt;, T. 20, K. 8 W., BOOM 
+county; also of the practical)ility of a road along the 
+line of said section 16, and to make an approximate estimate 
+of the cost of constructing a passable road tor ordinary 
+travel. After examination, November 1"&gt;, and report made </seg>
+
+            <seg id="p058">
+58 
+
+
+that the road as traveled followed a ridge through the S.Y\'. 
+i and a part of the N.W. J and was a permanent damage to 
+the land ; also that the route for a road along the west line of 
+the section was practical and could be made passable for 
+ordinary travel by the expenditure of $195 for 1,320 yards of 
+grading and the construction of two culverts. 
+
+ilt will be seen from the history of the foregoing comints 
+that the greater number have been caused by the 
+ure of the local surveyors to make a thorough and exstive 
+search for the original corners established by the 
+ernment surveyors. It seems to have been taken for 
+nted by surveyors that the government corners were either 
+or obliterated, as investigation into the conditions set 
+h in the complaints shows that very little, if any, search 
+made by local authorities for original corners. 
+
+It was to correct such indiscriminating and unsafe meththat 
+particular stress was given to the subject of 'lost 
+obliterated corners and their restoration' in the pamt 
+of instructions recently issued from this department, 
+i has been taken to distribute these pamphlets among 
+owners particularly interested in restoration of origgovernment 
+corners, as well as to local surveyors in the 
+'. Carelessness or ignorance of this subject is inexcusin 
+the surveyor, as it is a source of endless litigation, 
+one of the objects of this department to minimize this 
+
+"The original field notes and maps of government surveys 
+of the state are on file in this office. Each county should have 
+on file at the county seat a copy of the entire field notes of 
+said county for general use, and to assist its surveyor in making 
+surveys. 
+
+"This department is ready at all times to assist surveyors 
+with information or suggestions on all subjects that pertain 
+to land surveying, and especially the restoration of lost and 
+obliterated corners." </seg>
+
+            <seg id="p059">
+59 
+
+
+BOARD OF PUBLIC LANDS AND BUILDINGS. 
+
+E chairman of the Board of Public Lands and Buildii 
+ire to report to you, and through you to the legislature. 
+e disposition of the several amounts made by appropriaby 
+the legislature of 1903 for the various slate iustituaud 
+public buildings under control of this Hoard. 
+
+I he legislature of 1003 made an appropriation of fl5,»Hin 
+the purchase of additional land for the asylum for chronic 
+me at Hastings. After duly advertising for propo 
+Board, on October 9, 1903, purchased the E. i S.E. i 
+'-10, containing 80 acres, at the price of $3,2."&gt;0, and &lt;&gt;n 
+ember 7, 1903, purchased part of the W. | N.W. \ L5-7-10, 
+taining 50.51 acres, for $2,454, and on March 20, 1904, 
+chased part of the E. i N.W. \ 15-7-10, containing 70.37 
+m, for 93,298.59, and on July 25, 1904, purchased part ti 
+\V. } N.W. i 15-7-10, at the price of |l,000, making the 
+il acreage of land purchased 221. til acres at a price of 
+102.59. There was $6 expended for advertising for bids, 
+ing $4,991.41 unexpended in this appropriation. 
+
+I in appropriation of f 100,000 was made by the legislature 
+I 903 for the erection of new buildings at the Hospital for 
+Insane at Norfolk. After advertising for bids, the Board, 
+February 20, 1904, awarded contract for the erection and 
+rpletion of an administration building and three cottages 
+said institution to the Capital City Brick and Tile Co. 
+the sum of $96,975, said company having submitted the 
+est and best bid. The buildings, at the time this report 
+i made, were rapidly nearing completion, and, when finjd, 
+will be a credit to the state. 
+
+The legislature of 1903 appropriated $4,000 for the erection 
+and completion of a commissary and quartermaster's buildand 
+$2,000 for the erection and completion of a laundry 
+building at the Soldiers' and Sailors' Home at Grand Island. 
+The State Architect was instructs by tlie Hoard to secure 
+liids on material, and on July 29, 1904, having secured the 
+necessary bids, the State Architect was instructed to &lt; 
+and complete said buildings, at a cost not to exceed $5,921.67. </seg>
+
+            <seg id="p060">
+60 
+
+
+I lie legislature of 1903 appropriated |20,000 for the erecof 
+a hospital building at the Soldiers' and Sailors' Home 
+lilford. After having advertised for bids, the Board, on 
+il 7, 1904, awarded the contract for building said hospital 
+I. T. Ward &amp; Co., for the sum of 18,090, and afterwards 
+le a change in the contract, it being deemed necessary to 
+in stone facings up to the water table at a cost of $735. 
+t amount was added to the contract price, making a total 
+19,425. 
+
+The legislature of 1903 appropriated f 13,500 for the erection, 
+completion and equipping of a joint hospital for Soldiers" 
+and Sailors" Homes at Milford and Grand Island, and 
+$ 13,302.21 of this amount was used for repairs at the Soldiers' 
+Home at Milford. 
+
+The legislature of 1903 appropriated $2,500 for the purpose 
+of installing an electric lighting plant at the penitentiary. 
+After having advertised for bids, the Board, on October 
+13, 1903, awarded the contract to the Western Electrical 
+Company for the amount of $2,435, and this institution now 
+its own lighting plant, which furnishes perfect light for 
+the whole establishment at a cost greatly reduced from the 
+amounts paid under the old method of renting lights froaa 
+the city. There was also appropriated by the legislature of 
+1903, $80,000 for the erection of 240 steel cells and sewerage. 
+The Board, after having advertised for bids, on May 12, 1903, 
+awarded a contract to the Van Dorn Iron W T orks Co. for 156 
+(tils for the amount of $69,030, and on March 9, 1904, 
+awarded a contract to the same company for 84 cells of the 
+same kind, at a cost of $9,982. These cells are now all in 
+place and, with the excellent sanitary sewer system installed, 
+give ample room for housing the inmates of the institution 
+in a comfortable manner, and giving to the state one of the 
+and most up-to-date prison services in the country. 
+There is a balance unexpended of this appropriation of 
+
+She legislature of 1903 appropriated the sum of $26,000 
+the completion of the administration building at the peni- </seg>
+
+            <seg id="p061">
+61 
+
+APPROPRIATIONS. 
+
+tentiary, and the sum of $5,000 for furnishing 1 lit* same. I he 
+Board advert ised for bids for the completion of the building, 
+and on March 10, 1903. awarded the contract to H. T. W 
+¦&gt;. for the sum of $23,500. The electric wiring of this 
+building and other necessary expenses not under contract to 
+linish tlie building exhausted the remainder of the appropria 
+tii n. The Hoard advertised for bids for furnishing this building, 
+and awarded contracts to several parties, which on 
+traits were completed and the building furnished in a mat, 
+tasty and substantial manner, with a balance of $30.54 of the 
+appropriation unexpended. 
+
+There was appropriated by the same legislature $3,000 for 
+building and furnishing a convicts' kitchen at the penitentiary, 
+and f 6,000 for repairing the west building. The P. 
+authorized the warden to secure contracts for the material, 
+which he did, and, under his supervision and that of the Stale 
+Architect, the kitchen was built and the west building was 
+repaired, some necessary furniture was purchased and installed, 
+and there remains a balance unexpended of these 
+funds of $1,621.15. The kitchen is built separate and away 
+from the main building, and is connected with the com 
+dining room by a tunnel, through which the food is conv&gt; 
+in ¦ car on tracks. By this means the odor arising from the 
+kitchen is kept away from the main building, and there has 
+been excellent service for feeding the prisoners instituted. 
+
+The legislature of 1003 appropriated f 2,500 for the erection 
+of a cold storage plant at the institution for feeble-minded 
+youth at Beatrice. After having advertised for bids for same, 
+the Hoard, on April S, 1004, awarded the contract for build- 
+Mid plant to Louis Werner for the sum of $2,500. 
+
+There was also appropriated ?l,000 for the building of an 
+addition to the kitchen at this institution, and, after having 
+advertised for bids for same on March 9, 1904, the &lt; on' 
+awarded to ltutherford &amp; Hickman in the sum of ftl 
+
+The legislature of 1903 appropriated $3,000 for the 
+of a Public Comfort building at the State Fair Grou </seg>
+
+            <seg id="p062">
+62 
+
+LAND COMMISSIONER'S REPORT. 
+
+Bids were advertised for, and on July 21, 1903, a contract 
+awarded to Campbell Bros, for the erection of the same 
+for the sum of #2,735, and the building was erected and ready 
+for use during the state fair of 1903. 
+
+The legislature of 1903 appropriated $1,885 for improving 
+the water plant at the Capitol building, and $1,200 for resetting 
+the boilers at the power plant at the same place. After 
+having advertised for bids, the Board, on May 20, 1903, 
+awarded the contract for these items to Joseph Burns for the 
+sum of $2,89."). The work was done, and is a material improvement 
+to the water supply of the building. 
+
+There was appropriated at the same time $1,000 for the 
+-t ruction of an underground ammunition storage house 
+muection with the office of Adjutant General at the Capitol 
+building. The State Architect has the plans and specifications 
+for same under way, and the building will be pushed 
+ompletion as soon as practicable. 
+
+ment steps, to replace the old wooden ones, have been 
+tructed at the northwest corner and on the north side and 
+on the west side of the Capitol grounds, at an expense, as per 
+contract, of $2,536.59, the same being a part of and being 
+iv from the $7,000 appropriated for the care and repair of 
+the Capitol building and grounds. These steps add greatly 
+to the appearance of the grounds and are much better ;ind 
+safer than the old ones. 
+
+There was $10,000 appropriated by the legislature of 1903 
+for paving Sixteenth street between H and K streets, and H 
+•t between Fourteenth and Sixteenth streets, surrounding 
+sides of the Capitol grounds and in front of the Governor's 
+mansion. This work has been satisfactorily done, 
+and the expense was paid in the amount of $7,320.92 on November 
+19, 1904. 
+
+The legislature of 1903 appropriated $5,000 for the construction 
+of a barn at the Hospital for Insane at Lincoln. 
+The superintendent of the institution was authorized by the 
+Board to procure bids on material necessary and to use as </seg>
+
+            <seg id="p063">
+63 
+
+RECOMMENDATIONS. 
+
+much institution labor as possible in the construction. In 
+accordance with his instructions, the superintendent procured 
+bids, bought the material, and completed the barn, and 
+all of the appropriation was expended. 
+
+(ie members of the Board of Public Lands and Buildings 
+ng the biennium just closed have given their attention to 
+administration of the different state institutions as 
+;ly as their other duties would permit. They have urged 
+1 the superintendent in charge of the institution to keep 
+in the appropriation made by the last legislature, and 
+iake no expenditure where not necessary. Each superinent 
+has been pleased to cooperate with the Board, and 
+reports of these institutions, as given elsewhere in this 
+rt, are, indeed, gratifying. 
+
+The large and varied amount of work demanded of a 
+of the state officers who composed the Board of Public Lands 
+and Buildings, in addition to this supervision of the various 
+institutions, is such that it is impossible for them to look 
+into the details of the management of each institution as 
+much as should be done. It is made the duty of this Board 
+to examine into the condition of the buildings and gr&lt; mi in Is. 
+the manner of conducting the same, as well as to examine the 
+accounts and records of all the institutions, and to report 
+quarterly their findings to the Governor. As this can not be 
+done directly by the full Board, I would recommend, as in 
+my former report, that the coming legislature pass a suitable 
+measure, directing that the Board of Public Lands and Buildings 
+appoint a state accountant, who shall have power to investigate 
+the management and the books and records of the 
+several institutions, to act as clerk to the Board of Public 
+Lands and Buildings, and the Board of Purchase and Supplies; 
+to take an inventory of the supplies on hand in each 
+institution quarterly, so that the Board may act more intelligently 
+upon the estimates for supplies, and to check up the 
+vouchers drawn upon the various funds in payment for the 
+supplies furnished these institutions. This would relieve the </seg>
+
+            <seg id="p064">
+64 
+
+LAND COMMISSIONER'S REPORT. 
+
+Ete Board of the* necessity of acting apoa matters that 
+e before them that they are unfamiliar with, and would, 
+ted, be satisfactory to the Board and th&lt;^ superintendents 
+barge of the state institutions, and, in my opinion, would 
+lit in a great saving to the state. 
+
+AN IMPORTANT RECOMMENDATION. 
+
+I wish in this report to call the attention of the legislature 
+to the fact that in the vaults of the Land Commissioner's ofare 
+the books and papers which affect the title of nearly 
+three million acres of state lands, the deeds to the various 
+state institutions, two and a half million dollars' worth of 
+s given by different individuals, made payable to the 
+state, for the purchase of lands held under sale contract, the 
+school laud abstract books, school land ledgers, in which are 
+kept the accounts between the state and her contract holders; 
+the records of the various boards, the government plate and 
+field notes, and a large amount of invaluable correspondence. 
+These are kept in pasteboard boxes ou wooden partitions, or 
+upon wooden rollers resting in wooden frames. If the state 
+Capitol should burn, I feel that these records would all be 
+royed, and, if once destroyed, the loss would be incalculable 
+to the state, and it would be impossible to replace them. 
+The cost to the state to replace the abstract books and school 
+land ledgers would reach into the thousands, and at the same 
+time cause the state administration and the people who hold 
+B and sale contracts an endless amount of trouble and, 
+perhaps, litigation. 
+
+I would, therefore, recommend that the legislature take imiate 
+action and have placed within these vaults steel fixtures 
+instead of the pasteboard boxes and wooden frames. 
+While the cost of samfc will be considerable, the importance 
+of the change can be readily seen upon a passing investiga- 
+
+In the vaults of the Secretary of State's office, upon similar 
+frames and same kind of boxes, are kept the original laws. </seg>
+
+            <seg id="p065">
+RECOMMENDATIONS. 
+
+65 
+
+these should be replaced by steel fixtures, the same as recommended 
+for the Land Commissioner's department. 
+
+CONCLUSION. 
+
+i desire at this time to express my appreciation to the 
+erintendents and other officers in charge of the various 
+itutions of the state for their hearty cooperation, for their 
+lifest interest in keeping within the appropriations, for 
+r careful expenditure of the state's funds, and for their 
+ly courtesies extended to me during the past four years; 
+their management of the institutions on a high plane withfriction 
+or scandal, and at a cost that is, indeed, gratifyto 
+every one who has any knowledge of institutional life. 
+
+twish to express my gratitude to the several state officers 
+vidually for their hearty support and courteous treatment 
+ing my term of office. I desire to thank them one and all 
+their many acts of kindness in the discharge of my official 
+lee. 
+
+I would especially desire to express my appreciation of the 
+able assistance rendered by my deputy, H. M. Eaton. His 
+work has been done in such a thorough and conscientious 
+manner it gives assurance that the people of the state made 
+no mistake in electing him as Commissioner, and that the 
+business of the office will in the future be in good hands. He 
+has, indeed, been most faithful and competent. 
+
+I sincerely thank the members of my office force for their 
+ilty to me and for the prompt and efficient manner that 
+work with which they have been entrusted has been perned. 
+With this, I close my four years of service as Comnoner 
+of Public Lands and Buildings. The work, in the 
+n, has been pleasant, and I have used every effort to cont 
+the business of the state in a business manner. I can 
+say I am fully satisfied with what I have been able to 
+&gt;mplish, but I feel that great progress has been made in 
+ing care of the work that comes before this department 
+iall with pleasure submit the progress made and the work </seg>
+
+            <seg id="p066">
+66 
+
+LAND COMMISSIONER b REPORT. 
+
+done in my department to the kind consideration of the people 
+of the state. 
+
+GEOHGE D. FOLLMEK, 
+
+Commissioner Public Lands and Buildings. </seg>
+
+         </p>
+		    </body>
+	  </text>
+</TEI.2>

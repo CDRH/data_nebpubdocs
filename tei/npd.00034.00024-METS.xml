@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00034.00024">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the
+                            Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno>00034.00024</idno>
+            <availability>
+               <p> </p>
+            </availability>
+            <date>2007</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>THE UNIVERSITY OF NEBRASKA AGRICULTURAL EXPERIMENT STATION LINCOLN, NEBRASKA, U. S. A.  HOW TO COMBAT THE HESSIAN FLY</title>
+               <date value="1914">1914</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+	        <change>
+	           <date>2007-09-13</date>
+	           <respStmt>
+	              <name>Katherine M. Heupel</name>
+	           </respStmt>
+	           <item>Enrichment</item>
+	        </change> 
+        <change>
+            <date>2006-11-28-05:00</date>
+            <respStmt>
+               <name>OCLC Online Computer Library Center Inc.</name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <seg id="p001">Agricultural Experiment Station LINCOLN, NEBRASKA, U. S. A. PRESS BULLETIN No. 45 (Distributed August 15, 19U) HOW TO COMBAT THE HESSIAN FLY Fig. 1. The Hessian fly: adult female at left, adult male at right — both enlarged several times. (Rearranged after Webster, Circular 70, Bureau of Entomology, and Marlatt, Farmers' Bulletin 132, U. S. Department of Agriculture.) I THE HESSIAN FLY (Mayetiola destructor Say).— In spite of the ab - lally dry weather of the past four seasons, a condition generally unfavor - to the Hessian fly, that important grain pest has succeeded not only in maintaining itself in south-eastern Nebraska, but has actually been nuously on the increase from year to year, until during the past fall spring there was more fly in the wheat than had been present in this since the outbreak of 1904-05. The affected area, as determined from reports received at the Experiment Station and the field investigations by State Entomologist, extends westward to the breoken line shown on the wing map isee last page), nearly reaching the western limit of distribution e insect in this state. The most seriously affected area, however, includes ■ounties of Richardson, Nemaha, Johnson, Pawnee, and southern Gage, « there is much fly in the wheat stubble at this time. As there is no t, except possibly the chinch-bug, capable of causing greater damage to vheat crop than the Hessian fly, it is highly desirable that proper control </seg>
+            <seg id="p002">LIFE-HISTORY. — Considering the Hessian fly as it prevails in Nebraska, a two-brooded insect, in normal years about the following round of life occurs: The adult flies of the fall brood appear in the fields early in September, and the females scatter about to lay their eggs on the young wheat plants as soon as they are large enough. These eggs are laid in regular rows of one to a dozen along the veins on the upper side of the wheat blades (fig. 2, a). The in - dividual egg is very small, about one-fiftieth of an inch long, of a glossy reddish color, and shaped as illustrated in fig. 2, b. Each female will lay about 100 eggs in the few days of her life. In about three to five days these eggs hatch into small reddish larvae scarcely larger than the egg from which they hatched (fig. 2, c, d), and these larvae migrate down the blade between the leaf-sheath and the stem until they reach a point near the root. Here they stop, begin to absorb the plant juices, and cause a gall-like enlargement or swelling at the point of attack (fig. 2). They grow rapidly, and three weeks later are thick, whitish maggots about one-eighth of an inch long (fig. 2, e). ■ice fully grown the larvae contract, leaving their outer skins to form ark brown shells, commonly known as flaxseeds or puparia, and remain condition and situation thru the winter (fig. 3, a and 6). Inside these Is the white larvae (fig. 3, c) may be found until toward spring when i Hi ft !—. L_ H- I U [&gt; \: V- m I -a r. - l'y LI. | enl; en: iwn 2. — The early stages of the Hessian fly: o, eggs on wheat larged; 6, egg, greatly enlarged; r, newly hatched larva, llarged; d, very greatly enlarged end segments of same; e, i larva just before entering flaxseed stage, much enlarged; &gt;f maturing larva beneath the leaf-sheath near the root in ;, enlarged four times. (Rearranged after Webster, Marlatt, lburn, Bulletin 84, Minnesota Exp. Sta.i </seg>
+            <seg id="p003">Fig. 3. — The later stages of the Hessian fly: a, four larvae changing to the flaxseed stage, enlarged four times; 6, flazseed or puparium, much enlarged; f, larva taken from flaxseed, much en - larged; d, pupa, much enlarged; e, infested wheat plant showing emergence of pupae and adults, enlarged. (Rearranged from Webster, Marian, and Washburn.) they change to the pupa stage (fig. 3, d). Early in April the pupae push off the end of the flaxseeds and then force their way out from under the enveloping leaf-sheath (fig. 3, •), Having found [a way out of the plant the thin pupal skin splits and the adult fly (fig. 1 ) escapes. Eggs are laid back on the wheat during April and early May and the same development is gone thru as in the fall, except that the migrating larvae locate in the first or second joints above the roots. They become full grown and enter the flaxseed stage before harvest, remaining in the stubble thru the summer if it is normally dry, to give forth the adult flies of the fall brood in September; but if the summer is rainy in southern Nebraska many will come forth soon after harvest and go thru an additional summer brood on the volunteer wheat. The adult flies are small, two-winged, dark insects, resembling tiny mosquitoes. INJURY. — The injury by the Hessian fly is done during the fall and spring by the growing larvae of the two broods. In the fall the first effect of attack is to cause the wheat to become abnormally dark green and to tiller freely, later turning yellowish and brownish and finally killing the affected blades. The field then appears dead in spots, or sometimes over the whole field. Badly attacked plants may later recover if there is plenty of moisture. In the spring the presence of the larvae in the lower joints interferes with the sap flow and weakens the straw, so that the heads fail to fill and toward harvest the straw is apt to crinkle or break at the point of attack so that the grain becomes badly lodged and often not worth harvesting. Only wheat, rye, and barley among our cultivated grains are attacked by the Hessian fly. </seg>
+            <seg id="p004">CONTROL. — The most effective way of making away with this pest is the destruction of the stubble shortly after harvest. Almost all of the flax - seeds are left in the stubble after harvest, and these should be destroyed by early, deep plowing, done so carefully that the stubble is thrown to the bottom of the furrow and completely covered, thus entrapping the Hies. This plowing should be done very soon after harvest, before any of the flies emerge, and should be followed by a sufficient number of cultivations to maintain a fine, weed-free soil mulch until the field is seeded. Such treatment makes for the highest yields, while the keeping down of volunteer grain serves to scatter any summer brood. Where for any reason midsummer plowing is undesirable the flaxseeds may be destroyed by burning the stubble. In years of Hessian fly infestation the wheat should be seeded late enough so that the wheat plants do not reach a sufficient size to attract the flies until the bulk of these insects have emerged from the flaxseeds and died without having found cultivated wheat upon which to lay their eggs. The accom - panying map shows the dates when in a normal year it would be safe to sow wheat and yet avoid the Hessian fly over the area now infested. Following abnormally dry summers, as in 1913, when the emergence of the flies from the flaxseeds is retarded by the drouth, these dates would prove somewhat too early, and allowance must be made following such summers. Of course, during those years when the Hessian fly is not present in large numbers in the state, no account need be taken of these dates and the wheat may better be sown somewhat earlier. Rotation of crops U a practicable Hessian fly control measure, for not only does the bringing in of corn, oats, alfalfa, or clover tend to starve out the pest, but if the wheat field is changed the fall brood of flies must migrate to more or less distant fields to find wheat and this results in a large mortality among them. Datei of Safe Sowing to Avoid Hessian Fly in a formal T*ar. Approximate wettern Halt of distribution in Kebraalca, ApproxlaaU Unit of tho outbreak of 1913-14. </seg>
+         </p>
+      </body>
+   </text>
+</TEI.2>

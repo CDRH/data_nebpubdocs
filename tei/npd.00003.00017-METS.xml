@@ -1,0 +1,6927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00003.00017">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title>Nebraska Public Documents Project</title>
+				        <author/>
+			      </titleStmt>
+			      <publicationStmt>
+				        <publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+				        <pubPlace>Lincoln, NE</pubPlace>
+				        <idno>00003.00017</idno>
+				        <availability>
+					          <p/>
+				        </availability>
+				        <date>2007</date>
+			      </publicationStmt>
+			      <sourceDesc>
+			         <bibl>
+			            <title>TWELFTH BIENNIAL REPORT OF THE BOARD OF TRUSTEES OF THE NEBRASKA INSTITUTE FOR THE DEAF AND DUMB FOR THE YEARS 1899 AND 1900, TO THE GOVERNOR.</title>
+			            <date value="1901">1901</date>
+			         </bibl>
+			      </sourceDesc>
+
+		    </fileDesc>
+		    <revisionDesc>
+				     <change>
+				        <date>2007-05-29</date>
+				        <respStmt>
+				           <name>Laura Weakly</name>
+				        </respStmt>
+				        <item>Validation</item>
+				     </change>
+				     <change>
+				        <date>2007-05-24</date>
+				        <respStmt>
+				           <name>Katherine M. Heupel</name>
+				        </respStmt>
+				        <item>Enrichment</item>
+				     </change>
+
+				     <change>
+				        <date>2006-11-29-05:00</date>
+				        <respStmt>
+					          <name>OCLC Online Computer Library Center Inc.</name>
+				        </respStmt>
+				        <item>Initial Creation</item>
+			      </change>
+		    </revisionDesc>
+	  </teiHeader>
+	  <text>
+		    <body>
+         <p>
+            <seg id="p001">TWELFTH BIENNIAL REPORT 
+
+IF THE 
+
+BOARD OF TRUSTEES 
+
+F THE 
+
+NEBRASKA INSTITUTE 
+
+FOR THE 
+
+DEAF AND DUMB 
+
+FOR THE YEARS 1899 AND 1900. 
+
+1 THE 
+
+GOVERNOR. 
+
+NCOI.N. NEB 
+
+ATE JOURNAL COMPANY. PRINTERS. 
+
+IHO1</seg> 
+
+
+            <seg id="p003">
+l 
+
+LETTER OF TRANSMITTAL. 
+
+Nebraska Institute for the Deaf and Dumb, 
+
+Omaha, Neb., December 12, 1900. 
+
+honorable Wm. A. Poynter, Governor: 
+
+Sir— In compliance with section 12, chapter 22, of the Com 
+
+iled Statutes the Board of Trustees of the Nebraska Institute 
+or the Deaf and Dumb have the honor to transmit herewith 
+
+he twelfth biennial report for that institution upon the work 
+icoomplished during the period ending; November 30, 1900. 
+
+Very respectfully. 
+
+J. J. Cardwell 
+B. F. Allen. 
+Chas. Nownes, 
+
+Board of Trustees </seg>
+
+
+            <seg id="p005">
+BOARD OF TRUSTEES 
+
+Hon. J. J. Cardwell President 
+
+Hou. B. F. Allen Secretary 
+
+Hon. ('has. Nownes. 
+
+OFFICERS, TEACHERS, AND EMPLOYEES. 
+
+Henry E. Dawes, M. A., Supt., f 1,800 per year and living. 
+Win. Sievera, Steward and Bookkeeper, $1,200 per year; live* 
+
+outside. 
+
+S. R. Town*, M. D., Physician, $300 per school year; lives outside. 
+Mary C. Dawes, Matron, $400 per year and living. 
+
+Ansou T. Colt, B. 1&gt;., Teacher, |80 per month, lives outside. 
+Janie M. Washington, M. A., Teacher, $65 per month and living. 
+Waldo H. Rothert, B. A., Teacher, $80 per month, lives outside. 
+Norman Shreve, M. A., Teacher, $55 per month and living. 
+Alvin E. Pope, M. A., Teacher, $55 per month and living. 
+Lyman M. Hunt. Diploma. Teacher, $70 per month; lives outside. 
+Lillian Bamford, Diploma from State Normal, Teacher, $60 per 
+
+month: lives outside. 
+
+Cora Jack, Diploma from the State Normal, Teacher. $50 per 
+month; lives outside. 
+
+Edith Hand. Diploma from Tremont Normal. Teacher, $42.50 per 
+mouth and living. 
+
+na McNamar. Diploma, Teacher. $t£.5O per month; lives out 
+side. 
+
+Ida &lt;i. Hendee. Teacher. $»'&gt;0 per mouth; lives outside 
+Ora Vivian, Teacher. $50 per month; lives outside. 
+
+It. Andrews. Diploma. Kindergarten Teacher, $50 per 
+hit It : lives outside. 
+
+Mary McNamar. Assistant Kindergarten Teacher, $35 per 
+
+utsidf 
+
+S. S. Videtto. Manual Training Teacher, $80 per month; lives 
+outside. </seg>
+
+            <seg id="p006">
+416 
+
+LAND COUlfHHIIONBB'8 REPORT. 
+
+tmie L. Plotts. Sewing Teacher. $50 per month; lives outsidtvd 
+Blankenship, Diploma. Art Teacher. $40 per mouth am 
+
+living. 
+
+YV. N. Paxton, Printing Teacher. $55 per mouth: lives outside 
+E. N. Reynolds, Teacher of Horticulture, $55 \ter month; live; 
+
+outside. 
+
+Margaret Murphy, Teacher in Laundry. $22.50 per month an&lt;: 
+living. 
+
+Luster A. Kay. Stenographer (works mornings and evening: 
+while attending Commercial College). §5 per month an&lt; 
+, living. 
+
+John Zadiua. Supervisor. $30 per month and living. 
+Lulu Hall. Nurse. $27.50 ]K'V month and living. 
+Amelia (iillinian. Supervisor. $25 per month and living. 
+Lena Goedicke, Baperviser, $25 j&gt;er month and living, 
+('has. Sexton. Engineer. $75 j&gt;er month; lives outside. 
+Thos. Byrnes. Engineer. $55 per month; lives outside. 
+Chas. Kelley. Fireman. $25 per month and living. 
+John Holter. Teamster. $20 per month and living. 
+Anna Jansen. Cook. $25 per month and living. 
+Hannah Kuennniann. Second Cook, $20 per month and living 
+Kitty Petereen. Dining-Koom Girl, $15 per month and living. 
+Eniina Bradly. Dining-Koom Girl. $15 ]ter month and living. 
+Mary Washington, Laundress. $25 per month; lives outside. 
+Kena Parkhurst. House Girl. $15 per month and living. 
+John Kosenthal. .Janitor. $15 i&gt;er mouth and living. 
+
+Frank Chase, Janitor, $5 ]&gt;er month and living. 
+Harry Myres. Janitor. $10 j»er month and living. 
+
+
+I 
+
+
+1 
+
+l 
+
+ii 
+
+ii </seg>
+
+            <seg id="p007">REPORT. 
+
+Nebraska Institute kok the Deaf am* Dcmb. 
+
+Omaha. Nbb., Decemlter 12, I'.MM). 
+
+the Governoi 
+
+The Hoard of Trustees of the Nebraska Institute for the Deaf 
+id iMmiti have the honor to submit the following report: 
+There were iu the institute November 30, 1M0, 166 pupils, 
+ale and female. 
+
+The whole number of pupils enrolled during the bienuium was 
+
+8 
+
+The highest number of pupils iu the institution at auy one 
+me was 1«7: the lowest number. 164; the average, 169. 
+The number of pupils removed to other states was seven: the 
+umber moving into the state from other states was live. 
+The average cost per capita for the biennial term, based on 
+lily average attendances, was $419.35. 
+
+The average salaries of teachers and employees for the bienal 
+term was f 23.77.'?. 17. 
+
+The number of deaf and dumb children in the state uot in 
+hool under twenty-one years of age. by the census of 1900. is 
+;arlv 141. 
+
+AFACITY 
+
+The crowded condition of the institute was relieved by the 
+i-upaney of the new building March 1. 1900. Our present 
+
+iiildinga will comfortably accommodate 1*00 pupils, viz.. 190 
+ales and 80 females. 
+
+Two pupils were so benefited in their sj»eech as to be allowed 
+enter the public schools. The number of graduates was two. </seg>
+
+            <seg id="p008">
+418 
+
+LAND COMMISSIONERS KEPOBT. 
+
+ESTIMATES 
+
+Of ti\e amount of appropriations Thar will be 
+
+needed for the 
+
+proper maintenance of all 
+
+departnif 
+
+of 
+
+the 
+
+institution 
+
+¦nts 
+
+for the years 1901 1902. 
+
+•Superintendent |3,600 On 
+
+Matron 800 00 
+
+T&lt; aehei-s 26,200 00 
+
+Employees •. 8,000 00 
+
+Fuel and light 8.000 00 
+
+Board and clothing 
+
+17.000 00 
+
+Supplies for industries 
+
+2.000 00 
+
+Furniture ami bedding 
+
+I'.IMIII DO 
+
+Bowks and stationery 
+
+i.ooo no 
+
+Telephone 
+
+300 00 
+
+Repairs find improvements 
+
+2.000 Oft 
+
+Incidentals 
+
+500 00 
+
+Paints, oils, and "la 
+
+.00 01 ? 
+
+Drags and medicine 
+
+too oo 
+
+Horses, wagon, feed, harness, et 
+
+SI HI (Ml 
+
+Postage and expense 
+
+::on 00 
+
+«73.800 on 
+
+Extrao 
+
+I in 
+
+i 
+
+a 
+
+Fitriiiys fur hospital 
+Fire protection . . . 
+
+|2»Mt 00 
+s.ooo on 
+I.ooo oo 
+500 00 
+200 00 
+
+fold storage plant 
+Typewriters 
+
+Greenhouse 
+
+Fruit, ornamental trees and shrul 
+Ridewalks 
+
+100 HO 
+
+500 On 
+
+Gymnasium and equipment . 
+Water supply and connections 
+
+i. nini On 
+
+1.200 00 
+
+•«17.7.-)0 00 
+
+Dcficifn 
+
+i 
+
+Employees' wajres 
+Fuel and lights . . 
+Board and clothing 
+
+11.000 00 
+
+Tun Ot) 
+2.000 00 </seg>
+
+            <seg id="p009">
+419 
+
+INSTITUTE FOR THE DEAF AND DUMB. 
+
+Supplies for industries * 100 
+
+Books and stationery • 150 00 
+
+¦'mi (V) 
+Repairs and improvements " w w 
+
+50 00 
+
+Incidentals 
+
+1,781 32 
+
+New dynamo and repairs 
+
+New school building: 343 17 
+
+f6.324 49 
+
+&gt;MPARATI VE STATKM BNT 
+
+Showing amount of appropriations for all departments of the 
+institute for the biennial term ending November 30, 1900, 
+and the amount of estimates submitted for the years 1901- 
+
+liHi: 
+
+De- 
+
+Appro- Esti- In- Deriations. 
+mates. creasf. erease- 
+
+pnations. mites. create. 
+
+Superintendent f3,6OO $3,800 
+
+Superintendent 
+Matron 
+
+Matron 890 *M 
+
+Tea.hei-8 25,000 2B.200 1.200 
+
+Teache 
+
+Emplovees' wa-es 6,000 *M&lt;&gt; -'.000 
+
+Fuel and lights 7,000 8,000 1.0&lt;K» 
+
+RiMni :m.l rlothinc 16.000 17.000 1.00Q 
+
+id and clothing 
+
+plies for industries 1.500 2.000 500 
+
+Furniture and bedding 1.250 2,000 750 
+
+800 1.000 200 
+
+intl stationery 
+
+((hone and telegraph.... 240 :'&gt;00 60 - 
+
+800 2.000 1.200 
+200 500 300 
+
+•airs and improvements 
+iilt'iitals 
+
+500 500 
+
+ind glass 
+
+:?00 300 
+
+mil mt'dicint 
+
+1. harne 
+
+\\ a 
+
+800 800 
+
+:;oo 300 
+
+ige and expr* 
+
+1WJ2.390 S73.300 flO.010 </seg>
+
+            <seg id="p010">
+420 
+
+LAND COMMISSIONER'S BEPORT. 
+
+Extraordinary, 
+
+Appro- Esti- In- De 
+
+priation-. 
+
+mates. crease. crease 
+
+Water supply and connections $1,000 $1,200 |200 
+
+Fittings for hospital 200 200 
+
+Fire protection 5,000 5,000 
+
+v 
+
+Typewriters 500 500 
+
+Cold storage plant 1,000 1,000 
+
+Greenhouse 250 250 
+
+Fruit, ornamental trees and 
+
+shrubs 100 100 
+
+Sidewalks 500 500 
+
+Gymnasium and equipment 9,000 9,000 
+
+New dynamo 6,000 6,000 
+
+New school building 25,000 25,000 
+
+Boiler, engine, pump and 
+
+coal house 7,700 7,70&lt; 
+
+139.700 |17,750 #16,750 $38,700 
+
+S16J50 
+
+Total decrease $21,950 </seg>
+
+            <seg id="p011">
+421 
+
+INSTITtTE FOB THB DEAF AND DUMB. 
+
+¦* i rl 
+
+aaas(«g psiBmiisa 
+
+§ § S2£ 3 
+
+oo 
+
+1061 'IE RM«W 
+
+ainuspijaa pwnwsa 
+
+«. 
+
+a 
+
+T 
+
+
+«» 
+
+5? S S S S 5 5 S 3 s - 1 1 8 1 5? 
+
+ti 
+
+t» 
+
+&gt; 
+
+§SSSS§SSS§SSSS8 S 
+
+Siiiiiiiiiiilii 1 
+
+«¦ 
+
+I &lt;- 
+
+S8«SS3?sSSo« p» 
+
+81 suoi»«udojddv . gg;£rg8?S3'"'£S 5 
+8681 'I Jaqraao»a S§ 55» g 
+
+-T 
+
+5 
+
+«• 
+
+3 
+
+B 
+
+¦ : : ¦ b.s 
+
+* b : 1 8 : : * 
+
+s 
+
+
+5 it 
+
+o'ss.-gSSjgJeSs.l-si 
+Ilillllililllli 
+
+1061 'l£ q««W 
+
+5. LI 
+
+© o — w i 
+1 8 |2 | 
+
+! g§ 
+
+SSSRSSSISSSSS Z B 
+&lt;X)6I 'I Jaqtn»a»a 9lCOX x&lt;sconf -«• - « «: 
+«•« - I* 
+
+8^5SSSSSS=^2?SS 8 
+
+gSiSSSoSSSiSsSSS S 
+
+»s 
+
+"S" 1 "**]!!?? </seg>
+
+
+            <seg id="p012">
+422 
+
+LAND COMMISSIONER'S REPORT. 
+
+CHANGES IN THE BOARD. 
+
+The term of Dr. A. Hugh Hippie, of Omaha, as a member o 
+the Board expired May 15, 1900, and Chas. Nownes, of Papillior 
+was appointed to the position June 1. 1900. 
+
+We submit appended hereto, as* a part of this report, the re 
+port of the physician giving the hygienic condition of the insti 
+rute: also the report of the superintendent, giving full and de 
+tailed information as to the progress, present condition, am 
+needs of the school. 
+
+It is gratifying to note the advancement made and the rapidh 
+increasing recognition of the institute and its possibilities ii 
+behalf of the deaf and dumb both at home and abroad. It i: 
+also gratifying to state that this appreciation of the work of th* 
+Institute has served as an incentive to greater effort, not only oi 
+the part of officers and teachers, but all connected with th&lt; 
+school in whatever capacity, and kindled a desire to have in Ne 
+braska not one of the best institutions for the education of th( 
+deaf and dumb but ///*• beat. Every effort being made to increase 
+efficiency to the fullest extent compatable with the means place&lt; 
+at our disposal. 
+
+ACKXOWI.EIHi.MEN 
+
+In closing this report we desire to express our appreciatior 
+of the cordial support and encouragement rendered the Boarc 
+by Governor Poynter in every effort made in behalf of an 
+economical and business-like management of the institution, an.1 
+to Superintendent Dawes for the kind and uniform courtesy ex 
+tended to us at all times in the discharge of our duty, and tr 
+Steward Sievera for the many acts of kindness and aid rendered 
+the Board in its work. 
+
+Respect fill lv 
+
+submitted 
+
+J. J. Cardwi 
+B. F. Allen. 
+
+Chas. Nownes, 
+Board of Tru </seg>
+
+            <seg id="p013">
+423 
+
+INSTITUTE FOR THE DEAF AXI&gt; DUMB. 
+
+1 
+
+PHYSICIANS KKI'ORT. 
+
+Gentlemen — It is gratifying to note a marked diminution in 
+lie amount of illness during the two years just closed. 
+
+Chicken-pox is the only contagion* disease that has come 
+imong us. and lias caused no anxietv of course. 
+
+Ii gives me pleasure to report that the sanitary arrangements 
+ive been and are in most excellent condition. 
+
+In 1NWI, directly after leaving his home in I'lattsmouth, Willie 
+Harrington came to the hospital with -walking typhoid" and had 
+nearly recovered, when suddenly he suffered perforation of the 
+dowels, with death following in a few hours, on November 8, 
+
+1S!)!&gt; 
+
+November 11. Hurt l'ilsbury was taken with appendicitis, a 
+
+second attack, and for safety in operation was removed to Imniannel 
+Hospital, in care of I&gt;r. B. B. Davis. An operation was 
+successful a few days later, ending in a permanent cure. Ethel 
+Batten bandaged her own finger in carbolic acid on retiring at 
+night : so long a time passed before it could be known, most of 
+the finger was destroyed and an amputation was necessary. This 
+was done by l»r. B. B. Davis at Inimanuel Hospital. Three cases 
+
+of rheumatism and several of lung fever are all the cases of 
+severe illness of that year. Miss Hall, the nurse, has given the 
+minute record. » 
+
+One of the greatest needs of our school is a department for 
+physical culture. It is always useful to growing children in 
+keeping them strong and well, and also in calling out energies 
+that migh( never appear but for something to call them forth. 
+Nothing is more painful than the hours out of schoolroom spent 
+in aimless waiting about, when the best of supervisors is often 
+
+her wit's end to furnish recreation for the growing boy or 
+
+girl. Well directed play for the smaller pupils, games, with various 
+physical drill and exercise, varied according to age and vigor 
+are becoming an acknowledged essential in the development of 
+youth, and especially so with youth that are in any way defective 
+
+!'&lt;• tht' Honorable Board of Trustees: </seg>
+
+            <seg id="p014">
+424 
+
+LAND COMMISSIONER'S REPORT. 
+
+as in hearing, which hinders so much the natural process of 
+mental and physical growth. A physical department with a gym 
+nasiuni would add very much to the power of our unfortunate 
+hoys and girls and to the good our institution could accomplish 
+for them. 
+
+A bright, clean second story in the small cottage for hospital 
+purposes is an acquisition worthy of note. With heat for use at 
+night, would render it quite complete. I have not continued the 
+instruction in physiology during the present year. 
+
+Dr. S. R. Towne, Physician. 
+
+REPORT OF THE SUPERINTENDENT. 
+
+To the Honorable Board of Trustees: 
+
+Gentlemen — In submitting this, the twelfth biennial report 
+of this institution for the time beginning December 1, 1898, 
+and ending November 30, 1900, I wish to state that harmony and 
+good will have prevailed throughout the institution, and much 
+excellent work has been accomplished. A vigorous effort has 
+been made to realize the ideal of the school and to surround the 
+pupils with those influences that shall tend to produce in them 
+a healthy growth of moral sentiment, leading them to respect 
+the rights of others as well as their own. 
+
+The school work has been thoroughly organized and graded, 
+and a record is kept of the standing and grade of each child. 
+The state course of instruction and system of records have been 
+adopted and are in use. One great advantage of using the same 
+course and system used throughout the state is that every one 
+is familiar with these and readily understands the conditions 
+when told the grade of the child. It has also aroused an ambition 
+among the children to keep up with their classes, which has had 
+a wholesome effect upon the disposition and conduct of all the 
+school work. 
+
+Our new buildings have added much to our comfort and convenience. 
+They are each well adapted for the purpose for w hich 
+they were constructed. The schoolhouse is of pressed brick </seg>
+
+            <seg id="p015">
+425 
+
+INSTITUTE FOR THE DEAF AND DUMB. 
+
+nd s. me. whh slate roof, and fitted with inside and outside 
+
+ire escapes. The inside finish is of hard wall plaster, and the 
+rikmI work is hard pine, maple, and oak, finished with oil in 
+he natural color of the wood. Each of the fourteen schoolrooms 
+s provided with wall slates on all sides of, the room, and two feet 
+
+slating above the wall slates for display purposes or exhibit 
+
+&gt;f permanent work. Each room is furnished with a roll top 
+iesk and a revolving chair for the teachers' use. 
+
+The i-bapel, located on the third floor, is a large commodious 
+room having a seating capacity of about four hundred. The 
+platform is fitted with foot-lights and double doors in the rear, 
+which make it a very desirable place for our religious, social, 
+and society meetings as well as for amateur plays and pantomime 
+performances. 
+
+The boiler, engine, and pump house is so planned and arranged 
+that the coal does not have to be put in wheelbarrows to be 
+brought to the furnace. The fireman does not have to leave the 
+building to weigh the coal. The boilers are so placed that the 
+engineer can go entirely around them and inspect the settings 
+so as to be sure at all times that they are in perfect condition. 
+Two of the boilers are fitted with American stokers. These 
+
+atomatic feed machines are giving splendid satisfaction, because 
+
+their economy in the consumption of fuel. The fuel is "fed 
+
+underneath the fire, which insures complete consumption of 
+
+¦mbustible substances in the coal. 
+
+In overhauling the steam heating and lighting systems they 
+were found to be in much worse condition than the expert examination 
+indicated. The electric wiring was entirely renewed 
+and a new ( 'rocker-Wheeler dynamo, with a capacity of four 
+hundred lights, was secured. The old dynamo, is now used as 
+
+a motor and furnishes the power for our laundry and manual 
+training department. The steam heating system in the main 
+building and small cottage was entirely renewed, using such of 
+the old pipe and fittings as weiie fit to be used. The appropria- 
+
+tion -for this work was not equal to the estimates made, and, in 
+addition to the plant being in a much worse condition than 
+estimated, the price of pipe and fittings advanced, in some cases </seg>
+
+            <seg id="p016">
+426 
+
+LAND COMMISSIONER'S REPORT. 
+
+as much as :i(M» per cent, making it impossible to complete this 
+work and keep within the appropriation. After the work was 
+planned and begun it could not be left half finished. Therefore, 
+I am obliged to report a deficiency in the general and special 
+repair funds: for the details see the financial part of this report. 
+The radiation in the large cottage was not changed, but new 
+connections were made so that the warming of the building 
+can be better done than heretofore; but the system in this build 
+ing should, within the near future, be overhauled and reconstructed 
+in accordance with up-to-date ideas of steam heating. 
+In the new system of heating all the exhaust from all the pumps 
+and engines (six pumps and two enginesi is returned to the heating 
+system. After the steam has furnished the power required 
+it is used to heat the buildings and the condensation is returned, 
+hot, to the boilers through an automatic receiver aud pump. 
+This is much greater economy than throwing the exhaust our 
+doors, thereby wasting both heat and hot water. 
+
+There will also be a deficiency of about $1,000 in the fund fo 
+employees' wages: this is due to the increased amount of labo 
+required because of the new buildings. In addition to the ear 
+of the buildings, the yard and grounds were left in bad cor 
+dition and had to be cleaned up and new lawns made. 
+
+EXHIBITS 
+
+In the spring of 1890 we were invited to prepare a small schoo 
+exhibit to be sent, with other exhibits from America, to the ex 
+position at Paris. We accepted the invitation and sent an ex 
+hibit which was representative of all departments of the school 
+The international jury of awards gave us the silver medal foi 
+educational work among defectives, and asked that an articW 
+be prepared on the origin, growth, scope, and results of our worl 
+among defectives, to be used by the secretary in his report t«' 
+
+the French government. The article has been prepared and sen 
+as requested. 
+
+At the Nebraska state fair and exposition held at Littcolr 
+August 31 to September 7. 1900. we made a full and complete 
+exhibition of our school work, except the work in articulation </seg>
+
+            <seg id="p017">
+427 
+
+INSTITUTE KOR THE DEAF AND DUMB. 
+
+and lip reading, which cannot be exhibited without the pupil 
+being present. I'pon this exhibit we received twenty-eight first 
+and ten second premiums. These results are extremely gratifying 
+and encouraging, in that our work was placed in direct comparison 
+and competition with the work done in the schools for 
+the hearing. We endeavor to teach our children that in the 
+struggle for a living they must do their work better than can 
+be done by any one else in order that they may succeed. Nothing 
+but the very best can be accepted by their teacher in any 
+department. Not the best that the child can do, but the best 
+that can be done, is the criterion by which our work must be 
+judged. Perfection is the ideal that we hold before these children, 
+and perfection must be the ideal for which they strive if 
+they win in the comj)etitive struggle of life. 
+
+METHODS OF INSTRUCTION 
+
+riic methods of instruction remain as in the past. Speech 
+
+is given to al that are able to profit by such teaching. Learning 
+to talk is one of the hardest tasks that the deaf child undertakes, 
+and those only succeed who have great perseverance, 
+patience, and energy. While much depends upon the teacher 
+the child is not exempt from his or her share of the responsibility. 
+There must be a union of desire, determination, and effort in 
+order that the best results may be accomplished. Given a child 
+with a desire to learn to talk, and with sufficient energy to 
+enable him to do the work required, and a fair speaker will be 
+produced: but if there is indifference instead of determination, 
+carelessness instead of practice, little or no satisfactory results 
+will be obtained. 
+
+The work in the various schoolrooms continues to be in some 
+form of English, the sign language being used only when necessary 
+for the child to get a clear understanding of the English 
+used. The rule governing the use of the English language is 
+¦that it must be used ar all times and under all circumstances 
+
+where it is possible for the child to get a clear understanding 
+
+of the instruction given and the information conveyed. In this 
+way the child gets manv lessons in English outside of those </seg>
+
+            <seg id="p018">
+LAND COMMISSIoNKlt's REPORT. 
+
+428 
+
+taught in the schoolroom and finds practical use for his new 
+language. It is regarded as evidence of marked improvement 
+when a child desires to express his daily wants in the English 
+l-ather than the sign language. 
+
+BEPHESENTATIVKS IN COI.LE 
+
+Two of our graduates are attending the National College for 
+the Deaf at Washington, D. ('.. Miss Effie Goslin. of Lancaster 
+county, class of ninety eight, and Miss Emma Morse of Boone 
+county, class of ninety-nine, are the two representatives. They 
+report that they are doing well, and we hope that they will be 
+able to complete the college course and redeem Nebraska from 
+its unenviable position of having no graduates from the College 
+for the Deaf. It is believed that with a continuation of the 
+present course of study and the thoroughly competent corps of 
+teachers we shall continue to turn out graduates of this school 
+thoroughly fitted and trained to receive a higher, or college edu 
+cation. 
+
+The members of the class in the eighth grade, which will 
+graduate in 1902, are strongly imbued with a desire to take a 
+full college course. They are putting forth every effort to master 
+the work laid out. and their enthusiasm reflects beneficially on 
+all the lower &lt;•! asses. 
+
+TYPKWKITKl 
+
+Through the kindness of the state senate we have been able 
+to have one typewriter in use in the schoolroom during the past 
+bienniuin. Its use corroborates all that has been said heretofore 
+in reference to the advantages of the machine in the study 
+of the English language. Desire, effort, and use are stimulated 
+bv the machine. A thousand dollars could be wisely spent in 
+
+the purchase of typewriting machines to be used in the more 
+advanced classes. It is false economy to withhold from these 
+children anything that will aid them in their mastery of the English 
+language. The use of the machine would be more economi : 
+cal than the use of pencils, paper, and slates. Time would also 
+be economized as much greater speed can be obtained by the 
+use of the machines than with pencils. All the arguments are </seg>
+
+            <seg id="p019">
+429 
+
+INSTITUTE FOR THE UEAF AND DUMB. 
+
+in favor of its use. and there are nuiie against it. Machines are 
+being introduced into niany of the common public schools of 
+this and other states. All the aids required by the hearing 
+
+child in the study of the English language are absolutely essen 
+rial for the deaf child. 
+
+YMXAS1U.U 
+
+Physical culture and development have been encouraged in 
+every way jM&gt;ssible. Both boys and girls have formed athletic 
+associations. These clubs meet regularly for practice and drill, 
+
+each member buying his or her own equipment and contributing 
+voluntarily to a fund for the use of the club. These funds are 
+also contributed to by the officers and teachers of the school. 
+These enterprises should be encouraged by the erection and 
+furnishing of an up-to-date gymnasium and the employment 
+of a thoroughly competent physical director. A building 
+adapted to our use could be constructed and furnished at a 
+cost of WMHHI. I'hysical culture is as important as intellectual 
+and moral: in fact each is more successfully accomplished if 
+the other two are well developed. 
+
+I.D STORAGE PLANT. 
+
+An ice-house or cold storage plant of sufficient capacity to hold 
+a years supply of ice and a few weeks' supply of vegetables and 
+such meats as might be desirable to have on hand would be an 
+economical investment for the state. Nearly as much is paid 
+
+out for ice each year as such a 
+building could be built at a cost 
+
+structure would cost. Such a 
+not to exceed $1,000. and with 
+many years. The old ice box. 
+kitchen, is in no way adapted 
+not economical in the care of 
+to make it satisfactory. This 
+
+proper care should last a great 
+built in the basement under Xht 
+
+the use required of it. It is 
+
+ind cannot be repaired so a 
+
+should be torn out and a properly constructed refrigerator substituted 
+in its place. This could l&gt;e done at a cost not to exceeed 
+SWK). and should be done even if the cost were greater than that 
+
+lollllt </seg>
+
+            <seg id="p020">
+430 
+
+LAND COMMISSIONER^ REPORT. 
+
+children's accounts. 
+
+The book of children's accounts, left by the former superintendent, 
+shows a total balance due these children of $283.41. 
+These claims were presented to the claims committee of the 
+last legislature and a request made that they recommend an 
+appropriation for the amount due. to be paid to a trustee, and 
+by him distributed to the parents and children. No action was 
+taken by that committee in reference to these claims. I do not 
+know that the state would be liable for these losses, but the 
+children certainly should not lose the money. They had confidence 
+in the agent of the state and that confidence should not 
+have been betrayed. Many of them come from poor families 
+who cannot afford to suffer this loss. The items are too small 
+to be worth litigation even if a judgment could be collected. 
+Notwithstanding the fact that there may be no legal claim 
+against the state I would recommend an appropriation to reimburse 
+these children for the losses sustained and that the state 
+proceed to collect from the former superintendent and his bondsmen, 
+if .he had any, the amount of these items. Appended hereto 
+is a list of the names and amounts due as shown by the book 
+marked "&lt; 'liildren's Accounts Ledger No. 2." 
+
+Amounts due as per ledger 1897 
+
+Helen Oliver 
+
+e 
+
+. . *1 so 
+
+( 'heater Higby 
+
+#:{ 01 
+
+Fritz Dunker 
+
+. . 1 Ttl 
+
+Likv Foy 
+
+5 25 
+
+Cora Pillard 
+
+. . 4 67 
+
+.John and Hy. McFadden 
+
+114 
+
+Ethel Lloyd 
+
+4(1 
+
+Willie Stickler 
+
+1 41 
+
+.Vinelia Miller 
+
+10 
+
+Maude Zweiful 
+
+2 30 
+
+Russel Weisy 
+
+. . 12 Mi 
+
+Sarah Slartin 
+
+¦2 56 
+
+Herman and Julius 
+
+Myrtle (rivgg 
+
+4 48 
+
+• Plenz 
+
+. . 4 ."il 
+
+Arthur Nelson 
+
+1 41 
+
+Stover Bros 
+
+.'.a 
+
+Tat Regan 
+
+06 
+
+Glen Smith 
+
+. . 1 67 
+
+Win. Shold 
+
+17 
+
+Richard Biiifihain . . 
+
+&lt;).¦&gt; 
+
+Cora French 
+
+4 97 
+
+Win. Harrington . . . 
+
+21 
+
+Pearl Tidd 
+
+75 
+
+John Kubat 
+
+... 4 4:t 
+
+Walter Donahue 
+
+•2 00 
+
+Orvina Johnson 
+
+74 
+
+Fred Wendell 
+
+0 20 
+
+Isaac Witwer 
+
+. . 5 10 
+
+Josie Anderson 
+
+:{ :\8 </seg>
+
+            <seg id="p021">
+431 
+
+INSTITUTE FOR THE DEAF AND DUMB. 
+
+Earl Warren 
+Marr Dineson 
+
+tO 55 
+
+( ha*. Brouhard |4 24 
+
+1 7C 
+
+(leo. Hansen 5 21 
+
+Eugene Hogle 
+Helen Me* 'did 
+Pauline Hand 
+•Inliii Marek . 
+Edward (Jilson 
+Harrv Ivarr . . 
+
+6 30 
+
+Shirley Parlette ....:.. 2 17 
+
+•28 
+
+Miner l&gt;avis 4 10 
+
+ii :,r, 
+
+Certrude Trissell 2 81 
+
+1 20 
+
+I 'lam l&gt;iiiii-ansiiii 2 45 
+
+I 'heyeuue ( 'ounty 7 50 
+
+!U 
+
+n 4 
+
+Earnest Whited 1 55 
+
+Bel gum Hoys . 
+Eddie Brohard 
+
+04 
+
+Petersen girls 16 
+
+4 .")(» 
+
+Poor fund 65 
+
+?rin Thavei 
+
+.11 
+
+Adolph Lamm 50 
+
+Ira Kouderbush 
+
+10 44 
+
+Patterson children 3 45 
+
+Kalph Coniiell 
+
+05 
+
+05 
+
+Erne Goslin 1 35 
+
+M. Stillalian 19 
+
+1!l 
+
+Forell children 1 16 
+
+Zilia (tanian 5 'Mi 
+
+Lenora Menu 30 71 
+
+Austin Beetle '.i 35 
+
+ustin Beegl 
+
+Emma Morae 05 
+
+&gt; 
+
+Alexander Miller 1 45 
+
+Vlexauder Millci 
+
+1 45 
+
+Mary Delaney 23 48 
+
+A. I&gt;. Strain &lt;MJ 
+Old accounts transferred fri 
+
+mi 
+
+sfprred from ledger Xo. 1 and shown on 
+
+pages 470 and 471 of ledger No 
+
+Mr. -lames Cain $0 54 
+
+Harrv Mercer $0 50 
+
+Lenora Xeedlow :! 25 
+
+Elizabeth Young 62 
+
+i 'lias. Bronhard •"&gt; 00 
+
+IHI 
+
+Marv Hedrick 1 18 
+
+Marv Heddrid \3 
+
+i:; 
+45 
+
+lord Khilev 54 
+
+\Ven&lt;-il Clier 45 
+
+Michael Everts 78 
+
+Edward Sietcit ."! 00 
+
+William Martin 10 
+
+ward S 
+
+tleuiiif McDonald !) :{(l 
+
+Mary Burns !)2 
+
+Elizabeth tiiasnichlans. '1 00 
+
+Kdgerton girls 1(1 04 
+
+Myrtle Kistler ."&gt; 33 
+
+Mvrtle K 
+
+hiva Barker 25 
+
+Marv Lcacli :!1 
+
+Wornie Hall 03 
+
+Jolin Moore 5 00 
+
+John M 
+
+t*ii y Peters 2 40 
+
+lVarl I'arker 2.T 
+
+Louie McBride 59 
+
+til 1'ai 
+
+Walt, i- K-an (.40 
+
+E-ran 
+
+Fred Morris 42 
+
+Marv Henry '.',2 
+
+Marv H&lt; 
+
+Willie Chambers 1 75 
+
+•lames ( 'ain 1 (14 
+
+Lenora Xeedlow 20 
+
+lames ( 
+
+Minnie McKay 70 
+
+Edward Allen 20 
+
+in ru 
+
+Ernst 4 31 
+
+Keliustrow 
+
+r.r&gt; </seg>
+
+            <seg id="p022">
+432 
+
+LAM' 
+
+o.UMISSIoNEU S 
+
+KEI'OK 
+
+COOKING SCHOOL. 
+
+The economical land healthful preparation of food for 
+
+The economical iand healthful preparation of food for huiua 
+
+consumption is both a science and an art. &lt; &gt;ur girls sh&lt;i 
+
+consumption is both a science and an art. Our girls should I* 
+
+taught how and what to buy. how to prepare and serve ec 
+
+taught how and what to buy. how to prepare and serve econoin 
+
+cally and scientifically the best and most nutritious 
+
+cally and scientifically the best and most nutritious food 
+
+Our school is too small in numbers to warrant the emplt 
+
+«_&gt;ur school is too small in numbers to warrant the einploymen 
+
+&lt;»f an instructor in cooking with no other duties than thost 
+
+&gt;f an instructor in cooking with no other duties than those in tli 
+
+• lass room. If a thoroughly trained and coni|&gt;etent scientit 
+
+lass room. If a thoroughly trained and competent scientiti 
+
+were to be employed, the state should receive the benefit 
+
+¦were to be employed, the state should receive the benefit in tli 
+preparation of food for these children. 1 believe that it woul 
+
+preparation of food for these children. I believe that it 
+
+J&gt;e wise to employ a scientific cook, to have charge not &lt; 
+
+J&gt;e wise to employ a scientific cook, to have charge n 
+
+The instruction given to the girls in cooking, but to In- i 
+
+The instruction given to the girls in cooking, but t&lt; 
+
+11 
+
+«ble for the preparation and serving of all the food con 
+
+ble for the preparation and serving of all the food consume* 
+
+in the institution, flu- other hired cooks doing their work 
+
+li the institution, the other hired cooks doing their work und 
+
+her direction. If one-half that is claimed ran be sax 
+
+ier direction. If one-half that is claimed , 
+uientitic preparation of food, there would ht 
+
+scientific preparation of food. There would be a saving 
+
+amount equal to or greater than the salary of the s,- 
+
+amount equal to or greater than the salai 
+
+cook, and. in addition to the economy, many of our girl 
+
+»ok, and. in addition 
+
+onomv. mam 
+
+perhaps some of the boys, would receive needed iustr 
+
+Perhaps some of the boys, would receive ueede 
+
+knowledge of the means of livelihood as cooks and waitei 
+
+iuowledge of the means of livelihood as cooks and \\ 
+
+«&gt;ur food would be prepared in a more wholesome and he; 
+
+&gt;ur food would be prepared in 
+
+a in. 
+
+manner. 
+In making this recommendation for a change in the do 
+
+janner. 
+
+n tor a 
+
+department and the establishment of a cooking school 
+
+lepartiuent and the establishment of a cooking scho 
+
+not wish you to think that I am criticising tin- work d 
+
+not wish you tit think that I am criticising the work do 
+
+present in this department. It is all that can be expected 
+
+.resent in this department. It is all that can be expected und 
+
+this system. In fact there is greater harmony in supt-i 
+
+reater ha nn o 
+
+and more economy in the preparation ot food than vv&lt; 
+
+lid more economy in the j 
+
+ever had before. It is the system that should be ch 
+
+ver had before. It is the system that should be chang 
+
+With slight modifications and rearrangement of the room 
+
+With slight modifications an 
+
+rearrangemei 
+
+used lor kitchen and storage supplies this work could I 
+
+aseri tor kitchen and storage supplies this w&lt; 
+
+in operation without additional space, except the fitting 
+
+n operation without additional space, except th&lt;- fitting u| 
+
+a class room in the industrial building and the construct 
+
+class room in The industrial building and The const 
+
+purchase of an oven larsre en.muli for bakimr our own In 
+
+m </seg>
+
+            <seg id="p023">
+433 
+
+THE DEAF AND DUMB. 
+
+(R 
+
+i 
+
+X3TITI 
+
+L'RINTINt; 
+
+- n.ed of new presses, stone, and type in the printing office 
+
+ipparent and has been brought to your attention before. The 
+
+wspaper sent out by the school is. in some respects, the only 
+
+•tion and acquaintance that the public has with the 
+In order that the showing may be equal to the work 
+
+ne tin- material should always be in good order. It is dil 
+u-agiiig to teacher and pupils to have a good job of "settiu 
+
+p" spoiled with poor type and press. I would earnestly urgt 
+
+moderation the needs of this department. The 
+
+VI 
+
+of the teacher is hereto appended and his recommenda 
+uid requests endorsed as being the only means by which 
+
+»iv results can be produced. 
+
+vlkM'Knt H. K. Dawes: 1 took charge of the printi 
+
+texkext H. E. Dawks: 1 took charge of the printing 
+
+nice at the beginning of the school year, commencing October 
+
+the beginning of the school year, commencing Octo' 
+I could find no record of the work accomplished by 
+
+18!t!t. I could find no record of the work accomplished by my 
+
+edecessor. nor anv outline or course of instruction used by 
+
+sor. nor any outline or course of instruction used 
+
+Che first few months were spent in determining how far 
+
+le tirsi few months were spent in determining how 
+
+need the different pupils were in the art of printing aud 
+
+1 the different pupils were in the art of printing ; 
+
+n perfecting an outline for a systematic course of study. Th 
+
+¦tiu&gt;; an outline for a systematic course of study, 
+
+•nditioii of the material in the office is simply deplorable. The 
+
+i of the material in the office is simply deplorable, 
+
+ws tvpe is all verv old. with the face battered and broken. 
+
+pe is all very old, with the face battered and brol 
+
+d filled wiih hardened ink. We have attempted to print a 
+
+d wiih hardened ink. We have attempted to prill 
+
+ich month. The Nebraska Mute Journal, which ha 
+
+inth. The Nebraska Mute Journal, which has a 
+
+on of about tilMi. The first year this paper was prii 
+
+of about ti(Mi. The first year this paper was printed 
+
+ix-coliinui folio on a Prouty news press. The second yeai 
+
+-column folio on a Prouty news press. The second ,\ 
+
+Prouty press tailed us. and so far this year it has beeu 
+
+uty press tailed us. and so far this year it has I 
+as an eight and tell page paper on a small 7x11 
+
+printed as an eight and ten page paper on a small 7xH job 
+
+I'i 
+
+oli department is in as poor, if not a worse, condi 
+
+two fonts of type alike, let 
+
+wsi.apei 
+
+alone a full series, in the entire office, with the exception of 
+
+few fonts purchased when I first took chat 
+
+:! 
+
+\ 
+
+u pupils, it being tilt 
+
+trade for the most of them. This veai 
+
+averaging about fourteen years of age. Hesidt </seg>
+
+            <seg id="p024">
+434 
+
+AMI CUMMIKKIONEK S UEl'O 
+
+
+printing the paper, we have printed all circulars, blanks, rej 
+
+cards, luiteheads. letterheads, programs, — in fact all printed mat 
+
+ter used by and at the school. No outside work has been 
+solicited. Our efforts have been directed to teaching the relative 
+
+importance of lines to be displayed rather than the amount 
+
+work accomplished 
+
+A\ e are introducing and attempting to follow a 
+
+course of studv. We have made a special effi 
+
+use and meaninj 
+and editor's t vim 
+
+rms and the use of proofread* 
+
+The otti 
+
+type. Th 
+
+\\ 
+
+\ 
+
+box." M 
+
+•ttice ai 
+
+beitt 
+
+the otti 
+
+tion tl 
+
+few v&lt; 
+
+1 I 
+
+hul 
+just 
+
+beter advantages, onlv to uk'cX w 
+
+Ulllllll 1 
+
+\Y. X. I'axthn. T« 
+
+11 
+
+HOT 
+
+The reciuests of i lie instructor in charge of 
+
+timely and practical. This work is directly a trade school, and 
+with from two to live years' instruction these bovs are able to 
+
+ticallv learn 1 1 1* • trade iiiu-v 
+
+Hi'spi-ctt nil v </seg>
+
+            <seg id="p025">
+435 
+
+IE FOR THE DEAF AND DUMB. 
+
+in any community. The cost of equipment 
+
+what will he made in the manual training 
+
+.lepartnit 
+
+very great and should be provided. The re- 
+
+ort i&gt;f the teacher follows: 
+Sri'KKixTK.viiKXT H. E. Dawes : &lt;)c 
+
+H. E. Dawks: October 15th marks the he- 
+
+inning of i lit- fuurtii year of this dr\ 
+
+year of this department, which has been 
+
+i my charge since the opening. Woi 
+
+arge since the opening. Work has been taught as far 
+
+&lt; tools and material would permit. 
+
+would permit. We should have a good 
+
+¦wing machine, a good stock of leathi 
+
+•d stock (if leather, a few dies and cutting 
+
+wn 
+
+mis. We could then turn out new ! 
+
+Hd then turn out new shoes for the pupils at a 
+
+ist of about si' in- &gt;f^.lT) that would &lt; 
+
+that would outwear anv $5 shoe that 
+
+mild Ik- purchased; at The same time 
+
+1: at the same time we could take the uppers 
+
+t' old shoes and reconstruct a new si 
+
+onstruct a new shoe for about $1.25. This 
+
+mild save money for the pupils and al 
+
+pils and at the same time give much 
+
+oik t&lt;n- i hi- ¦ hiss in shoeiuakinjr and 
+
+making and allow me to increase the 
+
+umber 'it pupils and irive rlie oldei 
+
+dents just the work 
+
+ie\ sIhuiIi! now lit- doinii. I Mli-inji the 
+
+w In- doing, huring I he past year, boys who have 
+
+ci u in i his depart incut for about iwe 
+
+department for about twentv-two months, and who 
+
+ave iii-vci 1 before received any insirin 
+
+uring. or 
+
+lakinj;'. turned out as jrood work in t 
+
+tod work in the repairing line as could 
+
+c tumid in i he lit \ . Three boys fron 
+
+iss found employ 
+
+i'-ni at iliis trade iluiin^ vacation. 
+\\iili .1 larger anioimi of money a 
+
+il.i 
+
+u.\ our jeailier and shoe findings 
+
+coi!omi/.( in expenditures. All nieni 
+
+the class can do&gt; 
+
+iu;!;.'on ;¦ i^iirini: and three can do e 
+¦| airing tor i!ie officers and ]iu|&gt;ils 
+
+hree can do extra tine work. All shoe 
+
+pils has been done here: also 
+
+arness mi ndiuj;. foot and base ball 
+
+pairing, l'upils have 
+
+een saved at least $125 during the 
+
+&lt;l'2o during the past eighteen months on 
+
+heir shoe repairing bills, as they ha 
+
+have been charged onlv for 
+
+ie matt rial used. Since the last re 
+
+•port there have been 475 
+
+airs of shoes repaired, also two cor 
+
+rk soles shoes were made 
+
+w 
+
+&gt;r a cripple. One of these shoes, if 1 
+
+if turned out by a city shoe- 
+
+taker, would cost between *o and *T. 
+
+S..i 
+
+ing the winter the manual training depart- 
+
+ii t t-xpects to make ten new single oak benches with locks 
+
+inri drawers: then I hope to inaugurate a new and up-to-date </seg>
+
+            <seg id="p026">
+436 
+
+A 
+
+system of caring for tools. This fall all the names of diffe 
+
+tools and material used have been taught. 
+
+I am doing all that 1 can to teach the boys the business meth 
+
+ods of running a good shop and how to best serve the public, for 
+
+if the pupils I have continue at this trade and open shops in 
+small towns they are sure to make a very respectable living 
+Following I give a course of study which I have adooted and 
+
+adopted and 
+
+will follow as far as practicable with what tool* 
+
+are now at 
+
+hand. If in the near future the facilities of thi 
+
+are increased, it can be carried 
+
+out in full 
+
+First Tear 
+
+1. Names of tools and their uses 
+2. Sharpening knives. 
+3. Making wax .-mis. 
+
+4. Harness repairing 
+3. Plain cobbling. 
+
+6. Mecliai 
+
+and drawin 
+
+Handle with la 
+
+nd left 
+
+S. General work 
+
+ond Year 
+
+s. 
+
+1. Names of tools and parts of shoe 
+
+Making buttonholes. 
+Punching evelet hoi 
+
+i. Setting eyelet studs and hool 
+5. Practice on button fastening t 
+
+tening machin 
+
+Continue drawing 
+
+Half-soling, heeling, trimming, and burnishing 
+
+S. Shoe dressing 
+0. General work 
+
+Third Year — 
+
+1. Learning uaiu 
+
+?rything used 
+
+\ 
+
+2. Continue drawing 
+3. Invisible patching 
+
+4. Neat cobbling 
+
+5. Bottoms, burnishing, I 
+
+uffiing and channe 
+
+work. 
+
+••. Dieing heels 
+
+7. Heel building and shoe dressing 
+S. General work. 
+
+department </seg>
+
+            <seg id="p027">
+437 
+
+NST1TTTI 
+
+R THE DEAF AXD DUMB. 
+
+ii-th Year — 
+
+Names of tools and I 
+
+kinds of leather. 
+
+itinue drawing. 
+
+Machine practice 
+
++. Cutting parts of insole, counters, and outsole. 
+
+Hand-sewed turned 
+Finishing. 
+
+rk and trimming 
+
+Wl. 
+
+v .Mending and genei 
+th Year — 
+
+.il 
+
+work. 
+
+&lt; 'ontinue drawing. 
+
+I se of all machines. 
+Foot measuring. 
+
+I. 
+
+Pattern measuring. 
+Fitting uppers. 
+
+&lt; fitting and lasting. 
+
+Names of parts of a pattern. 
+.Making a complete shoe. 
+&lt; leneral work. 
+
+continued sueces 
+
+in this department 
+
+Respectfully submitted. 
+
+L. M. Hunt, Instructor. 
+
+iVIN'G DEPARTMENT 
+
+ist report this department has been organ 
+
+l&gt;ittkult lasting. 
+
+ed and graded; it is now conducted as a school. The course of 
+
+&lt;M 
+
+"inly and the instruction given are planned after the work of 
+
+le Pratt Institute at Brooklyn. This has proven to be a vast im- 
+
+i-oveinent over the old method of instructing by imitation. 
+
+1 believe rliis is the only school in the state where scientific 
+
+istrnction in sewing is given. 
+
+The depaitmeni is well equipped and needs only the usual 
+
+lpply nf niiiterial and findings to continue the work. 
+
+I would also call your attention to an essay by Miss Mary 
+
+mrha. un.- nf rhe pupils in the school of sewing, on the subject 
+
+How 1 Made My Skirt." This will give you an idea of the 
+
+nglish Language required and the kind of practical instruction </seg>
+
+            <seg id="p028">
+438 
+
+LAX 
+
+MM I 
+
+NEI 
+
+REI 
+
+given in this department. This pu] 
+second grade. 
+
+\ clas 
+
+Hmr I ]f,itl&lt; \h t sk 
+
+I got six yards of cambric 
+
+tnl 
+
+seven yards of lace .-d tf injr. Measure rh,- waist, hip and leng 
+
+The length is forty-five inches for my skirt, hen, two in, 
+
+three tucks one-eighth inch, and one tuck one-fourth inch. Mea 
+
+ure on the paper according 
+
+,..,... ,,....,,,,,,^ ,,, ,,,,. uinip ,„ measurements wh 
+
+mark flu- waist, hip and length, and ,ui out rhe front side a 
+
+mark the waist, hip and length, and ,-ni out the front side ai 
+
+back gores. Tear the selvedge threads off the width of clo 
+
+back gores. Tear the selved"- 
+
+III -i-ai 
+
+lit- width of 
+
+because ir would shrink after washing Fold one width of , 
+
+because it would shrink after washing. Fold om . w id 
+
+\\ 
+
+cloth, pla.ed the front gore pattern nn the fold lai straight 
+
+cloth, placed the front gore pa 
+
+" on the fold lai straigh 
+
+fold 
+
+fore effing it on*. Put tb e side -ore pattern on the edge 
+
+fore cutting it on*. Put 
+
+1^ 
+
+another width 
+
+another width of Hoth. and ,ut it out. then put tl ,,. , n t 
+
+T} ther sili " " f r1 "- "am.- width of doll, and ,-nt on the h f 
+
+the other sid. of rh,- same width of dotli and en 
+
+]s a straight width. Has,,, the sea.us of the front, side and In 
+
+i straight widt 
+
+gor,-s. stit.h then, straight, over.as, both of edges togeth 
+
+HV8. Stit.ll til 
+
+Turned the he,,, two inches on the bottom of the skirt" T. 
+
+Turned the hem two 
+eight indies down ii 
+
+eight in.hes down in the ,-enter of the ba.k width pla.k 
+
+turned 1 in,h hem. Make a gusse,. ,,„, „„. ri gh, angle corner 
+
+turned 1 inch hem. Make a gusset. | 
+the corner of the nla.kpt ( &gt;v..,l,..., 
+
+the corner of the pJa.ket. Overhand i, half way. turn i, do, 
+
+kel. ( &gt;\ 
+
+on the wrong side and hen,. On,, ai „,. .,,.,„• W1 , ]tll of skjrt 
+
+on the wrong side and hem. &lt;&gt; n ,e and 
+
+allowed for the ruffle. Tear off number of widths required f 
+
+allowed for the ruffle. Tear off numb, 
+this measure and stitch them togethei 
+
+thts measure and stit.h then, together. The rule for the u, 
+
+i8 twi.e the width of nirk required plus , he spa.e between . 
+
+is twice the width of nick required pi 
+
+\\ 
+
+t.n-ks. Sewed insertion between .he .lusters of tu.ks in t 
+
+tucks. Sewed insertion between the , lusters of tn 
+
+ruffle overhand stit.h. Divide the la.e edging ruffle into fo 
+
+ruffle overhand stitch. Divide .he lac edging ruffle into f 
+
+quarters before gathering it. 1'u, the gathers of the la.e edgi, 
+
+quarters before gathering it. I'm rh&lt; 
+
+under the one-fourth in.-h tu.k. stit.h i, straight near the ed 
+
+under the one-fourth inch tuck, stitch i, straight near the ed 
+
+of the tuck on the right side. Divide the ,-loth of the ruffle in 
+
+«f the tuck on the right side. Divide the doth of the r.iffl 
+
+four ,,uarters before gathering and stroke verv tine and eve 
+
+Measure ,!„¦ ruffle on ,1,, foundation of ,1,, ski,,, mark the .an 
+
+Measure the ruffle on the founds) 
+
+ion 
+
+measure or pins. Haste one-fourth in.h lu.-k in the foundati. 
+
+measure or pins. Haste one foui 
+
+of the skirt and make three tu.ks one-eighth in.h Pl.n-,,1 ,1 
+
+rnfflo others under the om-founh in.h ,,,,-k of ,!,, foundati. 
+
+skirt. Stit.h it straight near th I.,.. .,&lt; n, i „¦ , , 
+
+\\ </seg>
+
+            <seg id="p029">
+439 
+
+V 
+
+EAI 
+
+SI 
+
+Ml 
+
+Tear the hand 
+
+Is. Measure one and one-half ineh wide 
+
+.Measure from 
+
+next seam; 
+
+ski it. on the 
+
+he edije of the band, and 
+
+igain from the first stitching. Stitch it 
+
+ipper fold of the hand. Tinned one and 
+tton and buttonhole in the back of band; 
+
+nd with overhand stitch and make bar button 
+
+le skirl. — 1'laced the front yoke pal 
+
+traifjht on warp threads; this makes tht 
+
+s. then cut it out. l'laoed the back yoke 
+
+then cut it out. Placed the back vokt 
+
+e edge iai on the \var|&gt; threads; this makes the hip 
+
+i on the \var|&gt; threads: this makes the hij 
+
+as. Four of these pieces were cut out 
+
+Four of these pieces were cut out 
+
+n file hip and front seams and turned on« 
+
+hip and front seams and turned one 
+
+11 tin- ends of yoke in rhe back, then tn 
+seam one-fourth inch above the waist in 
+
+ends of yoke in the back, then try 
+
+-am one-fourth inch above the waist in 
+
+i arc titled. Sometimes it is best to tak» 
+
+are tiffed. Sometimes it is best to take 
+
+I' the front seam. When through with tin 
+
+the front seam. When through with the 
+
+is. baste it a^ain. stitch them, crease fht 
+
+baste it a^ain. stitch them, crease the 
+
+¦ upper and under yokes together with the 
+Four pieces, one inch by one and one-half 
+
+upper and under yokes together with tin 
+
+'our pieces, one inch by one and one-hal 
+
+I lie tipper and under yoke for buttonholes 
+
+he upper and under yoke for buttonholes 
+
+kness enough for buttonholes: measure two and 
+
+enough for buttonholes: measure two an&lt; 
+I he front seam and two inches for thi 
+
+mi the front seam and two indies for the 
+
+bar buttonholes: they are always used in the 
+
+r buttonholes: they are always used in th 
+
+nd.'! wear. There were three thicknesses left for buttonholes 
+
+ere three thicknesses left for buttonhole 
+Stitch one fourth inch of the upper c.urv 
+
+e turned in on the bottom of yoke, as w 
+
+he skirt we made. 
+
+MEN 
+
+II. K. Dawks: Number of pupils enrolled. :'&gt;0 
+
+&lt;e of study in domestic art. ten trii 
+lied the first ei";ht lessons. 
+
+\ccordii </seg>
+
+            <seg id="p030">
+440 
+
+AMI CUMM1SSIONKR 
+
+RKl'OKT. 
+
+Twenty-tlnc- have finished the first grade and passed good ex 
+animations. 
+
+, Twenty have finished tlie first grade and the first nine lesson 
+of the second grade, or first garment, with the same r.-sults. 
+
+Four girls have finished the second grade and are ready foi 
+the third grade work. The English and examinations are carried 
+
+along with the work. (See course of studv.) 
+
+Aside from the class work of two hours daily the last or third 
+hour .s devoted to institution work, such as making towels table 
+linen, curtains, bed linen, mending, etc. Of such work we have 
+l.n.shed 458 pieces; also the mending of stockings for the 
+children. 
+
+Court* of Study in hmneiitic Art 
+
+The hrst grade comprises instructions in all the different 
+st.tches used in hand sewing including patching and darnin- 
+Practice ,s given in all the various stitches upon small pieces of 
+suitable material furnished by the school, also model book in 
+winch these models are pasted, with a description and diagram 
+of the same, which contains twenty-seven model exercises the 
+pnpil receiving the model book when finished. In the remaining 
+three grades the pupils are required to record in note books 
+
+te b 
+
+the instruction given in each lesson. 
+Draughting on geometrical principl 
+After the student lias satisfactorily 
+
+sewing she is fitted to begin dressmal 
+
+Contents of First Grade 
+
+Methods of threading needle, making knot and u 
+
+himbl 
+
+Position of body and care of the eyes while sewin 
+Even and uneven basting, running stitch, back s 
+
+&gt;ack stitch, stit 
+
+ng, combination and blanket stitch. 
+Overhanding stitch on striped mat 
+Method, of weaving explained. 
+Turning hems by measure and hen 
+Making work bag. 
+
+French hem on damask. 
+Felling. </seg>
+
+            <seg id="p031">
+T1TUTE FOB THE DEAF AND DUMB. 
+
+441 
+
+alk on manufacture and history of ueedle work and thimble, 
+athering, stroking gathers, putting in a gusset and sewing 
+bands. 
+
+Making an apron for doll. 
+
+Sewing on tapes, hooks and eves, and making eyelets 
+Making buttonholes, blind loops, sewing buttons. 
+Talk on manufacture of pins. 
+
+Patchin 
+
+Herrinj; bone stitch on flannel with silk. 
+Talk on nature of emery and steel. 
+Draughting and making flannel skirt for doll 
+Hemstitching, fringing and whipping raffle. 
+Square and mitered corners. 
+
+Chain stitch and feather stitchin 
+Darning on stockmet. 
+
+Talk on cotton. 
+
+Darning on cashmere flannel. 
+Machine stitching. 
+
+Draughting of drawers for child eight vears old. 
+
+Material for the remaining three grades are furni 
+lpils as The garments are made for themselves. 
+
+hed 
+
+by the 
+
+Sewing by machim 
+Exercise in tuckinu 
+
+ion. embroidery 
+
+ing. sewing, in 
+
+and 
+
+titch- 
+
+band 
+
+Practii 
+
+ing drawers, skirt 
+
+ski 
+
+t-voke. 
+
+rade. 
+
+Pra. 
+
+leasurt 
+
+Draught, cut. and lit. and mak 
+»'ut and make from pattern a &lt;•] 
+
+¦ a niglit-dre: 
+ild's dress. 
+
+and make from pattern 
+
+shirt-w 
+Grade. 
+
+Fourth 
+
+The fourth grade is devoted t 
+
+tine hand and machine 
+
+ewing. 
+
+(•ml Grade 
+
+Draughting, ciittiiifr. and mal 
+ml undciwaist. 
+
+Third &lt; </seg>
+
+            <seg id="p032">
+442 
+
+LAND COMMISSIONEF 
+
+REP 
+
+i 
+
+Cut and make from pattern a dressing sacque of striped w 
+material in which stripes are matched and seams bound. 
+
+Draught, cut. fit. and make a dress of valuable material w 
+out lining. 
+
+Draught, cut. fit. and make bv hand a baby drt 
+Color lessons. ,. ... 
+
+Minnie L. P 
+
+DRAWING AM" VISK AH 
+
+The work in drawing and art continues to j 
+
+factory manner. The softening and refining influen 
+study of nature and art is noticeable in tin- pupils in th 
+
+del p 
+
+of the work done bv the classes in the art department an&lt; 
+
+schoolrooms for two vears. Last vear I taug 
+
+the morning from 111 to TJ::'.(l. This vear I teach sev&lt; 
+
+everv other dav. Monday. Wednesday, and Frid 
+
+12:30. in freehand drawing, using small comm 
+
+jects. and from the pictures drawn on the large slates. Whe 
+
+certain pupil shows any talent for drawin 
+
+given a trial in the art room 
+
+The art class is in session Mondav. Tuesday. W 
+
+! 
+
+Thursday. Friday afternoons and Saturday mornings. 
+The classes of last vear contained twentv-seven pin 
+
+these were boys. The class 
+Ihese are boys. Seven pupil 
+class is divided into section 
+the other at work in some 
+next day they change about. 
+
+f this year contains lit! 
+are new beginners thi 
+
+I 
+
+( hie is in the room M&lt; 
+
+i 
+
+There are five different hi 
+crayon, pen and ink. water &lt;• 
+up work in charcoal first an 
+
+ii 
+
+Tlicr industrial rteiia 
+
+follow up with iM*a&gt; 
+
+ment. To make this influence as far-reaching as possible 
+
+pictures made in the art room are hung in the buildings, \v 
+
+they are always in view, always giving out their sik-nt inflii 
+
+for all that is good and pure in life. The report of the instrn 
+
+is hereto attached. 
+
+Superintendent H. K. Hawks: 1 hand vmi herewith a re 
+
+EN 
+
+li 
+
+\ c &lt; 
+
+.Mi 
+
+w </seg>
+
+            <seg id="p033">
+443 
+
+ITI'TE FOR THE DEAF AND DUMB. 
+
+w 
+
+drawn from the 
+
+\v ; 
+
+&gt; 
+
+work at the state 
+to The fair for an 
+
+I'm 
+
+The pieces of finished 
+
+lave more Than met our exp 
+¦vork turned out of tliis depar 
+
+uenr are equal to tlie work dune 
+in the state. Boys are not only 
+
+n any manual training school in i 
+earning hand skill and how to in; 
+knowledge and skill acquired giv 
+
+make different articles, but the 
+
+in greater self-respect 
+
+work in their other class 
+
+.1., 
+
+1" 
+
+vent in 
+
+ike. with his own 
+
+lands, some 1 
+
+le of 
+
+lit me. He begins to emerge 
+&gt; one of independence just in 
+in his ability to make things. 
+
+u 
+
+tndition of dependen 
+
+The report of the teacher in th 
+
+lepartment will show more of 
+died and The needs for future 
+
+he details of The work accompli 
+
+levelopment 
+
+l'he appropriation made by the 
+tment To equip itself with enre 
+also enabled To purchase a 
+
+irely new work benches. We we 
+ew of The new Tools urgently need 
+The wood-working room has b&lt; 
+
+¦d 
+
+n rearranged and placed in 
+forward the work of the de- 
+
+years we have been relieved 
+
+partment. During the past tw 
+
+ibout The insTitutc 
+
+ter i 
+
+The wisdom of this change is m&lt; 
+
+de manifest by The rapid ad 
+
+vancemeni madt 
+
+work on exhibition and in use 
+
+our expeetati 
+liis department 
+
+oportion in wliicli li»&gt; profit 
+
+ERIXTEXKBXT H. V.. DaWES: ' 
+gislatui-e enabled rliis depar 
+
+much better condition for carrvii 
+
+hirli is shown in th€ </seg>
+
+            <seg id="p034">
+444 
+
+LAND COMMISSIONER 
+
+REPORT. 
+
+» 'lasses in manual training should as much as possible be kept 
+
+it all times will enthuse them. 
+
+on new work, something that 
+will appeal to their pride and 
+this wav, and in this way only. 
+
+ax their skill to the utmost. In 
+¦an best results be obtained. 
+
+This year we have added English to our technical work, and 
+each day the class devotes one hour to the study of names and 
+the use of tools and to the technical terms usually employed in 
+the branches of industry taught. It is universally admitted that 
+no branch of study taught in our school system is of more practical 
+benefit to the young men of this country than that of manual 
+training, and I would add that this is especially trw of the 
+deaf boy, who. being deprived of the sense of hearing, must 
+naturally learn so much from observation, imitation, and from 
+practical personal experience. 
+
+The deaf boy shut out from the greater number of avocations 
+open to his hearing and speaking brother must depend largely 
+upon what he can do. Manual training being a school of doing 
+and making things, should be brought to the front. The depart 
+nient should be equipped with more and better machinery. 
+While we have more and better tools and benches than we had 
+two years ago. yet there are many tools very much needed at 
+this rime. 1 Miring the past year we have been handicapped for 
+
+the want of suitable material to cany forward the work and at 
+times have been obliged to resort to second-hand lumber and 
+old boxes. This should not be. A large per cent of all the material 
+purchased for this department is made by the class into 
+furniture and equipment for the school and becomes the property 
+of the state. It is. therefore, short-sighted policy on the part 
+of the state to stint the appropriations for supplies for this departmenr. 
+I would recommend that sufficient appropriations 
+be made to purchase sixteen sets of drawing instruments, one 
+band sawing machine, one combination rip and cutting-oft" sawing 
+machine, the upper attachments of a scroll saw (the machine 
+we have), a steam glue kettle, and sufficient bench tools to equip 
+each bench. I would also recommend rhat a room be set aside 
+for moulding; that sand flasks and a few moulder's tools be procured, 
+and that the principles of this branch of industry be </seg>
+
+            <seg id="p035">
+INSTITUTE FOR THE DEAF AND DUMB 
+
+445 
+
+in 
+
+i 
+
+1 
+
+I 
+
+I 
+
+u 
+
+A 
+
+i 
+
+I 
+
+\v 
+
+i 
+
+
+i 
+
+u 
+
+I 
+
+wa 
+
+ghr. Sufficient material of all kinds should be on hand to 
+perlv carry forward the work to prornre the greatest amount 
+
+to pi-omit- the greatest amount 
+
+rood 
+
+pupil and to tin 
+
+tate. 
+
+S. S. Videtto, Teacher. 
+
+AlNllKV DEPARTMENT 
+
+riic change in our laundry department is marked and beneal. 
+From a place where labor alone was accomplished it is 
+ehool where instruction is given in the ironing and cleansing 
+
+otlies. There is room for vet greater improvements, but we 
+
+ve we are progressing in the right direction and that we 
+
+eventually have this work as thoroughly and well organized 
+
+my other department of the school. Your attention is called 
+he report of the instructor, as showing the progress made and 
+work being done. 
+
+i'pekixtexdext H. K. Oawes: Tlie enrollment for 1809 was 
+
+nty-one. On Monday. Wednesday and Friday, five girls and 
+boy. and on Tuesday. Thursday, and Saturday, seven girls 
+
+I one boy. who ironed from - to "» p. m.; I also had a class of 
+en girls, who ironed from 4 to 5 r. m. The attendance was 
+leially good. The boys run the mangle and the girls did all 
+hand work. 
+
+Phe tirst work done in the ironing room after the opening of 
+iooI this fall was on September 12, 1900. I have two classes 
+o iron every alternate day. The enrollment at present is 
+
+n ty six. On Monday. Wednesday, and Friday, five girls and 
+boy. and on Tuesday. Thursday, and Saturday, ten girls and 
+bov: I also have a class of nine girls, who iron from 4 to 5 
+
+st. every day. The first hour, from 2 to ?&gt; r. m., is spent in 
+
+truction in English, and from 3 to 5 p. m. the girls iron. So 
+most of the instruction given has been upon the equipment 
+a laundry and to teach the children to become familiar with 
+¦ Knglish name and to give a good definition for everything 
+
+d in a laundry. Very nearly all the children know the sign. 
+not the name for such things as clothes horse, a bosom board, 
+shboard. clothes pins. etc. This is only the first step of organ- </seg>
+
+            <seg id="p036">
+446 
+
+LAM 
+
+MM1 
+
+TONE* 
+
+l;i 
+
+1 
+
+izing the work into school form, but in a short time I think we 
+will be able to take up something a little more difficult, such as 
+the preparation of the wash, method of washing, and the general 
+rules as to how it should be properly done. Next comes the work 
+on stains, for example: 
+
+First— The character of the stain— Mildew. 
+
+Third — The method of removing — "Put on the lemon juice and 
+let it stand in the direct sunlight." 
+
+up this subject: 
+
+We will do much 
+
+i 
+
+when wi 
+
+ve all the different 
+
+stains. Then comes rlie proper 
+removing of stains, washing, h 
+injr. and next the body linen: i 
+
+ire of table and bed linen, thf 
+
+liny: 
+
+11 
+
+]i 
+
+waist, collars and &lt;• 
+laces, and finish by 
+undved silks. Whe 
+
+inbroid 
+
+,Vl 
+
+posed to understani 
+stains from any garn 
+dress or piece of tabl 
+
+Besides having 
+
+clothing and linen 
+This rear a record 
+
+d ha 
+
+bv hand. als 
+
+!•¦ 
+
+her 24 to I &gt;eceinl 
+
+mangle. We have had 
+
+teniber 12. We have two new 
+been a ureat help. The work 
+
+\t help. The w 
+
+desire that it shall continue To 
+
+HOKT 
+
+DEPARTMENT 
+
+i: 
+
+The horticultural department, organized and established in the 
+
+Hadkinson in charge, grew and 
+
+prospered as well as could b&lt; 
+
+Mr. Hadkinson left us at the end of the year to accept a position 
+
+Second — The reagent — Lemon juii 
+
+it is useful knowled" 
+
+» improve. 
+Marhahkt H. Mihi'hy. TVju-Im 
+
+bpring of 18JW) with Mr. J. H 
+
+xperted of a new department. </seg>
+
+            <seg id="p037">
+447 
+
+INSTITUTE FOR THE DEAF AND DUMB 
+
+li a larger salary than we were able to pay. To facilitate 
+work of this* department a small greenhouse was constructed 
+he fall of 18!&gt;9. While this is a great convenience it is not 
+
+e enough for our needs, and the plans for it should be carried 
+until we have ar least three times as much space as we now 
+
+cupy. This line of work is one in which our boys can make a 
+ceess and in which the handicap of deafness is not so serious 
+in some other occupations. Many of the boys enjoy this and 
+ve promise of becoming expert horticulturists, florists, and 
+
+¦s. 1 believe that this department is worthy of careful 
+ration and development. A large ]»er cent of our boys 
+
+1 some form of agricultural pursuits. For these this 
+hi gives the most practical instruction that they can 
+We are endeavoring to encourage and develop this 
+hat when our bovs have finished their course of instruc- 
+
+hings that they can be taught is the planting, care, and growth 
+if all kinds of plants; when and how to plant different seeds, 
+mlbs, and trees; trimming and pruning of grapevines and apple 
+rees; grafting and budding of fruit trees; planting and transplanting 
+of all kinds of shrubs; propagation of flowers and 
+
+i-t* they will desire to go to t 
+
+rlie Start- I'nivei-sity aud com- 
+
+leir agricultural education. 
+
+The professor in charge of 
+
+iiiiitinciit. in the University, 
+
+lias agreed to interest himself 
+
+work. and. if possible, to so plan his course of instruction 
+
+deaf boy seeking admission may be admitted and bene- 
+
+I have liojies for much good for our boys in this direction 
+
+work is properly encouraged by a legislative appropria- 
+
+I would call your attention to the report of the instructor 
+
+rjre and ask for it most careful consideration. 
+
+i:i:intk\[&gt;k\t H. E. Hawks: The results secured in this de- 
+
+eiit are ample warrant for its establishment and eontin- 
+
+XYliile we are laboring under many difficulties, incident 
+
+e\\ school, we are making satisfactory progress. Our boys 
+
+gular in attendance and enthusiastic in their efforts. Ne- 
+
+i is au agricultural state. A majority of our young men 
+
+teconie farmers. One of the most important and useful </seg>
+
+            <seg id="p038">
+448 
+
+LANI 
+
+MM I 
+
+IOXEF 
+
+REPOF 
+
+arrangement on the lawn: landscape gardening and care of 
+lawns. These are exceedingly practical lessons and are much 
+enjoyed by the class. In order to get the best results we should 
+have a larger greenhouse. Our class now has eight members 
+and is gradually increasing. More room is required and can be 
+profitably used. Flowers for the sick and for use in the school 
+and living rooms are furnished from this department. 
+
+A small library of books bearing directly upon the physiology 
+
+of plants, elementary botany, 
+of our greatest needs. We sh 
+
+Etnd other subjects taught is om 
+nld also be supplied with paper* 
+
+and magazines published in th 
+
+interest of this line of worl 
+
+The gi'oss value of productlawn 
+for the past year is *&lt;&gt;7&lt;i 
+slight additional expenses. fo 
+
+from farm, garden, orchard, am 
+is. This could be increased wifl 
+
+greenhouse and supplies. B 
+bled it would vet be the sun 
+
+though it were doubled ai 
+
+item in the estimate. The valuable product is the 1 
+and the citizen. 
+
+Thanking von for voiir constant assistance and enconraj: 
+
+nient. 1 submit this rep&lt; 
+
+K. X. Key 
+
+A 
+
+would call your attention to the report of tl 
+
+nd ask for it most careful consideration. His recommend 
+
+re practical and his requests should be granted 
+
+In addition to the fire protection which la- ask* for we slioiib 
+
+have some additional outside escapes from the main building 
+
+The old chapel on the upper floor of this building has bee: 
+
+arranged for living rooms for the young ladies of the institution 
+
+Should a fire occur and cut off escape by the stairway, ther 
+
+would be no other means of salvation except with ladders raise 
+
+to the windows. 
+
+I would recommend the placing of adequate fire escapes in thi 
+
+building and also the purchase of at least two sets of exiensio 
+
+ladders to be kept in the rare of the engineer and always read 
+
+for 'ise i:i case of einergencv. </seg>
+
+            <seg id="p039">
+449 
+
+INSTITUTE FOR THE DEAF AND Dl'JIB. 
+
+I 
+
+Report of the Chief Entjiiicir. 
+
+Superintendent H. E. Dawes: Having charge of the steam 
+plant you will please allow me to respectfully submit the followin 
+g report: 
+
+I consider that we have one of the most convenient, as well as 
+substantial, engine and boiler rooms in the state. The heating 
+plant consists of three boilers sixty inches by eighteen feet. 
+Numbers 1 and '1 are equipped with the American stoker; they 
+are the most complete smoke consumers I have ever seen in connection 
+with a steam boiler, and they are a great fuel saver, as 
+they burn all the combustible matter and leave very little ash, 
+mostly slaj; or solid clinkers. Forced draft is used in connection 
+with the stoker, a Buffalo fan and small upright engine supply- 
+
+it. Number :'. lias the common stationary grate. I would 
+
+nit a stoker be put in under this boiler also. One of 
+
+ii- 
+
+boilers that came out of the old boiler room was placed in 
+
+lie battery connected to the standpipe mid used for a heater to 
+supply the institution with hot water. In the engine room we 
+iave four pumps: One Dean automatic pump and receiver, which 
+Kindles tlie condensation from the entire system ami returns 
+
+the boilers. ( &gt;ne small Marsh pump that is used for pump 
+
+the rain water out of the cisterns into the laundry and sup- 
+
+ying the boilers if necessary, 
+id an old duplex that is used for 
+
+The others, a Marsh 111x0x12. 
+pumping the well water out of 
+They have a capacity sufficient 
+at any time. One thirty-five 
+r very good service. A &lt; 'rocker- 
+YV.. or font 1 hundred liglit ma- 
+
+reservoir into the standpipe. 
+
+&lt;&gt; supply the demand for water 
+I. F. l'hiHiiix engine that is givim 
+V heeler dvnamo. twentv-four K. 
+
+liine, that is up-to-date in evejry respect. A marble switchboard 
+ivith the latest electrical appliances and switches for controlling 
+
+its in various department 
+
+and buildings. This dynamo 
+that pulls the line shaft that 
+and lathes in carpenter shop, 
+mo that was used for lights in 
+o The increase in the demand 
+the dynamo is used for power, 
+
+supplies current for a motor 
+the washer, wringer, mangle 
+motor is the old Edison dvn; 
+
+engine room, but owing 
+
+o small. A </seg>
+
+            <seg id="p040">
+450 
+
+LAND COMMISSIONER'S 
+
+REPORT. 
+
+f 
+
+I would recommend that electric irons lit* pur in the ironinj 
+room. It would be a saving of fuel and would be much mort 
+pjeasant for The students that are employed in that department 
+on account of the extreme heat from the stoves. The exliausi 
+
+steam is used for heating the buildings, and is sufficient to 1 
+them warm except in very cold weather. We carry eij, 
+
+&gt;ld weather. We carry eighty 
+
+pounds boiler pressure, and by 
+
+use of reducing valves the pres 
+
+sure is reduced to from four t&lt; 
+
+lit pounds on heating system 
+
+that being all that is required 
+
+most of the svsteni. The lai 
+
+from the old engine boiler room 
+
+ind were verv income 
+
+it 
+
+weighing. They were moved up 
+
+he«d&lt; 
+
+window 
+
+boiler room, which makes it 
+
+\ 
+
+liven 
+
+The 
+
+located that a" load can !&gt;&lt;¦ dii\ 
+
+\*ei 
+
+and the coal dropped tin 
+The coal is then right in 
+
+\\ ii 
+
+the times. Tin 
+
+1 1 in 
+
+din 
+
+A 
+
+thorough] v overhauled. A 
+
+main \v 
+
+radiator 
+
+in a mechanical manner. X&lt; 
+
+n 
+
+radiator 
+
+ceilings, etc \\ 
+
+steam piessiin 
+
+Tin 
+
+as not 
+
+w 
+
+Xe\ 
+
+lso put in 
+
+The heating 
+
+ml 
+
+side walls and pipe run 
+
+a t horouu: 
+
+Ph. 
+
+closet in this building is in verv bad condition, owing to its 
+
+long use. The fixtures have h 
+
+¦oine decaved and are in a 
+
+verv 
+
+bad sanitary condition. I would suggest that this be t hoi- 
+
+ujirb.lv 
+
+renovated and a new automatii 
+closet is also too small to a&lt; 
+which have to use it. There ii 
+
+flush and range be put in. This 
+onimodate the number of boys 
+a room on the second floor that 
+
+£et a good circulation throngli 
+lies were located some distance 
+
+fireman. Ipmi the v. 
+
+I would su&lt;; </seg>
+
+            <seg id="p041">
+451 
+
+N 
+
+ITVTE FOR THE DEAF AND DUMB 
+
+is intended for a closer, and I would suggest that it be fitted up 
+with fixtures and allow pan of the boys to use it. 
+Last fall and winter a new school building was put up, which 
+
+dit to the state and institution as well. The steam heat- 
+
+tern and electrical appliances are perfect, giving entire 
+
+itislaciioi 
+
+well pmnps that are located some distance 
+i. One well is :51I) feet deep, with a 12x30, 
+Cook pump over it and is getting a good 
+
+We ha 
+
+« i 
+
+ivarer. The other is a shallow well with an old 
+
+Kuowles pump over it ( that has seen its best days). If the 
+
+Id give out the little pump would not supply 
+
+e demand for water. I would suggest that this old casing 
+
+w and a larger casing be put down. The 
+ild then be depended upon at any and all 
+
+ltstitutiou has not enough tire protection, 
+&gt;t reach of city protection. This should not 
+
+protect as well as valuable prop 
+
+institution put in its own 
+
+r would be about #2.500. 
+
+nnected with the downspouts 
+
+ttiiient lo supply tl 
+
+ind Th 
+
+n 
+
+wails. Th 
+
+t hold 
+
+as it would sa 
+
+ml a 
+
+us have a connection with tht 
+
+is 
+
+limp and could be kept full 
+
+V 
+
+if thev would hold it. A large reser 
+
+•ar that was used for well water exclusively 
+
+von 
+
+i 
+
+The plant as a whole is in verv good condition, but is like all 
+
+nature, there is more or less repairing to be done 
+
+1 would ask for a good appropriation for repairs so that tht 
+plant may be kept in its present excellent condition. 
+
+Chas. Sexton, Chief Engineer. 
+
+rln- waterworks company extend the main 
+un and j&gt;la&lt;-e ir in The protection of the 
+
+the use of so much soaj </seg>
+
+            <seg id="p042">
+! 
+
+1 
+
+452 
+
+LAND ( 
+
+MMISSIONBK S RETORT. 
+
+REPORT FROM THE LITERARY SCHOOLS 
+
+The following reports from the different grades and class- 
+
+in the literary department will give you a detailed account 
+
+the work done by the several teachers. I would particularly 
+
+all your attention to the advantages of a complete organization 
+
+a well arranged course of study, good equipment, and a corpi 
+
+of teachers working together in harmony with the superin 
+
+tendent and each other to accomplish all that can be done ft 
+
+our children. Harmony in ett 
+
+it is one of the essenti 
+
+il 
+
+satisfactory results 
+
+Report &lt;&gt;f the Work /&gt; 
+
+n the Oral Department 
+nth Grade. 
+
+1 of the S'&lt; 
+
+There are eighty five pupils in 
+
+well in line with the 
+
+great improvement 
+
+Beginning w 
+
+w 
+
+kindergarten thorough, pains 
+
+ng oral work is being dout 
+
+i 
+
+each of the eight oral class 
+
+The oral pupils are carefu 
+
+graded from one class to anotlu 
+cises as a music pupil does witli 
+
+r and proceed with their ex&lt; 
+
+x 
+
+In this, the highest oral class 
+
+lie Nebraska State &lt; 
+
+£tudy i adopted two years ag 
+
+(I 
+
+v follow 
+
+i 
+
+advantages of this course. I thii 
+At our state exposition two ]i 
+
+are incalculal 
+
+
+zes were \v 
+
+grade. One upon a map of the I 
+
+nited States and the other up. 
+
+a paraphrase, the later showii 
+
+understanding of the langua 
+
+great work in every study. \\ 
+
+th time, patience, and 
+
+we can and will equip our dt 
+
+mils to go forth from the sch 
+
+prepared to cope with anyone. 
+Most respectfully submitted 
+
+;tith of November. 1000 
+
+Head of the Oral Departi 
+
+1 Teacher of the Seventh Grad( 
+
+l- oral instruct ion 
+
+The improvement in the oral w&lt; 
+
+marked adrancemen 
+
+Hie teaching of languag 
+
+Miss Jame M. W'ashin </seg>
+
+            <seg id="p043">
+453 
+
+INSTITUTE FOR THE DEAF AND DUMB. 
+
+Report of the Fifth Grade 
+
+11. E. Dawbs 
+
+-. 
+
+\ 
+
+Daily Pi 
+
+'iratn. 
+
+Picture work. 
+Language. 
+
+New words and idioms 
+
+Recess. 
+
+Self-culture 
+
+Geography. 
+
+Articulation 
+
+Language and 
+
+ramniar 
+
+Physiology and hygiene. 
+
+Copying work 
+
+this program the State Course of Study is followed 
+
+In using 
+
+as possible. This course, however, must be slightly 
+
+closely 
+
+altered to meet the deficiencies of each particular class. The 
+child must not be trimmed or stretched to fit the bed, but the 
+
+ted must he shortened or lengthened to suit the child. 
+
+leaf acquire knowledge through sight only, those 
+
+Vs tin 
+
+ethods of instruction are sought which appeal most directly 
+
+Objects can be studied only to a limited 
+
+;ll 
+
+degree in the tifth grade; hence pictures afford the best results. 
+
+n of _\00&lt;&gt; stereoscopic photographs, the 
+
+\\ 
+
+i\ 
+
+property 
+
+)graphs reproduce scenes with all the reality of nature and 
+
+hot 
+
+afford the only real substitute for travel. The pupil is made 
+to see what he is studying and he more readily comprehends the 
+
+ideas and masters the language describing it. Besides these there 
+is a large assortment of copies from the most famous niaster- 
+
+f art, and choice sketches of the greatest educational 
+
+value. We use pictures and flowers to take the place of music 
+
+lucing a softening and refining effect upon the character 
+
+n p 
+
+of our pupils. Often the children are required to illustrate their 
+
+t &gt;pening exercises 
+Newspaper work. 
+Arithmetic. 
+
+Underwood &amp; Underwood of New York. These </seg>
+
+            <seg id="p044">
+454 
+
+LAND COMMISSIONER 
+
+KEI'OHT 
+
+language. This not only tests the accuracy of their expression 
+but demands clear and exact thinking. 
+
+The education of the deaf is a slow and difficult process. It 
+requires energy, patience, and thoroughness alike from teachei 
+and pupil. The teacher delighis in removing obstacles, clearing 
+the path, and helping the pupils surmount difticultites, not foi 
+the pleasure of overcoming obstacles, bur because they like the 
+
+pupils. We are closer to our children, have more influence ovei 
+them, and are more appreciated by them than is the common 
+
+bv them than is the common 
+
+of language) as shown in the State Course of Study. I think 
+
+we follow trli.it course verv well, and in a few veat 
+
+we have been improving, our fourth grade will d 
+
+grade work in language. The language work that I hand in U 
+the pupil's own thought and ideas that the picture and sentenc* 
+represents. Mr. , a gentleinean from Lincoln, says: "Thest 
+'pictured" ideas were better than one could expect from th&lt; 
+country school of this grade. " The words underlined were givei 
+to the children to write a sentence about, then they were re 
+quired to draw the object or objects spoken of. 
+
+I feel that this is to be a victorious year with a long term, new 
+buildings and apparatus enabling us to carry out our motto: 
+
+irrv out our motto 
+
+public school teacher. . ., ., ,„ . 
+F Alvin E. Pope, Teacher. 
+
+Ill 
+
+Report of Fourth Crude in Oral Department. 
+
+Superintendent H. E. Dawes: During the two years ending 
+
+November 30, 1900, we have had over 300 visitors. 
+
+I believe with a full nine months' school our pupils can tinisl 
+
+the same 'work done bv hearing children (with the exceptioi 
+
+'Vigorous, Practical, and Progressive." 
+
+Miss Ekith Hank, Teacher. 
+
+It is to be regretted that it is impossible to reproduce the 
+
+cssons and pictures spoken of by Miss Kand. They are splendid 
+
+examples of illustrated language lessons. 
+
+Report of Third Grade in Oral Department. 
+
+Sii'ERixTEXDEXT 11. E. Dawks: The enrollment for 1899 aud 
+
+L900 was nine ifive bovs. four ijiilsi miiil March 15. when one bov </seg>
+
+            <seg id="p045">
+455 
+
+XSTITVTE FOB THE DEAF AND DIME. 
+
+i 
+
+\ 
+
+i 
+
+I 
+
+St;\ 
+
+11 
+
+1 
+
+I 
+
+1 
+
+n 
+
+N. 
+
+I 
+
+I 
+
+n were passed to rhe fourth grade and two 
+
+1 in rhe third grade. The present enrollment is ten; 
+
+x hovs and four girls. Seven were promoted from the second 
+
+uto school for the first time. This class is an 
+
+le. one 
+
+Two boys hear all that is said, but have 
+speech: two other boys hear when spoken 
+
+ultv \v 
+
+mv loudly: two girls hear some but not enough to receive 
+action through the ears. Two boys and two girls do not 
+
+VII the children are good lip readers and the instruction 
+
+lven or; 
+
+he work in the third grade is carried out according to th« 
+
+Course of Study. Every lesson is made a language les 
+
+ut the language lesson proper is the study of pictures, 
+
+nt and animal life, life and customs of different nationalities, 
+
+1 interesting events that happen in the children's lives. The 
+
+use of nouns, pronouns, verbs, adverbs, etc.. is taught. 
+
+hildren are encouraged to do independent thinking and as 
+
+possible correct their own mistakes 
+
+metic written examples are placed upon the black 
+
+ml and the children think for themselves and decide how the 
+
+xani] 
+
+ubic notation, dry and liquid 'measure, linear measure, and 
+nev are taught. 
+
+n geography our object is to give primary ideas concerning 
+
+he earth. Definitions of hills, mountains, lakes, rivers, etc 
+
+night. The study of maps, and especially the study of 
+
+braska and the Inited States, is taken up the latter part of 
+
+veai 
+
+In physiology little talks are given concerning the care of the 
+dy. teeth, hair, and nails. The parts of the body and uses of 
+
+lementaiy sounds are taught, and short 
+
+In art 
+
+lies that are used every day are taught, such .as "How 
+iu-do." "Please give me a pencil." etc. 
+
+he worked. Addition, substruction, division, 
+
+Cora M. Jack. Teacher. </seg>
+
+            <seg id="p046">
+456 
+
+LAND COMMISSIONER'S RETORT. 
+
+Report of Second Grade in Oral Department 
+
+Sufebixtexdext H. E. IIawes: The rapid progress of this 
+grade shows what can be done when a set course or system is 
+followed. The introduction of the State Course of Study was 
+a most wise move. At the beginning of the 1899 school jear 
+the second grade pupils had a mixed knowledge of a great many 
+things; in some branches they were ahead of the course of 
+study; in others they were far behind. Their training was such, 
+however, — particularly that of those who were not new to the 
+school, — that it did not take them long to acquire what was 
+new to them, or to rapidly advance in that of which they had 
+had but a smattering. Several of the new pupils, however, 
+confined chiefly to those who could not hear, were far behind 
+the others at the start, and so for months made the class one 
+of many divisions; but because of their hearing, they were able 
+to progress more rapidly than the others, and, at the end of the 
+school year, were quite up to the average of the majority and 
+were promoted. The class was made up of nine boys and three 
+girls. The oldest of the boys "was fifteen, the average of the 
+
+others eleven. On*' of the girls was eightc 
+
+wi 
+
+eleven each. The two younger girls were the brigl 
+of the class. The average hearing &lt;&gt;f the class wa 
+
+per cent. 
+
+The class of this year. 19OO-'O1, numbers thirteen: six boys, 
+seven girls. The oldest, a girl, is nineteen; the youngesr is a 
+boy of nine, who is the best in the class. An agreeable feature 
+is the pupils' comparative evenness. "While some are slower 
+than others, no divisions are necessary, a fact that makes the 
+work lighter and the results far more satisfactory. The average 
+hearing this year I should place at barely *per cent. With last 
+year's experience to aid. this year began more systematically, 
+with better machinery and more oil to the wheels. This, combined 
+wirii their excellent instruction while in the first grade, 
+enabled them to start immediately with the work as outlined 
+by the course of study. We have followed this carefully.— in 
+some cases have even gone more rapidly than warranted by the </seg>
+
+            <seg id="p047">
+457 
+
+INSTITUTE FOR THE DEAF AND DUMB. 
+
+¦suggestions" in said course, — and I am confident that by the 
+
+be thoroughly equipped to pass 
+
+nd of the vear the class will 
+
+&gt;nd t;rad« 
+
+examination. 
+
+ublit- srl 
+
+Gorman Shreve, Teacher. 
+
+Class, Oral Department. 
+
+First Gruih 
+
+1 
+
+xtendext H. E. Uawes: The work of the present year 
+
+s that of the first grade in Oral Department. This class conists 
+of twelve pupils, ten of which formed part of the kinder- 
+
+garten of last year. The branches studied are articulation, 
+language, lip-reading, notation and numeration. The class is 
+bright and capable of doing excellent work, if their energies are 
+properly directed. Five of the class hear enough to assist them 
+in becoming excellent lip-readers and do encouraging work in 
+articulation. In language, my object is to make-the very atmosphere 
+of the schoolroom written and spoken English. Quantity 
+
+placed on an equal with quality and both are advanced as 
+
+ipidly as possible. The five-slate method is used with success. 
+
+My experience is that the fewer signs used, the better the 
+
+mprehension of English, and I aim to make this the motto of 
+
+wort 
+
+Lena B. McNamab, Teacher. 
+
+First Grade, Oral Department. 
+
+ent H. E. Dawes: In this grade particular stress 
+
+been laid on articulation and lip-reading. At the same time, 
+ever, language has had quite as important a place, for, 
+
+owt 
+
+the deaf child must be»led step by step from the 
+
+simple 
+
+\nd constant repetition they become a very part of him. What 
+a hearing child obtains bv ear a deaf child must gain by sight. 
+
+First — Articulation. 
+
+This branch consists of work on the elementary sounds, which 
+e drilled upon until the pupil can recognize and produce 
+
+them quickly, and then the work passes on to lessons on 
+syllables and combining them into words and finally to sentences. 
+The sentences were simple and comprised thoughts 
+
+omplex forms of language, until by drill </seg>
+
+            <seg id="p048">
+458 
+
+commissioner's report. 
+
+LAXI 
+
+with which the pupils were familiar, and the words eonsiste 
+of objects about the school. The lip-reading in connection wit 
+this was made up of simple commands and questions, words 
+proper names, and anything from the language work that coul 
+be used profitably, as. answering simple questions by readin 
+
+the questions from the lipi 
+
+The five-slate systems was used in the language wot 
+
+ukI b 
+
+this method, nouns, verbs, adjectives, pronouns, and 
+
+prepos 
+
+tions were taught. The nouns used were headed 
+1. Things in the schoolroom. 
+
+Parts of the body 
+Things to eat. 
+
+4. Clothing worn by boy or : 
+5. Furniture in different part 
+
+i 
+
+6. Names of a few wild and domestic anini; 
+
+flowers 
+
+7. Proper namt 
+
+8. Days of the week and mouths of the yea 
+The Sunday school work was carried on w 
+
+mote the moral welfare of the fluid and give him son 
+
+(1 
+
+spiritual things 
+
+The nature work was not very extensive, and \v 
+
+on in connection with the langua 
+
+Third— Number Work 
+
+1. Writing numbers to»one hundred 
+2. Numbers and names to fifty. 
+3. Roman numbers to fifteen. 
+
+4. Addition and simple subt 
+
+action 
+
+Simple problem 
+
+Six pupils were recommended to second grade in June. 1S91 
+
+Eight pupils were recommended to second grade in -Time. 100( 
+
+ax B 
+
+Second — Lancua </seg>
+
+            <seg id="p049">
+459 
+
+riTTTTE FOR THE DEAF AND DIME. 
+
+t 
+
+' the Work Done in thv Kindergarten 
+During the Past Tiro Vans. 
+
+nt H. E. Dawes: The average age of the kiuderght 
+years. As is the ease iu most classes, there 
+hildi-en whose mental capacity is more developed 
+
+Thus we have children who are past the kinder- 
+
+irtcn. in years, but not past in development of the mind. The 
+ght-vear old deaf child is as young as the five-year-old hearing 
+
+hild. so far as mental development is concerned 
+
+The principles and methods which have been handed down 
+us bv the great educator Froebel serve as the foundation 
+
+&gt;ur "Kindergarten." When the deaf child comes to us its 
+it need is the names of objects, which is preparatory to the 
+
+inguage work which follows in the tirst grade. The different 
+
+he year are taken up in their order. The messages 
+ivhich each (season) brings us are given to the 
+
+lildren: thus important lessons are impressed upon their 
+mug minds. At opportune times names of the different 
+bjects and articles are given the children, by means of the 
+lanual alphabet and writing them on the wall slates. In circle 
+
+ind occupation work, commands are given in writing and speak 
+ng. The written command is given first without the name 
+
+the child, then, after the attention of the children has been 
+cured, the name of one child is written, i. e.. "Find the flower, 
+
+'onrad. 
+
+been given to the articulation 
+are two classes, one of which 
+other has been slower. It is 
+
+This term special attention ha: 
+work. At the present time there 
+has made marked progress. The 
+
+hoped that by means of this division there will more ambitious 
+work 1..- doin- by this second division. The general outline of 
+the year's work is as follows: During the winter season special 
+
+made for the holidays— Thanksgiving. Christ 
+
+prepara 
+
+mas. New Year's, and Washington's birthday. Spring— This is, 
+as main have said, one of the most important and delightful 
+
+to the little children. The seeds which they have carefully 
+laid away are brought out and planted. The nature work is the </seg>
+
+            <seg id="p050">
+460 
+
+LAND COMMISSIONER'S REPORT. 
+
+most important during tliii 
+birds, butterflies, flowers. et&lt; 
+the medium of observation. 
+
+season. Stories, lessons, of tl» 
+are given to the children througl 
+
+Clara B. Andrews. Teache 
+
+MANIAL DEPARTMENT. 
+
+Report of the Work Done % the Pupils of the First (node 
+for the Past Two Years. 
+Superintendent H. E. Dawes: Language being the most 
+difficult for the deaf, more time has been spent with it than 
+anything else. Practically all lessons, except number work 
+.using characters, are language lessons to the deaf child When 
+new names are given the child tries to decide in his own mind 
+where they belong according to the five-slate system. Vll nameare 
+given first by script and followed by the manual alphabet" 
+Objects and pictures were used for illustrating the new words! 
+Barnes of classmates; articles of the schoolroom; parts of the 
+clothing; familiar animals: things to eat; parts of the body 
+
+Frequent drills in finger-spelling 
+
+were given and required; als 
+
+arn the names 
+
+of trees, birds, and other object 
+brought to the schoolroom for le: 
+
+vnimals and objects we 
+
+¦ssons 
+
+family names; superintendent, steward, matron, teachers and 
+other persons whom they meet frequently; names of colors; a 
+few adjectives, pronouns, prepositions: the use of and: davs of 
+the week; names of the months; the rooms of a house and some 
+of the furniture and other things connected with the home life 
+of the child. This is a brief outline of the vocabulary gained 
+by the child in this grade, excepting the action words/ A very 
+nice list of verbs was given by action-work, which is the basis 
+for sentence-making. Toys were used and found very valuable 
+rhe use of the singular, plural and possessive nouns were easilv 
+™ ders&lt; l tlom lessons and applied with the items 
+M nting short stories from pictures was found quite profitable. 
+
+.pelled or written forms of sentences when asking for ol 
+
+n tlie schoolroom. 
+
+The nature work consisted of excursions to learn the- i </seg>
+
+            <seg id="p051">
+461 
+
+INSTITUTE FOR THE DEAF AND DUMB. 
+
+\ 
+
+I 
+
+I 
+
+i 
+
+ine number work consisted o 
+undred. combining with objects 
+nd one-third of numbers to twelve: 
+allies and numbers to thirty; a 
+nd simple subtraction. Some of 
+ubtraetion, multiply and divide 
+hree and four. 
+
+of writing numbers to one 
+s to twenty; finding one-half 
+? ; the Roman letters ro fifteen ; 
+i few short written problems 
+f the pupils could borrow in 
+small number* bv two and 
+
+\t the close of the year 1898 six pupils were promoted to the 
+•ond grade, and in 1899 seven were promoted. 
+
+Report of the Second and Third Grades 
+
+Second Grade Language Work 
+
+Superintendent H. E. Dawes: For text -books we used 
+•Lights to Literature No. 1." Most of our lessons were taken 
+Tom action-work. Class had a vocabulary of about two himlied 
+nouns and one hundred verbs. Letter writing: questions 
+tnd answers; taught the pronouns I, my. me. he. his. him. she, 
+
+&gt;u. we. and us; commercial journal writing. 
+
+Numbers 
+
+Written problems iu addition and subtraction. Roman numer- 
+
+fifrv. Numbers and their names to one hundred 
+
+Third Grade Language. 
+
+Letter writing. Continued journal writing. Description and 
+iction lessons. Have used the sequence method this year and 
+find I get a great deal better results than from "any other method 
+
+'. ever used. By this method anything that happens can be put 
+uto English by the deaf child. Taught the pronouns your. our. 
+
+Their, they, them. Story writing from memory and pictures. 
+Commands that are used in the schoolroom. 
+
+Number 
+
+Multiplication tables. Roman numerals to one hundred. 
+Problems in addition, subtraction, multiplication, long and 
+short division. Taught the fractions of one-half, one-third, and 
+
+irth. Used the tov monev 
+
+. Taught them to count, make 
+"se of the ruler and difference 
+
+change and point off money. I 
+between inches, feet, and vards. 
+
+Most of the number work was 
+
+Ora Vivian. Teacher. 
+
+
+mmissk&gt;ni:k's report. </seg>
+
+            <seg id="p052">462 
+
+LAND C 
+
+given in a language form, using no figures but the names instead, 
+the pupils being required to write them in figures. In 
+this work thev did not go above one hundred. 
+
+Taught i he pupils home towns, counties, and state in which 
+they live. Did not go outside the state of Nebraska. 1 Erection, 
+climate, season*, surface of the country. Drew map of the 
+state and located capital, largest cities and rivers. Did not give 
+very much time ro geography, as I paid special attention to 
+language work. If a child understands English he can easily 
+grasp ideas of geography. The language and geography work 
+has all been copied in note books and kept to be taken home 
+
+by the pupil at the close of the term 
+
+Differenr parts of the body 
+Breathing exercises. 
+
+Effects of stimulant 
+
+Care of the body and prop 
+&gt;ating. 
+
+in 
+
+All of 
+
+j'ear all except one boy who had b&lt; 
+
+months. 
+
+th mill Fifth ( 
+
+SlTPERIN 
+
+report of tin- fourth and fifth 
+for the two years eliding Nov 
+
+jrradt 
+
+This month will end mv 
+
+jnd as I look back over the work done I feed satisfied wi 
+
+what has been accomplished. The only drawback I have en 
+
+countered was the removing from school of some pupils in th« 
+
+middle of the term and by others coming in late in the fall. I 
+
+do not believe all the parents understand what benefit their 
+
+childwn are receiving here or what harm they are doing by 
+
+removing them. The work of teaching the deaf is very hard 
+
+and parents should render all assistance they can. Being deaf 
+
+&lt; Geography. 
+
+Phvsiologv 
+
+Kt port of the Foi 
+
+II. E. Dawks: I herew 
+
+mber :!&lt;!. l!&gt;0&lt; </seg>
+
+            <seg id="p053">
+463 
+
+INSTITUTE FOR THE DEAF AND DUMB. 
+
+lyself I have always taken a great interest in this class of 
+leople, and I have not found so much pleasure from the money 
+
+for my labor as I have found in the labor itself. Since 
+into the new school building my task has been much 
+
+lied. Pupils have taken more interest in work. New and 
+surroundings, with an abundance of light and fresh air. 
+
+made both pupils and teacher stronger mentally and phy 
+v. The parents, friends of the deaf, and the pupils thein- 
+
+cal 
+
+we much to you, the board, and the last legislature for 
+in behalf of their education. The adoption of a course 
+
+nt ire fifth grade was promoted last spring, so the pupils 
+
+T 
+
+are now in the fifth are all new to that grade. Following 
+
+win 
+
+is the average in different studies for the class for this term: 
+Geography, 85^; language. 7!H; composition. 83^; arithmetic, 
+MK; physiology, 7(W; health. 97&lt;£; deportment. 96,^. 
+
+¦ study and the grading of the classes was another good step 
+
+i the light direction. While it has been in operation only a 
+
+¦w years, iis good results are already plainly visible. One 
+
+F the rules of the institution, "to teach by example as well as 
+
+recept." is a good one. and I have tried to carry it out at all 
+
+nic.s. I find by associating freely with the pupils, joining their 
+
+aincs. clubs, sports, etc.. I can win their good will, confidence, 
+
+nd friendship to a larger extent than any other way. So I 
+
+ave spent much of my time, outside of school hours, asso- 
+
+iating with them. In the fourth and fifth grades I have fol- 
+
+&gt;wed the course of study as closely as practicable, and have 
+
+dded such suggestions as were made from time to time by the 
+
+Uperintendent. 
+
+Pupils have been promoted each spring after they have 
+
+assed a satisfactory examination. I have inquired, quite often, 
+
+bmit pupils who have been promoted from my class, and have 
+
+leen t,,ld that tiny were doing nicely. I fee* that the work 
+
+hey did in the grade that I have charge of properly prepared 
+
+hem for the grade to which they were promoted. The average 
+
+landing of the fourth grade in different studies is as follows: 
+
+Teography. 77'/: arithmetic. SI-,; language. "Sv: composition. 
+
+¦&lt;K: deportment. !»"'&lt;: health. 98#. </seg>
+
+            <seg id="p054">
+464 
+
+LAND COMMISSIONER'S REPORT. 
+
+There is a total of twenty-two in these two classes. The 
+average attendance for this term is as follows: Total number 
+of days of school, 57; total number of days all pupils attended. 
+September 13 to date. 1,04;$: total number of half days absent, 15. 
+Average membership entire school year. 18 3l!-57ths. Average attendance 
+entire school. 18 19-57ths. On no occasion have I 
+found it necessary to use corporal punishment, and at all times 
+have had perfect control of my pupils. I shall in the future, 
+as in the past, try to carry out the motto of the school, "Vigorous, 
+Practical, and Progressive." I wish to thank you, the 
+board, and all who have given me help, advice, and encourage 
+nient in mv work. 
+
+Respectfully submitted 
+
+L. M. Hint. Tea 
+
+RriHjrt of tin- si.rtfi and Seventh Grad&lt; 
+
+Superintendent H. K. Dawes: — At the begin 
+
+iliool 1 was reassigned to the charge of the sixth and seven 
+rades of the manual department. As soon as the classes wt 
+
+•rganized. I pushed the work required by the course of study 
+
+iml followed the outline as far as possible according to 
+•onrse. I have the sixth class consisting of three bovs and 
+
+seventh consisting of eight bovs and two girls. The per &lt; 
+
+of attendance from the opening of the school to date is nin 
+seven and the per cent of punctuality ninety-nine and one-li 
+
+] will give the following brief resume of the work done sii 
+
+the opening of the school: In language work, they are r 
+
+i 
+
+to construct sentences, either on wall slates or on pap 
+
+containing words or phrases in common use. I think they 
+
+have made satisfactory progress in this direction. They 
+are required to copy all the words or phrases given in note 
+
+books, for future reference and review. In history work, not 
+
+lasses take the sa 
+
+It would 
+
+son 
+
+have them take up different woi 
+
+on aecoun 
+
+re being tw 
+
+lasses and a Tin 
+
+The following is a general outline of the history wor 
+
+npossililo t&lt; 
+
+inie possible to be devoted t&lt;i this bra </seg>
+
+            <seg id="p055">
+465 
+
+INSTITUTE FOR THE DEAF AND DUMB 
+
+I 
+
+1 
+
+General causes of the Revolution. 
+Writs of Assistance. 
+
+The Stamp Apt and its repeal. 
+
+The tax on tea and the Boston Port bill 
+Congress called in 1774. 
+
+The war began. 
+
+Uattles about New York and in New Jersey 
+Burgoyne's Campaign. 
+
+The war about Philadelphia. 
+
+I tat ties in Georgia and South Carolina. 
+Arnold's Treason and Andrew's death. 
+&lt; Ireen in the south. 
+
+n arithmetic work, the seventh grade has made a special 
+dy of long, square, and cubic measures. The sixth grade has 
+oted their time to the study of fractions and square and long 
+iisure. In grammar, the sixth grade study the parts of speech 
+
+•I simple and compound sentences. The seventh class, tbe 
+mplex sentences with, whom. who. and which, and diagrams 
+
+the sentences. They are required to write compositions ou 
+idavs. I recommend both classes should take up geography. 
+
+should be furnished with reading book 
+
+When 1 was assigned to the charge of the library, I found 
+ere were 1.454 volumes on the shelves, and all the books were 
+
+Since the opening of the school, sixty-ont 
+
+Ided to the library. Four hundred and 
+
+I 
+
+iiiv eight volumes and one hundred fifty-nine magazines have 
+¦en used, or are in circulation. Some of the books are in poor 
+.ndition and need rebinding. I recommend all the books should 
+
+labeled, numbered and catalogued. I recommend the library 
+
+1 have an addition of one hundred juvenile books and 
+
+&gt;f reference for reading worl 
+
+Waldo H. Rothert, Teacher 
+
+f the librarian for additional reading matter are 
+s exceedinelv modest in his wishes, and if wt 
+
+d. IT 
+
+ney to do so. more than double the amount asked for 
+purchased. All the magazines, picture papers, ami 
+
+I </seg>
+
+            <seg id="p056">
+466 
+
+AXI&gt; COMMISSIONER'S BEPOR1 
+
+juvenile literature published should be on our shelves for tlw 
+nse of tlie children. It is absolutely essential thai the deal 
+child form the "reading habit." Ir cannot beacquired nnles f 
+the proper facilities are provided. 
+
+Rr/tort of the Hh/htli 'Irml 
+
+SrPEHiVTEXDEXT H. K. Dawks: The class of 1S!I!I graduated 
+five members, our of whom has since entered (iallaudet College 
+
+sun 
+
+I'.er w 
+
+who was graduated ii 
+"!»!• arc intelligent, si-ll' 
+
+.ens — &lt;\ 
+
+married durii 
+
+times hajip 
+
+puj ils 
+
+environuieiit 
+
+Ex 
+
+veai 
+
+\\ lia 
+
+leu 
+
+rel 
+
+.Most of the recitations are conducted in writinu. 1 
+
+by this method that our children's 
+
+Washington, I&gt;. ( 
+
+another alu 
+
+TWO Ulcllllli 
+
+...uir..-* ,,, IM fins. r oiiiswinji I lie .\ehrask;; ( ourse of Sn 
+
+comiiicnial arithmetic is &lt;-&lt;.;iiii]\i l ..l in tin- : 1 1 . i &gt; 1 i &lt; -&lt; I miinii 
+
+¦ ' '"iiiuiiiii in i ill- il|&gt;|MMM| | M I |l&lt; I | 
+
+of percentage, and language work receives daily and most ,-; 
+
+ful attention. Tin- latter work is condu-ted analvti&lt;-ally a&lt;&lt;&lt; 
+
+i 
+
+iiif. r t&lt;i Ki-aiiiiuarical forms — not for grammar's sake, but in or 
+
+to strengthen Hie pupils" analytical powers; and svnllw 
+
+i&lt; 
+
+language work is constantly continued in the form of essays 
+
+subjects horli optional and assigned, which are composed. &lt; 
+
+i 
+
+rected and reviewed from &lt;la\ to dav. </seg>
+
+            <seg id="p057">
+467 
+
+T1TITE FOR THE DEAF AND DUMB. 
+
+onducted in future years, and school life must be. above all else, 
+tractically preparatory. Class-work in j;eoijraphy is preserved 
+
+nibers' own future reference, and in this con 
+
+liiber lias in course of preparation his own 
+
+&lt;r 
+
+lescrintion of his- home town, of the state of 
+
+l&gt;la 
+
+\ 
+
+uious regions of our vast country, the prodcoinmerce. 
+which is to lie extended to the 
+
+if the earth and their dependencies. As in 
+inds and qualities of mind are bound to vary: 
+is ro afford each pupil :i just and equal share 
+
+in! encouragement. Not individuals but efforts. 
+
+ilities are in favor, or the 
+
+f praise" is rendered without conscious 
+
+Kt.ftOO 00 
+
+SIM) 00 
+
+1M.200 00 
+
+S.000 i M I 
+
+S.000 00 
+
+17.000 00 
+
+Hoard and clothing </seg>
+
+            <seg id="p058">
+468 
+
+LAND COMMISSIONER'S KEPOET. 
+
+Supplies for industries jo 000 00 
+
+Furniture and bedding 2 000 00 
+
+Books and stationery 
+
+1.000 00 
+
+Telephone and telegraph y00 00 
+
+Repairs and improvements 
+
+I'.IMMI 00 
+
+Water supply and connections 1,200 00 
+
+Typewriters 5(K , ,,„ 
+
+Incidentals 
+
+500 in. 
+
+Paints, oils, and glas 
+
+500 00 
+
+Drugs and medicines' 
+
+:&lt;OO 00 
+
+Horses, wagon, feed, liarnes 
+
+SI 10 00 
+
+Fittings for hospita 
+
+200 0o 
+
+Fire protection D.O(U) 00 
+
+&lt;"old storage plant 
+
+000 110 
+
+Oreenhoust 
+
+200 00 
+
+Fruit, ornamental trees and shrubs loo oo 
+
+Postage and expi 
+
+the illness in the institution for The past year was 
+
+than the previous year. We had tin 
+
+matic fever which were very persistent in character and 
+
+some seven weeks or more. Lung fever attacked eight 
+
+small boys, and, while nioderati 
+Eight cases of tonsilitis which v 
+Ty-two rases of chicken-pox: one 
+&lt;&gt;f sore throat; seventy-one eai 
+caused from indigeslion. Two 
+lingers, which in each case causi 
+
+lv severe, all recovered readi 
+
+in from three to ten da vs. Fif 
+
+acure case of erysipelas; twenty 
+&gt;es of headache, in most cases 
+sprained wrists; four infected 
+¦d the loss of the nail. Six verv 
+
+had cuts: one case of poison from rusty nail; two very severe 
+burns; thirty-live cases of earache; forty-four cases of toothache: 
+four of sore eyes; six of eczema. In each of the above named 
+
+ases the child was kept in the hospital from two to ten days 
+
+Sidewalks 
+Gymnasium and equiimieii 
+
+SrPERixTEXUKXT H. K. Pawes: li is cratifviuK </seg>
+
+            <seg id="p059">
+469 
+
+INSTITUTE FOR THE DEAF AND DUMB. 
+
+h 
+
+ii 
+
+I 
+
+¦xcept in lever cases, which required mtfeh longer time and 
+he treatment advised bv the doctor. The illness this vear has 
+
+een much less than last. 
+
+An improvement over last year is the small cottage which was 
+paired during the summer and fitted up for a hospital. We 
+
+ccupy the second floor, which can be well ventilated and i 
+ght. sunny, and cheerful. 
+
+Fifteen cases of tonsilitis which were very light, fourteen of 
+leadache and indigestion, two cold on the lungs, one of bronhitis. 
+one of la grippe, and five boils were given the usual treatuent. 
+In addition to this had numerous calls for medicine and 
+
+dress cuts, sprains, burns, etc. Lulu Hall, Nurse. 
+
+HEADING CLUE 
+
+A leading club has been organized during the ls*st year and 
+proving of great benefit and help in forming the "'reading 
+
+labit." The books read by the club are those of the Nebraska 
+mpils" reading circle, supplemented by selections demanded by 
+
+H 
+
+U'oused bv the reading in the regular coursf 
+
+I.ITKKARY SOCIKTY 
+
+Phe Literary Society continues to be a source of much interest 
+&lt;1 valuable instruction to its members. Nearly all of the pupils 
+
+tlic fourth grade are members of this society. The work 
+jilislicd will compare favorably with the work of like 
+
+rades in i lie schools for the hearing. The debates, which takt 
+lace diniug the winter, between this and similar organizations 
+
+he Iowa School for the Deaf have been very entertainin 
+
+much encouragement to the members. 
+
+HRISTIAN ENDEAVOR SOCIETY 
+
+This society meets regularly every Sunday evening during the 
+hool sessions. The services are conducted in the same manner 
+
+hat this organization has adopted for the churches. All the 
+&gt;lder pupils attend and receive much comfort and eneourage- 
+
+uent in their efforts to improve and perfect their moral con- 
+
+duct. 
+
+.1 </seg>
+
+            <seg id="p060">
+470 
+
+LA NT 
+
+MM 
+
+IONF 
+
+REPOIST 
+
+All tliree of these organizations are officered and ma 
+
+by the pupils themselves, the officers being selected l&gt;y se&lt; 
+
+ballot 
+
+Some of the teachers are always prt 
+
+to otter suggestive help when needed. The in 
+
+inna th* 
+
+¦onducT of the business are such as usually control deliberative 
+
+bodi 
+
+\ft 
+
+ireful in 
+
+I 
+
+rabbit. 1 was 
+
+would 
+
+prise for the state to 1 
+last I purchased a doc 
+
+1 w 
+
+bits doing well and ii 
+
+w 
+
+were made in behalf of these 1 
+
+nals. Not con 
+
+or the waste food, that lliev 
+
+an be produced f 
+
+I .1 
+
+\|. 
+
+poi 
+
+of this kind of n 
+
+providt 
+
+In addition t 
+
+familv with a delicacv that they would not o 
+
+to secure. The rabbit is much in 
+
+easier to raise, safer to handle, moi 
+desirable as a domestic pet or foo 
+
+l-produ&lt; 
+
+NAMF 
+
+The name of this institution should b&lt; 
+
+describe i1s object and work. Its present 
+
+tute for the Deaf and Dumb."' This should be changed to "Th 
+
+Nebraska School for the Deaf." As now 
+
+ve as intended from 
+
+v 
+
+ltrht al 
+
+dditi 
+
+I would therefore r&lt; 
+the subject of the ch 
+
+I &lt;lo eXl 
+
+the attention of our pcop </seg>
+
+            <seg id="p061">
+471 
+
+riTt'TE FOE THE DEAF AND DUMB. 
+
+he State of Nebraska 
+
+the Institute for the Deaf and 
+
+name for 
+
+Omaha, in the conntv of Douglas, state of Ne 
+
+v. changed to the Nebraska School for 
+
+1&gt;. 
+
+ml all acts and parts of acts in conflict with this 
+
+lied 
+
+hereby rep 
+
+ASH FIN 
+
+he cash funds 
+
+For mam .wars the question of the disposal of the easii tunus 
+
+•ism;; in the various institutions lias been one of considerable 
+
+ditical contention. In order that this may cease, and in order 
+
+.(intention. In older that this may cease, and in order 
+
+iai the superintendent of this school may be directed as to the 
+
+•n/lent of this school may be directed as to the 
+rsh that may from time to time come into his 
+
+isposal of the cash that may from time to time come into his 
+
+i.ss.-ssioii. I would ask for the following legislation on rliis sub- 
+
+uld ask for the following legislation on rhis sub 
+
+•cl : 
+
+!e ii Enacted l»v the Legislature of the Slate of Nebraska: 
+Section 1. That the superintendent of the School for the Deal 
+
+ire of the Si 
+
+Xebrask 
+
+¦ndent of the School for the Deaf 
+
+iperint 
+
+&lt; hereby directed to send all cash that may come into his pos 
+
+ish that may come into his pos 
+
+n 
+
+ession from the sale of articles from the industrial departments 
+
+lie of articles from the industrial departments, 
+luce from the garden, and from any and all 
+
+ale of ashes, produce from the garden, and from any and al 
+
+ources. to the state treasurer and to notify the state auditoi 
+
+nd to notify the state auditor 
+
+ism 
+
+f the amount and when sent to the state treasurer. The state 
+
+t and when sent to the state treasurer. The stat€ 
+
+reasurer is hereby directed to keep said cash fund, known ai 
+
+urer is hereby directed to keep said cash fund, known as 
+("ash fund of the School for the Deaf." and to disburse the 
+
+he -fash fund of the School for the Deaf." and to disburse th&lt; 
+
+anie as hereinafter directed. 
+
+Section 2. The superintendent may use the cash thus accn- 
+
+uulated for the support and maintenance of the various depart 
+
+uents of the said school only upon vouchers prepared and item- 
+
+ed as required by law. for the disbursement of the appropriai,n 
+for tin- maintenance of the said school. 
+
+hereby authorized to draw 
+
+he st 
+
+aid fund upon the presentation of a warrant 
+
+ale auditor in the form and manner provided by law 
+
+the disbursement of the other funds belon&lt;;inji to the state </seg>
+
+            <seg id="p062">
+472 
+
+LAND COMMISSIONER'S REPORT. 
+
+1 
+
+Section 4. The state auditor shall not draw a warrant again* 
+the said cash fund unless there is sufficient money in the fun&lt; 
+drawn upon to pay said warrant. 
+
+Section 5. The state treasurer shall not draw his chec 
+against The said fund unless he actually has the cash belongin 
+to such fund in his possession. 
+
+Section 6. That acts and parts of acts in conflict with this a 
+be and the same are hereby repealed. 
+
+Section 7. Whereas an emergency exists, this act shall be ii 
+fnll force and effect on and after its passage. 
+
+In the following roll will be found the name, age, residence 
+nativity, and date of admission of former and present studentto 
+the institution, together with the present location of the grad 
+uates, and whether or not self-sustaining: </seg>
+
+            <seg id="p063">
+473 
+
+XSTITLTE FOR THE DEAF AND DUMB 
+
+taiutei 
+
+t 
+
+ai a 
+
+dG 
+
+1O1 
+
+imps f S g 
+JO 8JB&lt;1 rmrmt 
+
+i 
+
+z 
+
+&lt; 
+
+[\VYl 
+
+«n 3£ 2 2 
+
+V 
+
+¦c 
+
+y. 
+
+Z 
+
+e 
+
+• : SS e : S :8 S : : : : :8 :3 : : 
+::::::: :&gt;&lt;&gt;&lt;z .&gt;&gt; ¦ &gt;•&gt;&lt; • ;¦_¦¦&gt; ¦.&gt;*:: 
+
+'¦¦'.'•'.'¦ ja ; 
+: : u '¦ ¦ '¦ "" '.'¦'.'.'.'¦¦'¦ '¦ '¦ '¦ '¦ '¦ '¦ '¦ '¦ ¦ '¦ ¦ 
+lit ;lli!lllli!!l?I!!l3IJa 
+
+¦XXXCDQOXXXJDODXXXXXXXXOOaOXQOaCXX 
+
+: a a ¦ = = = = = = = = = = = = = = = = = ¦ S ¦ = 
+; .1J : :.§.§J.§.i.§J.§JJ.IJJ.sJ.i-i -1 :| 
+¦So ¦ ¦v»oSS«as«e«v«oo«o -5 -e 
+= = : : = = 2 = = = 53 = = = = = H = a2 " = : I 
+¦ •&lt; &lt; • •&lt; &lt;&lt;•&lt;&lt;;•&lt;&lt;&lt;! ¦&lt; &lt;i &lt;!&lt;¦&lt; -^ •&lt; : &lt; : ¦* 
+
+•xxxxooxaoxxocxaoaoajooooxxxaoogtEoooox 
+
+: : : : : jii-4 j :^ j j i^ !te :^ :f i ; ti 
+fflflllJllll HlJij Hiili 
+II fit liiliil iii| oil s^IhsI 
+
+: o j : : : . : : j« : : 9 ; : : g : : : : : J : : 
+Jt&amp;j&amp;JjUfiiljijiilii 
+iillililiiiiililifiliiJii! </seg>
+
+            <seg id="p064">
+474 
+
+LAND COMMISSIONER S REPORT. 
+
+naiamj :•=:::: 
+• XOS 
+iW&gt; :&gt;.s 
+pne 
+-npcjo 
+
+:::¦=: : : : : : : : : 
+d . V- T. . . 1. '/¦ 7! BOW 
+::::;z;:::q :&gt;&lt;:&gt;&lt;::&gt;&lt;::&gt;-:* ::&gt;.2;:» 
+::::::::::::::: 5 ::::::::::: 
+:::::::::::::::&gt;*::::::::::::: 
+
+|w;v 
+
+-npBJO 
+
+¦ §¦ M ; i i M i M,i M M M M i i i M i ; i M 
+1 \\\.\ ¦¦ \^\\\\\ ¦¦¦. :¦&amp;: ;;;;;;;;;; 
+•- J : ;j3-; -8- ¦ : : s ¦ u L j 8 _¦:¦;:•¦.;: S 
+• £5 :.5= :sfss i r .S 5 S g g ff3 :5 : :|3| : :| 
+» l&amp;S I of 11 if :5t i-sll !¥¦»•= ¦= ¥o ««•£ 
+" i £ * w v 5? — ™ * w ¦¦ S E S E *"* a " S ™ ' S 5^i*~'""_tt 
+-sirapB S££E£££££££feS5SS£SS££££££S££S££ 
+. ...... :; ......-.._ ........... 
+•£¦ ce . cs c e e ss=s=e-.«. a -s;afc3=!;.es- 
+
+r. 
+
+J. 
+
+X. 
+
+a H.X 
+
+U 
+
+i 
+
+• 8«f 
+
+- ¦— i, — — wc*- 
+
+.-JcgysilMW^y -yo -KOS&amp;.OX 
+
+n0 F 8 o»'M?»o*'N?icc««co«r3'*r:Tr^»^f'^'^J t^»^"^«'^''T-^"icii3io 
+
+
+simpe Sfe£E£££££££feS5SS£SS££££££SS£S££ 
+
+jo o»«a 
+
+y-: ? w 53c u HSsiH**H-§-3i-2— •«¦ 
+
+1- S C m b b h h ' " " ' ' "S *C 1m *C " " *C " fl * 'C *U "C *E " "C 
+
+g S5 s s = = S = : : : : : : = = = s : : s : £ : 2 a s a : £ : 
+
+X &lt; x &lt;¦&lt;&lt;;&amp;amp;lt; &lt;&lt;¦&lt;•&lt; ¦ ¦&lt; -3 •¦&lt;&lt;•«;•&lt; •&lt; 
+
+H ! : ¦ • • • •_ ¦ ¦ _: ¦ 
+
+I 1 
+
+00 ' jo aiBrr x»xxocz&gt;xaDx&gt;aoooi.&lt;Exxaca&gt;acxxr x ¦ x x x x x 
+
+O ¦ ¦ -~. • : • • ;¦;;¦¦•;;: T~ :::.:'..:: 
+
+j &gt;&gt; ::::&gt;&gt;::::::::: : 
+
+| ii! !ti i^^if • iifi ; i it it : • Mi. 
+I . |! f l!!| 1 |l ft! 
+ll!l!Slll«ll!illl||l III fill! 
+
+I . |! f l!!| 1 |l ft! 
+ii!l!Slli«liriiii||iliif!i!l 
+
+s J 
+
+H 
+
+-/: 
+
+li^filiP-giirss^iiK 
+
+u. 
+
+XZ 
+
+J«iSii**J*«tS* 
+
+&lt; 
+
+K a 
+
+%"'!"" 
+
+is" i = j i i i M \i i i M i i ;= i iiis ; i ij 
+
+5 I S : 5 I E : : : ; : | : g&gt; J : : : &gt;.| = '• 3 1 f ¦ : : I 
+
+z liilN&amp;s.ilsllislSjii'aiJggliJll 
+
+tl 
+
+e^a^SS^zlcSSSJ^^S^^o* </seg>
+
+            <seg id="p065">
+475 
+
+INSTITUTE FOE THE DEAF AND DUMB. 
+
+* I I 
+
+I 
+
+3, 
+
+r- 1 xn 
+
+x 
+
+&lt; &lt; 
+
+i 
+
+*s 
+
+*1 
+
+v 
+
+ii-sii jilii '¦¦¦sell : lil : s.lj§-= \ii i3|*iJ 
+iilllifill if HI ; lit III 111, II Ifjll 
+Jllllllll! ill!! illilinlilRiliQ 
+
+lliililliggjlllllllliillllliltlltll 
+
+ic- ¦ : c ' a c .sees . . c « = e a . .g . . . • g = -32 
+ill il \H 1 i 111 Miilil | M i:ii ijj 
+
+=11111111 -I i||H illllliiillliilliii 
+
+8 tfii!f^,:^ :if^l«uiti|f|l!J1 
+I | | Hill 
+IitPli!!lI1|ilillliiIiIiIf!i1i!ii 
+
+: i : i i : : : : : : jsj j j \ \ \ \ j ! jj ! ! ! ! \ : : : : 
+i if JH^y i iiiif. %u till i»f | in ii! </seg>
+
+            <seg id="p066">
+LAND COMMISSIONER'S REPORT. 
+
+476 
+
+T 
+
+
+b s ¦ ¦ a 
+
+r 
+
+&gt;¦ 
+
+P»l« 
+
+i 
+
+-npeao 
+
+I 
+
+': 
+
+¦ % S : : : e " • S : J ; : ' • _' : : : g 
+
+0. 
+
+? sir, 
+
+* Hi IfflBWSflBIi 
+
+-Kimp« ££E£xxx££xExociQDxxxxxxxooxocxiaox 
+
+?&gt; "aoa'^ao""''nnD.p.o.a.3...ae 
+x I I -SSJ I :J»g : : ijll j| J ;| || j j j| \Z 
+
+z 5 .§§8--8§S.--apa-a-a£B.:S. 
+
+¦ 
+
+• 1« • •; 
+
+a 
+
+a 
+
+JO »VK1 — — — • — — ~*r*r- — — — — r- — — ¦ 
+
+0 
+
+&gt;. 
+
+3 
+
+ss^Um^zmumiiHi 
+
+c 
+
+s i § I 
+
+4, 
+
+B 6 
+
+X I 
+
+» — C - * -* 
+
+A -r m ,- &lt;e . — O 5 
+
+&amp;!!ffi*-H«i1 
+
+&lt; 
+
+* £ :iss : :aas : : :aea :a : s £ s :a 
+w •&lt;-&lt;¦&lt; ¦ -&lt;&lt;o ; : ;&amp;lt;-&gt;;&amp;amp;lt; :&lt; ;&amp;lt;x&lt; ;&amp;lt; 
+
+If iliS 1 1 ii ili 
+
+|p!i!!l:iii.lll||jl,i3- &amp; ii </seg>
+
+            <seg id="p067">
+477 
+
+INSTITUTE FOE THE DEAF AND DUMB 
+
+
+&gt; 
+
+£ 
+
+t 
+
+i 
+
+* 
+
+&amp;0 *¦ '¦'¦'¦'¦¦'•'¦'¦'• a '¦•¦¦ 
+a ¦? ' 3t «; . ....2 ... 
+
+llllllillllilllllii^l! ;! ! mlml 
+
+1C 
+
+isiiiiisisill iislilliisl illiliilllll 
+
+7 
+
+5§ 
+
+Miltilieiijl ill iiniiiijl \\\\\\\\\\ 
+
+=c 
+
+&lt; 
+
+llslliiillilllii jiilil )\ j§ I jiliHIli 
+M ; U i; i ; i^i i : : U; i i#: i ! i ! • I i ! i i ; I ! ! 
+
+-.-, 
+
+¦--. 
+
+&gt;, 
+
+
+»¦ a 
+
+ii P iftllplf! iiifyfilt !l! ! 
+fi|i%!l!l iiMliiiliiiliHllliili 
+
+iliflJifiiff Illiyiiltlliili 
+
+
+¦ «j 
+
+13i« 
+
+lll1^lf^4Kil^i 
+
+ail ilH-sfMiMi 111 II Hji ill II sllsiIU 
+
+¦Iillil^l!llll!iill|l 4 111i|!1!l!1lil 
+
+X 
+
+S w - ° 
+
+i" : : I :::::::: ; : : '¦ '¦ * &amp; : • : • •' • • •¦ ••¦•:::::: 
+
+IIS^J ; isiii il 
+
+Si 2 
+
+a: 
+
+? t 
+
+
+&gt;&gt;t- S 
+
+a- 
+
+|f|Sl35ag 
+
+T 
+
+?1?= 1 1 = 1 «¦=! siifj'Si? ilgM*. Ill i lili fill 
+
+u: </seg>
+
+
+            <seg id="p068">
+LAND COMMISSIONER'S REPORT. 
+
+478 
+
+-s'ns-j[8S 
+
+I 
+
+t«ie 
+
+-upwo 
+
+c 
+
+r 
+
+
+S2"^ 
+
+aoi£ 
+
+„„.„,, x x x i; x x x i r t' V -ir cc / X! x x x 66 x x x x x x x • ac 
+-sirapb xxxxxxxtxxxxxxuooxxiodxxxxxxxx x 
+jo ajcn — — — — — — . — — — — „„_ — — — — — — — — — — • — 
+
+7, Z 
+
+-/ 
+
+r_ 
+
+r 
+
+
+7 
+
+S J&lt; _- o £ -3 
+
+¦r -M 
+
+&gt;, j g -e -3 m 5 
+
+D0Qint-i~UO&lt;5iJOa5t-Z?aSCJSi5OOO8SSSOWE-iC 
+
+
+&lt;s :.s^i;.«.j :.:.:t;.5 : S -j js : £ i ¦ ¦« •* | 
+
+M.= •= = 5 = =S = a!-«= : •= = : ¥ ?- 
+
+h qww » -2 £ S 
+&lt;E JO 31«a S 2. - i 
+
+I sUfjiiJ iiliii=|-=ii!|liir^i^r 
+1=1 « §l; ai itilli 11=1 if si al^sl^ </seg>
+
+            <seg id="p069">
+479 
+
+INSTITUTE FOR THE DEAF AND DVMB. 
+
+i. - - 
+
+tc 
+
+i. 
+
+lilillliiiiiiliiiiiilililiiilliilii 
+
+s'lsisictlSisiliSssssssfeississsi 
+
+a 
+
+
+
+£ &lt; 
+
+— a _- 
+
+oizc 
+
+r 
+
+If' 
+
+! 
+
+I 
+
+9 
+
+:i 
+
+
+
+JC 
+
+jl^^^s.^^ilSi* 
+
+ll|ilS5l|il|JlIll|l|l||!l||h| 
+
+111 
+— o ja 
+
+lllliillltlliiiJifif </seg>
+
+            <seg id="p070">
+480 
+
+LAND COMMISSIONER'S REPORT. 
+
+S SB 
+
+P»»« 
+
+? 
+
+£ I 
+
+-npjwo :::::£ 
+
+I 
+
+t 
+
+
+Hi'lliig Til 111 1 1 jil II i 1 1 
+
+u 
+
+w 
+
+aois 
+
+T£ai IllllllllllflllllllllllllllH 
+
+smawi „•::: :::-g :::::: -o :: :ts 
+-gns-jiag 5 : : : • S 8 S ¦ • • • I • • • I 
+&gt;....&gt;&lt;:xq::::::q;;;~. 
+
+NT « """ 'Si'" "~ "~ *T* w ¦— *¦•«?•" S 1 ! "^ 
+
+
+&gt;* o « 
+
+~c x *¦¦ </seg>
+
+            <seg id="p071">
+481 
+
+INSTITUTE FOR THE DEAF AND DUMB. 
+
+/. 
+
+MM '\\\\\\ MMMiM;; \\jj\^\\\\^} 
+' i^ ''''.'.'. \ '.'.'...'• 
+¦ ¦ ¦ ;::;;«: 
+! ; M i is i i i i i i i i hi \i U- i i i i ; ?jS ; ; ;i : • 
+FIHliilitilif Illlit jlliIItsSfjiHO 
+
+iiiiiiiii!!l!i!l!ii!!!!!!!!!!!!jlllll 
+
+; c s ' o . a ::.... 
+sa.e-08 ;¦ 
+• 2 .2 • ¦- • ¦- :.'.'.'.'.'.'.'.'.'.'¦'¦'¦'¦¦•¦• 
+e » ¦.•'.•!•¦¦¦¦¦•••••• ¦ ' • -¦••••••••••-; 
+¦&lt;¦&lt;:¦&lt;:¦&lt;::::::::: : : : : : _: J_^_' : : : : • : : " : '¦ 
+
+III llii iiiilliliiiiiiliiiliilii illili 
+
+»i&gt;»»^ &gt;&gt;?'&gt;•&gt;.= :^-i'^: i^iSgi ;5 : ; - : l^ k :^S^P 
+iliilif II l! 1 1 islift M \mil 
+lililililisllllillliliiiiiilililliiii 
+
+¦= ¦¦;'::::::::'::-^-?=:='' : = : 
+« ¦ • * ; • ; ; ; ; ., g - c ¦ - * 3 • 
+l!lllllil3l!illllllll!l2llillllllllli </seg>
+
+            <seg id="p072">
+482 
+
+LAND COMMISSIONER'S REPORT 
+
+I- 
+
+-sns-j[8g :::::: t •: 1 :::::•• 
+
+X 
+a. 
+
+s •: s 
+
+p8}B 
+
+1 
+
+? 
+
+-npsjo ; 
+
+u 
+
+i 
+
+I 
+
+a. 
+
+t 
+
+HOIS 
+
+jeeosaaoooooaoocos ¦ -cocoooc 
+IXIXXXIQOXfEXOOXSXCXX ¦ -XXXX30X3C 
+
+-KHH|ii: 
+
+B 
+
+I 5 
+
+t 
+
+&lt;: 
+
+e: 1 !+ a JH -£-i^xxt*f^aoxf-xxr^t^ • -^^ xjt^i't^j^ -r^r^t&gt;» 
+jo ai«a xxxxxxxxxxxxx • xx aoxxSx xxx 
+&amp;. : "" "" ~~ : :"~ : :~" — 
+
+r. Ji 
+
+- J£ 
+
+V 
+
+i 
+
+zz 
+
+
+c 
+
+5ftixOOWOC5aiJO^OSfflQ3uwOii&amp;iIx2iMO 
+
+L 
+
+i 
+
+5 ll^tllll 
+
+a; 
+
+i 
+
+0; 
+
+Jsiiii&amp;jiiiSjiKjji 
+
+Ilililliilliiillllllllllllil 
+
+::___. u s — _: 5 •= s •::,.•••¦¦¦¦¦¦ 
+
+ft! HP!! </seg>
+
+
+            <seg id="p073">
+483 
+
+INSTITUTE FOE THE DEAF AND DUMB. 
+
+
+£ 
+
+5 X • X 
+
+X -XX) ¦ X 
+
+a — 
+
+— S3, 3«-s, ;* i,— 
+=*&gt; &gt;. iagg&lt;2 Si ¦*&gt; &gt;&gt; 
+
+s — 
+
+5 ¦•= 5 .5 «, - 
+= ae"3 - •= m 
+o = i; I. r = 
+
+3C • 00 OD QD 00 
+
+Islllislilsiilalsrflllisila 
+
+:::;;=::=:;:: j J \ j j = j j j \&amp; j j j : j j 
+. :j= ::::: :.n :::::::::::: :.a ::::: 
+. . . ac • .-a ¦ • ¦ an a« 
+... s ¦¦¦¦•¦ P s 
+- . . © . • ¦ . . g S - • - • 
+I !? '-hH gill : - S-gl i i ll 1 1 jll ¦ 1 i '¦¦!&amp; 
+ll is jli!lf»dsIssilsllfKh ill 
+
+CO CO * QD OP GD HO GO GD 00 30 GD QC TO 00 GO GO 00 GO 3D OD 00 00 00 00 CD 
+
+0Lt^O;|^(--J^^CCC QD "DOOOOCO'X 1 "XXX l^" 3D 00 t^QDQOCDQCdDQDGO t^* 
+GO 00 OC QC QU GO 3C GO GO GO QC 00 3C 3D • 3L GO QD QC 00 GO GD 3D QU 00 00 JD QD X! 
+
+::::t:"::-S &gt; ::::i&gt;::: : =: : : ::::::: 
+U ;1 :|^ il*'»ii&gt;ii ii^i"! : S :: i* ::-:: 
+• a ¦ =H = s ' — c = = = S -suo«&gt;. &gt;&gt;— Ss— &gt;&gt;^t: 
+: -"35= £ a _"°O - - - = ¦?* - -- r &lt;""-;x o"aJ t - -~ 
+:| &lt; El|s2|fl^lnpS|Sj|i3l||I|H^R 
+
+ll»|g|illliil|iifiiliiiliiMli 
+i siti*5 B *S?«*i*3aa i :a«"K»«g*j2|| </seg>
+
+            <seg id="p074">
+484 
+
+LAXD COMMISSIONER'S REPORT. 
+
+SJaiQpu 
+
+»¦&gt; 
+
+c 
+
+l s lll 
+
+K SJ « 
+
+¦5 eDCJ'-ocSIoi^-'S* 
+5 ¦s&amp;g5§?l?'M|"g£5 
+
+tlil y if im </seg>
+
+            <seg id="p075">
+485 
+
+INSTITUTE FOR THH DEAF AND DUMB. 
+
+M j M 1 1 1 1 1 1 1 1 1 1 1 1 ! |g 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+
+: u : ::::::,::::::::::: :::::::::: g :::: 
+sl33ssg|33 :|| :3 8.33ig3|3 :«ig gig : 1 : l : i*_ 
+S^-S'SJJ I o' a '3'5 gJS'S 8'3.S-"5"3.2-l'3 ""S : Slots' :g :- "¦ o o-g 
+liffilllllltlllilllilllissiliiliiisil 
+
+iiiiiililllillllliiiillliliililliiiis 
+
+x oc x ao x oc S S x 3D oo ao oo x x 3d x od x ao oo oo oo x x ¦ x x x x x x oo ;2£i 
+
+¦'::: i'i'^ 1 : : : : : : ' ' : ¦ • '¦ '¦ '¦ '¦ '¦ '¦ '¦ '¦ '¦ '¦ '¦ '¦ '¦ '¦ 
+iilfl tt iiWfjff if !f!f f i f t f f 1 !lt! 
+i !pll lIiMllM SiSlfl t 1 ! 
+ii|l1llii|lllfi|iliillfllrffl|^lilfl 
+iiiiiiiiiiiiiliiliiiiiiiiiiiiiiiiiiil 
+
+ii!ii!iiliiliipii!!iiiiiiiiii 
+iiiiiSiiiiiiiiliiiiii </seg>
+
+            <seg id="p076">
+486 
+
+LAND COMMISSIONER'S REPORT 
+
+X 
+
+Saimei 
+
+p»»« 
+
+-njway 
+
+I 
+
+i 
+
+M 
+
+
+sias? 
+
+M 
+
+7 
+
+si|-siJ :S 
+
+c 
+
+IfMIBlflHfilff III 
+
+a 
+
+aotG 
+
+¦simp, ssissssisslisliiisiilsifilil 
+jo aj^j »-« — -, — — -. — _,_«„„__„„„„ .„_„, , 
+
+&gt;-. 
+
+DC 
+
+5 s 
+
+iTmVi llSllsSiiilSiililll iiisliiiil 
+b. I -"-i-"-""-i~-"«-i — — -&lt;-«~~&gt;«x.«_ .„„„„„„, 
+O . i —r : 
+
+- -. - 
+
+|ill||||||||||||l||||ilIM 
+
+S5 
+
+« 3 
+
+jj o *; M ~ - -c-^-»* 
+
+««s 
+
+5 
+
+i 
+
+r 
+
+soaiaoSi. 
+
+S.3d*3&lt;5::s&lt;3 = S35E:3.5« :£;55 :&amp; 
+
+***£ 
+
+II I ill' lit l^iliif :*8&gt;U£ 8 i 
+I ajij hfliiji IsiJfliiyi I 
+
+= 
+
+= Z£ «¦£*» 
+
+a &lt; x 5 us c -5 z i &lt; </seg>
+
+            <seg id="p077">
+487 
+
+NSTITUTE FOR THE DEAF AND DUMB 
+
+r 
+
+8. ae 
+
+| 
+
+m. 
+
+3 
+
+&lt;. 
+
+X 
+
+V 4&gt; 
+
+:C 
+
+ac-S naaca 
+
+ZOO 
+
+XO 
+
+xXxxoiouxxxt: rx 
+
+I. -I 
+
+iiaxxao ¦ x x x x rxooacaoxx 
+-aoacxxa 
+
+c 
+
+SSI 
+
+S s §8» 
+
+a 
+
+¦ 
+
+I (&gt;&lt;&gt;.« I U 
+
+&gt; 
+
+f ?• 
+
+
+;ju 
+
+t£ 
+
+cans 
+
+C 
+
+
+*c 
+
+¦f. 
+
+£ 
+
+. a . r • • •»». ¦ « _ ¦ • ¦ — — -— • ¦ _ — • « 
+5 «5|J : : = .? s J s =.?^ s a o = a B -g = a^.3 
+£io£^ : : £ co'as ss £ &lt;5 £ z oj"&lt;5 w 3 3 -; ;s t5 6 z tn* 
+
+» CC X&gt; CO CO ir~ t"~ !"*• t^* f^ I*" t"~ 1^* t"" I s " l^~ IS t^» ("• (*• l^» QC QD CD OD QO 
+~. C. ~ * Cd C^ 3t 33 CI ~ » ~ ~ -. « ~. C: * « S 3) O X ?: 3*. 
+XXXiXDXXXIIOOIIXXlXllIXXXCDa) 
+
+sasa = = = = = = = = = = = = = = cc 
+« w « 2 « .« g » - — " -- 2 "3 .2 .s •- ¦- •- -2 
+"u 'C "C •— *E '^ 'u "C *C "Z "Z'Z."C £ *C "E "C E *i- "t, 
+' ¦ ¦ * ¦ QQ rtj 1j 
+: : : : : :as=j2S2 = = = g3=-S = £ = = aa 
+
+xc:o?&gt;
+487 
+
+NSTITUTE FOR THE DEAF AND DUMB 
+
+r 
+
+8. ae 
+
+| 
+
+m. 
+
+3 
+
+&lt;. 
+
+X 
+
+V 4&gt; 
+
+:C 
+
+ac-S naaca 
+
+ZOO 
+
+XO 
+
+xXxxoiouxxxt: rx 
+
+I. -I 
+
+iiaxxao ¦ x x x x rxooacaoxx 
+-aoacxxa 
+
+c 
+
+SSI 
+
+S s §8» 
+
+a 
+
+¦ 
+
+I (&gt;&lt;&gt;.« I U 
+
+&gt; 
+
+f ?• 
+
+
+;ju 
+
+t£ 
+
+cans 
+
+C 
+
+
+*c 
+
+¦f. 
+
+£ 
+
+. a . r • • •»». ¦ « _ ¦ • ¦ — — -— • ¦ _ — • « 
+5 «5|J : : = .? s J s =.?^ s a o = a B -g = a^.3 
+£io£^ : : £ co'as ss £ &lt;5 £ z oj"&lt;5 w 3 3 -; ;s t5 6 z tn* 
+
+» CC X&gt; CO CO ir~ t"~ !"*• t^* f^ I*" t"~ 1^* t"" I s " l^~ IS t^» ("• (*• l^» QC QD CD OD QO 
+~. C. ~ * Cd C^ 3t 33 CI ~ » ~ ~ -. « ~. C: * « S 3) O X ?: 3*. 
+XXXiXDXXXIIOOIIXXlXllIXXXCDa) 
+
+sasa = = = = = = = = = = = = = = cc 
+« w « 2 « .« g » - — " -- 2 "3 .2 .s •- ¦- •- -2 
+"u 'C "C •— *E '^ 'u "C *C "Z "Z'Z."C £ *C "E "C E *i- "t, 
+' ¦ ¦ * ¦ QQ rtj 1j 
+: : : : : :as=j2S2 = = = g3=-S = £ = = aa 
+
+xc:o?&gt;^&gt; -ti — fti.ixaohhfttrsiNOhNMWifl * 
+h t 1 3! h C! '313500 QO QD 00 fl&amp; QD OD QC -C CC 35 {"» 3C OD 35 31 t^ 
+QD QD QD QD 00 ¦ QD OD QD OD QO 00 CC 3C QO QD QD 3C QD QD 3D QD OU "JC QD • 
+::::::::£•:::: :i&gt; :::::: ic :':: 
+• x= o • .^...r. 
+_ — «••••«»¦• O*-* 
+Ifflf ft iffffiJiii^flf 
+mil t?ifflHi!i 
+!;yi lifiiiiiUiiiyiliii 
+
+;...— ..^&gt;... .^« 
+id : ijiiilij j ; ;ii|i gt; -ti — fti.ixaohhfttrsiNOhNMWifl * 
+h t 1 3! h C! '313500 QO QD 00 fl&amp; QD OD QC -C CC 35 {"» 3C OD 35 31 t^ 
+QD QD QD QD 00 ¦ QD OD QD OD QO 00 CC 3C QO QD QD 3C QD QD 3D QD OU "JC QD • 
+::::::::£•:::: :i&gt; :::::: ic :':: 
+• x= o • .^...r. 
+_ — «••••«»¦• O*-* 
+Ifflf ft iffffiJiii^flf 
+mil t?ifflHi!i 
+!;yi lifiiiiiUiiiyiliii 
+
+;...— ..
+487 
+
+NSTITUTE FOR THE DEAF AND DUMB 
+
+r 
+
+8. ae 
+
+| 
+
+m. 
+
+3 
+
+&lt;. 
+
+X 
+
+V 4&gt; 
+
+:C 
+
+ac-S naaca 
+
+ZOO 
+
+XO 
+
+xXxxoiouxxxt: rx 
+
+I. -I 
+
+iiaxxao ¦ x x x x rxooacaoxx 
+-aoacxxa 
+
+c 
+
+SSI 
+
+S s §8» 
+
+a 
+
+¦ 
+
+I (&gt;&lt;&gt;.« I U 
+
+&gt; 
+
+f ?• 
+
+
+;ju 
+
+t£ 
+
+cans 
+
+C 
+
+
+*c 
+
+¦f. 
+
+£ 
+
+. a . r • • •»». ¦ « _ ¦ • ¦ — — -— • ¦ _ — • « 
+5 «5|J : : = .? s J s =.?^ s a o = a B -g = a^.3 
+£io£^ : : £ co'as ss £ &lt;5 £ z oj"&lt;5 w 3 3 -; ;s t5 6 z tn* 
+
+» CC X&gt; CO CO ir~ t"~ !"*• t^* f^ I*" t"~ 1^* t"" I s " l^~ IS t^» ("• (*• l^» QC QD CD OD QO 
+~. C. ~ * Cd C^ 3t 33 CI ~ » ~ ~ -. « ~. C: * « S 3) O X ?: 3*. 
+XXXiXDXXXIIOOIIXXlXllIXXXCDa) 
+
+sasa = = = = = = = = = = = = = = cc 
+« w « 2 « .« g » - — " -- 2 "3 .2 .s •- ¦- •- -2 
+"u 'C "C •— *E '^ 'u "C *C "Z "Z'Z."C £ *C "E "C E *i- "t, 
+' ¦ ¦ * ¦ QQ rtj 1j 
+: : : : : :as=j2S2 = = = g3=-S = £ = = aa 
+
+xc:o?&gt;^&gt; -ti — fti.ixaohhfttrsiNOhNMWifl * 
+h t 1 3! h C! '313500 QO QD 00 fl&amp; QD OD QC -C CC 35 {"» 3C OD 35 31 t^ 
+QD QD QD QD 00 ¦ QD OD QD OD QO 00 CC 3C QO QD QD 3C QD QD 3D QD OU "JC QD • 
+::::::::£•:::: :i&gt; :::::: ic :':: 
+• x= o • .^...r. 
+_ — «••••«»¦• O*-* 
+Ifflf ft iffffiJiii^flf 
+mil t?ifflHi!i 
+!;yi lifiiiiiUiiiyiliii 
+
+;...— ..^&gt;... .^« 
+id : ijiiilij j ; ;ii|i gt;... .^« 
+id : ijiiilij j ; ;ii|i </seg>
+
+            <seg id="p078">
+488 
+
+LAND COMMISSIONER'S REPORT. 
+
+8niniB} 
+
+£ 
+
+pajc 
+
+-npwo 
+
+
+¦ 
+
+. • . to w . . (m »•.... 
+£ : : : ll5 : |-s2-- :«|s ' : 33 :3 33 
+
+X 
+
+3&gt; : « S "5 8 
+
+V « O ' W ft) -c 
+1 1 g :!| - ff-g 
+oj (c S - a! z; uz 
+
+s.-Sb'ss's&amp;a :&amp; ;aE 
+ig«S!;S§§ : § • § g 
+
+-simp^ liliilliliillllllllllllllllll 
+
+aacaaacfloscsascoa ' c 
+
+J.I .1.1 sj ssssississsglgsi 
+*¦ *- S- fc« *u *E "C *»- 't. 'E 'C 'b 'tl *C *C "C "E "C 'C *C "C 
+S|££_=SES|2 = = h| = = S = = = S = 
+
+JO *1U(2 »ooi»ao»ijjxocoeaDxxx3DtCDxx» • -ccaooDacSocx 
+
+t( 
+
+X 
+
+f-iifiosH'ffS ?i oil ssli 5^ s" I s « * •5'S 
+
+
+S««-5^ 
+
+x 5 
+
+y. 
+
+o o f 
+H3 J 
+
+
+S 
+
+&gt;&gt; 
+P 
+P ~~7~ 
+
+&gt;&gt; &amp;-&gt; &gt;¦. 
+
+Ipllfllllfiilflfillfiil- 
+
+&lt; E o . ¦ "S : : S ¦- ; : : «, : £ g : : : : * : * • .• * _ ; s 
+
+"2T- </seg>
+
+
+            <seg id="p079">
+489 
+
+INSTITUTE FOE THE DEAF AND DUMB. 
+
+•- 
+
+£ 
+
+¦ 
+
+¦ 
+
+a : . ¦ • . : "s 
+
+V • 
+
+x 
+
+* S n t - : : : t : : : : w : j : : : : : :s : : • • 1 • • i 
+Hii Uliilii^iiiiilliiM 1 
+
+* ¦ o 
+
+1) 
+
+ii i-iflil I! 
+
+-&gt; »; 
+
+o a S a — X ¦» .ir a *a 
+
+i* 
+
+iilllll] iinMnu is i II IJiiJ H 
+
+i. 
+
+&gt; 
+
+
+iilifiiiliipiiiipiiii! ill illlll ill! 
+
+x 
+
+|- :^| :jj«j :|i" isi-siti'iSai'lN 
+
+3-2 a 
+
+a o a o a s o 
+
+
+s 
+
+5«o 
+
+
+5C 
+
+ilH^s 
+
+
+u£«c 
+
+a. 
+
+s © -r 
+
+£i.i,^3ia-35aaaoK.2o3!ziO 
+
+r 
+
+-&lt; 
+
+Si : -s : is :J 
+
+&gt;-.- 
+
+i-a:;i3;.i|i2| B «| 
+
+x 
+
+Ililililiislliiill2lll5gai5g5 
+
+
+~ ¦ S : * = 
+
+=£ 
+
+&gt;= =» . * 
+
+1**1111 iii i?=i:-r nit m mi p 
+
+O x^ Qao30^54.0-«:0*'J 
+
+1 1 iijll iillJUfP ii isill i </seg>
+
+            <seg id="p080">
+490 
+
+LAND COMMISSIONER 
+
+S REPORT 
+
+a 
+
+hi 
+
+5 
+
+i 
+
+Snouts} 
+-gns-j[3g 
+
+PSJB 
+
+-ninuo 
+
+e 
+
+¥ 
+
+5^ 
+
+ao O! S6 32 * cc 
+
+aois 
+
+O o 
+
+-simps 
+
+¦*-, 
+
+S5 
+
+JO 81B&lt;T QDXXXXXXCDX 
+
+&gt;. 
+
+&gt;. 
+
+O i" S " 3 
+
+1 a!*-25*isll 
+
+ss»» 
+
+M 
+
+
+irf«53g 
+
+lilllii 
+
+
+a ?£ M # 
+
+3- 
+
+5 : : :a ; ;3 
+*i ! :"&amp; ! !"» 
+
+o &gt; £ 
+¦a =£ S </seg>
+
+            <seg id="p081">
+491 
+
+INSTITUTE FOR THE DEAF AND DUMB. 
+
+The fol 
+
+iwing table will show enrollment by counties: 
+
+9 Howard 
+
+o 
+
+\dams 
+
+. . . . 2 Jefferson 8 
+
+Antelop' 
+
+14 Johnson 8 
+
+1 
+
+ioone 
+
+Buffalo 10- Kearney 6 
+
+. . . . 10 Knox 6 
+
+1 
+
+iuri 
+
+9 Lancaster 32 
+
+1 
+
+in! 
+
+Box Butte 2 Lincoln 2 
+
+w 
+
+3 Madison 4 
+
+Bovd 
+
+(Jass 12 Merrick 4 
+
+'edai 
+
+9 &gt;*ance 3 
+
+&lt; 
+
+Hiase 1 Xemaha 15 
+
+•&gt; 
+
+Oherrv 2 Nnckolls Z 
+
+; 
+
+Chevenne 10 Otoe 17 
+
+5 Pawnee 6 
+
+f'lav 
+
+7 Perkins 1 
+
+olfax 
+
+d Phelps 
+
+0 
+
+4 Pierce 3 
+
+1 &gt;ak( 
+
+8 Platte 7 
+
+2 Polk 11 
+
+1 &gt;awe 
+
+Dawsnn 8 Bed Willow 4 
+
+1 &gt;eue 
+
+1 Richardson 21 
+
+1 &gt;ixon 6 Rock 1 
+
+Dodge 12 Saline 19 
+
+Douglas 109 Sarpy 
+
+Douglas 
+
+109 Sarpy 8 
+
+109 Sarpy 
+
+8 
+
+Fill more 2 Saunders . . 
+
+2 Saunders 15 
+
+15 
+
+Fillmore 2 Saunders 
+
+Franklin 1 Seward 
+
+Franklii 
+
+1 Seward S 
+
+1 Seward 3 
+
+Furnas 8 Sheridan . . 
+
+Furnas 
+
+S Sheridan 5 
+
+8 Sheridan 5 
+
+ft Sherman 1 
+
+Gage !) Sherman . . 
+
+Oae 
+
+9 Sherman 1 
+
+(rosper 4 stanton . . . 
+
+(rosp&lt; 
+
+1 Stanton 2 
+
+4 Stanton 
+
+¦-&gt; 
+
+Greeley 3 Thurston . . 
+
+(1 reeli 
+
+3 Thurston 1' 
+
+3 Thurston 1 
+
+Hall 10 Thayer . .. 
+
+Hall 
+
+10 Thaver 6 
+
+10 Thayer 6 
+
+Hamilton 6 Valley 
+
+6 Valley . " 
+
+r » Vallev . 7 
+
+HainilT&lt; 
+
+- Washington ft 
+
+Harlan - Washington 
+
+Washington 
+
+9 
+
+Hayes '¦' Wayne . . . 
+
+'¦' Wayne 1 
+
+Wavnt 
+
+1 
+
+Hitchcock 3 Webster .. 
+
+. Webster 5 
+
+?&gt; Webster 5 
+
+Hitcl 
+
+Holt »* York 5 </seg>
+
+            <seg id="p082">
+492 
+
+LAND COMMISSIONER'S REPORT. 
+
+The following as "cause of deafness" will show what 
+
+diseas 
+
+most seriously effect the hearing 
+
+Congenital ISO 
+
+Brain fever 
+
+Scarlet fever 52 
+
+Whooping-cough 
+Earache 
+
+u 
+L2 
+
+Typhoid fever 15 Earache 12 
+
+Fever, kind unknown IT Fall in infancy S 
+
+Fall in infancy 
+( 'old 
+
+Scrofula 7 &lt; 'old 7 
+
+Measles Hi Lung fever 4 
+
+Measles 1 •! 
+
+Lung fever 
+Fits 
+
+t 
+
+Cholera infantum 3 Fits ." 
+
+Cholera infantum 
+
+Catarrh 5 Inflammation of the brain, i 
+
+Catarrh 
+
+Inflammation of 
+
+the 1 
+
+I 
+
+rain 
+
+Abscess in ears 4 Paralysis '2 
+
+Abscess in ears 4 
+
+Paralvsi 
+
+Pneumonia '2 Worms 1 
+
+Pneumonia 
+
+Worm 
+
+1 
+
+Yellow fever 1 Malaria 1 
+
+Yellow fever 1 
+
+Malaria 
+
+Quinsy 1 I Mphtheria 5 
+
+Quinsy 1 
+
+Diphtheria 
+
+Intermittent fever 1 1 &gt;ysentery 1 
+
+Dropsy of brain 1 Bronchitis 2 
+
+Congestion 1 La grippe VA 
+
+La grippe 
+Unknown 
+
+Cramps 1 Unknown IM1 
+
+'ii » 
+
+Spinal meningitis IUI 
+In concluding this report permit me to express my apprecia- 
+
+Spinal meningitis 
+
+In concluding this report pern 
+
+it me to express niv apprf 
+
+tion of The earnest painstaking attention to duty on the parr of 
+
+tion of The earnest painstaking a 
+each and everv one employed al 
+
+tention to dutv 
+
+pai 
+
+each and every one employed about the school. This has been 
+
+the scho 
+
+very helpful, and has aided in producing that harmony so essen 
+
+very helpful, and has aid* 
+tial to the success of the 
+
+1 
+
+tial to the success of the various departments. T desire, also. To 
+
+partments. I 
+
+i. 
+
+IS 
+
+thank you as a board, and as individuals, for your ever ready 
+
+thank you as a board 
+
+divid 
+
+hi 
+
+assistance by suggestive words of counsel and encouragement. 
+
+assistance by suggestive w&lt; 
+This perfect harmonv of as: 
+
+n 
+
+i&lt; 
+
+This perfect harmony of association, a unity of purpose on Th* 1 
+
+as 
+
+part of The Governor, the Board of Trustees, and rlie superin- 
+
+part of the Governor, the Board 
+tendent has had a beneficial effpi 
+
+ti 
+
+l 
+
+supt 
+
+'ect on all our people, 
+almighty God for His 1 
+that is good for our de 
+his. the twelfth bienni 
+
+With a prayer of thanks to 
+in The past and asking for all 
+future. I respectfully submit 
+
+ind 
+
+n 
+
+il repf 
+
+of the Nebraska Institute for the !&gt;&lt;&gt;af and Dumb fo 
+
+1899 and 1900. 
+
+H. E. Dawes, Superi </seg>
+
+            <seg id="p083">
+493 
+
+INSTITUTE FOR THE DEAF AND DUMB. 
+
+Pi 
+
+i 
+
+n 
+
+n 
+
+in 
+
+l,i 
+
+I 
+
+i 
+
+
+I 
+
+f 
+
+i 
+
+I 
+
+GENERAL I NFORM ATION. 
+
+The Nebraska School for the Deaf, established iu 1809, occu- 
+
+is six large and commodious brick buildings and three small 
+une ones, situated upon twenty-three acres of ground in the 
+uthwestern portion of the city of Omaha. Of the buildings 
+rntioned, two were constructed last year; engine, boiler, pump 
+ill coal house at a cost of f 7.700. and a three-story pressed 
+irk and stone, with slate roof, school building costing f25.000. 
+There are twenty-one teachers employed to give instruction 
+the manual and oral (.speech in lip-reading) departments of 
+
+literary school, the kindergarten, manual training, schools 
+
+sewing, laundry work, printing, typewriting, tine art, shoe 
+ndiiiK. and horticulture and floriculture. There are also em- 
+
+nved four supervisors to look after the children and care for 
+
+r clothing, fourteen officers and helpers, a physician and two 
+
+Indoor and outdoor amusements are provided, such as foot-11, 
+baseball, and lawn tennis in season, bowling, swings. 
+
+mil other sjwrts 
+
+nee the establishment of the school there has been enrolled 
+
+pupils, of which seventeen have graduated, of these eight 
+¦ graduated in the last three years i numbers as shown by the 
+
+¦&lt;-ord&gt;. Tliere arc thirty who claim to have been graduated, 
+wo of our graduates are attending Gallandet College at Washitrton. 
+P. C. 
+
+There lias been appropriated by the legislature of Nebraska 
+i the education of the deaf of the state three quarters of a 
+
+llion dollars (estimated^. This amount has been expended in 
+• erection of buildings, repairs of the same, and the main- 
+
+nance of the school 
+
+tool is a part of the public school system of the state. 
+
+urse of study, anil carrying instruction up to 
+
+he ninth grade. The tuition is free to residents of the state. 
+Mipils outside of the state are charged S200 per year for in- 
+
+ruction and care. </seg>
+
+            <seg id="p084">
+494 
+
+LAND COMMISSIONER'S REPORT. 
+
+It is sometimes very difficult to get information in reference 
+to deaf children that ought to be in school. Any person reading 
+these lines and having knowledge of a child too deaf to acquire 
+an education in the common public schools would be doing a 
+kindly act by writing to the superintendent, giving such information 
+as he may have in reference to said child. 
+
+All persons interested in the education of the deaf are cordially 
+and earnestly invited to visit the school and see what is 
+being accomplished. 
+
+• The following extract from the law appears at the head of 
+our application blanks, a copy of which follows. It, is our custom 
+to regard deaf and dumb as two separate classifications, and 
+to receive them both whon of suitable age and capacity and of 
+good moral character: 
+
+Section 15, chapter 2ti, General Laws of Nebraska. 1897. provides 
+that "all the deaf and dumb residents of this state, and 
+those deaf to such an extent that they cannot acquire an education 
+in the common schools of the state, of suitable age and 
+capacity and of good moral character, shall be entitled to an 
+education in the institute for the deaf and dumb without 
+charge." 
+
+Section 16, same chapter, provides that the parents or guard 
+ians of pupils admitted to the school shall furnish suitable 
+clothing, pay transportation expenses to and from school, nut 
+support said pupil during the summer vacation. 
+
+Section 12. same chapter, provides that the superintendent's 
+report shall contain certain information in regard to the deaf 
+of the state, and it is also desirable that as much as possible 
+of the family history of the pupil be known in order that an 
+intelligent understanding may be had of the condition of the 
+child. 
+
+That this information may be had. the parent or guardian is 
+asked to answer the following questions when making applica 
+tion on this form for the admission of pupils: </seg>
+
+            <seg id="p085">
+495 
+
+INSTITUTE FOR THE DEAF AND DUMB. 
+
+d 
+
+1 
+
+APPLICATION FOR ADMISSION 
+
+1. "What is the full name of the child? 
+
+In what year, month, and day was the child born? 
+Where was the child born? 
+
+4. Give full name of father and mother? 
+
+5. If either or both parents are dead please give cause of 
+eath? 
+
+(&gt;. What is the occupation or profession of the father? 
+7. What is the nationality of the father? * 
+8. What are the names and ages of the applicant's brothers, 
+
+isters in order commencing with the oldest? 
+
+!•. Are any of the brothers or sisters deaf, dumb, or blind or 
+jartially so? IMease give condition and cause in each case. 
+
+10. Has the applicant any deaf, blind, or dumb relatives? If 
+please give name, age, address, relationship, and occupation. 
+11. Was there any blood relation between the parents before 
+
+iiarriage. If so, what? 
+
+ll\ What is the cause of the applicant's deafness? 
+13. At what age did deafness occur? 
+
+14. If born deaf, can you assign any cause? 
+15. Can the applicant hear any? If so. what sound 
+
+lfi. Has the applicant ever been in school? If so. when, 
+where, and how long? 
+
+17. Is the applicant of sound mind, in good health, free from 
+dilv deformity, immoral habits, and contagious diseases? 
+18. Has the applicant been vaccinated, had the smallpox, the 
+
+isles, mumps, or whooping-cough? 
+
+\ 
+
+19. Are von a citizen of Nebraska? 
+
+20. Give name, address, post office, county, and township of 
+parent or guardian with whom we shall correspond in regard 
+to the child. 
+
+21. If the post office is not at a railroad station, give the name 
+of the railroad and station nearest the home of the child. 
+This application dated this .... day of 19. .. 
+
+Vddress your correspondence in regard to the' child to the 
+
+Superintendent of the School for the Deaf. 
+
+Omaha. Nebr. 
+
+
+• </seg>
+
+         </p>
+		    </body>
+	  </text>
+</TEI.2>

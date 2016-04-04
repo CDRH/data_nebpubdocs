@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00018.00014">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the
+                            Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno>00018.00014</idno>
+            <availability>
+               <p> </p>
+            </availability>
+            <date>2007</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>THE UNIVERSITY OF NEBRASKA AGRICULTURAL EXPERIMENT STATION LINCOLN, NEBR, U. S. A.  Press Bulletin No. 21 (Distributed February 26, 1906) A GOOD OAT FOR NEBRASKA</title>
+               <date value="1906">1906</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+	        <change>
+	           <date>2007-09-12</date>
+	           <respStmt>
+	              <name>Katherine M. Heupel</name>
+	           </respStmt>
+	           <item>Enrichment</item>
+	        </change> 
+        <change>
+            <date>2006-11-28-05:00</date>
+            <respStmt>
+               <name>OCLC Online Computer Library Center Inc.</name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <seg id="p001">Experiment Station Mullet in No. Li I ed from Rus - tion in 1S!»7. has proven of ■ in of its hea 1 . -. particularly in i. that it fur - rding it than that contained in aioii. For the benefit of those who may ■nilts have b&lt; ined in their r who may wish to obtai i list of the he raising this variety of oat is r the Kherson oat should he mentioned mported from Russia by the United riculture. This oat is almost identi - irance and habits of growth. t will also suffice for the S !HK KHERSON AND SIXTY DAY OAT. rank grower. The straw i advantage in decreasing the .its in a light yield of straw per acre, i and e&gt;. arface. The irlier than most vari' re lijrht yellow in color, small but numerous, and in hull. They usually weiph well per bushel, and in ield per acre these varieties have led [ON TO WHICH ADAPTED. is peculiarly suited to central and western ■ int of its ability to &gt;rro\v with little moisture abit of early ripening. Although it usually yields there are other varieties that com - irably with it. at least in the river counties. Re: from 171 par 'he ?tate who have tested this ty during the years 1901 to 1905 inclusive indicate that it er, and weighs heavier in a serie fhan any other variety in central and western Nebraska, •■ntion of the Texas Red. The Kh&gt; 111:1 m T\ 1 1 1 -^L^M I N f{ \SKA. </seg>
+            <seg id="p002">2 r 1 ;■&gt; show that undi N Burt </seg>
+            <seg id="p003">3 reek Nehawka ar Creek Fiala Edgar Point i City Call away Sargent ('alia way. KFD1 .11 City RFD1 Calla ■ Iron Houjrh ■ rton . c. \\ Sunnier Fremont North Bend Pssman A. Fl..ry Omaha. Sta. B. Shickley ( ieneva Ohiowa Shieklev Mull Gene Shickley Upland Arapahoe. RFD 2 Edison I'.eaver City River I&gt;. ! H. R (Irand Island Aurora Palisade Stuart. R F I) 1 Ewing rshauser Dannebrog .rail </seg>
+            <seg id="p004">1 M \ Saline K - Bluff ird James W. Miller \V. A. Rich' Eddy Holme: Phil F. ! C. L. Caldw John i Sherman im Andei ("has. F. K' E. H. Kittell John Yand- Stanton Vaclav Har Thayer B. E. Corwin &gt;ter Jos. Barta Ali ey F. C. Buscl Y' ur k C. D. IJanks .1. H. ' Rear Knox Ira Payne Nels Borgaard \V hinnj livy A Men </seg>
+         </p>
+      </body>
+   </text>
+</TEI.2>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00092.00018">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno/>
+            <availability>
+               <p/>
+            </availability>
+            <date>2009</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Land Transfers in Twelve Counties in Nebraska, 1928-1933</title>
+               <date value="18??">November 1938</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-</date>
+            <respStmt>
+               <name>Laura Weakly</name>
+            </respStmt>
+            <item>Validation</item>
+         </change>
+         <change>
+            <date>2009-11-04</date>
+            <respStmt>
+               <name>ByteManagers, Inc. </name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <seg id="p001"/>
+         <seg id="p002"/>
+         <seg id="p003"/>
+         <seg id="p004"/>
+         <seg id="p005"/>
+         <seg id="p006"/>
+         <seg id="p007"/>
+         <seg id="p008"/>
+         <seg id="p009"/>
+         <seg id="p010"/>
+         <seg id="p011"/>
+         <seg id="p012"/>
+         <seg id="p013"/>
+         <seg id="p014"/>
+         <seg id="p015"/>
+         <seg id="p016"/>
+         <seg id="p017"/>
+         <seg id="p018"/>
+         <seg id="p019"/>
+         <seg id="p020"/>
+         <seg id="p021"/>
+         <seg id="p022"/>
+         <seg id="p023"/>
+         <seg id="p024"/>
+         <seg id="p025"/>
+         <seg id="p026"/>
+      </body>
+   </text>
+</TEI.2>

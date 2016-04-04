@@ -1,0 +1,1644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00010.00008">
+	  <teiHeader>
+		    <fileDesc>
+			      <titleStmt>
+				        <title>Nebraska Public Documents Project</title>
+				        <author/>
+			      </titleStmt>
+			      <publicationStmt>
+				        <publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+				        <pubPlace>Lincoln, NE</pubPlace>
+				        <idno>00010.00008</idno>
+				        <availability>
+					          <p/>
+				        </availability>
+				        <date>2007</date>
+			      </publicationStmt>
+			      <sourceDesc>
+			         <bibl>
+			            <title>THE UNIVERSITY OF NEBRASKA BULLETIN OF THE AGRICULTURAL STATION EXPERIMENT OF NEBRASKA</title>
+			            <date value="1902">1902</date>
+			         </bibl>
+			      </sourceDesc>
+		    </fileDesc>
+		    <revisionDesc>
+			      <change>
+			         <date>2007-07-18</date>
+			         <respStmt>
+			            <name>Laura Weakly</name>
+			         </respStmt>
+			         <item>Validation</item>
+			      </change>
+			      <change>
+			         <date>2007-06-15</date>
+			         <respStmt>
+			            <name>Katherine M. Heupel</name>
+			         </respStmt>
+			         <item>Enrichment</item>
+			      </change>
+			      <change>
+				        <date>2006-11-29-05:00</date>
+				        <respStmt>
+					          <name>OCLC Online Computer Library Center Inc.</name>
+				        </respStmt>
+				        <item>Initial Creation</item>
+			      </change>
+		    </revisionDesc>
+	  </teiHeader>
+	  <text>
+		    <body>
+         <p>
+            <seg id="p001">
+The University of Nebraska 
+
+BULLETIN 
+
+or the 
+
+AGRICULTURAL EXPERIMENT STATION 
+
+or 
+
+NEBRASKA 
+
+VOL. XIV. Article III. 
+
+Experiments in the Culture of the Sugar Beet in Nebraska 
+
+Br T. L. Lton and A. T. Wiancko 
+
+Distributed Mat 8, 1MB 
+
+BAND-HOEING SUGAR BEETS AT AMES. NEBB. 
+
+LINCOLN, NEBRASKA 
+TT ft A </seg>
+
+            <seg id="p002">
+AGRICULTURAL EXPERIMENT STATION 
+
+OF 
+
+NEBRASKA 
+
+THE GOVERNING BOARD 
+
+E. v. FORELL, President, Kearney 
+GEO. F. KENOWER, YVisner 
+
+tN C. RICH, Omaha 
+L. TEETERS, Lincoln 
+CALKINS, Kearney 
+ERNST, Lincoln 
+
+THE STATION OFFICERS 
+
+E. A. BURNETT. B. Sc., Director and Animal HuMbandman 
+T. L. LYON, B. S. A., Associate Director and Agriculturist 
+J. S. DALES, M. Ph., Financial Srcretary 
+
+WM W. MARSHALL, Executive Clerk 
+
+THE WORKING STAFF 
+
+(Peters, D. V. M , Animal Pathologist 
+iles E. Bessey, Ph. D., Botanist 
+k&gt;n H. Nicholson, M. A., Chemist 
+Haeckeb. B. Sc. A., Dairy Husbandman 
+kence Brunek, B. Sc., Entomologist 
+in H. Barbouk, Ph. D., Otologist 
+. Emerson, B. Sc., Horticulturist 
+. P. Stout, C. E., Irrigation Engineer 
+. Swezey, M. A.. Meteorologist 
+
+A. T. Wiancko, B. S. A., Assistant Agriculturist 
+H. R. Smith, B. Sc., Assistant Animal Husbandman 
+J. H. Gain, M. D. C, Assistant Animal Pathologist 
+Henry B. Slaue, B. A.. Assistant Chemist 
+H. \V. Perin, Assistant in Agriculture and Foreman of Farm 
+
+(th. or M „«,»...,„¦ </seg>
+
+
+            <seg id="p003">
+Ui A . i-d. AjYON AJTD A* A . W LAJiUltO. 
+
+* 
+
+INTRODUCTION 
+
+The experimental work in the culture of sugar beets upon 
+the farm of the Standard Cattle Company at Ames, Nebr., during 
+the season of 1901 followed plans similar to those of some 
+years past and consisted in the main of tests of varieties, tests 
+of fertilizers, different times and different distances of planting, 
+and various methods of cultivation. In conjunction with 
+these experiments an extended examination of the moisture 
+content of soils under different conditions was conducted 
+throughout the greater part of the growing season. Experi- 
+Eents in the production of sugar beet seed were continued, and 
+nong other matters the treatment of diseases and insect ennies 
+affecting the sugar beet was given some attention. 
+
+Through the liberality of the Cattle Company and the large 
+amount of land devoted to experimental work it was possible 
+to conduct most of these experiments upon a scale so large 
+that the results should be of especial value to the beet sugar 
+industry. Aside from the purely experimental work, over 
+2,000 acres of sugar beets growing under various conditions 
+were kept under constant observation, and the results referred 
+to, though they cannot be taken as conclusive evidence, are at 
+least interesting and suggestive. 
+
+As was explained in Bulletin 60 of this Station, the land upon 
+which the experiments were conducted is representative of the 
+large region of country watered by the Platte and Elkhorn 
+rivers and varies from a sandy loam to what is commonly 
+known as gumbo, incidentally giving excellent opportunities 
+for testing the relative merits of light and heavy soils^for the 
+production of sugar beets^for factory purposes. 
+
+Ehe rather low yields per acre obtained may be attributed to 
+severe drought which lasted the greater part of two'months, 
+inning with the second week in July. Under normal weather 
+
+BULL. 73, AGR. EXP. STATION OF NEBR. VOL. XIV., ART. III. </seg>
+
+            <seg id="p004">
+4 
+
+
+conditions the tonnage would probably have been fully twenty 
+per cent higher. On the whole, the season's experience 
+showed to a remarkable extent the drought-resistant qualities 
+of sugar beets in comparison with other field crops. They 
+were found superior in this respect to anything upon the farm 
+except alfalfa. " 
+
+CHARACTER OF THE SEASON 
+
+There was no lack of moisture at the beginning of the season 
+as the soil was well filled with water when spring cultivation 
+began and there was an abundance of rain up to the first week 
+in July, as will be seen in the record of rainfall given below. 
+After the rain of July 4 the weather suddenly became hot and 
+dry, accompanied by a hot south wind which lasted over two 
+weeks, so that the soil rapidly dried out and in many instances 
+baked and cracked open to a depth of two to three feet. Extremely 
+hot weather continued for some time and the drought 
+remained practically unbroken until the end of the first week 
+in September. The average temperature for the month of 
+July was 84.5 degrees Fahrenheit. 
+
+FAs an abundance of seed was at hand, two fields were se:ted 
+for this experiment, the one a sandy loam and the other 
+medium gumbo nil, comprising about fifty and sixty-five 
+acres respectively. The same varieties were planted upon both 
+fields and were given the same treatment as the other beet 
+fields upon the farm. The former field is known as the "North 
+Hairer" and the latter M "Division D". 
+
+E1899 the North Hager produced a crop of sugar beets and 
+X) a crop of corn which received a liberal dressing of barnmanure, 
+while Division D was in corn and sorghum dur- 
+MM two vi;i]&gt; and l.a&gt; never been manured. The latter 
+
+Record of Samfall at Ann* 
+
+a 
+
+A 
+
+April 1.14 inclie 
+May 1.95 •• 
+June 4.76 
+July 2.06 •• 
+
+AiiRiist 52 
+
+Septmatarr 5 24 '¦ 
+Octobar 1.84 •• 
+
+Noveml)er 55 " 
+
+TESTS OF VARIETIES OF SUGAR BEETS </seg>
+
+
+            <seg id="p005">
+5 
+
+was prepared for sugar beets by deep plowing in the fall of 
+1900 with the exception of a few strips where sorghum stacks 
+were standing, which were plowed in the spring. The North 
+Hager was plowed early in the spring, about a month before 
+planting. 
+
+Immediately before planting, the ground was thoroughly 
+"double disked", rolled, and dragged with a light harrow attached 
+behind the roller. 
+
+Planting was begun on both fields on April 25 and continued 
+uninterruptedly until completed. For the sake of convenience 
+only one drill was kept at work on each field. Planting upon 
+the North Hager was completed on May 1 and on Division D 
+on May 4. The North Hager was in excellent tilth throughout, 
+but the spring-plowed portions of Division D were quite hard 
+and lumpy so that it was impossible to properly cover much of 
+the seed. A spell of hot, dry weather retarded germination 
+to a considerable extent, especially on Division D, where the 
+first appearance of plants was very scattering. A heavy 
+shower on May 8 melted down the lumps and by a timely use 
+of the roller and harrow a good, even stand of plants was eventually 
+secured. 
+
+tThe plats on Division D consisted of two acres each, while 
+the North Hager they varied from one to two acres owing 
+an uneven length of the rows. 
+
+Horse cultivation was begun on the North Hager on May 16, 
+and on Division D on May 20. Both fields were treated in 
+every respect as ordinary fields would have been. The North 
+Hager received somewhat more hand labor than Division D 
+owing to its being very weedy. It was hand-hoed about the 
+middle of June and afterwards gone over twice to pull the 
+large weeds, while Division D, being exceptionally clean, received 
+only horse cultivation. 
+
+ethe plats were carefully examined from time to time but 
+ierence could be detected between any of the varieties in 
+:t to growth or outward appearance. 
+
+It^will be noticed in the table below that the plats on a considerable 
+portion of Division D gave very light yields. This 
+was^due to the fact that here the necessary cultivation was not 
+given'soon enough after the last heavy rain of the season, 
+July 4, to put the ground into good condition before the severe </seg>
+
+            <seg id="p006">
+6 
+
+Experiments in the Culture of the Sugar Beet in Nebraska. 
+
+drought set in and consequently much of the field became very 
+hard and the beets^suffered considerably, becoming quite yellow 
+in appearance. Later, another attempt to 'cultivate the 
+field was made but without effect as the ground had become 
+so hard that the cultivator could not be forced to enter to the 
+desired depth and even" where this was^possible the ground 
+broke up^intolumps^too large to form an effective mulch.'JJ^* ' 
+
+In comparing the* varieties as to yield the results on the 
+North Hager may be considered fairly reliable as the soil conditions 
+were quite uniform. The yields as given in the table 
+below represent topped beets and are computed from the factory 
+tared weights. Both fields were harvested during the 
+latter part of October. The sugar content of the North Hager 
+plats was probably somewhat affected by the presence of some 
+"leaf spot", which affected the whole of the field. 
+
+Sugar tests were begun on August 22 and were made at intervals 
+of one week for seven weeks. The two fields were 
+sampled on two consecutive days and the samples consisted of 
+five beets each. The figures in the table below are the averages 
+01 ine seve wasis. </seg>
+
+            <seg id="p007">
+Experiments in the Culture of the Sugar Beet in Nebraska. 
+
+Table I. — Results of variety tests. 
+
+Division D» Nobth Hagek* 
+
+Yield Sogar Purity 
+
+Yield Sugar Purity 
+
+VARIETIES in tons ! Id juice of juice I In ton* ! In juice of jolce 
+
+per acre per cent per cent 
+
+per acre per cent per cent 
+
+1. Dieckmann 15.72 15.07 M.I 
+
+10.70 12.11 79.1 
+10.56 12.36 79.5 
+11.17 11.89 76.9 
+11.01 12 16 78.4 
+9.94 1256 79.4 
+12.14 12.56 I 80.8 
+
+2. Maurus Deutsch ! 13 46 15.66 ! 88.8 
+
+8. Kommer I 15.85 16.00 i 80.0 
+
+4. Aderstedt 15.46 14 86 
+
+5. Braune | 13. 7» 15.14 85 8 
+
+6. Strandes 18.59 14.74 86.6 
+
+7. Licht 12.91 14.78 85.4 ! 11.14 18.14 I 80.6 
+
+8. Russian Vilmorin. ...: 10.80 15 44 12.25 12.24 81.6 
+
+9. Simon Legrande 8.59 14.77 85.0 11.62 13.11 
+
+10. Janasz 8 02 15.96 86.2 12.81 18.16 80.1 
+
+11. Ziemann 6.87 16 08 86.2 18.81 12.21 78.8 
+
+12. Fouquier d'Hercuel.. 6.57 15.24 86.7 I 18.78 j 12.40 
+
+18 Original K. W 6.15 15.88 86.9 j 14.51 I 14.51 84.7 
+
+rBlary Mulliez 6 00 15.04 86.8 i 12.65 10.77 7t.» 
+Eloir 6.72 15.29 87.7 ' 12.88 11.66 T7 1 
+
+16. Schreiber 8.51 15.71 85.5 j 11.92 11.84 77.1 
+
+17. Wohanka'sZ. R i 9 58 14 94 86.8 11.14 11.69 77.8 
+
+18 Wohanka'sE R j 9.20 14.87 86.5 ;: 12.99 j 11.40 76.7 
+
+rBoerning 9.48 14.90 86.5 ! 12.64 14.77 85.8 
+DippesK. W 9.68 15.71 86.2 9.54 11.94 78.7 
+
+21. Pioneer K. W 6.62 16.01 86.9 ... .... 
+
+22. Peaz 5.94 15.04 86.6 18.10 12.49 78.0 
+
+28. Hennion Faumont. . . 5.68 15.28 87.0 i 12.16 11.87 77.1 
+
+24. Klein et Soukoffsky. . 6.12 15.88 87.1 13.99 : 12.94 81.1 
+
+26. Sachs 6.64 15.21 86.7 ¦] 12.56 I 12.76 80.8 
+
+86. Dubois 7 41 15.81 86 8 j 18 - 47 la *° \ ™- 7 
+
+87. Drumez Elite 7.26 15.44 86.2 | 12.64 11.90 7».7 
+
+88. Ladislas Mayzel 6.64 15.41 | 87.4 12 98 10.91 78.6 
+
+29 Dernocour 6.26 14.61 86.4 14.16 11.64 76.7 
+
+80. Knauer's Mangold... j 8.89 16.20 88.1 j 18.70 11.29 77.0 
+
+81. Baumeier 10.61 16.89 88.4 : 12.68 11.24 
+
+82. Count Stadnicky .... 12.91 15.14 84.7 1210. 78.8 
+
+M. Utah-grown seed.... .... 15.54 11.90 77.« 
+
+84. Vilmorin's V. R .... 11.80 i 12.49 81.8 
+
+SB. Friedrichswerther... . .. .... ! 18.26 18.31 88.7 
+
+86. Imperial .... 12.68 81. t 
+
+87. Mangold .... 12.54 81.8 
+
+'Medium gumbo soil. 
+'Sandy loam soil. </seg>
+
+            <seg id="p008">
+Experiment* in the Culture of the Sugar Beet in Nebrcuka 
+
+E study of the above table will show that on the heavy soil 
+sugar content and purity were higher throughout and 
+¦e the ground was kept in good condition the yields were 
+considerably higher. These results as to sugar content of 
+i on light and heavy soils were borne out by the results 
+the farm as a whole but the average yields were slightly 
+vor of the lighter soils. 
+
+The varieties show considerable differences in sugar and 
+tonnage under approximately the same conditions. A comparison 
+upon the basis of total sugar per acre on the North 
+Hager plats shows a variation from 2280 pounds for the lowest 
+to 4205 pounds for the highest, a very considerable difference. 
+But to make close comparisons between the varieties with only 
+one year's test would hardly be just and might be quite mis- 
+
+EXPERIMENTS WITH FERTILIZERS 
+
+The object of this experiment was to determine the effects 
+upon sugar beets of various complete fertilizers, single fertilizing 
+constituents and combinations of the latter. The single 
+fertilizers were in each case applied in two different quantities 
+with a view to getting at the relative value of light and heavy 
+dressings. The mixtures were made up of equal weights of 
+the constituents. The accompanying diagram of the field, 
+which also contained the planting and cultivation experiments, 
+represents the arrangement of the plats. </seg>
+
+            <seg id="p009">
+¦ 
+
+Experiments in the 
+
+!(ure o. 
+
+lu^ar 
+
+lee, 
+
+in 
+
+4 
+
+~ 
+
+I 
+M 
+] 
+X 
+s 
+£ 
+¦S 
+I 
+I 
+¦ 
+4 
+i 
+I 
+| 
+¦ 
+B 
+i 
+
+i 
+I 
+i 
+e 
+1 
+
+s 
+_o 
+&gt; 
+1 
+I 
+5 
+I 
+
+¦ 
+1 
+I 
+I 
+j 
+o 
+c 
+I 
+
+a 
+1 
+i 
+1 
+¦ 
+i 
+
+j 
+be 
+| 
+c 
+I 
+1 
+EL 
+I 
+
+9, 
+-5 
+
+i 
+S | | 
+8-3 - &amp; &amp; 
+Hill 
+j i "• 8 i 
+i i 1 ! I 
+i i 1 1 i 
+* 09 c 3 3 
+J f Mil 
+1 1 1 ! i 1 1 
+= a a ja o O Jr 
+_ ¦&lt; &lt; sl. o, a- s 
+
+I . 
+8. g g 8 - I 
+i \ 3 | I | 
+I s. I. i si j 
+a i I "Sal 
+nun s 
+3- Z Z £ 3 SU -y. &lt; 
+
+I 
+s 
+
+i </seg>
+
+            <seg id="p010">
+Experiments in the Culture of the Sugar Beet in Nebraska 
+
+10 
+
+Each of the fertilizer plats consisted of one-tenth acre having 
+twelve rows of beets. A thirteenth row was planted with 
+each plat to separate it from its neighbor and for convenience 
+in harvesting. 
+
+Pe previous [cropping and manuring of the ground was 
+ame as that of the North Hager variety field, of^whichTt 
+originally a part, being now separated by a deep drainage 
+ditch. The field was prepared for sugar beets Jby deep plowing 
+early in April. The fertilizers were carefully broadcasted 
+upon the plats a few days before planting, which was done on 
+May 11. The preparation of the seed bed and the planting 
+were conducted as in the case of the variety fields. The ground 
+was in excellent condition. 
+
+Unfortunately a flock of chickens from a neighboring barnyard 
+destroyed portions of the first four plats soon after the 
+beets came up and it was found impossible to secure an even 
+stand by replanting, though two attempts were made. However, 
+enough of the original planting of each plat was saved to 
+provide samples for the sugar tests. 
+
+The following table gives the yields per acre of tared beets, 
+together with the sugar content and purity of the juice. The 
+sugar tests were made at intervals of one week for five weeks 
+beginning August 26. The figures represent the averages of 
+the five tests. </seg>
+
+
+            <seg id="p011">
+11 
+
+Table II.— 
+
+MttmMa 
+
+of fertilizer 
+
+texts 
+
+*,JSW1?, Yield 
+grmms ln toos 
+
+Sugar Purity 
+in juice of juice 
+per cent per cent 
+
+Kind and quantity of fertilizer 
+
+1. Barnyard manure, 10 tons per 
+acre 279 
+
+12.7 BM 
+129 NJ 
+
+2. Lime, 10 tons per acre 806 
+
+8. Armour &amp; Company's fertilizer, 
+500 lbs. per acre 290 
+
+¦wift &amp; Company's fertilizer, 
+500 lbs. per acre 840 
+
+5. Phosphate, potash and nitrate, 
+
+820 lbs. per acre 856 18.19 
+
+6. Unfertilized 880 11.86 
+7. Potash and nitrate, 820 lbs. 
+
+834 11.62 
+
+per acre 
+8. Nitrate of soda, 160 lbs. per 
+
+acre 818 10.64 
+
+9. Nitrate of soda, 830 lbs. per 
+
+acre 346 ! 12.00 
+
+10. Phosphate and nitrate, 320 lbs. 
+
+per acre 846 ! 11.80 
+
+11. Unfertilized 894 10.45 
+
+18. Potassium sulphate, 160 lbs. 
+
+per it ere 877 HJI 
+
+18. Potassium sulphate, 320 lbs. 
+
+per acre 888 10 08 
+
+14. Phosphate and potash. 320 lbs. 
+
+per acre 896 11.16 
+
+15. Acid phosphate, 160 lbs. per 
+
+acre . 426 10.81 
+
+16. Acid phosphate, 320 lbs. per 
+
+acre 478 10.30 
+
+17. Unfertilized 472 10 42 
+
+The much greater average weight of the beets on the last 
+two plats, 16 and 17, may be accounted for by the shelter derived 
+from a strip of sorghum along the south side of the plats. 
+The yield per acre was not heavier because on each of these 
+plats parts of two rows were missed by the planter. 
+
+Ei examination of the above table, while showing small 
+itions such as might be expected on equal-sized plats in 
+field, shows, upon the whole, a slight increase upon the 
+lized plats. The results, however, do not point to any 
+trial advantage in the use of fertilizers upon this land. 
+
+Leaving out of consideration Plats 1, 2, 3, 4, 16, and 17, and 
+calculating the average results for the fertilized and unfertilized 
+plats, we get the following : </seg>
+
+            <seg id="p012">
+12 
+
+
+Table III. — Averages of fertilized and unfertilized plats. 
+
+wJuntfUt Yleld S"*" Parity 
+In tons peroent percent 
+
+Fertilized plats 865 11.4 12.7 8"i.8 
+
+Unfertili/ed plats '.'.""I"'...'.. 387 ll!l 12^6 81^8 
+
+To show the effect of each class of fertilizer used, by calcu- 
+
+lating the average results from all plats where the fertilizer 
+
+was used ana tabulating the figures obtained we get the 
+
+following 
+
+Table IV. — Effect of each class of fertilizers. 
+
+wJiVhfZt Yleld 8n «» r Pnrit » 
+T2£\? : E'«!!r i^i?. -y-2 
+
+Fertilizers 
+
+j£££ in tons peroent peroent 
+
+Plats having potash 870 11.6 12.7 81.4 
+
+Plats having nitrate 840 11.7 18.0 81.8 
+
+Plats having phosphate 880 11.7 12.7 11.1 
+Plats not fertilized 8*7 11.1 12.6 81.8 
+
+3*7 11.1 12.6 81.8 
+
+By referring to Bulletin 60 and the Fourteenth Annual Re- 
+
+port of this Station it will be seen that similar fertilizer exper- 
+
+iments conducted in 1898 and 1899 showed a slight increase in 
+
+yield of beets from the use of fertilizers but no difference in 
+
+the sugar content and purity of the juice. 
+
+METHODS OF CULTIVATION 
+
+The object of this experiment was to determine the effects 
+
+of various systems of cultivation upon the yield and sugar con- 
+
+tent. The different systems tested are shown in the diagram 
+
+of the experimental field. 
+
+All the plats were treated in the ordinary way [up to the 
+
+time of the second cultivation. The hand-noeing, given after 
+
+the third cultivation, was the same for all plats and was simply 
+
+
+sufficient to cleaT the ground of weeds. "All plats were horse- 
+
+cultivated five times."~ ~ 
+
+The ''ordinary" cultivation was that practiced on other por- 
+
+tions of the farm, consisting'in^a' gradual deepening of the 
+
+cultivated area with each successive cultivation until at the </seg>
+
+
+            <seg id="p013">
+13 
+
+end of tbe season a depth of about four to five inches is 
+reached. On the first plat a depth of about six inches was 
+reached. On the second plat cultivation was begun at a depth 
+of five inches and gradually made shallower as the season advanced, 
+but this was found difficult owing to the looseness of 
+the ground. The fourth plat was cultivated five inches deep 
+throughout the season. The last plat was cultivated two to 
+three inches deep throughout, but it was found that the mulch 
+produced was not sufficient to protect the soil beneath during 
+the drought and as a consequence it became rather more compact 
+and dry than the other plats. 
+
+Kmparison between shallow and deep cultivation was atd 
+upon a large field but the extremely dry weather made 
+issible to satisfactorily carry out the experiment. 
+
+K Fable V., below, the sugar content and purity of the juice 
+jent the averages of five tests made at intervals of one 
+beginning August 26. 
+
+Table V. — Results of cultivation atperiments. 
+
+Yield Sagar Purity 
+per acre in juice of juice 
+tons percent percent 
+
+Method or cultivation 
+
+Although there does not seem to be any satisfactory explanation 
+why the results on the first plat should be so low, a 
+study of the above table seems to indicate that moderately 
+deep cultivation should be practiced. It must always be remembered 
+that very deep cultivation will, late in the season, 
+interfere considerably with the fine lateral roots of the beets, 
+but in this climate of hot, dry summers with high winds the soil 
+mulch in order to be effective must be three or four inches 
+
+Pi conjunction/with the cultivation experiments, soil moisture 
+rminations were made upon the deep and shallow cultid 
+plats to see the effect of the depth of cultivation 'upon 
+moisture content of the soil. As has already been ex- 
+
+' 
+
+! 
+
+Shallow to deep 
+Deep to shallow 
+Ordinary 
+Deep throughout (5 inches) 
+Shallow throughout rii inches) 
+
+12.09 
+12.74 
+1800 
+18.02 
+12.51 
+
+12.4 
+13.0 
+14.8 
+134 
+14.0 </seg>
+
+            <seg id="p014">
+14 
+
+
+plained the deep cultivation was five inches, while the shallow 
+cultivation was two to three inches deep throughout the 
+
+Table VI. — Showing percentage moisture content of deep and 
+shallow cultivated plats. 
+
+was found at a 
+
+Average.. 11.90 9.52 10.46 12 68 9.59 10. T2 depth ot 7.» feet 
+f under these plats 
+
+It will be seen from the above table that the shallow cultivated 
+plat at first contained more moisture in the surface foot, 
+which was probably due to the smaller proportion of loose, dry 
+soil upon the surface, but later in the season the moisture in 
+this plat decreased more rapidly than in the case of the deep 
+cultivated plat, which seems to indicate that the deeper mulch 
+was more effective in checking evaporation and consequently 
+that cultivation in this country in order to be as effective as 
+possible in conserving soil moisture should be fairly deep. 
+
+DISTANCE OF PLANTING 
+
+Pi one plat in this experiment an attempt was made to get 
+lany rows per acre as possible without increasing the difty 
+of horse cultivation. The rows were placed 15 inches 
+apart with every fourth space 18 inches. The idea was to use 
+a one-horse, four-row cultivator and let the horse walk in the 
+18-inch space. The plants were thinned to eight inches apart 
+in all the rows. In order to increase the ease of cultivation 
+without reducing the number of plants per acre, a second plat, 
+21 inches between the rows and six to seven inches beeen 
+the plants in the rows, was planted. These two plats 
+were compared with one having 18 inches between rows and 
+8 inches between plants in the rows. This plat was that des- 
+
+¦ 6-INCH CULTIVATION 2i-INCH CULTIVATION 
+or i j i i 
+
+8AM PLING '"I* 1*-M S&lt;-» 1-M •*-»• »«-•&gt; 
+Inches lncne* Inches inches Inches Inches 
+
+l»at« or 
+SAMPLING 11* 
+Inebes 
+
+12-M 24-«S 1-12 
+Inchef Inches inches 
+
+12-24 
+Inches 
+
+24*, REMARKS 
+Inches 
+
+incoes 
+uly20.. 13.29 
+nly 29. ... 12.72 
+Lugust 6.. 10.86 ! 
+Lugast 18. 10.75 
+
+incnep incnes incaes 
+16.72 
+11.67 11.21 18.14 
+8.63 9.94 11.40 
+8.86 10.28 10.27 
+
+incnes 
+11.88 
+9.19 
+8.20 
+
+incnes 
+The ground on 
+the shallow cultl - 
+Vo aj »»ted plat was 
+**?* found to be much 
+1U.UO firmer than on 
+10 00 the deep cultivat- 
+ed plat. 
+
+Standing water </seg>
+
+            <seg id="p015">
+Experiments in the Culture of the Sugar Beet in Ntbraika. 
+
+15 
+
+ignated "ordinary" in the cultivation experiment. All plats 
+were cultivated alike. 
+
+The results as recorded in tne table below are in every respect 
+in favor of the 18-inch rows. In the case of [the 15-inch 
+rows more or less difficulty was experienced in the'cultivation. 
+Owing to the difficulty of securing an even stand "of plants 
+in the row it does not seem to be advisable to plant so far apart 
+as 21 inches. Experience upon the large fields on the farm 
+shows that with a little care at the beginning a horse or mule 
+will soon learn to walk in a comparatively narrow space. 
+
+TABLE VII. — Results of distance of planting experiments. 
+
+Yield Sugar Purity 
+per acre In juice of juice 
+
+Distance of plantinc 
+
+ton* 1 per cent per cent 
+
+Rows 18 inches apart 18.00 14.8 »4.5 
+
+Rows 15 inches apart with 4th row 18 inches.. 11. UN 14.0 84.1 
+
+Rows 21 inches apart I 10.70 12.5 HJ 
+
+TIME OF PLANTING 
+
+This experiment was rather unsatisfactory owing to^the fact 
+that it was found impracticable to plant early upon the ground 
+chosen for the experiment, and the last planting was a com 
+plete failure because of adverse weather conditions at the 
+time the plants came up. 
+
+The first plat was planted on May 11, a second on May 
+and'a third on June 13. The interval between the second and 
+third plantings was longer than that between the first and 
+second, on account of wet weather. A heavy rain, followed by 
+a scorching sun just as the plants were coming up, almost totally 
+destroyed the stand. 
+
+As the season advanced there seemed to be an increasing 
+difference in the growth of the two plats planted May^ll and 
+May 22, and about the end of July there appeared to^be'almost 
+a month difference between the two. The following table 
+shows the results: </seg>
+
+            <seg id="p016">
+16 
+
+Experiment* in the Culture of the Sugar Beet in Nebratka. 
+
+Table VIII. — Besults of time of planting experiments. 
+
+Yield Sugar Purtty 
+per acre in juice »l Juice 
+
+Date or planting 
+
+tons per cent per cent 
+
+May 11 18.60 14.8 84 5 
+May 22 9.06 10.6 77.8 
+June 18 Failure 
+
+Failure 
+
+Although this experiment shows such a decided difference in 
+favor of the earlier planting, the results are not borne out by 
+the results obtained upon the farm as a whole. A 38-acre field 
+planted about June 15 gave a yield of 13.5 tons per acre with 
+an average sugar content of about 15 per cent. On another 
+large field about half of which was planted about May 5 and 
+the rest about three weeks later, the later planting besides giving 
+a slightly heavier yield gave about 1 per cent more sugar 
+than did the earlier planted portion. But these results may 
+possibly be accounted for by the peculiarity of the season. The 
+late planted beets did not receive the same check by the extreme 
+drought which suddenly set in. The early planted beets 
+had, during the rather wet weather which preceded, developed 
+an unusually large proportion of leaves, which, when the 
+drought came, the roots were unable to support, while the later 
+planted beets seemed to somewhat adapt themselves to the 
+
+On the whole, however, the season's experience indicates 
+that, while good results may be obtained from late planting 
+under favorable conditions, the chances of success are in favor 
+of early planting. The difficulty of securing^. a good stand^of 
+sugar beets increases very materially as the'season advances 
+past the third week in May. A small field planted on AprilJJIS 
+gave a yield of 17 tons per acre,*and two large fields planted 
+about April 25 gave yields of 14.7 and'l 4.1 T.tons'per^acre"'respectively, 
+but in all these instances the sugar content was low, 
+•which may be accounted for by the presence of some "leaf 
+spot" and by a greater "second growth" during the rainy 
+weather of September. 
+</seg>
+
+            <seg id="p017">
+17 
+
+EFFECTS OF LATE CULTIVATION ON SUGAR BEETS 
+
+In general field practice, sugar beets are "laid by" when the 
+leaves are large enough to cover the space between the rows, 
+further cultivation being thereby made difficult. On several 
+fields cultivation was attempted after this stage had been 
+reached, as the ground had become compacted by heavy rains 
+early in July. The passage of the horse and cultivator broke 
+and tore off many leaves and more or less bruised the crowns 
+of the beets, so that it was considered advisable to determine 
+the effect upon the sugar content later in the season. Several 
+pieces of rows that had been badly bruised were marked, as 
+well as pieces of adjoining rows that were left untouched. During 
+the end of September and beginning of October several 
+samples from each were taken to the laboratory and tested, 
+with the. following results: 
+
+Table IX. — Showing effect of bruising upon sugar beets. 
+
+Bruised 
+
+Umsuissu 
+
+ATermge At. wt. - . piirit. Average At. wt. *„.. PnritT 
+wt. with without £",«" E^iL *t. with without ,„£** F.^iL 
+crowns crowns l^"™, £r^.?t crowns crowns i! _*£!?. £f- Ju i~, 
+grmms grams P« &lt;*nt ¦ per eent percent per.tnl 
+
+It will be observed that while the sugar content and purity 
+of the bruised beets were somewhat lower the loss is more than 
+made up by the gain in the average weight of the beets. 
+While the test was too limited to be considered conclusive it 
+indicates that rather late cultivation may be found beneficial 
+where the ground has become unduly compacted. The harm 
+done by leaf pruning may be more than counterbalanced by the 
+more vigorous growth of the beets, especially when very dry 
+weather follows. If the cultivating be done during the middle 
+of the day when the leaves are more "or less wilted, few will be 
+broken off. 
+
+¦order to determine more fully to what extent the late cultin 
+of sugar beets may be beneficial, soil moisture determi- 
+
+Test No. 1 
+
+576 
+468 
+¦m 
+
+387 
+W 
+302 
+
+12.9 
+12.8 
+12.8 
+
+80.6 
+79.2 
+80 8 
+
+•Vi7 
+426 
+356 
+
+H.H7 
+HI 
+
+180 
+12 5 
+18. » 
+
+51 
+
+I !" 
+
+! 
+
+— 
+
+478 i 
+
+:«7 
+
+12.8 
+
+800 
+
+449 
+
+440 
+
+:«ii 
+
+m 
+
+18.1 
+
+181 
+
+». 
+</seg>
+            <seg id="p018">
+Experiment* in the Culture of the Sugar Beet in Nebraika. 
+
+18 
+
+Rns were made on August 15 upon adjoining portions of a 
+1 field half of which was laid by about the 1st of July and 
+emainder cultivated about the 10th and again about the 
+of July. The soil was a medium loam and, at the time of 
+sampling, the former portion was quite hard upon the surface 
+as a result of the heavy rain of July 4, while the latter portion 
+was found to be quite loose and the soil moist to within two or 
+three inches of the surface, representing an almost ideal condition. 
+Carefully made duplicate determinations showed 17.3 
+and 14.4 per cent of moisture in the first and second foot respectively 
+of the late cultivated portion of the field, while that 
+laid by about July 1 contained only 9.4 and 8.5 per cent in 
+the first two feet. Similarly marked differences were found in 
+more extensive examinations of cornfields similarly treated. 
+
+EFFECT OF WEEDY VS. CLEAN GROUND UPON SUGAR CONTENT 
+
+On the assumption that the growth of weeds in sugar beet 
+fields, aside from lessening the yields, may have a deleterious 
+effect upon the sugar content of the beets, it \ras determined to 
+make some tests with a view to ascertaining the extent of the 
+injury. 
+
+Adjoining portions in two different fields were selected for 
+the experiment. In each field a plat was allowed to run to 
+weeds about the end of July and the beets from these were 
+compared with samples taken from the adjoining clean ground, 
+with the results recorded in the table below. The tests were 
+made during the first and second weeks of October and the 
+figures in the table represent the averages of the samples from 
+both fields. The samples consisted of five average sized beets 
+
+Owing to the fact that both plats received the same treatment 
+and were kept equally clean until late in the cultivation season, 
+it may be assumed that the difference in the results obtained 
+was not so marked as might otherwise have been the case. 
+Nevertheless, the test plainly indicates that where weeds are 
+allowed to'flourish they may very materially reduce the value 
+of the beets produced. </seg>
+
+            <seg id="p019">
+Experiments in the Culture of the Sugar Beet in Nebratka. 
+
+19 
+
+Table X. — Effect of xoeeds upon sugar content. 
+
+Weedy plats Clean plats 
+
+Sugar Purity Sugar Puritv 
+In juice of juice in juice of jumper 
+cent percent percent percent 
+
+EFFECTS OF WET WEATHER AND "SECOND GROWTH" UPON 
+
+* SUGAR BEETS 
+
+That the sugar content and purity of the juice of sugar beets 
+are more or less reduced in cases where wet weather sets in at 
+the time when the beets should be ripening is a fact that has 
+long been recognized, and the common belief seems to be that 
+this reduction takes place very rapidly. 
+
+In order to determine to what extent this is true, an extended 
+comparison was made, as the weather conditions from the first 
+week in September to the middle of October were particularly 
+favorable for such an investigation. Owing to the dry weather 
+preceding this period, the beets ripened very early and the 
+sugar content and purity were unusually high. Soon after 
+the first rain the beets freshened up and began a vigorous 
+growth which continued up to the time of harvesting, so that 
+their foliage then was more luxuriant than at any period in 
+their growth. 
+
+In the table below, the figures represent the averages of 250 
+beets in each test. 
+
+Test No. 1 
+Test No. 2 
+Tnt Mo. 4! '.'.'.'.'.'.'.. '.'.'.'.'.'.'.'.'. '.".'.'.'.'.'. 
+
+13.0 
+12.0 
+9-8 
+9.3 
+
+77.9 
+74.8 
+71.9 
+
+18 2 
+II :» 
+110 
+10 7 
+
+I 
+
+11.0 
+
+77.1 
+
+11 9 
+
+i i-ragf 
+
+7H5 </seg>
+
+            <seg id="p020">
+20 
+
+Experiments in the Culture of the Sugar Beet in Nebraska. 
+
+Table XL— Aovfaf the fjfect of xoet weather upon sur/tn 
+
+purity. 
+
+in gn!mi P« «"' «"" &lt;*" 
+
+Average of 50 samples tested Sept. 4 and 5 j 294 II 8 
+Average of 50 samples tested Sept. 11 and 1-2.. 812 14.1 
+
+Average of 50 samples tested Sept. 18 and 19.. 384 13 S xh s 
+
+Av- rage of 50 samples tested Sept. M and M.. 18.5 
+
+Average of 50 samples tested Oct. 2 and 3 380 12.7 81.7 
+
+It will be observed that the drop in the percentage of sugar 
+was quite rapid during the first week, but a study of all the 
+figures will show that the drop was more apparent than real 
+and can be fully accounted for by the increase in the weight of 
+the beets, which was probably wholly due to the water taken 
+up. The fact that the purity of^the juice fell so little bears 
+out this view. Now allowing, for the purpose of a fuller comgarison, 
+25,000 beets per acre and'calculating the yield of sugar 
+from the data at hand, we have in the first instance a total of 
+2412 pounds of sugar per acre with a purity of 84.8 per cent. 
+In the second instance the result would be 2428 pounds of sugar 
+having a purity of 84.1 per cent. In the latter instance, a month 
+after'the fresh growth and the drop in sugar began, the result 
+would be 2515 pounds of sugar per acre having a purity of 81.7 
+per cent. These figures indicate that while the drop in the 
+percentage of sugar is very considerable the damage is not so 
+great as is generally supposed and the ultimate results go to 
+show that it is the manufacturer and not the farmer who is the 
+
+It was observed during the experiment that the increase in 
+the weight of the beets was due to a natural, healthy arrowth 
+and buds did not appear on the crowns of the beets until near 
+the end of the period. Had the beets been quite mature when 
+tht&gt; wet weather began, the fresh growth would probably have 
+appeared in the form of buds and there would have been little 
+or no increase in the weight of the beets to compensate for the 
+loss of sugar. It is well known that buds grow at the expense 
+of the sugar in the beet and where such are observed harvesting 
+should not be delayed. Even if the weather should turn </seg>
+
+            <seg id="p021">
+Experintnt* in the Culture of the Sugar Beet in Nebraska. 
+
+21 
+
+dry a rise in sugar content can hardly be looked for. The buds 
+once started will keep on growing. 
+
+DISEASES OP SUGAR BEETS 
+
+kA few experiments were made in the treatment of "leaf spot" 
+ercon/Him Mtota) and a form of root rot, which appeared to 
+a species of Rhizoctonia. 
+
+The root rot made its first appearance about the 15th of June 
+and affected patches in several fields. The disease was recognized 
+as the Rhizoctonia described by Dr. Duggar in Bulletin 
+163 of the Cornell University Agricultural Experiment Station. 
+About a week later it was found to be spreading quite rapidly 
+upon a corner of a large field that had been laid by. Knowing 
+that Rhizoctonia had been found to grow particularly well in 
+acid media, an examination of the soil was made and it was 
+found by the litmus test to give a decidedly acid reaction. It 
+was, therefore, determined to try the effect upon the disease of 
+a liberal application of fresh, powdered lime on and around the 
+affected portions of the field. All diseased matter was carefully 
+collected and carried from the field. The lime was then 
+liberally scattered on the remaining plants and around the affected 
+areas. Later examinations showed that the liming was 
+quite effective in stopping the spread of the disease, in some 
+cases even curing slightly infected plants, while on other untreated 
+portions of the field the disease continued to spread for 
+some time. A later experiment showed that the liming had no 
+apparent effect where the diseased matter was not first removed. 
+The lime, although quite fresh, seemed to have no injurious 
+effect upon the green foliage, which was in many instances completely 
+covered. 
+
+While not considered conclusive, the results were very satisfactory 
+and indicate that removing the diseased portions of 
+plants and liberally applying fresh, powdered lime may do much 
+to check the spread of this particular fungus. ' In cases of 
+underground rot the application of lime upon the surface 
+seemed to have no effect. 
+
+Ba popular article on beet diseases in The Beet Sugar Gazette, Vol. 3, 
+September, 1901. where Mr. Geo. G. Hedgcnck, of the U. B. Department 
+icultare, refers to this experiment and suggests the treatment her* </seg>
+
+            <seg id="p022">
+22 
+
+
+To determine the effect of liming the soil upon the root-rot 
+fungus (P/iyl/osticta), ten acres of a field that had borne sugar 
+beets the previous year, and where they had rotted considerably, 
+were given a dressing of fifteen to twenty tons per acre 
+of the refuse lime from the factory together with some cinders. 
+The lime and cinders were plowed under and the beets planted 
+on May 14. Not a trace of rot was found upon the beets when 
+harvested. While the result of a single experiment of this kind 
+does not furnish sufficient evidence upon which to base a conclusion, 
+it indicates that heavy applications of lime may produce 
+conditions unfavorable to the development of certain 
+
+R "leaf spot" disease did not develop to any serious ex\o 
+that there was not a good opportunity to test the effecss 
+of methods of treatment. 
+
+Bly in the season more or less trouble from both insects 
+af spot was anticipated, and a spraying machine was seby 
+means of which it would be possible to spray thirty 
+ty acres of sugar beets in a day. 
+
+This machine consisted of a one-horse cart upon which was 
+set a hundred-gallon tank fitted with a double-acting pump 
+which was geared to the wheels of the cart. The piping was 
+specially designed for the purpose in view and consisted of a 
+main cross-pipe covering eight rows and having a short branch 
+pipe with a fine nozzle at the end for each row. The piping 
+was so arranged that it could be tilted up or down to suit the 
+height of the beets and to avoid trouble from the blowing of 
+the spray by the wind. The working of the machine was in 
+every respect satisfactory. No difficulty was experienced in 
+evenly covering the leaves with the solution without its forming 
+into drops and running off the smooth surface of the leaf, 
+which is so often a source of trouble in properly spraying 
+sugar beets. 
+
+On July 27 slight traces of "leaf spot" were noticed upon 
+several of the beet fields and a strip upon one of these was 
+sprayed with Bordeaux mixture. The following day a light 
+rain washed off some of the poison and the treatment was repeated 
+on August 1 and again on the 10th. Later, portions of 
+other fields were treated twice. On September 27 a careful ex- </seg>
+
+            <seg id="p023">
+Experiments in the Culture of the Sugar Beet in Nebraska 
+
+23 
+
+amination for the effects of the spraying was made. On the 
+fields where portions had been twice sprayed with the Bordeaux 
+mixture there was no apparent difference between the sprayed 
+and the unsprayed portions. All were affected more or leas 
+with the disease. But where the beets had been sprayed three 
+times there was quite a noticeable difference, the foliage of the 
+sprayed beets having a fresher green color and less ' 'leaf 
+spot." The indications seem to be that if the Bordeaux mixture 
+be applied as soon as the first traces of "leaf spot" appear 
+and the applications repeated at intervals, the disease may be 
+considerably checked, but where it has once secured a good 
+foothold there seems to be little use in applying this fungicide. 
+
+8:h Paris green and lead arsenate were successfully used as 
+;icides for the striped blister beetle and grasshoppers, in 
+nction with the Bordeaux mixture. These insects both 
+id to be easily driven off the field but the grasshoppers 
+led after the poison had somewhat dissipated. 
+
+A very significant observation in connection with the prevalence 
+of "leaf spot" was that in every case the disease made 
+the greatest progress upon the earliest planted fields. In no 
+case did leaf spot appear upon beets planted after the 1st of 
+June. A partial explanation of this phenomenon may be found 
+in the fact that the earlier planted fields all received a more 
+severe check when the drought set in than did those of later 
+planting. In the case of the late plantings, although the growth 
+was slowjit^was steady all through the dry period. But very 
+much thejsams observation seams to have been made in'JprevT 
+ous years and it may be that where "leaf spot" is troublesome 
+rather late planting would be advisable. In all cases there 
+was more "leaf spot" upon the beets on the lighter soils] than 
+upon those on the heavier, but this again may have been due to 
+the^faot that all of the lighter soils were earlier planted. * 
+
+In continuation "of jthe observations ba»un in 1899, and 
+recorded in the Fourteenth Annual Report of this Station, the 
+following jtable is designed to show thejcondition under which 
+the beets ware grown where "leaf spot" appeared. It may be 
+that the appearance of the) disease is ' connected with more or 
+less'ja voidable '^conditions and these "observations if carried 
+through a nutnbar of years may point tham out. 
+
+« Njbr.no 3tv/ioa Bille:ia 6), Fjarte)V,h Ainuil R)p&gt;-U </seg>
+
+            <seg id="p024">
+24 Experiment* in the Culture of the Sugar Beet in Nebra$ka. 
+
+¦ !? ; i i j 1 t .3 2 § 
+I |5 I I a I I I * 3 1 
+J * I » t n I i • « • j 
+£ 5- * ** If 5 ¦ * I ] 
+ilia W, = " 
+p|** tee !£•-••¦ 
+fe M : a 
+i ¦. " * 
+1 1 Ik I * I I =* - I 
+|l~~* i «-, » ! i 
+I i rs&gt; 1 S * » I r . . 5 
+I « ? |s S 6 * I |. ri B 2 1 
+I t s ?i I • 1 « * 
+1 1 ! II i i i i \ \ 
+
+I 
+
+I 
+
+'. I I I . I I I I I I I I 
+Eii^ilSffi-!'*-: 
+S*.Hi-*5c E Si • g - K 
+ii^uii-iMill 
+1 iiiniiinHHuu 
+
+I </seg>
+
+            <seg id="p025">
+Experiments in the Culture of the Sugar Beet in Xehratka 
+
+25 
+
+SELECTION OF MOTHER BEETS AND SEED PRODUCTION 
+
+tThe production of sugar beet seed is an important branch of 
+e experimental work at Ames, and gratifying progress has 
+en made. 
+
+For the purpose of next year's work some four thousand 
+mother beets were selected and placed in sand silos over winter. 
+The method of selection employed was that known as the 
+"Pellet cold aqueous diffusion process", which is fully described 
+in Bulletin 60 of this Station. It was intended to try the new 
+method worked out by R. S. Hiltner and R. W. Thatcher, and 
+described' in the Fourteenth Annual Report of this Station, 1 
+but as the necessary apparatus wa» not at hand in time it had 
+to be abandoned for this year. 
+
+The mother beets selected were classified according to sugar 
+content into three classes: 14 to 16 per cent, 16 to 18 per cent, 
+and 18 per cent and over, and kept separate in the silos. 
+These beets will be planted next spring. 
+
+In the spring of 1901 about 7,000 mother beets were planted 
+three feet apart each way and cultivated as is usual in the case 
+of corn. The result was about a ton of clean seed of excellent 
+quality. The best of this seed will be planted this year for 
+beets from which commercial seed is to be produced the follow- 
+
+Es believed that by careful selection good seed for factory 
+jses can be produced at home and a large part of the cost 
+iportation done away with. It is hoped, too, that this 
+will be better adapted to home conditions and that more 
+rm results may be secured. 
+
+COST OP PRODUCING SUGAR BEETS 
+
+The cost of producing sugar beets varies with a number of 
+conditions: such as, kind and condition of soil, season, and 
+price of labor. A little reflection will show how these condition* 
+may affect the cost. 
+
+:i i-n .liiiirna) of the American L'!ieiuK:»l &gt;ooieiv, Vol. XXIII. No </seg>
+
+            <seg id="p026">
+26 
+
+
+The following table is taken from the books of the Standard 
+Cattle Company, where a careful account has been kept of every 
+item of expense. 
+
+These figures are necessarily higher than they need be upon 
+the average farm, where only a comparatively few acres are 
+grown and much of the work may be done without the hiring 
+of extra labor. On the Cattle Company's farm every hand's 
+turn must be covered by a cash outlay and at the highest price, 
+while the average farmer with his family can do the work much 
+cheaper and earn a great part or all of the money represented, 
+and correspondingly increase his yearly income. 
+
+The cost of cultivation beyond a certain point will depend 
+largely upon the extent of weed growth, and the cost of harvesting 
+will be considerably affected by the distance the beets 
+have to be hauled. 
+
+SUMMAEY AND CONCLUSIONS 
+
+A test of thirty-seven varieties of sugar beets under similar 
+conditions showed a wide variation in the total amount of sugar 
+produced per acre. 
+
+A comparison of light and heavy soils for sugar beet production 
+showed a considerably higher sugar content in the 
+beets grown upon the heavy soil. 
+
+Slight increases in the yield, sugar content, and purity of 
+beets were produced by the use of commercial fertilizers, but 
+their use does not seem to be profitable upon the land where 
+the tests were conducted. 
+
+Cable XIII.— &lt; 
+
+Cost per acre of producing sugar bt 
+
+ucnii/ sugar 
+
+kaeCt, 1893-1901 
+
+Wto, 1 893- 1901 
+
+Yiak Manuring 
+
+Seed Pre^ration Cu '* l « , ™, al l £ 
+and Siding tlon L V l0 * "» i 
+
+f»rvest Total 
+
+" 
+
+MM 
+1884 $2.20 
+1805 
+IKSKi 2.66 
+1897 8 56 
+1808 3.74 
+1899 .-»-. 
+1900 .77 
+1901 .78 
+
+M.M $7.90 $31.15 141. »0 
+2.00 3.89 ».O7 H 1« 
+111 S.M 15.08 28 74 
+3.33 4.08 14.09 24.17 
+I.M 4.18 1H.32 29 88 
+3.83 2.36 i 15.'iV 3A.0S 
+1.78 7 14 n.W 32 12 
+2.46 4.65 12.3m W.M 
+2.68 4.37 18.44 M.I7 
+
+$12.75 $54.06 
+8.13 
+18.19 86-08 
+1302 
+S .94 
+11.80 87.88 
+16.99 m.\\ 
+15.47 
+12.95 89.22 
+
+. I 
+i 
+
+.Terage •1.66 
+
+$280 14.90 118.80 •38.W 
+
+$12.58 $40.74 
+
+I I 
+
+! I </seg>
+
+            <seg id="p027">
+Experiment! in the Culture of the Sugar Beet in Nebraska 
+
+n 
+
+A comparison of the different classes of commercial fertilizers 
+was slightly in favor of the phosphate . 
+
+A comparison of different methods of cultivation was in 
+every respect in favor of three to four inch cultivation, which 
+seems to be necessary in this region to produce an effective 
+mulch. 
+
+The most satisfactory distance of planting was found to be 
+eighteen inches between rows and eight inches between plants 
+in the rows. 
+
+Late cultivation of sugar beets, after the leaves are full 
+grown, may, by tearing off leaves, reduce the sugar content, 
+but the extra growth induced this year more than counterbalanced 
+the loss in sugar. 
+
+The presence of weeds in sugar beet fields may very materially 
+affect the sugar content of the beets. 
+
+Fresh growth induced by wet weather in autumn when the 
+beets should be ripening may rapidly reduce the percentage 
+sugar content of the beets, but unless the fresh growth is 
+accompanied by buds upon the crown there seems to be no 
+real loss of sugar — the beets increase in size and weight while 
+the sugar remains at a standstill. 
+
+Surface applications of lime may be effective in checking 
+the Rhizoctonia rot of sugar beets. 
+
+Repeated spraying with "Bordeaux mixture" may act as a 
+preventive of "leaf spot" but will not cure infected leaves. 
+
+ACKNOWLEDGEMENT 
+
+For the material of this bulletin our thanks are due the 
+Standard Cattle Company, who bore the expense of the work 
+recorded, and to Mr. R. M. Allen, its general manager, whose 
+enthusiastic interest in sugar beet experimentation has done 
+much to advance the beet sugar industry of this country. 
+
+Accepted for publication March 14, 1902. </seg>
+
+         </p>
+		    </body>
+	  </text>
+</TEI.2>

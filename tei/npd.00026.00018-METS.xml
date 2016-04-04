@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 id="npd.00026.00018">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nebraska Public Documents Project</title>
+            <author/>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Center for Digital Research in the
+                            Humanities</publisher>
+            <pubPlace>Lincoln, NE</pubPlace>
+            <idno>00026.00018</idno>
+            <availability>
+               <p> </p>
+            </availability>
+            <date>2007</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>THE UNIVERSITY OF NEBRASKA AGRICULTURAL EXPERIMENT STATION LINCOLN, NEBRASKA, U. S. A.  Testing Seed Corn</title>
+               <date value="1910">1910</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+	        <change>
+	           <date>2007-09-13</date>
+	           <respStmt>
+	              <name>Katherine M. Heupel</name>
+	           </respStmt>
+	           <item>Enrichment</item>
+	        </change> 
+        <change>
+            <date>2006-11-28-05:00</date>
+            <respStmt>
+               <name>OCLC Online Computer Library Center Inc.</name>
+            </respStmt>
+            <item>Initial Creation</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>
+            <seg id="p001">AGRICULTURAL EXPERIMENT STATION LINCOLN, NEBRASKA, U. S. A. Press Bulletin No. 32 [ Distributed March 8, mo\ Jesting Seed Corn By E. G. MONTGOMERY and C. W. PUGSLEY. Testing every ear of seed corn will cost about 5 to 10 cents per acre, and may mean 5 to 10 bushels per acre increased yield. Do it now be - fore the rush of farm work. In many parts of the state not one-half the seed corn will grow. Reports from Farmers' Institutes In various sections indicate that the vitality is very low. Fig. 1. Preliminary Test. t First make a preliminary test of your seed. Select 100 ears at ran- Take three grains from each ear, each grain from a different part, e 300 grains in a germination box (See Fig. 1). Use any shallow box for a germinator. Place sawdust, sand or soil in the bottom. Cover with clean cloth or blotter. Scatter grains, cover with another cloth or blot - ter and put some more sawdust, sand or soil on top. Wet down thoroly and keep in a warm place. Grain should be sprouted In 4 to 6 days. </seg>
+            <seg id="p002">If 95 per cent of the grains germinate in the preliminary test, your corn is safe to plant. If less than 85 per cent germinate, it will pay to make the ear test Fig. 2. The Ear Germination Test (Enough corn is seen on the shelve* to plant 40 acres). tLay out all your seed ears side by side on lloor, shelves or boaM*. should have at least 12 ears for eacb acre. Keep them in such order you can easily locate any ear after test is completed. This is easily &gt; by marking the ears which occupy the first space of each row In the it. It may also be done by numbering each ear to correspond with number of the squares in the tester. Prepare the germination box :. 2) by placing 2 to 3 inches of sawdust, sand or soil in the bottom. jr with white cloth marked in 2-inch squares. </seg>
+            <seg id="p003">time. Place the 6 grains from each ear in the germination box in tbe same order that you have the ears laid out. Remove the kernels with a knife blade, and be careful not to injure the germs. (F\k. 3) Fi^. 4. Ready for the Test. Cover the kernels with a cloth, and over this place some sawdust, ■and or soil. Keep well moistened and in a warm room. In 4 to 6 day? germination should be complete. Discard all the ears that have not «hown a good, strong germination. </seg>
+            <seg id="p004">Fig. 6. An Ear Germination Test After 3 Days. Figure 6 shows the test after it has been in the germinator for 3 days. It should be left longer to get the best results. Six grains from each ear were taken. Some of the ears were absolutely dead. In others the sprouts were weak, while with some the sprouts were vigorous. If one ear in every forty fails to grow, you will lose one acre out of every 40 acre field. It is a very simple matter to make the test at home. No material need be purchased, as every farmer possesses rough lumber of which the boxes can be made, and cloth that can be used for the cover. The only thing that is necessary is to keep an accurate record of the ears and to keep the germinator moist and in a warm place. There are a number of patent germinators now on the market. In Vy instances these can be purchased at a reasonable price, and some find it more convenient to buy one ready for use. </seg>
+         </p>
+      </body>
+   </text>
+</TEI.2>
