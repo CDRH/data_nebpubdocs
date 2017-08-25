@@ -1,0 +1,5 @@
+default:
+  shortname: nebpubdocs
+  solr_core: nebpubdocs
+  tei_solr_xsl: collections/nebpubdocs/scripts/solr_transform_tei.xsl
+
