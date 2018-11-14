@@ -1,5 +1,5 @@
 default:
-  es_type: nebpubdocs
+  collection: nebpubdocs
   solr_core: nebpubdocs
-  tei_solr_xsl: collections/nebpubdocs/scripts/solr_transform_tei.xsl
+  tei_solr_xsl: scripts/solr_transform_tei.xsl
 
